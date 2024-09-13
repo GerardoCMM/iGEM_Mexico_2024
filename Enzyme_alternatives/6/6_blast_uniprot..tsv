@@ -1,0 +1,251 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	SP	A0A6B9HER0	Piperic acid--CoA ligase OS=Piper nigrum OX=13216 PE=1 SV=1	Piper nigrum	548	2120	75.6	85.9	0.0
+2	TR	A0A1U8AJ01	4-coumarate--CoA ligase-like 7 OS=Nelumbo nucifera OX=4432 GN=LOC104604518 PE=4 SV=1	Nelumbo nucifera	543	1955	68.4	82.7	0.0
+3	TR	A0A834Z3D9	4-coumarate--CoA ligase OS=Tetracentron sinense OX=13715 GN=HHK36_018170 PE=4 SV=1	Tetracentron sinense	542	1933	66.7	82.6	0.0
+4	TR	A0A200R5N5	AMP-dependent synthetase/ligase OS=Macleaya cordata OX=56857 GN=BVC80_1835g411 PE=4 SV=1	Macleaya cordata	540	1916	67.8	82.4	0.0
+5	TR	A0A3S3N254	4-coumarate--CoA ligase-like protein 7 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_00795300 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	536	1909	67.1	82.8	0.0
+6	TR	A0A7J6XCF2	4-coumarate-CoA ligase OS=Thalictrum thalictroides OX=46969 GN=FRX31_004341 PE=4 SV=1	Thalictrum thalictroides	542	1890	66.0	81.7	0.0
+7	TR	A0A200Q9A1	AMP-dependent synthetase/ligase OS=Macleaya cordata OX=56857 GN=BVC80_1731g33 PE=4 SV=1	Macleaya cordata	542	1884	65.8	81.2	0.0
+8	TR	A0A7J7GEC3	4-coumarate--CoA ligase OS=Camellia sinensis OX=4442 GN=HYC85_025192 PE=4 SV=1	Camellia sinensis	544	1872	64.8	82.0	0.0
+9	TR	A0A5J5BLW8	Uncharacterized protein OS=Nyssa sinensis OX=561372 GN=F0562_022137 PE=4 SV=1	Nyssa sinensis	543	1871	66.1	81.2	0.0
+10	TR	A0A8K0MR64	4-coumarate--CoA ligase OS=Rhamnella rubrinervis OX=2594499 GN=FNV43_RR05376 PE=4 SV=1	Rhamnella rubrinervis	542	1868	64.7	81.4	0.0
+11	TR	A0A4S4EL87	Uncharacterized protein OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_008408 PE=4 SV=1	Camellia sinensis var. sinensis	659	1868	64.7	82.0	0.0
+12	TR	A0A7J7LCD3	4-coumarate--CoA ligase OS=Kingdonia uniflora OX=39325 GN=GIB67_000270 PE=4 SV=1	Kingdonia uniflora	544	1864	65.0	80.5	0.0
+13	TR	A0A2G5D214	4-coumarate--CoA ligase OS=Aquilegia coerulea OX=218851 GN=AQUCO_03000071v1 PE=4 SV=1	Aquilegia coerulea	543	1862	65.5	80.8	0.0
+14	TR	F6GW98	4-coumarate--CoA ligase-like 7 OS=Vitis vinifera OX=29760 GN=VIT_06s0061g00450 PE=4 SV=1	Vitis vinifera	544	1860	64.7	81.1	0.0
+15	TR	B9SCH9	AMP dependent CoA ligase, putative OS=Ricinus communis OX=3988 GN=RCOM_0473330 PE=4 SV=1	Ricinus communis	542	1859	64.5	81.2	0.0
+16	TR	A0A6P3ZLT8	4-coumarate--CoA ligase-like 7 isoform X1 OS=Ziziphus jujuba OX=326968 GN=LOC107411478 PE=4 SV=1	Ziziphus jujuba	542	1859	64.9	80.8	0.0
+17	TR	A0A8T1NIX1	4-coumarate--CoA ligase OS=Carya illinoinensis OX=32201 GN=CIPAW_13G119400 PE=4 SV=1	Carya illinoinensis	544	1859	65.0	80.9	0.0
+18	TR	A0A2P5FTQ5	4-coumarate-CoA ligase OS=Trema orientale OX=63057 GN=TorOPCL3 PE=4 SV=1	Trema orientale	544	1847	65.0	80.5	0.0
+19	TR	A0A6P3ZAB3	4-coumarate--CoA ligase-like 7 isoform X3 OS=Ziziphus jujuba OX=326968 GN=LOC107411478 PE=4 SV=1	Ziziphus jujuba	543	1845	64.6	80.7	0.0
+20	TR	A0A2I4HRL8	4-coumarate--CoA ligase-like 7 OS=Juglans regia OX=51240 GN=LOC109020728 PE=4 SV=1	Juglans regia	544	1842	64.3	80.7	0.0
+21	TR	A0A5J5BLY3	Uncharacterized protein OS=Nyssa sinensis OX=561372 GN=F0562_022135 PE=4 SV=1	Nyssa sinensis	543	1838	64.6	80.3	0.0
+22	TR	A0A2C9W0W5	4-coumarate--CoA ligase OS=Manihot esculenta OX=3983 GN=MANES_04G015100 PE=4 SV=1	Manihot esculenta	542	1836	64.9	80.4	0.0
+23	TR	A0A067L6D3	Uncharacterized protein OS=Jatropha curcas OX=180498 GN=JCGZ_05454 PE=4 SV=1	Jatropha curcas	542	1836	63.8	80.6	0.0
+24	TR	A0A7J0GPT5	AMP-dependent synthetase and ligase family protein OS=Actinidia rufa OX=165716 GN=Acr_23g0012120 PE=4 SV=1	Actinidia rufa	544	1831	63.8	80.1	0.0
+25	TR	A0A2R6PQ80	4-coumarate--CoA ligase-like OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc25973 PE=4 SV=1	Actinidia chinensis var. chinensis	544	1830	63.8	79.8	0.0
+26	TR	A0A6P5XQ41	4-coumarate--CoA ligase-like 7 OS=Durio zibethinus OX=66656 GN=LOC111285230 PE=4 SV=1	Durio zibethinus	545	1829	63.3	79.3	0.0
+27	TR	A0A2I0K7V3	4-coumarate--CoA ligase-like 7 OS=Punica granatum OX=22663 GN=LOC116200840 PE=4 SV=1	Punica granatum	542	1829	63.8	79.3	0.0
+28	TR	A0A6I9R2R6	4-coumarate--CoA ligase OS=Elaeis guineensis var. tenera OX=51953 GN=LOC105042958 PE=4 SV=1	Elaeis guineensis var. tenera	544	1823	65.4	80.4	0.0
+29	TR	A0A2P5CZL5	4-coumarate-CoA ligase OS=Parasponia andersonii OX=3476 GN=PanOPCL3 PE=4 SV=1	Parasponia andersonii	544	1821	64.3	80.0	0.0
+30	TR	A0A2K1X6J3	Uncharacterized protein OS=Populus trichocarpa OX=3694 GN=POPTR_017G112800 PE=4 SV=1	Populus trichocarpa	543	1818	64.2	79.9	0.0
+31	TR	A0A2P6QGZ5	Putative AMP-dependent synthetase/ligase, AMP-binding enzyme domain-containing protein OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr5g0057631 PE=4 SV=1	Rosa chinensis	543	1817	64.4	79.9	0.0
+32	TR	A0A6I9TYZ0	LOW QUALITY PROTEIN: 4-coumarate--CoA ligase-like 7 OS=Sesamum indicum OX=4182 GN=LOC105170261 PE=4 SV=1	Sesamum indicum	549	1814	62.9	80.8	0.0
+33	TR	A0A061GYC8	AMP-dependent synthetase and ligase family protein isoform 1 OS=Theobroma cacao OX=3641 GN=TCM_042143 PE=4 SV=1	Theobroma cacao	545	1814	62.5	78.9	0.0
+34	TR	A0A2G9GWE8	Acyl-CoA synthetase OS=Handroanthus impetiginosus OX=429701 GN=CDL12_17805 PE=4 SV=1	Handroanthus impetiginosus	547	1810	63.1	80.5	0.0
+35	TR	A0A6P9EFS9	4-coumarate--CoA ligase-like 7 OS=Juglans regia OX=51240 GN=LOC108980442 PE=4 SV=1	Juglans regia	540	1808	63.1	80.5	0.0
+36	TR	A0A8T2WAJ2	4-coumarate--CoA ligase OS=Populus deltoides OX=3696 GN=H0E87_031367 PE=4 SV=1	Populus deltoides	543	1807	63.7	79.9	0.0
+37	TR	A0A9R0IPV1	4-coumarate--CoA ligase-like 7 OS=Spinacia oleracea OX=3562 GN=LOC110792876 PE=4 SV=1	Spinacia oleracea	540	1807	62.3	79.7	0.0
+38	TR	A0A8B8NGD8	4-coumarate--CoA ligase-like 7 OS=Rhodamnia argentea OX=178133 GN=LOC115734449 PE=4 SV=1	Rhodamnia argentea	544	1804	63.4	79.2	0.0
+39	TR	A0A7J7DEQ8	4-coumarate--CoA ligase-like 7 isoform X1 OS=Tripterygium wilfordii OX=458696 GN=HS088_TW07G00327 PE=4 SV=1	Tripterygium wilfordii	544	1803	62.5	80.3	0.0
+40	TR	A0A8X7ZUR1	4-coumarate--CoA ligase-like 7 OS=Populus tomentosa OX=118781 GN=POTOM_017316 PE=4 SV=1	Populus tomentosa	543	1802	63.3	80.3	0.0
+41	TR	M1AEE2	AMP dependent CoA ligase OS=Solanum tuberosum OX=4113 GN=102597265 PE=4 SV=1	Solanum tuberosum	541	1801	62.6	80.5	0.0
+42	TR	A0A314KHX3	4-coumarate--coa ligase-like 7 OS=Nicotiana attenuata OX=49451 GN=4CLL7 PE=4 SV=1	Nicotiana attenuata	538	1800	63.7	80.3	0.0
+43	TR	A0A4U5QAX2	4-coumarate--CoA ligase-like 7 OS=Populus alba OX=43335 GN=D5086_0000112790 PE=4 SV=1	Populus alba	543	1799	63.3	80.1	0.0
+44	TR	A0A1R3IJR0	AMP-dependent synthetase/ligase OS=Corchorus capsularis OX=210143 GN=CCACVL1_11760 PE=4 SV=1	Corchorus capsularis	547	1799	62.0	78.3	0.0
+45	TR	A0A1U7XIM3	4-coumarate--CoA ligase-like 7 OS=Nicotiana sylvestris OX=4096 GN=LOC104234871 PE=4 SV=1	Nicotiana sylvestris	538	1798	63.1	79.9	0.0
+46	TR	A0A8X8CX83	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_015567 PE=4 SV=1	Populus tomentosa	543	1798	63.3	80.1	0.0
+47	TR	A0A1S4AFE3	4-coumarate--CoA ligase-like 7 OS=Nicotiana tabacum OX=4097 GN=LOC107797035 PE=4 SV=1	Nicotiana tabacum	538	1798	63.5	80.5	0.0
+48	TR	A0A059DAI7	4-coumarate--CoA ligase OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_B03943 PE=4 SV=1	Eucalyptus grandis	670	1798	62.0	79.0	0.0
+49	TR	A0A6J0ZWG1	4-coumarate--CoA ligase-like 7 OS=Herrania umbratica OX=108875 GN=LOC110412851 PE=4 SV=1	Herrania umbratica	545	1798	60.9	79.1	0.0
+50	SP	M4IRL6	Probable CoA ligase CCL7 OS=Humulus lupulus OX=3486 GN=CCL7 PE=2 SV=1	Humulus lupulus	544	1796	63.4	80.0	0.0
+51	TR	A0A5N6R403	4-coumarate--CoA ligase OS=Carpinus fangiana OX=176857 GN=FH972_012004 PE=4 SV=1	Carpinus fangiana	539	1796	62.5	79.2	0.0
+52	TR	A0A2H5Q500	4-coumarate--CoA ligase OS=Citrus unshiu OX=55188 GN=CUMW_196680 PE=4 SV=1	Citrus unshiu	545	1795	62.7	78.9	0.0
+53	TR	B9H3P7	4-coumarate--CoA ligase OS=Populus trichocarpa OX=3694 GN=POPTR_004G102000 PE=4 SV=1	Populus trichocarpa	543	1794	63.0	79.9	0.0
+54	TR	A0A2G2VQD4	4-coumarate--CoA ligase-like 7 OS=Capsicum baccatum OX=33114 GN=CQW23_26995 PE=4 SV=1	Capsicum baccatum	546	1792	62.7	79.0	0.0
+55	TR	A0A1U8ELY2	4-coumarate--CoA ligase-like 7 OS=Capsicum annuum OX=4072 GN=T459_28675 PE=4 SV=1	Capsicum annuum	542	1791	63.0	79.2	0.0
+56	TR	W9SXG6	4-coumarate--CoA ligase-like 7 OS=Morus notabilis OX=981085 GN=L484_020607 PE=4 SV=1	Morus notabilis	665	1790	63.5	79.3	0.0
+57	TR	A0A1S4AJS0	4-coumarate--CoA ligase-like 7 OS=Nicotiana tabacum OX=4097 GN=LOC107798422 PE=4 SV=1	Nicotiana tabacum	538	1790	63.0	79.7	0.0
+58	TR	A0A835J5V4	4-coumarate--CoA ligase OS=Salix dunnii OX=1413687 GN=SADUNF_Sadunf17G0106400 PE=4 SV=1	Salix dunnii	556	1788	63.3	78.1	0.0
+59	TR	A0A1R3K5V2	AMP-dependent synthetase/ligase OS=Corchorus olitorius OX=93759 GN=COLO4_11059 PE=4 SV=1	Corchorus olitorius	547	1788	60.9	78.4	0.0
+60	TR	A0A4Y7KVW2	4-coumarate--CoA ligase OS=Papaver somniferum OX=3469 GN=C5167_001159 PE=4 SV=1	Papaver somniferum	548	1788	63.7	80.1	0.0
+61	TR	A0A835K4I7	4-coumarate--CoA ligase OS=Salix dunnii OX=1413687 GN=SADUNF_Sadunf04G0081900 PE=4 SV=1	Salix dunnii	581	1786	62.6	79.6	0.0
+62	TR	A0A5N5N130	4-coumarate--CoA ligase OS=Salix brachista OX=2182728 GN=DKX38_006051 PE=4 SV=1	Salix brachista	543	1786	63.1	79.6	0.0
+63	TR	A0A8T1NI84	4-coumarate--CoA ligase OS=Carya illinoinensis OX=32201 GN=CIPAW_14G088000 PE=4 SV=1	Carya illinoinensis	540	1786	61.5	80.5	0.0
+64	TR	A0A4Y7KAX3	4-coumarate--CoA ligase OS=Papaver somniferum OX=3469 GN=C5167_033646 PE=4 SV=1	Papaver somniferum	548	1785	63.9	79.6	0.0
+65	TR	A0A6P5ZS98	4-coumarate--CoA ligase-like 7 OS=Durio zibethinus OX=66656 GN=LOC111303525 PE=4 SV=1	Durio zibethinus	576	1784	61.8	78.7	0.0
+66	TR	V4SG03	4-coumarate--CoA ligase OS=Citrus clementina OX=85681 GN=CICLE_v10028138mg PE=4 SV=1	Citrus clementina	545	1784	62.2	78.7	0.0
+67	TR	A0A7J8W2B0	4-coumarate--CoA ligase-like 7 OS=Gossypium klotzschianum OX=34286 GN=Goklo_002039 PE=4 SV=1	Gossypium klotzschianum	545	1783	60.9	79.3	0.0
+68	TR	A0A7J8T6H4	4-coumarate--CoA ligase OS=Gossypium davidsonii OX=34287 GN=Godav_002013 PE=4 SV=1	Gossypium davidsonii	545	1783	60.9	79.3	0.0
+69	TR	A0A6P5S936	4-coumarate--CoA ligase-like 7 OS=Prunus avium OX=42229 GN=LOC110755459 PE=4 SV=1	Prunus avium	542	1783	62.9	78.8	0.0
+70	TR	A0A6J5XGF1	4-coumarate--CoA ligase OS=Prunus armeniaca OX=36596 GN=ORAREDHAP_LOCUS35746 PE=4 SV=1	Prunus armeniaca	542	1782	62.9	78.8	0.0
+71	TR	A0A314U7H8	4-coumarate--CoA ligase-like 7 OS=Prunus yedoensis var. nudiflora OX=2094558 GN=Pyn_40077 PE=4 SV=1	Prunus yedoensis var. nudiflora	542	1782	62.7	78.8	0.0
+72	TR	A0A5C7IX43	4-coumarate--CoA ligase OS=Acer yangbiense OX=1000413 GN=EZV62_002372 PE=4 SV=1	Acer yangbiense	549	1781	61.4	78.0	0.0
+73	TR	A0A2H5QQL4	4-coumarate--CoA ligase OS=Citrus unshiu OX=55188 GN=CUMW_252520 PE=4 SV=1	Citrus unshiu	546	1780	61.5	78.9	0.0
+74	TR	A0A1Q3BF15	AMP-binding domain-containing protein/DUF4009 domain-containing protein OS=Cephalotus follicularis OX=3775 GN=CFOL_v3_09999 PE=4 SV=1	Cephalotus follicularis	539	1779	61.6	79.0	0.0
+75	TR	A0A2P5WRY0	4-coumarate--CoA ligase-like 7 OS=Gossypium barbadense OX=3634 GN=ES319_A03G038500v1 PE=4 SV=1	Gossypium barbadense	545	1779	62.2	77.8	0.0
+76	TR	A0A1U8PXT3	4-coumarate--CoA ligase-like 7 OS=Gossypium hirsutum OX=3635 GN=LOC107963914 PE=4 SV=1	Gossypium hirsutum	545	1775	62.2	77.6	0.0
+77	TR	M5W8J3	4-coumarate--CoA ligase OS=Prunus persica OX=3760 GN=PRUPE_6G109000 PE=4 SV=1	Prunus persica	542	1772	62.7	78.4	0.0
+78	TR	A0A7J9AXN3	4-coumarate--CoA ligase OS=Gossypium laxum OX=34288 GN=Golax_001702 PE=4 SV=1	Gossypium laxum	545	1772	60.7	78.7	0.0
+79	TR	A0A830CYU9	4-coumarate--coa ligase-like 7 OS=Phtheirospermum japonicum OX=374723 GN=PHJA_002165600 PE=4 SV=1	Phtheirospermum japonicum	541	1772	61.9	79.4	0.0
+80	TR	A0A5D2ZUW7	4-coumarate--CoA ligase OS=Gossypium mustelinum OX=34275 GN=E1A91_A03G043300v1 PE=4 SV=1	Gossypium mustelinum	545	1771	62.0	77.6	0.0
+81	TR	A0A7J9FGP4	4-coumarate--CoA ligase (Fragment) OS=Gossypium trilobum OX=34281 GN=Gotri_001942 PE=4 SV=1	Gossypium trilobum	580	1770	60.7	78.7	0.0
+82	TR	A0A803MGV5	4-coumarate--CoA ligase OS=Chenopodium quinoa OX=63459 PE=4 SV=1	Chenopodium quinoa	540	1770	61.8	79.0	0.0
+83	TR	A0A0D2VKP5	4-coumarate--CoA ligase-like 7 (Fragment) OS=Gossypium raimondii OX=29730 GN=B456_013G269100 PE=4 SV=1	Gossypium raimondii	583	1770	60.5	78.9	0.0
+84	TR	A0A8B7CYJ5	4-coumarate--CoA ligase OS=Phoenix dactylifera OX=42345 GN=LOC103720770 PE=4 SV=1	Phoenix dactylifera	544	1770	63.4	79.9	0.0
+85	TR	A0A2P6QGZ0	Putative AMP-dependent synthetase/ligase, AMP-binding enzyme domain-containing protein OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr5g0057621 PE=4 SV=1	Rosa chinensis	543	1769	62.8	79.2	0.0
+86	TR	H9A1V5	Acyl-activating enzyme 3 OS=Cannabis sativa OX=3483 GN=F8388_015665 PE=2 SV=1	Cannabis sativa	543	1767	63.8	79.2	0.0
+87	TR	A0A5J5BN76	Uncharacterized protein OS=Nyssa sinensis OX=561372 GN=F0562_022136 PE=4 SV=1	Nyssa sinensis	515	1766	65.6	81.7	0.0
+88	TR	A0A5E4FSV5	PREDICTED: 4-coumarate--CoA ligase OS=Prunus dulcis OX=3755 GN=ALMOND_2B001093 PE=4 SV=1	Prunus dulcis	542	1766	62.5	78.2	0.0
+89	TR	A0A6P6VVW6	LOW QUALITY PROTEIN: 4-coumarate--CoA ligase-like 7 OS=Coffea arabica OX=13443 GN=LOC113727337 PE=4 SV=1	Coffea arabica	548	1765	62.0	79.0	0.0
+90	TR	A0A484KVQ8	Uncharacterized protein OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS9013 PE=4 SV=1	Cuscuta campestris	544	1764	62.5	79.3	0.0
+91	TR	A0A5N5FZ22	4-coumarate--CoA ligase-like 7 OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_006377 PE=4 SV=1	Pyrus ussuriensis x Pyrus communis	545	1763	62.2	78.4	0.0
+92	TR	A0A484LNG9	Uncharacterized protein OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS19573 PE=4 SV=1	Cuscuta campestris	544	1763	62.5	79.3	0.0
+93	TR	A0A6J1DG10	4-coumarate--CoA ligase-like 7 OS=Momordica charantia OX=3673 GN=LOC111020482 PE=4 SV=1	Momordica charantia	544	1763	61.4	79.1	0.0
+94	TR	A0A1U8MBI0	4-coumarate--CoA ligase-like 7 OS=Gossypium hirsutum OX=3635 GN=LOC107936009 PE=4 SV=1	Gossypium hirsutum	545	1762	60.2	78.7	0.0
+95	TR	A0A6P5ZK61	4-coumarate--CoA ligase-like 7 isoform X1 OS=Durio zibethinus OX=66656 GN=LOC111301477 PE=4 SV=1	Durio zibethinus	545	1761	62.2	78.0	0.0
+96	TR	A0A5B6UEZ0	AMP-binding, conserved site-containing protein OS=Gossypium australe OX=47621 GN=EPI10_003403 PE=4 SV=1	Gossypium australe	926	1761	61.7	77.5	0.0
+97	TR	A0A5D2WMR7	4-coumarate--CoA ligase OS=Gossypium mustelinum OX=34275 GN=E1A91_A13G267100v1 PE=4 SV=1	Gossypium mustelinum	545	1759	60.2	78.9	0.0
+98	TR	A0A8J6D2G4	4-coumarate--CoA ligase OS=Gossypium anomalum OX=47600 GN=CXB51_009410 PE=4 SV=1	Gossypium anomalum	1125	1758	62.0	77.4	0.0
+99	TR	A0A118JTR2	AMP-binding, conserved site-containing protein OS=Cynara cardunculus var. scolymus OX=59895 GN=Ccrd_007234 PE=4 SV=1	Cynara cardunculus var. scolymus	1065	1756	61.6	79.5	0.0
+100	TR	A0A3Q7IZU3	Uncharacterized protein OS=Solanum lycopersicum OX=4081 GN=101249706 PE=4 SV=1	Solanum lycopersicum	538	1756	60.6	79.2	0.0
+101	TR	A0A1R3K5Z6	AMP-dependent synthetase/ligase OS=Corchorus olitorius OX=93759 GN=COLO4_11060 PE=4 SV=1	Corchorus olitorius	547	1756	60.5	77.2	0.0
+102	TR	A0A022PR31	Uncharacterized protein OS=Erythranthe guttata OX=4155 GN=MIMGU_mgv1a004091mg PE=4 SV=1	Erythranthe guttata	544	1753	61.7	78.4	0.0
+103	TR	A0A6P6U3U2	4-coumarate--CoA ligase-like 7 OS=Coffea arabica OX=13443 GN=LOC113707236 PE=4 SV=1	Coffea arabica	548	1752	62.2	78.8	0.0
+104	TR	W1P4C6	4-coumarate--CoA ligase OS=Amborella trichopoda OX=13333 GN=AMTR_s00076p00189570 PE=4 SV=1	Amborella trichopoda	543	1749	60.6	79.4	0.0
+105	TR	A0A6A2ZMC0	4-coumarate--CoA ligase-like 7 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00110824pilonHSYRG00010 PE=4 SV=1	Hibiscus syriacus	547	1749	61.4	76.9	0.0
+106	TR	A0A7J8WV11	4-coumarate--CoA ligase-like 7 OS=Gossypium aridum OX=34290 GN=Goari_020075 PE=4 SV=1	Gossypium aridum	558	1747	60.2	75.8	0.0
+107	TR	A0A0A0LXU2	4-coumarate--CoA ligase OS=Cucumis sativus OX=3659 GN=Csa_1G108800 PE=4 SV=1	Cucumis sativus	543	1747	61.4	79.4	0.0
+108	TR	A0A1U8LJM9	4-coumarate--CoA ligase-like 7 isoform X1 OS=Gossypium hirsutum OX=3635 GN=LOC107927154 PE=4 SV=1	Gossypium hirsutum	545	1746	61.6	76.9	0.0
+109	TR	A0A5B6WUV3	4-coumarate--CoA ligase-like 7 OS=Gossypium australe OX=47621 GN=EPI10_029716 PE=4 SV=1	Gossypium australe	551	1745	59.7	77.9	0.0
+110	TR	A0A2P5YCB4	4-coumarate--CoA ligase-like 7 OS=Gossypium barbadense OX=3634 GN=GOBAR_AA07409 PE=4 SV=1	Gossypium barbadense	550	1745	59.6	78.2	0.0
+111	TR	A0A8S0R2G8	4-coumarate-- ligase-like 7 OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A039066 PE=4 SV=1	Olea europaea subsp. europaea	542	1745	61.2	79.2	0.0
+112	TR	A0A8J4VU10	4-coumarate--CoA ligase OS=Castanea mollissima OX=60419 GN=CMV_004399 PE=4 SV=1	Castanea mollissima	780	1744	61.3	79.2	0.0
+113	TR	A0A498IK94	4-coumarate--CoA ligase OS=Malus domestica OX=3750 GN=DVH24_005852 PE=4 SV=1	Malus domestica	545	1744	61.8	77.3	0.0
+114	TR	A0A7J8NL67	4-coumarate--CoA ligase-like 7 OS=Gossypium lobatum OX=34289 GN=Golob_025232 PE=4 SV=1	Gossypium lobatum	558	1742	60.4	75.8	0.0
+115	TR	A0A1S3CIB0	4-coumarate--CoA ligase-like 7 OS=Cucumis melo OX=3656 GN=LOC103501298 PE=4 SV=1	Cucumis melo	543	1741	60.7	79.6	0.0
+116	TR	A0A5D3DCX7	4-coumarate--CoA ligase-like 7 OS=Cucumis melo var. makuwa OX=1194695 GN=E5676_scaffold609G00860 PE=4 SV=1	Cucumis melo var. makuwa	543	1741	60.7	79.6	0.0
+117	TR	D7M1Y8	Uncharacterized protein OS=Arabidopsis lyrata subsp. lyrata OX=81972 GN=ARALYDRAFT_490166 PE=4 SV=1	Arabidopsis lyrata subsp. lyrata	544	1737	60.1	79.2	0.0
+118	TR	A0A151TNK3	4-coumarate--CoA ligase-like 7 OS=Cajanus cajan OX=3821 GN=KK1_022208 PE=4 SV=1	Cajanus cajan	539	1732	60.4	77.2	0.0
+119	TR	A0A540N8D7	4-coumarate--CoA ligase OS=Malus baccata OX=106549 GN=C1H46_007129 PE=4 SV=1	Malus baccata	548	1731	61.5	76.9	0.0
+120	TR	A0A834SMZ8	4-coumarate--CoA ligase-like 7 OS=Senna tora OX=362788 GN=G2W53_037794 PE=4 SV=1	Senna tora	545	1730	59.5	78.4	0.0
+121	TR	R0H9R2	4-coumarate--CoA ligase OS=Capsella rubella OX=81985 GN=CARUB_v10000646mg PE=4 SV=1	Capsella rubella	544	1729	60.3	78.5	0.0
+122	TR	A0A8X8YS58	4-coumarate--CoA ligase OS=Salvia splendens OX=180675 GN=SASPL_100055 PE=4 SV=1	Salvia splendens	545	1728	60.5	78.0	0.0
+123	TR	A0A5N5JNC7	AMP-dependent synthetase/ligase domain-containing protein OS=Salix brachista OX=2182728 GN=DKX38_027225 PE=4 SV=1	Salix brachista	586	1727	59.2	73.7	0.0
+124	TR	A0A1S3TX94	4-coumarate--CoA ligase-like 7 OS=Vigna radiata var. radiata OX=3916 GN=LOC106759615 PE=4 SV=1	Vigna radiata var. radiata	536	1726	60.5	77.0	0.0
+125	TR	A0A6D2JSJ2	4-coumarate--CoA ligase OS=Microthlaspi erraticum OX=1685480 GN=MERR_LOCUS34201 PE=4 SV=1	Microthlaspi erraticum	541	1724	61.2	78.1	0.0
+126	TR	A0A0S3SGN8	Uncharacterized protein OS=Vigna angularis var. angularis OX=157739 GN=Vigan.07G065800 PE=4 SV=1	Vigna angularis var. angularis	536	1723	60.3	76.8	0.0
+127	TR	A0A6J1KDQ6	4-coumarate--CoA ligase-like 7 OS=Cucurbita maxima OX=3661 GN=LOC111493400 PE=4 SV=1	Cucurbita maxima	543	1723	60.8	78.7	0.0
+128	TR	A0A834LZG5	4-coumarate--CoA ligase OS=Rhododendron simsii OX=118357 GN=RHSIM_Rhsim01G0211500 PE=4 SV=1	Rhododendron simsii	547	1720	60.4	78.1	0.0
+129	SP	Q9M0X9	4-coumarate--CoA ligase-like 7 OS=Arabidopsis thaliana OX=3702 GN=4CLL7 PE=1 SV=1	Arabidopsis thaliana	544	1719	59.7	78.7	0.0
+130	TR	V7BVX4	4-coumarate--CoA ligase-like 7 OS=Phaseolus vulgaris OX=3885 GN=PHAVU_005G131400g PE=4 SV=1	Phaseolus vulgaris	536	1717	60.1	77.0	0.0
+131	TR	A0A6A1WPJ6	4-coumarate--CoA ligase-like 7 OS=Morella rubra OX=262757 GN=CJ030_MR1G019274 PE=4 SV=1	Morella rubra	595	1717	59.6	75.9	0.0
+132	TR	A0A6J0LD18	4-coumarate--CoA ligase-like 7 OS=Raphanus sativus OX=3726 GN=LOC108828363 PE=4 SV=1	Raphanus sativus	538	1716	60.0	78.4	0.0
+133	TR	A0A8K0IFP1	4-coumarate--CoA ligase OS=Cocos nucifera OX=13894 GN=COCNU_07G010980 PE=4 SV=1	Cocos nucifera	515	1715	64.1	80.6	0.0
+134	TR	A0A078HKZ9	(rape) hypothetical protein OS=Brassica napus OX=3708 GN=BnaC09g21890D PE=4 SV=1	Brassica napus	542	1714	59.9	78.5	0.0
+135	TR	A0A6P5TD16	4-coumarate--CoA ligase-like 7 OS=Prunus avium OX=42229 GN=LOC110766263 PE=4 SV=1	Prunus avium	543	1711	61.1	76.8	0.0
+136	TR	A0A2G5D130	4-coumarate--CoA ligase OS=Aquilegia coerulea OX=218851 GN=AQUCO_03000071v1 PE=4 SV=1	Aquilegia coerulea	520	1711	64.6	79.5	0.0
+137	TR	V4LE97	4-coumarate--CoA ligase OS=Eutrema salsugineum OX=72664 GN=EUTSA_v10028563mg PE=4 SV=1	Eutrema salsugineum	543	1710	60.8	78.1	0.0
+138	TR	A0A445ID57	4-coumarate--CoA ligase-like 7 isoform A OS=Glycine soja OX=3848 GN=D0Y65_032420 PE=4 SV=1	Glycine soja	540	1709	59.8	77.7	0.0
+139	TR	H2BER4	4-coumarate:CoA ligase OS=Glycine max OX=3847 GN=4CL PE=2 SV=1	Glycine max	540	1709	59.8	77.7	0.0
+140	TR	V4KJQ8	4-coumarate--CoA ligase OS=Eutrema salsugineum OX=72664 GN=EUTSA_v10028562mg PE=4 SV=1	Eutrema salsugineum	543	1707	59.7	78.1	0.0
+141	TR	A0A072VCC0	4-coumarate:CoA ligase-like protein OS=Medicago truncatula OX=3880 GN=25487863 PE=4 SV=1	Medicago truncatula	539	1707	59.2	77.7	0.0
+142	TR	A0A8J4W101	4-coumarate--CoA ligase OS=Castanea mollissima OX=60419 GN=CMV_006432 PE=4 SV=1	Castanea mollissima	548	1705	61.9	77.0	0.0
+143	TR	A0A0S3SCI5	4-coumarate--CoA ligase OS=Vigna angularis var. angularis OX=157739 GN=Vigan.06G177700 PE=4 SV=1	Vigna angularis var. angularis	551	1705	59.1	76.9	0.0
+144	TR	A0A078I666	(rape) hypothetical protein OS=Brassica napus OX=3708 GN=BnaA09g19890D PE=4 SV=1	Brassica napus	542	1705	60.5	78.5	0.0
+145	TR	A0A445I2V9	4-coumarate--CoA ligase-like 7 isoform B OS=Glycine soja OX=3848 GN=D0Y65_030234 PE=4 SV=1	Glycine soja	548	1701	58.0	75.9	0.0
+146	TR	A0A445I2Y1	4-coumarate--CoA ligase-like 7 isoform A OS=Glycine soja OX=3848 GN=D0Y65_030234 PE=4 SV=1	Glycine soja	558	1701	58.0	75.9	0.0
+147	TR	I1LL16	4-coumarate--CoA ligase OS=Glycine max OX=3847 GN=100808944 PE=4 SV=1	Glycine max	548	1699	58.0	75.9	0.0
+148	TR	A0A0R0HJB4	4-coumarate--CoA ligase OS=Glycine max OX=3847 GN=100808944 PE=4 SV=1	Glycine max	558	1699	58.0	75.9	0.0
+149	TR	M5WDH6	4-coumarate--CoA ligase OS=Prunus persica OX=3760 GN=PRUPE_7G129300 PE=4 SV=1	Prunus persica	543	1698	60.9	76.6	0.0
+150	TR	A0A315AE03	4-coumarate--CoA ligase-like 7 OS=Prunus yedoensis var. nudiflora OX=2094558 GN=Pyn_02373 PE=4 SV=1	Prunus yedoensis var. nudiflora	543	1698	60.8	76.5	0.0
+151	TR	A0A6D2KGW3	4-coumarate--CoA ligase OS=Microthlaspi erraticum OX=1685480 GN=MERR_LOCUS34200 PE=4 SV=1	Microthlaspi erraticum	543	1697	59.9	77.6	0.0
+152	TR	A0A151SAH6	4-coumarate--CoA ligase-like 7 OS=Cajanus cajan OX=3821 GN=KK1_026308 PE=4 SV=1	Cajanus cajan	539	1696	59.2	77.0	0.0
+153	TR	A0A1S3VPY6	4-coumarate--CoA ligase-like 7 OS=Vigna radiata var. radiata OX=3916 GN=LOC106777374 PE=4 SV=1	Vigna radiata var. radiata	552	1695	59.2	76.1	0.0
+154	TR	A0A8B8KCK9	4-coumarate--CoA ligase-like 7 isoform X1 OS=Abrus precatorius OX=3816 GN=LOC113854607 PE=4 SV=1	Abrus precatorius	538	1694	59.8	77.0	0.0
+155	TR	I1LL15	4-coumarate--CoA ligase OS=Glycine max OX=3847 GN=100808944 PE=4 SV=1	Glycine max	557	1694	57.3	74.9	0.0
+156	TR	A0A8B8KW47	4-coumarate--CoA ligase-like 7 OS=Abrus precatorius OX=3816 GN=LOC113858955 PE=4 SV=1	Abrus precatorius	536	1692	59.4	76.1	0.0
+157	TR	A0A445IDI9	4-coumarate--CoA ligase-like 7 isoform B OS=Glycine soja OX=3848 GN=D0Y65_032420 PE=4 SV=1	Glycine soja	547	1690	59.6	77.5	0.0
+158	TR	A0A6J5XZN6	4-coumarate--CoA ligase OS=Prunus armeniaca OX=36596 GN=CURHAP_LOCUS45306 PE=4 SV=1	Prunus armeniaca	543	1689	60.6	76.5	0.0
+159	TR	A0A565C2P3	4-coumarate--CoA ligase OS=Arabis nemorensis OX=586526 GN=ANE_LOCUS18291 PE=4 SV=1	Arabis nemorensis	543	1688	59.7	77.9	0.0
+160	TR	A0A835LR04	4-coumarate--CoA ligase (Fragment) OS=Coptis chinensis OX=261450 GN=IFM89_009714 PE=4 SV=1	Coptis chinensis	996	1688	60.8	76.3	0.0
+161	TR	A0A5N6NZZ4	Uncharacterized protein OS=Mikania micrantha OX=192012 GN=E3N88_16391 PE=4 SV=1	Mikania micrantha	538	1688	60.6	76.8	0.0
+162	TR	A0A059D9T8	AMP-dependent synthetase/ligase domain-containing protein OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_B03942 PE=4 SV=1	Eucalyptus grandis	626	1688	60.5	77.0	0.0
+163	TR	A0A7N0URK9	4-coumarate--CoA ligase OS=Kalanchoe fedtschenkoi OX=63787 PE=4 SV=1	Kalanchoe fedtschenkoi	545	1688	59.1	77.3	0.0
+164	TR	A0A5E4E394	PREDICTED: 4-coumarate--CoA ligase OS=Prunus dulcis OX=3755 GN=ALMOND_2B021214 PE=4 SV=1	Prunus dulcis	545	1686	60.9	76.4	0.0
+165	TR	A0A6J1J0P0	4-coumarate--CoA ligase-like 7 OS=Cucurbita maxima OX=3661 GN=LOC111481607 PE=4 SV=1	Cucurbita maxima	545	1686	60.7	76.6	0.0
+166	TR	A0A4P1RA03	4-coumarate--CoA ligase OS=Lupinus angustifolius OX=3871 GN=TanjilG_23608 PE=4 SV=1	Lupinus angustifolius	542	1684	58.6	76.8	0.0
+167	TR	A0A164Z8Y6	ABC transporter domain-containing protein OS=Daucus carota subsp. sativus OX=79200 GN=DCAR_018780 PE=4 SV=1	Daucus carota subsp. sativus	1120	1683	59.3	76.0	0.0
+168	TR	A0A2H9ZXN4	4-coumarate--CoA ligase OS=Apostasia shenzhenica OX=1088818 GN=4CLL7 PE=4 SV=1	Apostasia shenzhenica	543	1681	59.9	77.9	0.0
+169	TR	A0A804K619	4-coumarate--CoA ligase OS=Musa acuminata subsp. malaccensis OX=214687 GN=GSMUA_346580.1 PE=4 SV=1	Musa acuminata subsp. malaccensis	543	1681	61.1	77.6	0.0
+170	TR	A0A5A7TKZ4	4-coumarate--CoA ligase-like 7 OS=Cucumis melo var. makuwa OX=1194695 GN=E5676_scaffold352G002730 PE=4 SV=1	Cucumis melo var. makuwa	545	1678	60.5	76.8	0.0
+171	TR	A0A1S3B5U8	4-coumarate--CoA ligase-like 7 OS=Cucumis melo OX=3656 GN=LOC103486502 PE=4 SV=1	Cucumis melo	545	1678	60.5	76.8	0.0
+172	TR	A0A5N5GGM7	4-coumarate--CoA ligase-like 7 OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_021237 PE=4 SV=1	Pyrus ussuriensis x Pyrus communis	545	1677	59.5	75.8	0.0
+173	TR	A0A199VGP1	4-coumarate--CoA ligase OS=Ananas comosus OX=4615 GN=ACMD2_25769 PE=4 SV=1	Ananas comosus	550	1677	61.4	76.6	0.0
+174	TR	A0A2Z6NSM8	4-coumarate--CoA ligase OS=Trifolium subterraneum OX=3900 GN=TSUD_107600 PE=4 SV=1	Trifolium subterraneum	541	1676	59.4	76.1	0.0
+175	TR	A0A540MZ24	4-coumarate--CoA ligase OS=Malus baccata OX=106549 GN=C1H46_010426 PE=4 SV=1	Malus baccata	571	1672	57.5	73.3	0.0
+176	TR	A0A5A7PKV4	4-coumarate--CoA ligase family protein OS=Striga asiatica OX=4170 GN=STAS_09649 PE=4 SV=1	Striga asiatica	534	1672	59.9	74.8	0.0
+177	TR	A0A2K3PPQ7	4-coumarate-CoA ligase 7-like protein OS=Trifolium pratense OX=57577 GN=L195_g014008 PE=4 SV=1	Trifolium pratense	540	1671	59.0	76.2	0.0
+178	TR	A0A2Z7BF92	4-coumarate--CoA ligase-like 7-like OS=Dorcoceras hygrometricum OX=472368 GN=F511_14470 PE=4 SV=1	Dorcoceras hygrometricum	530	1669	59.0	75.7	0.0
+179	TR	A0A1S2XC32	4-coumarate--CoA ligase-like 7 OS=Cicer arietinum OX=3827 GN=LOC101500143 PE=4 SV=1	Cicer arietinum	539	1669	60.0	76.4	0.0
+180	TR	A0A0A0LDK0	4-coumarate--CoA ligase OS=Cucumis sativus OX=3659 GN=Csa_3G740270 PE=4 SV=1	Cucumis sativus	545	1669	60.1	76.8	0.0
+181	TR	A0A8T1PAV6	4-coumarate--CoA ligase OS=Carya illinoinensis OX=32201 GN=CIPAW_10G129400 PE=4 SV=1	Carya illinoinensis	544	1668	58.7	77.3	0.0
+182	TR	A0A6P9ET53	4-coumarate--CoA ligase-like 7 OS=Juglans regia OX=51240 GN=LOC108982339 PE=4 SV=1	Juglans regia	542	1666	59.8	77.1	0.0
+183	TR	V7AHH4	4-coumarate--CoA ligase-like 7 OS=Phaseolus vulgaris OX=3885 GN=PHAVU_011G084300g PE=4 SV=1	Phaseolus vulgaris	548	1666	57.9	75.2	0.0
+184	TR	A0A8T2WDY2	4-coumarate--CoA ligase OS=Populus deltoides OX=3696 GN=H0E87_031367 PE=4 SV=1	Populus deltoides	543	1665	63.0	78.6	0.0
+185	TR	A0A078I937	(rape) hypothetical protein OS=Brassica napus OX=3708 GN=BnaA09g19900D PE=4 SV=1	Brassica napus	539	1664	58.3	76.8	0.0
+186	TR	A0A6P4B3U5	Probable CoA ligase CCL7 OS=Arachis duranensis OX=130453 GN=LOC107461745 PE=4 SV=1	Arachis duranensis	545	1662	57.5	76.0	0.0
+187	TR	A0A445BW30	4-coumarate--CoA ligase OS=Arachis hypogaea OX=3818 GN=Ahy_A08g039365 PE=4 SV=1	Arachis hypogaea	545	1662	57.5	76.0	0.0
+188	TR	A0A8X8ZSS5	4-coumarate--CoA ligase OS=Salvia splendens OX=180675 GN=SASPL_122772 PE=4 SV=1	Salvia splendens	544	1661	59.9	75.5	0.0
+189	TR	A0A804J771	4-coumarate--CoA ligase OS=Musa acuminata subsp. malaccensis OX=214687 GN=GSMUA_274020.1 PE=4 SV=1	Musa acuminata subsp. malaccensis	544	1659	59.7	76.3	0.0
+190	TR	A0A078HQV5	(rape) hypothetical protein OS=Brassica napus OX=3708 GN=BnaC09g21910D PE=4 SV=1	Brassica napus	539	1658	58.3	76.4	0.0
+191	TR	A0A444Y7M1	4-coumarate--CoA ligase OS=Arachis hypogaea OX=3818 GN=Ahy_B08g094024 PE=4 SV=1	Arachis hypogaea	551	1658	57.3	75.8	0.0
+192	TR	A0A6A3B2I2	4-coumarate--CoA ligase-like 7 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00110319pilonHSYRG00533 PE=4 SV=1	Hibiscus syriacus	515	1656	58.3	75.5	0.0
+193	TR	A0A087GQR9	4-coumarate--CoA ligase OS=Arabis alpina OX=50452 GN=AALP_Aa6g213500 PE=4 SV=1	Arabis alpina	542	1654	58.7	76.1	0.0
+194	TR	A0A2P5BJU6	4-coumarate-CoA ligase OS=Parasponia andersonii OX=3476 GN=PanOPCL4 PE=4 SV=1	Parasponia andersonii	543	1654	59.7	75.5	0.0
+195	TR	A0A6J0L4D4	4-coumarate--CoA ligase-like 7 isoform X1 OS=Raphanus sativus OX=3726 GN=LOC108825885 PE=4 SV=1	Raphanus sativus	539	1653	58.1	76.4	0.0
+196	TR	A0A072UJR1	4-coumarate:CoA ligase-like protein OS=Medicago truncatula OX=3880 GN=25492399 PE=4 SV=1	Medicago truncatula	542	1651	58.4	75.1	0.0
+197	TR	A0A2P5FVC4	4-coumarate-CoA ligase OS=Trema orientale OX=63057 GN=TorOPCL4 PE=4 SV=1	Trema orientale	546	1650	60.6	75.7	0.0
+198	TR	A0A251VIB7	Putative AMP-dependent synthetase and ligase family protein OS=Helianthus annuus OX=4232 GN=HannXRQ_Chr02g0055421 PE=4 SV=1	Helianthus annuus	538	1647	59.7	75.2	0.0
+199	TR	A0A0L9TEL9	Uncharacterized protein OS=Phaseolus angularis OX=3914 GN=LR48_Vigan598s000200 PE=4 SV=1	Phaseolus angularis	537	1647	57.9	75.4	0.0
+200	TR	S8CZ23	Uncharacterized protein (Fragment) OS=Genlisea aurea OX=192259 GN=M569_04447 PE=4 SV=1	Genlisea aurea	540	1643	58.7	76.0	0.0
+201	TR	A0A4S8JXV6	4-coumarate--CoA ligase OS=Musa balbisiana OX=52838 GN=C4D60_Mb05t21540 PE=4 SV=1	Musa balbisiana	544	1640	59.1	75.5	0.0
+202	TR	A0A6A6LJH4	Uncharacterized protein OS=Hevea brasiliensis OX=3981 GN=GH714_014851 PE=4 SV=1	Hevea brasiliensis	525	1638	58.1	73.3	0.0
+203	TR	A0A5J4ZM19	Uncharacterized protein OS=Nyssa sinensis OX=561372 GN=F0562_016510 PE=4 SV=1	Nyssa sinensis	544	1638	58.5	76.9	0.0
+204	TR	A0A5A7Q2S0	4-coumarate--CoA ligase family protein OS=Striga asiatica OX=4170 GN=STAS_16059 PE=4 SV=1	Striga asiatica	631	1637	61.9	77.5	0.0
+205	TR	A0A833QS46	4-coumarate--CoA ligase OS=Carex littledalei OX=544730 GN=FCM35_KLT06800 PE=4 SV=1	Carex littledalei	549	1636	59.6	76.5	0.0
+206	TR	A0A8T1PDN8	4-coumarate--CoA ligase OS=Carya illinoinensis OX=32201 GN=CIPAW_10G129300 PE=4 SV=1	Carya illinoinensis	584	1634	57.8	76.2	0.0
+207	TR	A0A0D2QKS3	4-coumarate--CoA ligase-like 7 OS=Gossypium raimondii OX=29730 GN=B456_003G144900 PE=4 SV=1	Gossypium raimondii	517	1634	60.7	76.6	0.0
+208	TR	A0A843UBW2	4-coumarate--CoA ligase OS=Colocasia esculenta OX=4460 GN=Taro_011190 PE=4 SV=1	Colocasia esculenta	547	1630	58.2	76.6	0.0
+209	TR	A0A199W501	4-coumarate--CoA ligase OS=Ananas comosus OX=4615 GN=ACMD2_21649 PE=4 SV=1	Ananas comosus	526	1630	60.1	75.8	0.0
+210	TR	A0A5N6RJZ4	AMP-dependent synthetase/ligase domain-containing protein OS=Carpinus fangiana OX=176857 GN=FH972_017620 PE=4 SV=1	Carpinus fangiana	541	1630	58.1	75.3	0.0
+211	TR	A0A2U1MZN2	AMP-binding, conserved site-containing protein OS=Artemisia annua OX=35608 GN=CTI12_AA325700 PE=4 SV=1	Artemisia annua	538	1630	58.2	75.7	0.0
+212	TR	A0A059A7S0	4-coumarate--CoA ligase OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_K02929 PE=4 SV=1	Eucalyptus grandis	549	1627	60.1	74.9	0.0
+213	TR	W9S512	4-coumarate--CoA ligase-like 7 OS=Morus notabilis OX=981085 GN=L484_002716 PE=4 SV=1	Morus notabilis	547	1623	59.6	75.6	0.0
+214	TR	A0A059A6N2	4-coumarate--CoA ligase OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_K02927 PE=4 SV=1	Eucalyptus grandis	548	1623	61.1	75.1	0.0
+215	TR	A0A2U1MZH0	AMP-binding, conserved site-containing protein OS=Artemisia annua OX=35608 GN=CTI12_AA325700 PE=4 SV=1	Artemisia annua	538	1623	58.0	75.5	0.0
+216	TR	B9S0G8	AMP dependent CoA ligase, putative OS=Ricinus communis OX=3988 GN=RCOM_1354540 PE=4 SV=1	Ricinus communis	543	1622	59.6	75.8	0.0
+217	TR	A0A7J9DMR4	4-coumarate--CoA ligase-like 7 OS=Gossypium trilobum OX=34281 GN=Gotri_024531 PE=4 SV=1	Gossypium trilobum	554	1621	60.2	76.2	0.0
+218	TR	A0A843U5L3	4-coumarate--CoA ligase OS=Colocasia esculenta OX=4460 GN=Taro_011192 PE=4 SV=1	Colocasia esculenta	547	1618	58.1	75.8	0.0
+219	TR	A0A8X8XS91	4-coumarate--CoA ligase OS=Salvia splendens OX=180675 GN=SASPL_120074 PE=4 SV=1	Salvia splendens	551	1617	58.2	74.6	0.0
+220	TR	A0A9R1VD03	Uncharacterized protein OS=Lactuca sativa OX=4236 GN=LSAT_V11C600315850 PE=4 SV=1	Lactuca sativa	540	1614	57.2	76.1	0.0
+221	TR	A0A9R1VAP0	Uncharacterized protein OS=Lactuca sativa OX=4236 GN=LSAT_V11C600315820 PE=4 SV=1	Lactuca sativa	538	1614	57.5	75.5	0.0
+222	TR	A0A835U9W3	4-coumarate--CoA ligase OS=Vanilla planifolia OX=51239 GN=HPP92_026019 PE=4 SV=1	Vanilla planifolia	546	1614	57.3	76.5	0.0
+223	TR	A0A0D2QTJ7	4-coumarate--CoA ligase-like 7 OS=Gossypium raimondii OX=29730 GN=B456_003G144900 PE=4 SV=1	Gossypium raimondii	518	1614	60.2	76.4	0.0
+224	TR	A0A2U1MZK7	AMP-binding, conserved site-containing protein OS=Artemisia annua OX=35608 GN=CTI12_AA325700 PE=4 SV=1	Artemisia annua	537	1611	58.0	75.5	0.0
+225	SP	M4IQS1	Probable CoA ligase CCL10 OS=Humulus lupulus OX=3486 GN=CCL10 PE=2 SV=1	Humulus lupulus	543	1609	58.0	74.6	0.0
+226	TR	A0A8B8PRE5	4-coumarate--CoA ligase-like 7 OS=Rhodamnia argentea OX=178133 GN=LOC115745880 PE=4 SV=1	Rhodamnia argentea	549	1609	59.4	74.5	0.0
+227	TR	A0A251VKR8	AMP-dependent synthetase/ligase, AMP-binding enzyme domain-containing protein OS=Helianthus annuus OX=4232 GN=HannXRQ_Chr02g0055431 PE=4 SV=1	Helianthus annuus	574	1608	58.8	73.2	0.0
+228	TR	A0A8T3BKH3	4-coumarate--CoA ligase OS=Dendrobium nobile OX=94219 GN=KFK09_009842 PE=4 SV=1	Dendrobium nobile	536	1605	56.9	75.1	0.0
+229	TR	A0A2U1KAE0	AMP-binding, conserved site-containing protein OS=Artemisia annua OX=35608 GN=CTI12_AA622090 PE=4 SV=1	Artemisia annua	539	1603	57.7	74.3	0.0
+230	TR	A0A7J8U208	4-coumarate--CoA ligase-like 7 OS=Gossypium klotzschianum OX=34286 GN=Goklo_028659 PE=4 SV=1	Gossypium klotzschianum	530	1599	58.7	74.4	0.0
+231	TR	A0A834LY56	4-coumarate--CoA ligase OS=Rhododendron simsii OX=118357 GN=RHSIM_Rhsim01G0211600 PE=4 SV=1	Rhododendron simsii	1693	1597	59.8	77.7	0.0
+232	TR	K4A827	4-coumarate--CoA ligase OS=Setaria italica OX=4555 GN=101781746 PE=4 SV=1	Setaria italica	546	1595	58.6	75.2	0.0
+233	TR	A0A4U6TL96	4-coumarate--CoA ligase OS=Setaria viridis OX=4556 GN=SEVIR_9G541400v2 PE=4 SV=1	Setaria viridis	546	1594	58.6	75.0	0.0
+234	TR	F6HKB4	4-coumarate--CoA ligase-like 7 OS=Vitis vinifera OX=29760 GN=VIT_08s0007g05050 PE=4 SV=1	Vitis vinifera	530	1593	59.4	75.5	0.0
+235	TR	A0A4P1RPV1	4-coumarate--CoA ligase OS=Lupinus angustifolius OX=3871 GN=TanjilG_04318 PE=4 SV=1	Lupinus angustifolius	538	1586	56.4	73.9	0.0
+236	TR	A0A8T0N5P7	4-coumarate--CoA ligase OS=Panicum virgatum OX=38727 GN=PVAP13_9NG744300 PE=4 SV=1	Panicum virgatum	553	1580	58.8	74.7	0.0
+237	TR	A0A7I8L214	Uncharacterized protein OS=Spirodela intermedia OX=51605 GN=SI8410_10014036 PE=4 SV=1	Spirodela intermedia	545	1578	56.5	75.3	0.0
+238	TR	A0A7N0URG4	4-coumarate--CoA ligase OS=Kalanchoe fedtschenkoi OX=63787 PE=4 SV=1	Kalanchoe fedtschenkoi	540	1578	56.4	75.0	0.0
+239	TR	A0A8S0VDQ2	4-coumarate-- ligase-like 7 OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A083915 PE=4 SV=1	Olea europaea subsp. europaea	626	1575	59.9	77.2	0.0
+240	TR	A0A1B6QQG1	4-coumarate--CoA ligase OS=Sorghum bicolor OX=4558 GN=SORBI_3001G500800 PE=4 SV=1	Sorghum bicolor	553	1574	57.7	74.3	0.0
+241	TR	A0A445E4U5	4-coumarate--CoA ligase-like OS=Arachis hypogaea OX=3818 GN=Ahy_A03g016939 PE=4 SV=1	Arachis hypogaea	544	1572	56.3	73.9	0.0
+242	TR	A0A2T7CHL3	4-coumarate--CoA ligase OS=Panicum hallii var. hallii OX=1504633 GN=GQ55_9G610900 PE=4 SV=1	Panicum hallii var. hallii	553	1572	58.5	74.9	0.0
+243	TR	A0A7N0R994	4-coumarate--CoA ligase OS=Kalanchoe fedtschenkoi OX=63787 PE=4 SV=1	Kalanchoe fedtschenkoi	536	1571	57.0	74.4	0.0
+244	TR	A0A8T0NZ36	4-coumarate--CoA ligase OS=Panicum virgatum OX=38727 GN=PVAP13_9KG593100 PE=4 SV=1	Panicum virgatum	555	1570	58.1	74.9	0.0
+245	TR	A0A6P5N671	Probable CoA ligase CCL7 OS=Arachis duranensis OX=130453 GN=LOC107476481 PE=4 SV=1	Arachis duranensis	544	1563	56.1	73.6	0.0
+246	TR	A0A096S078	4-coumarate--CoA ligase OS=Zea mays OX=4577 GN=100191850 PE=4 SV=1	Zea mays	555	1560	57.2	73.5	0.0
+247	TR	A0A2I0XAV2	4-coumarate--CoA ligase-like 7 OS=Dendrobium catenatum OX=906689 GN=4CLL7 PE=4 SV=1	Dendrobium catenatum	601	1551	57.9	76.7	0.0
+248	TR	A0A8I6XT03	4-coumarate--CoA ligase OS=Hordeum vulgare subsp. vulgare OX=112509 PE=4 SV=1	Hordeum vulgare subsp. vulgare	545	1549	56.2	73.7	0.0
+249	TR	A0A8B8KCK7	4-coumarate--CoA ligase-like 7 isoform X2 OS=Abrus precatorius OX=3816 GN=LOC113854607 PE=4 SV=1	Abrus precatorius	505	1547	58.6	75.1	0.0
+250	TR	A0A5J9WJE5	4-coumarate--CoA ligase OS=Eragrostis curvula OX=38414 GN=EJB05_07982 PE=4 SV=1	Eragrostis curvula	546	1546	57.9	73.3	0.0

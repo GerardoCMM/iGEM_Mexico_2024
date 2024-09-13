@@ -1,0 +1,695 @@
+Accession	Source Database	Name	Tax ID	Tax Name	Length	Entry Accession	Matches
+A0A024F9J0	reviewed	AMP-dependent ligase vlmC	1756136	Lecanicillium sp.	580	PF13193	480..562
+A0A0A2J5U8	reviewed	Acyl-CoA ligase cnsG	27334	Penicillium expansum	481	PF13193	384..466
+A0A0G2K047	reviewed	Acyl-CoA synthetase short-chain family member 3, mitochondrial	10116	Rattus norvegicus	683	PF13193	567..645
+A0A0H2ZF83	reviewed	Pyochelin synthase PchD	208963	Pseudomonas aeruginosa (strain UCBPP-PA14)	547	PF13193	454..529
+A0A0S6XHF8	reviewed	Acyl-CoA ligase frbB	1603295	Fungal sp. (strain No.11243)	561	PF13193	472..551
+A0A179HJB8	reviewed	Acyl-CoA ligase lcsD	33203	Purpureocillium lilacinum	386	PF13193	251..331
+A0A2H5AIX5	reviewed	4-coumarate-CoA ligase 1	39639	Narcissus pseudonarcissus	547	PF13193	452..527
+A0A2H5AIY4	reviewed	4-coumarate-CoA ligase 2	39639	Narcissus pseudonarcissus	569	PF13193	479..554
+A0A2I2F262	reviewed	PKS-NRPS hybrid synthetase acdB	41067	Aspergillus candidus	2498	PF13193	435..513
+A0A345BJN3	reviewed	Acyl-CoA ligase clz12	5503	Cochliobolus lunatus	344	PF13193	248..322
+A0A348AXX4	reviewed	Nonribosomal peptide synthetase	95742	Curvularia clavata	13041	PF13193	4308..4385,9830..9916,12385..12471
+A0A3G1DJF8	reviewed	Acyl-CoA ligase M9	1828523	Phoma sp. (strain ATCC 20986 / MF5453)	541	PF13193	445..519
+A0A3G9H9I5	reviewed	Acyl-CoA synthetase ALT10	5599	Alternaria alternata	566	PF13193	473..551
+A0A6B9HER0	reviewed	Piperic acid--CoA ligase	13216	Piper nigrum	548	PF13193	459..534
+A0AH92	reviewed	D-alanine--D-alanyl carrier protein ligase	386043	Listeria welshimeri serovar 6b (strain ATCC 35897 / DSM 20650 / CIP 8149 / NCTC 11857 / SLCC 5334 / V8)	510	PF13193	420..498
+A0B8F1	reviewed	Acetyl-coenzyme A synthetase	349307	Methanothrix thermoacetophila (strain DSM 6194 / JCM 14653 / NBRC 101360 / PT)	659	PF13193	547..625
+A0KNI2	reviewed	Acetyl-coenzyme A synthetase	380703	Aeromonas hydrophila subsp. hydrophila (strain ATCC 7966 / DSM 30187 / BCRC 13018 / CCUG 14551 / JCM 1027 / KCTC 2358 / NCIMB 9240 / NCTC 8049)	648	PF13193	530..608
+A0KY83	reviewed	Acetyl-coenzyme A synthetase	94122	Shewanella sp. (strain ANA-3)	650	PF13193	531..609
+A0L576	reviewed	Acetyl-coenzyme A synthetase	156889	Magnetococcus marinus (strain ATCC BAA-1437 / JCM 17883 / MC-1)	644	PF13193	528..606
+A0LG91	reviewed	Acetyl-coenzyme A synthetase	335543	Syntrophobacter fumaroxidans (strain DSM 10017 / MPOB)	650	PF13193	527..605
+A0R4Q2	reviewed	Medium/long-chain-fatty-acid--CoA/3-oxocholest-4-en-26-oate--CoA ligase	246196	Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155)	551	PF13193	448..523
+A0R5G1	reviewed	Acetyl-coenzyme A synthetase	246196	Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155)	940	PF13193	827..906
+A0RBJ0	reviewed	D-alanine--D-alanyl carrier protein ligase	412694	Bacillus thuringiensis (strain Al Hakam)	504	PF13193	413..492
+A0RK73	reviewed	2-succinylbenzoate--CoA ligase	412694	Bacillus thuringiensis (strain Al Hakam)	482	PF13193	396..469
+A1A787	reviewed	Crotonobetaine/carnitine--CoA ligase	405955	Escherichia coli O1:K1 / APEC	517	PF13193	435..510
+A1JIK3	reviewed	Acetyl-coenzyme A synthetase	393305	Yersinia enterocolitica serotype O:8 / biotype 1B (strain NCTC 13174 / 8081)	652	PF13193	531..609
+A1JPF0	reviewed	Bifunctional protein Aas	393305	Yersinia enterocolitica serotype O:8 / biotype 1B (strain NCTC 13174 / 8081)	718	PF13193	630..701
+A1RIK1	reviewed	Acetyl-coenzyme A synthetase	351745	Shewanella sp. (strain W3-18-1)	650	PF13193	531..609
+A1S7C8	reviewed	Acetyl-coenzyme A synthetase	326297	Shewanella amazonensis (strain ATCC BAA-1098 / SB2B)	650	PF13193	531..609
+A1SZA2	reviewed	Acetyl-coenzyme A synthetase	357804	Psychromonas ingrahamii (strain DSM 17664 / CCUG 51855 / 37)	649	PF13193	531..609
+A1U2S9	reviewed	Acetyl-coenzyme A synthetase	351348	Marinobacter nauticus (strain ATCC 700491 / DSM 11845 / VT8)	649	PF13193	532..610
+A1UR36	reviewed	Acetyl-coenzyme A synthetase	360095	Bartonella bacilliformis (strain ATCC 35685 / KC583 / Herrer 020/F12,63)	652	PF13193	531..609
+A1UWN5	reviewed	Acetyl-coenzyme A synthetase	320388	Burkholderia mallei (strain SAVP1)	660	PF13193	544..625
+A1W1D6	reviewed	Acetyl-coenzyme A synthetase	354242	Campylobacter jejuni subsp. jejuni serotype O:23/36 (strain 81-176)	657	PF13193	535..617
+A1WY97	reviewed	Acetyl-coenzyme A synthetase	349124	Halorhodospira halophila (strain DSM 244 / SL1)	645	PF13193	528..606
+A2QTE5	reviewed	Phenylacetyl-CoA ligase epaB	425011	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	539	PF13193	449..525
+A2RE45	reviewed	D-alanine--D-alanyl carrier protein ligase	160491	Streptococcus pyogenes serotype M5 (strain Manfredo)	512	PF13193	419..499
+A2RYW5	reviewed	Acetyl-coenzyme A synthetase	412022	Burkholderia mallei (strain NCTC 10229)	660	PF13193	544..625
+A3D3E8	reviewed	Acetyl-coenzyme A synthetase	325240	Shewanella baltica (strain OS155 / ATCC BAA-1091)	650	PF13193	531..609
+A3MG40	reviewed	Acetyl-coenzyme A synthetase	320389	Burkholderia mallei (strain NCTC 10247)	660	PF13193	544..625
+A3NH07	reviewed	Acetyl-coenzyme A synthetase	320373	Burkholderia pseudomallei (strain 668)	660	PF13193	544..625
+A3P2K7	reviewed	Acetyl-coenzyme A synthetase	357348	Burkholderia pseudomallei (strain 1106a)	660	PF13193	544..625
+A3QD52	reviewed	Acetyl-coenzyme A synthetase	323850	Shewanella loihica (strain ATCC BAA-1088 / PV-4)	650	PF13193	531..609
+A4G3L8	reviewed	Acetyl-coenzyme A synthetase	204773	Herminiimonas arsenicoxydans	660	PF13193	544..625
+A4SJM6	reviewed	Acetyl-coenzyme A synthetase	382245	Aeromonas salmonicida (strain A449)	648	PF13193	530..608
+A4TLD3	reviewed	Bifunctional protein Aas	386656	Yersinia pestis (strain Pestoides F)	718	PF13193	630..701
+A4TS06	reviewed	Acetyl-coenzyme A synthetase	386656	Yersinia pestis (strain Pestoides F)	652	PF13193	531..609
+A4VKA0	reviewed	Acetyl-coenzyme A synthetase	379731	Stutzerimonas stutzeri (strain A1501)	651	PF13193	531..609
+A4WJG1	reviewed	Acetyl-coenzyme A synthetase	340102	Pyrobaculum arsenaticum (strain DSM 13514 / JCM 11321 / PZ6)	670	PF13193	548..626
+A4Y7Y7	reviewed	Acetyl-coenzyme A synthetase	319224	Shewanella putrefaciens (strain CN-32 / ATCC BAA-453)	650	PF13193	531..609
+A4YDR9	reviewed	4-hydroxybutyrate--CoA ligase 2	399549	Metallosphaera sedula (strain ATCC 51363 / DSM 5348 / JCM 9185 / NBRC 15509 / TH2)	549	PF13193	457..530
+A4YDT1	reviewed	4-hydroxybutyrate--CoA ligase 1	399549	Metallosphaera sedula (strain ATCC 51363 / DSM 5348 / JCM 9185 / NBRC 15509 / TH2)	564	PF13193	460..538
+A4YGR1	reviewed	3-hydroxypropionyl-coenzyme A synthetase	399549	Metallosphaera sedula (strain ATCC 51363 / DSM 5348 / JCM 9185 / NBRC 15509 / TH2)	661	PF13193	540..617
+A4YK73	reviewed	Acetyl-coenzyme A synthetase	114615	Bradyrhizobium sp. (strain ORS 278)	650	PF13193	528..606
+A5IRB0	reviewed	D-alanine--D-alanyl carrier protein ligase	359786	Staphylococcus aureus (strain JH9)	485	PF13193	395..473
+A5ITW2	reviewed	2-succinylbenzoate--CoA ligase	359786	Staphylococcus aureus (strain JH9)	492	PF13193	411..483
+A5JTM6	reviewed	4-chlorobenzoate--CoA ligase	72586	Pseudomonas sp. (strain CBS-3)	528	PF13193	414..488
+A5VSF3	reviewed	Acetyl-coenzyme A synthetase	444178	Brucella ovis (strain ATCC 25840 / 63/290 / NCTC 10512)	651	PF13193	531..611
+A6QFE3	reviewed	D-alanine--D-alanyl carrier protein ligase	426430	Staphylococcus aureus (strain Newman)	485	PF13193	395..473
+A6QHX6	reviewed	2-succinylbenzoate--CoA ligase	426430	Staphylococcus aureus (strain Newman)	492	PF13193	411..483
+A6U039	reviewed	D-alanine--D-alanyl carrier protein ligase	359787	Staphylococcus aureus (strain JH1)	485	PF13193	395..473
+A6U2Q7	reviewed	2-succinylbenzoate--CoA ligase	359787	Staphylococcus aureus (strain JH1)	492	PF13193	411..483
+A6UED8	reviewed	Acetyl-coenzyme A synthetase	366394	Sinorhizobium medicae (strain WSM419)	649	PF13193	531..609
+A6VZN8	reviewed	Acetyl-coenzyme A synthetase	400668	Marinomonas sp. (strain MWYL1)	652	PF13193	534..613
+A6WM52	reviewed	Acetyl-coenzyme A synthetase	402882	Shewanella baltica (strain OS185)	650	PF13193	531..609
+A6WXV8	reviewed	Acetyl-coenzyme A synthetase	439375	Brucella anthropi (strain ATCC 49188 / DSM 6882 / CCUG 24695 / JCM 21032 / LMG 3331 / NBRC 15819 / NCTC 12168 / Alc 37)	651	PF13193	531..611
+A7FFD1	reviewed	Bifunctional protein Aas	349747	Yersinia pseudotuberculosis serotype O:1b (strain IP 31758)	718	PF13193	630..701
+A7FNG1	reviewed	Acetyl-coenzyme A synthetase	349747	Yersinia pseudotuberculosis serotype O:1b (strain IP 31758)	652	PF13193	531..609
+A7GMR0	reviewed	D-alanine--D-alanyl carrier protein ligase	315749	Bacillus cytotoxicus (strain DSM 22905 / CIP 110041 / 391-98 / NVH 391-98)	504	PF13193	413..492
+A7GU88	reviewed	2-succinylbenzoate--CoA ligase	315749	Bacillus cytotoxicus (strain DSM 22905 / CIP 110041 / 391-98 / NVH 391-98)	481	PF13193	395..468
+A7HSR8	reviewed	Acetyl-coenzyme A synthetase	402881	Parvibaculum lavamentivorans (strain DS-1 / DSM 13023 / NCIMB 13966)	647	PF13193	528..606
+A7IFD4	reviewed	Acetyl-coenzyme A synthetase	78245	Xanthobacter autotrophicus (strain ATCC BAA-1158 / Py2)	651	PF13193	529..607
+A7MB45	reviewed	Acyl-CoA synthetase short-chain family member 3, mitochondrial	9913	Bos taurus	686	PF13193	570..648
+A7MPJ7	reviewed	Acetyl-coenzyme A synthetase	290339	Cronobacter sakazakii (strain ATCC BAA-894)	652	PF13193	531..609
+A7X0D6	reviewed	D-alanine--D-alanyl carrier protein ligase	418127	Staphylococcus aureus (strain Mu3 / ATCC 700698)	485	PF13193	395..473
+A7X3P0	reviewed	2-succinylbenzoate--CoA ligase	418127	Staphylococcus aureus (strain Mu3 / ATCC 700698)	492	PF13193	411..483
+A7Z809	reviewed	2-succinylbenzoate--CoA ligase	326423	Bacillus velezensis (strain DSM 23117 / BGSC 10A6 / LMG 26770 / FZB42)	487	PF13193	399..472
+A7ZA74	reviewed	D-alanine--D-alanyl carrier protein ligase	326423	Bacillus velezensis (strain DSM 23117 / BGSC 10A6 / LMG 26770 / FZB42)	503	PF13193	412..491
+A7ZHC8	reviewed	Crotonobetaine/carnitine--CoA ligase	331111	Escherichia coli O139:H28 (strain E24377A / ETEC)	517	PF13193	435..510
+A7ZVY7	reviewed	Crotonobetaine/carnitine--CoA ligase	331112	Escherichia coli O9:H4 (strain HS)	517	PF13193	435..510
+A8ALR6	reviewed	Crotonobetaine/carnitine--CoA ligase	290338	Citrobacter koseri (strain ATCC BAA-895 / CDC 4225-83 / SGSC4696)	517	PF13193	435..510
+A8AN29	reviewed	Acetyl-coenzyme A synthetase	290338	Citrobacter koseri (strain ATCC BAA-895 / CDC 4225-83 / SGSC4696)	652	PF13193	531..609
+A8FGK6	reviewed	2-succinylbenzoate--CoA ligase	315750	Bacillus pumilus (strain SAFR-032)	486	PF13193	397..470
+A8FNJ7	reviewed	Acetyl-coenzyme A synthetase	407148	Campylobacter jejuni subsp. jejuni serotype O:6 (strain 81116 / NCTC 11828)	657	PF13193	535..617
+A8FUF1	reviewed	Acetyl-coenzyme A synthetase	425104	Shewanella sediminis (strain HAW-EB3)	650	PF13193	531..609
+A8G8G7	reviewed	Acetyl-coenzyme A synthetase	399741	Serratia proteamaculans (strain 568)	652	PF13193	531..609
+A8H5P1	reviewed	Acetyl-coenzyme A synthetase	398579	Shewanella pealeana (strain ATCC 700345 / ANG-SQ1)	650	PF13193	531..609
+A8PDE3	reviewed	Acetyl-coenzyme A synthetase	240176	Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003)	661	PF13193	539..621
+A8Z1J1	reviewed	D-alanine--D-alanyl carrier protein ligase	451516	Staphylococcus aureus (strain USA300 / TCH1516)	485	PF13193	395..473
+A8Z4L9	reviewed	2-succinylbenzoate--CoA ligase	451516	Staphylococcus aureus (strain USA300 / TCH1516)	492	PF13193	411..483
+A9IYZ3	reviewed	Acetyl-coenzyme A synthetase	382640	Bartonella tribocorum (strain CIP 105476 / IBS 506)	647	PF13193	531..609
+A9KY56	reviewed	Acetyl-coenzyme A synthetase	399599	Shewanella baltica (strain OS195)	650	PF13193	531..609
+A9M849	reviewed	Acetyl-coenzyme A synthetase	483179	Brucella canis (strain ATCC 23365 / NCTC 10854)	651	PF13193	531..611
+A9MQH7	reviewed	Crotonobetaine/carnitine--CoA ligase	41514	Salmonella arizonae (strain ATCC BAA-731 / CDC346-86 / RSK2980)	517	PF13193	435..510
+A9MYJ6	reviewed	Crotonobetaine/carnitine--CoA ligase	1016998	Salmonella paratyphi B (strain ATCC BAA-1250 / SPB7)	517	PF13193	435..510
+A9R2S1	reviewed	Bifunctional protein Aas	349746	Yersinia pestis bv. Antiqua (strain Angola)	718	PF13193	630..701
+A9VKV6	reviewed	D-alanine--D-alanyl carrier protein ligase	315730	Bacillus mycoides (strain KBAB4)	504	PF13193	413..492
+A9VM74	reviewed	2-succinylbenzoate--CoA ligase	315730	Bacillus mycoides (strain KBAB4)	481	PF13193	395..468
+A9W5V0	reviewed	Acetyl-coenzyme A synthetase	419610	Methylorubrum extorquens (strain PA1)	649	PF13193	530..608
+A9WWT6	reviewed	Acetyl-coenzyme A synthetase	470137	Brucella suis (strain ATCC 23445 / NCTC 10510)	651	PF13193	531..611
+B0CN26	reviewed	Nonribosomal peptide synthase SfmB	1914	Streptomyces lavendulae	1082	PF13193	853..930
+B0S8X7	reviewed	Acetyl-coenzyme A synthetase	355278	Leptospira biflexa serovar Patoc (strain Patoc 1 / Ames)	654	PF13193	535..613
+B0SRX5	reviewed	Acetyl-coenzyme A synthetase	456481	Leptospira biflexa serovar Patoc (strain Patoc 1 / ATCC 23582 / Paris)	654	PF13193	535..613
+B0TPY4	reviewed	Acetyl-coenzyme A synthetase	458817	Shewanella halifaxensis (strain HAW-EB4)	650	PF13193	531..609
+B1IRD9	reviewed	Crotonobetaine/carnitine--CoA ligase	481805	Escherichia coli (strain ATCC 8739 / DSM 1576 / NBRC 3972 / NCIMB 8545 / WDCM 00012 / Crooks)	517	PF13193	435..510
+B1JQC1	reviewed	Bifunctional protein Aas	502800	Yersinia pseudotuberculosis serotype O:3 (strain YPIII)	718	PF13193	630..701
+B1LFX0	reviewed	Crotonobetaine/carnitine--CoA ligase	439855	Escherichia coli (strain SMS-3-5 / SECEC)	517	PF13193	435..510
+B1M0M1	reviewed	Acetyl-coenzyme A synthetase	426355	Methylobacterium radiotolerans (strain ATCC 27329 / DSM 1819 / JCM 2831 / NBRC 15690 / NCIMB 10815 / 0-1)	648	PF13193	530..608
+B1XBG2	reviewed	Crotonobetaine/carnitine--CoA ligase	316385	Escherichia coli (strain K12 / DH10B)	517	PF13193	435..510
+B1ZB59	reviewed	Acetyl-coenzyme A synthetase	441620	Methylorubrum populi (strain ATCC BAA-705 / NCIMB 13946 / BJ001)	649	PF13193	530..608
+B2HHZ8	reviewed	Medium/long-chain-fatty-acid--CoA ligase FadD17	216594	Mycobacterium marinum (strain ATCC BAA-535 / M)	503	PF13193	403..479
+B2HI05	reviewed	Medium/long-chain-fatty-acid--CoA/3-oxocholest-4-en-26-oate--CoA ligase	216594	Mycobacterium marinum (strain ATCC BAA-535 / M)	550	PF13193	450..525
+B2HIL6	reviewed	p-hydroxybenzoic acid--AMP ligase FadD22	216594	Mycobacterium marinum (strain ATCC BAA-535 / M)	702	PF13193	402..480
+B2HKM1	reviewed	Fatty acid--[acyl-carrier-protein] ligase MmaC	216594	Mycobacterium marinum (strain ATCC BAA-535 / M)	531	PF13193	434..514
+B2IB12	reviewed	Acetyl-coenzyme A synthetase	395963	Beijerinckia indica subsp. indica (strain ATCC 9039 / DSM 1715 / NCIMB 8712)	645	PF13193	529..607
+B2JD61	reviewed	Acetyl-coenzyme A synthetase	391038	Paraburkholderia phymatum (strain DSM 17167 / CIP 108236 / LMG 21445 / STM815)	660	PF13193	544..625
+B2JZ75	reviewed	Bifunctional protein Aas	502801	Yersinia pseudotuberculosis serotype IB (strain PB1/+)	718	PF13193	630..701
+B2KWI3	reviewed	Acyl-CoA ligase SID4	5037	Ajellomyces capsulatus	589	PF13193	489..572
+B2S7N5	reviewed	Acetyl-coenzyme A synthetase	430066	Brucella abortus (strain S19)	651	PF13193	531..611
+B2U6V1	reviewed	Acetyl-coenzyme A synthetase	402626	Ralstonia pickettii (strain 12J)	660	PF13193	544..625
+B3PS41	reviewed	Acetyl-coenzyme A synthetase	491916	Rhizobium etli (strain CIAT 652)	651	PF13193	531..609
+B3R1X2	reviewed	Acetyl-coenzyme A synthetase	977880	Cupriavidus taiwanensis (strain DSM 17343 / BCRC 17206 / CCUG 44338 / CIP 107171 / LMG 19424 / R1)	660	PF13193	544..625
+B3WC77	reviewed	D-alanine--D-alanyl carrier protein ligase	543734	Lacticaseibacillus casei (strain BL23)	506	PF13193	416..494
+B4EY25	reviewed	Crotonobetaine/carnitine--CoA ligase	529507	Proteus mirabilis (strain HI4320)	518	PF13193	436..511
+B4T6J6	reviewed	Crotonobetaine/carnitine--CoA ligase	423368	Salmonella newport (strain SL254)	517	PF13193	435..510
+B4TIH0	reviewed	Crotonobetaine/carnitine--CoA ligase	454169	Salmonella heidelberg (strain SL476)	517	PF13193	435..510
+B4TWR4	reviewed	Crotonobetaine/carnitine--CoA ligase	439843	Salmonella schwarzengrund (strain CVM19633)	517	PF13193	435..510
+B5BL55	reviewed	Crotonobetaine/carnitine--CoA ligase	554290	Salmonella paratyphi A (strain AKU_12601)	517	PF13193	435..510
+B5F750	reviewed	Crotonobetaine/carnitine--CoA ligase	454166	Salmonella agona (strain SL483)	517	PF13193	435..510
+B5FHG5	reviewed	Crotonobetaine/carnitine--CoA ligase	439851	Salmonella dublin (strain CT_02021853)	517	PF13193	435..510
+B5R1R0	reviewed	Crotonobetaine/carnitine--CoA ligase	550537	Salmonella enteritidis PT4 (strain P125109)	517	PF13193	435..510
+B5XLX5	reviewed	D-alanine--D-alanyl carrier protein ligase	471876	Streptococcus pyogenes serotype M49 (strain NZ131)	512	PF13193	419..499
+B5YYD1	reviewed	Crotonobetaine/carnitine--CoA ligase	444450	Escherichia coli O157:H7 (strain EC4115 / EHEC)	517	PF13193	435..510
+B5Z6E9	reviewed	Acetyl-coenzyme A synthetase	563041	Helicobacter pylori (strain G27)	662	PF13193	541..623
+B5ZV36	reviewed	Acetyl-coenzyme A synthetase	395492	Rhizobium leguminosarum bv. trifolii (strain WSM2304)	651	PF13193	531..609
+B6HJU6	reviewed	Nonribosomal peptide synthase roqA	500485	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	2372	PF13193	667..712
+B6HLU1	reviewed	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase	500485	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	3746	PF13193	1809..1883,2891..2971
+B6HYY8	reviewed	Crotonobetaine/carnitine--CoA ligase	409438	Escherichia coli (strain SE11)	517	PF13193	435..510
+B6JKX8	reviewed	Acetyl-coenzyme A synthetase	570508	Helicobacter pylori (strain P12)	662	PF13193	541..623
+B7HHC6	reviewed	D-alanine--D-alanyl carrier protein ligase	405532	Bacillus cereus (strain B4264)	504	PF13193	413..492
+B7HK95	reviewed	D-alanine--D-alanyl carrier protein ligase	405534	Bacillus cereus (strain AH187)	504	PF13193	413..492
+B7HTW3	reviewed	2-succinylbenzoate--CoA ligase	405534	Bacillus cereus (strain AH187)	481	PF13193	395..468
+B7IN64	reviewed	D-alanine--D-alanyl carrier protein ligase	405531	Bacillus cereus (strain G9842)	504	PF13193	413..492
+B7JDD6	reviewed	2-succinylbenzoate--CoA ligase	405535	Bacillus cereus (strain AH820)	482	PF13193	396..469
+B7JFV5	reviewed	D-alanine--D-alanyl carrier protein ligase	405535	Bacillus cereus (strain AH820)	504	PF13193	413..492
+B7KPN8	reviewed	Acetyl-coenzyme A synthetase	440085	Methylorubrum extorquens (strain CM4 / NCIMB 13688)	652	PF13193	530..608
+B7L4G0	reviewed	Crotonobetaine/carnitine--CoA ligase	585055	Escherichia coli (strain 55989 / EAEC)	517	PF13193	435..510
+B7LWM8	reviewed	Crotonobetaine/carnitine--CoA ligase	585054	Escherichia fergusonii (strain ATCC 35469 / DSM 13698 / CCUG 18766 / IAM 14443 / JCM 21226 / LMG 7866 / NBRC 102419 / NCTC 12128 / CDC 0568-73)	517	PF13193	435..510
+B7M0D4	reviewed	Crotonobetaine/carnitine--CoA ligase	585034	Escherichia coli O8 (strain IAI1)	517	PF13193	435..510
+B7MAG0	reviewed	Crotonobetaine/carnitine--CoA ligase	585035	Escherichia coli O45:K1 (strain S88 / ExPEC)	517	PF13193	435..510
+B7MNP4	reviewed	Crotonobetaine/carnitine--CoA ligase	585397	Escherichia coli O81 (strain ED1a)	517	PF13193	435..510
+B7N7R2	reviewed	Crotonobetaine/carnitine--CoA ligase	585056	Escherichia coli O17:K52:H18 (strain UMN026 / ExPEC)	517	PF13193	435..510
+B7NHE1	reviewed	Crotonobetaine/carnitine--CoA ligase	585057	Escherichia coli O7:K1 (strain IAI39 / ExPEC)	517	PF13193	435..510
+B7UI83	reviewed	Crotonobetaine/carnitine--CoA ligase	574521	Escherichia coli O127:H6 (strain E2348/69 / EPEC)	517	PF13193	435..510
+B8DEG2	reviewed	D-alanine--D-alanyl carrier protein ligase	552536	Listeria monocytogenes serotype 4a (strain HCC23)	510	PF13193	420..498
+B8EPJ0	reviewed	Acetyl-coenzyme A synthetase	395965	Methylocella silvestris (strain DSM 15510 / CIP 108128 / LMG 27833 / NCIMB 13906 / BL2)	645	PF13193	529..607
+B8FIN2	reviewed	Acetyl-coenzyme A synthetase	218208	Desulfatibacillum aliphaticivorans	646	PF13193	527..605
+B8N0E8	reviewed	Nonribosomal peptide synthetase asaC	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	1021	PF13193	426..500
+B8NY88	reviewed	Nonribosomal peptide synthase agiA	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	7763	PF13193	1976..2059,4695..4777,7335..7412
+B8ZQ14	reviewed	D-alanine--D-alanyl carrier protein ligase	561276	Streptococcus pneumoniae (strain ATCC 700669 / Spain 23F-1)	516	PF13193	425..503
+B9DGD6	reviewed	Acetyl-coenzyme A synthetase, chloroplastic/glyoxysomal	3702	Arabidopsis thaliana	743	PF13193	627..705
+B9IUW2	reviewed	D-alanine--D-alanyl carrier protein ligase	361100	Bacillus cereus (strain Q1)	504	PF13193	413..492
+B9J2F2	reviewed	2-succinylbenzoate--CoA ligase	361100	Bacillus cereus (strain Q1)	481	PF13193	395..468
+B9JEV4	reviewed	Acetyl-coenzyme A synthetase	311403	Agrobacterium radiobacter (strain K84 / ATCC BAA-868)	652	PF13193	531..609
+B9JV43	reviewed	Acetyl-coenzyme A synthetase	311402	Allorhizobium ampelinum (strain ATCC BAA-846 / DSM 112012 / S4)	651	PF13193	531..609
+C0MBD6	reviewed	D-alanine--D-alanyl carrier protein ligase	553482	Streptococcus equi subsp. equi (strain 4047)	512	PF13193	420..499
+C0Q4L3	reviewed	Crotonobetaine/carnitine--CoA ligase	476213	Salmonella paratyphi C (strain RKS4594)	517	PF13193	435..510
+C0RF62	reviewed	Acetyl-coenzyme A synthetase	546272	Brucella melitensis biotype 2 (strain ATCC 23457)	651	PF13193	531..611
+C0SPB0	reviewed	Uncharacterized acyl--CoA ligase YtcI	224308	Bacillus subtilis (strain 168)	529	PF13193	432..510
+C1AA44	reviewed	Acetyl-coenzyme A synthetase	379066	Gemmatimonas aurantiaca (strain T-27 / DSM 14586 / JCM 11422 / NBRC 100505)	654	PF13193	537..615
+C1CB20	reviewed	D-alanine--D-alanyl carrier protein ligase	488221	Streptococcus pneumoniae (strain 70585)	516	PF13193	425..503
+C1CNE9	reviewed	D-alanine--D-alanyl carrier protein ligase	488223	Streptococcus pneumoniae (strain P1031)	516	PF13193	425..503
+C1CU95	reviewed	D-alanine--D-alanyl carrier protein ligase	487213	Streptococcus pneumoniae (strain Taiwan19F-14)	516	PF13193	425..503
+C1D6V9	reviewed	Acetyl-coenzyme A synthetase	557598	Laribacter hongkongensis (strain HLHK9)	653	PF13193	537..618
+C1EM80	reviewed	D-alanine--D-alanyl carrier protein ligase	572264	Bacillus cereus (strain 03BB102)	504	PF13193	413..492
+C1L1P5	reviewed	D-alanine--D-alanyl carrier protein ligase	568819	Listeria monocytogenes serotype 4b (strain CLIP80459)	510	PF13193	420..498
+C3LAH8	reviewed	D-alanine--D-alanyl carrier protein ligase	568206	Bacillus anthracis (strain CDC 684 / NRRL 3495)	503	PF13193	412..491
+C3LB87	reviewed	2-succinylbenzoate--CoA ligase	568206	Bacillus anthracis (strain CDC 684 / NRRL 3495)	482	PF13193	396..469
+C3MAS0	reviewed	Acetyl-coenzyme A synthetase	394	Sinorhizobium fredii (strain NBRC 101917 / NGR234)	649	PF13193	531..609
+C3P4I7	reviewed	D-alanine--D-alanyl carrier protein ligase	592021	Bacillus anthracis (strain A0248)	503	PF13193	412..491
+C3PCK3	reviewed	2-succinylbenzoate--CoA ligase	592021	Bacillus anthracis (strain A0248)	482	PF13193	396..469
+C4ZPW3	reviewed	Crotonobetaine/carnitine--CoA ligase	595496	Escherichia coli (strain K12 / MC4100 / BW2952)	517	PF13193	435..510
+C5D6U5	reviewed	2-succinylbenzoate--CoA ligase	471223	Geobacillus sp. (strain WCH70)	492	PF13193	399..474
+C5NN18	reviewed	Acyl-CoA synthetase ACTT5	5599	Alternaria alternata	578	PF13193	472..551
+C7ZBE4	reviewed	Nonribosomal peptide synthetase 30	660122	Fusarium vanettenii (strain ATCC MYA-4622 / CBS 123669 / FGSC 9596 / NRRL 45880 / 77-13-4)	5911	PF13193	5239..5335
+C8VTR6	reviewed	Putative acyl-coenzyme A synthetase	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	554	PF13193	456..534
+C9K7B5	reviewed	AM-toxin synthetase AMT1	5599	Alternaria alternata	4363	PF13193	1774..1856
+D4AU31	reviewed	PKS-NRPS hybrid synthetase swnK	663331	Arthroderma benhamiae (strain ATCC MYA-4681 / CBS 112371)	2567	PF13193	437..509
+D7PHZ3	reviewed	Malonamoyl-CoA synthetase vrtB	36650	Penicillium aethiopicum	723	PF13193	615..684
+D9XF47	reviewed	Phosphinothricin tripeptide synthase PhsC	591159	Streptomyces viridochromogenes (strain DSM 40736 / JCM 4977 / BCRC 1201 / Tue 494)	1086	PF13193	909..984
+D9XF49	reviewed	Phosphinothricin tripeptide synthase PhsB	591159	Streptomyces viridochromogenes (strain DSM 40736 / JCM 4977 / BCRC 1201 / Tue 494)	1189	PF13193	977..1054
+E2JA29	reviewed	Dapdiamide synthesis protein DdaD	549	Enterobacter agglomerans	578	PF13193	403..472
+E3UUE6	reviewed	3-oxocholest-4-en-26-oate--CoA ligase	1829	Rhodococcus rhodochrous	555	PF13193	449..524
+E9F8M3	reviewed	PKS-NRPS hybrid synthetase swnK	655844	Metarhizium robertsii (strain ARSEF 23 / ATCC MYA-3075)	2488	PF13193	431..503
+E9Q9W4	reviewed	Long-chain fatty acid transport protein 6	10090	Mus musculus	619	PF13193	495..571
+F4HUK6	reviewed	Butanoate--CoA ligase AAE1	3702	Arabidopsis thaliana	556	PF13193	458..532
+F4K1G2	reviewed	Putative acyl-activating enzyme 19	3702	Arabidopsis thaliana	1040	PF13193	388..466
+F4KBF3	reviewed	Probable acyl-activating enzyme 17, peroxisomal	3702	Arabidopsis thaliana	721	PF13193	619..702
+F8J3D9	reviewed	Marinolic acid--CoA ligase	747457	Pseudoalteromonas sp. (strain SANK 73390)	654	PF13193	492..567
+G3J455	reviewed	Acyl-CoA ligase cm3C	983644	Cordyceps militaris (strain CM01)	637	PF13193	543..624
+G3XMC0	reviewed	Acyl-CoA ligase azaF	380704	Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 / NCTC 3858a / NRRL 328 / USDA 3528.7)	531	PF13193	449..525
+G3XNF4	reviewed	PKS-NRPS hybrid synthetase ATPKS	380704	Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 / NCTC 3858a / NRRL 328 / USDA 3528.7)	1854	PF13193	432..505
+I3PB36	reviewed	Trans-cinnamate:CoA ligase, peroxisomal	4102	Petunia hybrida	570	PF13193	463..538
+I3PB37	reviewed	4-coumarate:CoA ligase 1	4102	Petunia hybrida	544	PF13193	453..528
+K0E2F3	reviewed	Fatty-acyl-AMP ligase ecdI	41736	Aspergillus rugulosus	559	PF13193	467..549
+K3VAW3	reviewed	Acyl-CoA ligase FPSE_09184	1028729	Fusarium pseudograminearum (strain CS3096)	579	PF13193	480..561
+M4IQQ5	reviewed	2-methylpropanoate--CoA ligase CCL4	3486	Humulus lupulus	556	PF13193	454..531
+M4IQQ7	reviewed	Probable CoA ligase CCL9	3486	Humulus lupulus	525	PF13193	426..501
+M4IQR7	reviewed	Probable CoA ligase CCL5	3486	Humulus lupulus	551	PF13193	462..537
+M4IQS1	reviewed	Probable CoA ligase CCL10	3486	Humulus lupulus	543	PF13193	454..529
+M4IRL4	reviewed	Isovalerate--CoA ligase CCL2	3486	Humulus lupulus	573	PF13193	480..556
+M4IRL6	reviewed	Probable CoA ligase CCL7	3486	Humulus lupulus	544	PF13193	455..530
+M4IRL9	reviewed	Probable CoA ligase CCL12	3486	Humulus lupulus	723	PF13193	634..703
+M4IS88	reviewed	Acetate--CoA ligase CCL3	3486	Humulus lupulus	568	PF13193	468..547
+M4IS90	reviewed	Probable CoA ligase CCL8	3486	Humulus lupulus	607	PF13193	506..591
+M4IS92	reviewed	Probable CoA ligase CCL13	3486	Humulus lupulus	573	PF13193	480..556
+M4ISH0	reviewed	4-coumarate--CoA ligase CCL1	3486	Humulus lupulus	548	PF13193	457..532
+M4ISH2	reviewed	Probable CoA ligase CCL11	3486	Humulus lupulus	563	PF13193	457..534
+O05307	reviewed	Medium/long-chain-fatty-acid--CoA ligase FadD6	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	597	PF13193	473..549
+O06417	reviewed	Medium/long-chain-fatty-acid--CoA ligase FadD8	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	571	PF13193	470..552
+O07610	reviewed	Long-chain-fatty-acid--CoA ligase	224308	Bacillus subtilis (strain 168)	513	PF13193	427..501
+O07619	reviewed	Uncharacterized acyl--CoA ligase YhfT	224308	Bacillus subtilis (strain 168)	479	PF13193	391..462
+O07899	reviewed	Vibriobactin-specific 2,3-dihydroxybenzoate-AMP ligase	243277	Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961)	543	PF13193	448..524
+O13440	reviewed	Acetyl-coenzyme A synthetase	5346	Coprinopsis cinerea	661	PF13193	539..621
+O14975	reviewed	Long-chain fatty acid transport protein 2	9606	Homo sapiens	620	PF13193	500..572
+O24145	reviewed	4-coumarate--CoA ligase 1	4097	Nicotiana tabacum	547	PF13193	456..531
+O24146	reviewed	4-coumarate--CoA ligase 2	4097	Nicotiana tabacum	542	PF13193	451..526
+O24540	reviewed	4-coumarate--CoA ligase	51239	Vanilla planifolia	553	PF13193	460..535
+O25686	reviewed	Acetyl-coenzyme A synthetase	85962	Helicobacter pylori (strain ATCC 700392 / 26695)	662	PF13193	541..623
+O30408	reviewed	Tyrocidine synthase 2	54914	Brevibacillus parabrevis	3587	PF13193	878..951,1913..1986,2946..3019
+O30409	reviewed	Tyrocidine synthase 3	54914	Brevibacillus parabrevis	6486	PF13193	871..944,1908..1981,2946..3019,3981..4054,5025..5098,6067..6141
+O31782	reviewed	Polyketide synthase PksN	224308	Bacillus subtilis (strain 168)	5488	PF13193	888..962
+O31826	reviewed	Putative acyl-CoA synthetase YngI	224308	Bacillus subtilis (strain 168)	549	PF13193	454..529
+O31827	reviewed	Plipastatin synthase subunit E	224308	Bacillus subtilis (strain 168)	1279	PF13193	882..954
+O33855	reviewed	Medium-chain acyl-CoA ligase Mig	1764	Mycobacterium avium	550	PF13193	462..537
+O35488	reviewed	Long-chain fatty acid transport protein 2	10090	Mus musculus	620	PF13193	496..572
+O53551	reviewed	Medium/long-chain-fatty-acid--CoA ligase FadD17	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	502	PF13193	404..480
+O54075	reviewed	4-coumarate--CoA ligase	272943	Cereibacter sphaeroides (strain ATCC 17023 / DSM 158 / JCM 6121 / CCUG 31486 / LMG 2827 / NBRC 12203 / NCIMB 8253 / ATH 2.4.1.)	411	PF13193	338..407
+O54154	reviewed	L-proline--[L-prolyl-carrier protein] ligase	100226	Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145)	532	PF13193	435..510
+O60011	reviewed	Acetyl-coenzyme A synthetase 1	284590	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	707	PF13193	584..669
+O68006	reviewed	Bacitracin synthase 1	1402	Bacillus licheniformis	5255	PF13193	445..518,1482..1555,2522..2595,3563..3636,5072..5145
+O68007	reviewed	Bacitracin synthase 2	1402	Bacillus licheniformis	2607	PF13193	921..995,1965..2038
+O68008	reviewed	Bacitracin synthase 3	1402	Bacillus licheniformis	6359	PF13193	867..940,1899..1972,3404..3477,4447..4520,5953..6026
+O68040	reviewed	Acetyl-coenzyme A synthetase	272942	Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003)	656	PF13193	538..616
+O69140	reviewed	4-coumarate--CoA ligase	272942	Rhodobacter capsulatus (strain ATCC BAA-309 / NBRC 16581 / SB1003)	384	PF13193	325..379
+O70490	reviewed	Acyl-coenzyme A synthetase ACSM2, mitochondrial	10116	Rattus norvegicus	572	PF13193	477..557
+O74976	reviewed	Oxalate--CoA ligase	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	512	PF13193	419..494
+O80658	reviewed	Probable acyl-activating enzyme 4	3702	Arabidopsis thaliana	545	PF13193	455..531
+O88561	reviewed	Long-chain fatty acid transport protein 3	10090	Mus musculus	667	PF13193	543..619
+O93730	reviewed	Acetyl-coenzyme A synthetase	178306	Pyrobaculum aerophilum (strain ATCC 51768 / DSM 7523 / JCM 9630 / CIP 104966 / NBRC 100827 / IM2)	670	PF13193	548..626
+O93800	reviewed	Acyl-CoA ligase AKT1	5599	Alternaria alternata	578	PF13193	473..554
+O94049	reviewed	Acetyl-coenzyme A synthetase 1	5476	Candida albicans	675	PF13193	553..634
+P08659	reviewed	Luciferin 4-monooxygenase	7054	Photinus pyralis	550	PF13193	453..529
+P09095	reviewed	Tyrocidine synthase 1	54914	Brevibacillus parabrevis	1088	PF13193	433..506
+P0A398	reviewed	D-alanine--D-alanyl carrier protein ligase	170187	Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)	516	PF13193	425..503
+P0A399	reviewed	D-alanine--D-alanyl carrier protein ligase	171101	Streptococcus pneumoniae (strain ATCC BAA-255 / R6)	516	PF13193	425..503
+P0C061	reviewed	Gramicidin S synthase 1	47500	Aneurinibacillus migulanus	1098	PF13193	444..517
+P0C062	reviewed	Gramicidin S synthase 1	1393	Brevibacillus brevis	1098	PF13193	444..517
+P0C063	reviewed	Gramicidin S synthase 2	47500	Aneurinibacillus migulanus	4451	PF13193	877..950,1912..1985,2959..3031,3996..4069
+P0C064	reviewed	Gramicidin S synthase 2	1393	Brevibacillus brevis	4450	PF13193	877..950,1912..1985,2957..3030,3995..4068
+P0C397	reviewed	D-alanine--D-alanyl carrier protein ligase	1280	Staphylococcus aureus	485	PF13193	395..473
+P0C5B6	reviewed	OPC-6:CoA ligase	3702	Arabidopsis thaliana	550	PF13193	461..536
+P0C7M7	reviewed	Acyl-coenzyme A synthetase ACSM4, mitochondrial	9606	Homo sapiens	580	PF13193	486..566
+P0DA64	reviewed	D-alanine--D-alanyl carrier protein ligase	198466	Streptococcus pyogenes serotype M3 (strain ATCC BAA-595 / MGAS315)	512	PF13193	419..499
+P0DA65	reviewed	D-alanine--D-alanyl carrier protein ligase	193567	Streptococcus pyogenes serotype M3 (strain SSI-1)	512	PF13193	419..499
+P0DJH0	reviewed	Anguibactin system regulator	55601	Vibrio anguillarum	1048	PF13193	863..942
+P0DUV3	reviewed	Malpicyclin synthetase	64518	Mortierella alpina	5532	PF13193	803..876,1903..1976,2959..3032,4036..4109,5115..5188
+P0DUV4	reviewed	Malpibaldin synthetase	64518	Mortierella alpina	5541	PF13193	807..880,1907..1980,2964..3037,4046..4119,5125..5198
+P0DX14	reviewed	Fatty acid--[acyl-carrier-protein] ligase ScoC	116188	Streptomyces coeruleorubidus	519	PF13193	425..500
+P0DX16	reviewed	Isonitrile lipopeptide synthase	116188	Streptomyces coeruleorubidus	1470	PF13193	869..943
+P10378	reviewed	Enterobactin synthase component E	83333	Escherichia coli (strain K12)	536	PF13193	446..520
+P13129	reviewed	Luciferin 4-monooxygenase	7051	Nipponoluciola cruciata	548	PF13193	455..531
+P14912	reviewed	4-coumarate--CoA ligase 1	4043	Petroselinum crispum	544	PF13193	452..527
+P14913	reviewed	4-coumarate--CoA ligase 2	4043	Petroselinum crispum	544	PF13193	452..527
+P16928	reviewed	Acetyl-coenzyme A synthetase	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	670	PF13193	550..628
+P16929	reviewed	Acetyl-coenzyme A synthetase	367110	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	667	PF13193	548..626
+P17814	reviewed	4-coumarate--CoA ligase 1	39947	Oryza sativa subsp. japonica	564	PF13193	471..547
+P19409	reviewed	Bile acid--coenzyme A ligase	29347	Clostridium scindens (strain JCM 10418 / VPI 12708)	520	PF13193	432..505
+P19787	reviewed	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase	5076	Penicillium chrysogenum	3746	PF13193	1809..1883,2891..2971
+P23971	reviewed	2-succinylbenzoate--CoA ligase	224308	Bacillus subtilis (strain 168)	486	PF13193	398..471
+P25464	reviewed	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase	5044	Acremonium chrysogenum	3712	PF13193	1785..1860,2858..2936
+P27095	reviewed	Acetyl-coenzyme A synthetase	2223	Methanothrix soehngenii	672	PF13193	560..638
+P27206	reviewed	Surfactin synthase subunit 1	224308	Bacillus subtilis (strain 168)	3587	PF13193	875..950,1916..1989,2946..3018
+P27550	reviewed	Acetyl-coenzyme A synthetase	83333	Escherichia coli (strain K12)	652	PF13193	531..609
+P27742	reviewed	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	3770	PF13193	1835..1909,2915..2995
+P27743	reviewed	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase	1913	Amycolatopsis lactamdurans	3649	PF13193	677..752,1765..1838,2811..2889
+P28812	reviewed	Uncharacterized protein PA3568	208964	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	628	PF13193	509..588
+P31552	reviewed	Crotonobetaine/carnitine--CoA ligase	83333	Escherichia coli (strain K12)	517	PF13193	435..510
+P31638	reviewed	Acetyl-coenzyme A synthetase	381666	Cupriavidus necator (strain ATCC 17699 / DSM 428 / KCTC 22496 / NCIMB 10442 / H16 / Stanier 337)	660	PF13193	544..625
+P31684	reviewed	4-coumarate--CoA ligase 1	4113	Solanum tuberosum	545	PF13193	454..529
+P31685	reviewed	4-coumarate--CoA ligase 2	4113	Solanum tuberosum	545	PF13193	454..529
+P31686	reviewed	4-coumarate--CoA ligase 1	3847	Glycine max	293	PF13193	201..277
+P31687	reviewed	4-coumarate--CoA ligase 2	3847	Glycine max	562	PF13193	469..544
+P35854	reviewed	D-alanine--D-alanyl carrier protein ligase	47715	Lacticaseibacillus rhamnosus	506	PF13193	415..494
+P36333	reviewed	Acetyl-coenzyme A synthetase	5076	Penicillium chrysogenum	669	PF13193	550..627
+P37353	reviewed	2-succinylbenzoate--CoA ligase	83333	Escherichia coli (strain K12)	451	PF13193	366..423
+P37418	reviewed	2-succinylbenzoate--CoA ligase	99287	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	455	PF13193	366..424
+P38135	reviewed	Medium-chain fatty-acid--CoA ligase	83333	Escherichia coli (strain K12)	566	PF13193	466..543
+P38137	reviewed	Oxalate--CoA ligase	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	543	PF13193	448..523
+P39062	reviewed	Acetyl-coenzyme A synthetase	224308	Bacillus subtilis (strain 168)	572	PF13193	471..549
+P39581	reviewed	D-alanine--D-alanyl carrier protein ligase	224308	Bacillus subtilis (strain 168)	503	PF13193	412..491
+P39845	reviewed	Plipastatin synthase subunit A	224308	Bacillus subtilis (strain 168)	2561	PF13193	872..941,1916..1988
+P39846	reviewed	Plipastatin synthase subunit B	224308	Bacillus subtilis (strain 168)	2560	PF13193	873..946,1911..1986
+P39847	reviewed	Plipastatin synthase subunit C	224308	Bacillus subtilis (strain 168)	2555	PF13193	878..947,1911..1984
+P40806	reviewed	Polyketide synthase PksJ	224308	Bacillus subtilis (strain 168)	5043	PF13193	1563..1633
+P40871	reviewed	2,3-dihydroxybenzoate-AMP ligase	224308	Bacillus subtilis (strain 168)	539	PF13193	444..519
+P41636	reviewed	4-coumarate--CoA ligase	3352	Pinus taeda	537	PF13193	451..524
+P42516	reviewed	4-coumarate--CoA ligase	1053	Halorhodospira halophila	391	PF13193	317..389
+P45745	reviewed	Dimodular nonribosomal peptide synthase	224308	Bacillus subtilis (strain 168)	2378	PF13193	869..942,1943..2017
+P46450	reviewed	Long-chain-fatty-acid--CoA ligase	71421	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	562	PF13193	471..545
+P52910	reviewed	Acetyl-coenzyme A synthetase 2	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	683	PF13193	547..637
+P55912	reviewed	Propionate--CoA ligase	99287	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	628	PF13193	509..592
+P58730	reviewed	2-succinylbenzoate--CoA ligase	169963	Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e)	467	PF13193	382..455
+P59591	reviewed	D-alanine--D-alanyl carrier protein ligase	208435	Streptococcus agalactiae serotype V (strain ATCC BAA-611 / 2603 V/R)	511	PF13193	420..499
+P59871	reviewed	Acetyl-coenzyme A synthetase	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	651	PF13193	539..617
+P59872	reviewed	Acetyl-coenzyme A synthetase	243090	Rhodopirellula baltica (strain DSM 10527 / NCIMB 13988 / SH1)	671	PF13193	559..636
+P63521	reviewed	Long-chain-fatty-acid--CoA ligase	99287	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	561	PF13193	469..543
+P63522	reviewed	Long-chain-fatty-acid--CoA ligase	90370	Salmonella typhi	561	PF13193	469..543
+P63525	reviewed	2-succinylbenzoate--CoA ligase	158878	Staphylococcus aureus (strain Mu50 / ATCC 700699)	492	PF13193	411..483
+P63526	reviewed	2-succinylbenzoate--CoA ligase	158879	Staphylococcus aureus (strain N315)	492	PF13193	411..483
+P68876	reviewed	D-alanine--D-alanyl carrier protein ligase	158878	Staphylococcus aureus (strain Mu50 / ATCC 700699)	485	PF13193	395..473
+P68878	reviewed	D-alanine--D-alanyl carrier protein ligase	196620	Staphylococcus aureus (strain MW2)	485	PF13193	395..473
+P69451	reviewed	Long-chain-fatty-acid--CoA ligase	83333	Escherichia coli (strain K12)	561	PF13193	469..543
+P69452	reviewed	Long-chain-fatty-acid--CoA ligase	199310	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)	561	PF13193	469..543
+P71716	reviewed	Salicyl-AMP ligase / salicyl-S-ArCP synthetase	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	565	PF13193	468..542
+P77495	reviewed	Propionate--CoA ligase	83333	Escherichia coli (strain K12)	628	PF13193	509..592
+P78773	reviewed	Probable acetyl-coenzyme A synthetase	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	662	PF13193	541..618
+P80435	reviewed	3-hydroxy-4-methylanthranilate adenylyltransferase	1892	Streptomyces anulatus	472	PF13193	376..443
+P80436	reviewed	Triostin synthetase I	45399	Streptomyces triostinicus	527	PF13193	437..512
+P86831	reviewed	4-chlorobenzoate--CoA ligase	1667	Arthrobacter sp.	522	PF13193	415..487
+P86832	reviewed	4-chlorobenzoate--CoA ligase	1667	Arthrobacter sp.	522	PF13193	415..487
+P94459	reviewed	Plipastatin synthase subunit D	224308	Bacillus subtilis (strain 168)	3603	PF13193	873..946,1908..1977,2940..3013
+P94547	reviewed	Long-chain-fatty-acid--CoA ligase	224308	Bacillus subtilis (strain 168)	560	PF13193	468..543
+P96575	reviewed	Putative acyl--CoA ligase YdaB	224308	Bacillus subtilis (strain 168)	503	PF13193	416..490
+P96843	reviewed	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	507	PF13193	422..497
+P97524	reviewed	Long-chain fatty acid transport protein 2	10116	Rattus norvegicus	620	PF13193	496..572
+P97849	reviewed	Long-chain fatty acid transport protein 1	10116	Rattus norvegicus	646	PF13193	523..598
+P99107	reviewed	D-alanine--D-alanyl carrier protein ligase	158879	Staphylococcus aureus (strain N315)	485	PF13193	395..473
+P9WEQ8	reviewed	Nicotinic acid-CoA ligase olcI	5083	Penicillium canescens	546	PF13193	445..523
+P9WER8	reviewed	Malpinin synthetase	64518	Mortierella alpina	7760	PF13193	821..905,1901..1982,2981..3062,4065..4153,5141..5229,6232..6317,7319..7407
+P9WQ36	reviewed	Long-chain-fatty-acid--CoA ligase FadD13	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	503	PF13193	413..487
+P9WQ37	reviewed	Long-chain-fatty-acid--CoA ligase FadD13	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	503	PF13193	413..487
+P9WQ38	reviewed	Probable 2-succinylbenzoate--CoA ligase	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	383	PF13193	292..367
+P9WQ39	reviewed	Probable 2-succinylbenzoate--CoA ligase	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	383	PF13193	292..367
+P9WQ50	reviewed	Medium/long-chain-fatty-acid--CoA/3-oxocholest-4-en-26-oate--CoA ligase	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	548	PF13193	446..521
+P9WQ51	reviewed	Medium/long-chain-fatty-acid--CoA/3-oxocholest-4-en-26-oate--CoA ligase	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	548	PF13193	446..521
+P9WQ54	reviewed	Medium/long-chain-fatty-acid--[acyl-carrier-protein] ligase FadD10	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	540	PF13193	439..519
+P9WQ55	reviewed	Medium/long-chain-fatty-acid--[acyl-carrier-protein] ligase FadD10	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	540	PF13193	439..519
+P9WQ60	reviewed	p-hydroxybenzoic acid--AMP ligase FadD22	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	705	PF13193	402..480
+P9WQ61	reviewed	p-hydroxybenzoic acid--AMP ligase FadD22	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	705	PF13193	402..480
+P9WQ62	reviewed	Phenyloxazoline synthase MbtB	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	1414	PF13193	959..1031
+P9WQ63	reviewed	Phenyloxazoline synthase MbtB	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	1414	PF13193	959..1031
+P9WQD0	reviewed	Acetyl-coenzyme A synthetase	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	651	PF13193	539..617
+P9WQD1	reviewed	Acetyl-coenzyme A synthetase	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	651	PF13193	539..617
+Q00594	reviewed	Medium-chain-fatty-acid--CoA ligase	301	Pseudomonas oleovorans	546	PF13193	448..523
+Q01158	reviewed	Luciferin 4-monooxygenase	7052	Aquatica lateralis	548	PF13193	455..531
+Q01574	reviewed	Acetyl-coenzyme A synthetase 1	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	713	PF13193	590..675
+Q01576	reviewed	Acetyl-coenzyme A synthetase	763407	Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 / FGSC 10004 / NBRC 33097 / NRRL 1555)	672	PF13193	547..625
+Q03AZ2	reviewed	D-alanine--D-alanyl carrier protein ligase	321967	Lacticaseibacillus paracasei (strain ATCC 334 / BCRC 17002 / CCUG 31169 / CIP 107868 / KCTC 3260 / NRRL B-441)	506	PF13193	416..494
+Q04747	reviewed	Surfactin synthase subunit 2	224308	Bacillus subtilis (strain 168)	3583	PF13193	872..945,1912..1984,2942..3014
+Q04HZ7	reviewed	D-alanine--D-alanyl carrier protein ligase	373153	Streptococcus pneumoniae serotype 2 (strain D39 / NCTC 7466)	516	PF13193	425..503
+Q04P35	reviewed	Acetyl-coenzyme A synthetase	355277	Leptospira borgpetersenii serovar Hardjo-bovis (strain JB197)	654	PF13193	535..613
+Q056J9	reviewed	Acetyl-coenzyme A synthetase	355276	Leptospira borgpetersenii serovar Hardjo-bovis (strain L550)	654	PF13193	535..613
+Q07VK4	reviewed	Acetyl-coenzyme A synthetase	316055	Rhodopseudomonas palustris (strain BisA53)	648	PF13193	528..606
+Q084J4	reviewed	Acetyl-coenzyme A synthetase	318167	Shewanella frigidimarina (strain NCIMB 400)	650	PF13193	531..609
+Q08787	reviewed	Surfactin synthase subunit 3	224308	Bacillus subtilis (strain 168)	1275	PF13193	875..948
+Q08AH1	reviewed	Acyl-coenzyme A synthetase ACSM1, mitochondrial	9606	Homo sapiens	577	PF13193	483..563
+Q08AH3	reviewed	Acyl-coenzyme A synthetase ACSM2A, mitochondrial	9606	Homo sapiens	577	PF13193	477..557
+Q0AAW0	reviewed	Acetyl-coenzyme A synthetase	187272	Alkalilimnicola ehrlichii (strain ATCC BAA-1101 / DSM 17681 / MLHE-1)	645	PF13193	528..606
+Q0AFF1	reviewed	Acetyl-coenzyme A synthetase	335283	Nitrosomonas eutropha (strain DSM 101675 / C91 / Nm57)	655	PF13193	539..620
+Q0DV32	reviewed	4-coumarate--CoA ligase-like 1	39947	Oryza sativa subsp. japonica	552	PF13193	462..537
+Q0E7C4	reviewed	Vanchrobactin synthase VabF	55601	Vibrio anguillarum	2835	PF13193	889..969
+Q0HHN4	reviewed	Acetyl-coenzyme A synthetase	60480	Shewanella sp. (strain MR-4)	650	PF13193	531..609
+Q0HTY6	reviewed	Acetyl-coenzyme A synthetase	60481	Shewanella sp. (strain MR-7)	650	PF13193	531..609
+Q0K844	reviewed	Probable sulfoacetate--CoA ligase	381666	Cupriavidus necator (strain ATCC 17699 / DSM 428 / KCTC 22496 / NCIMB 10442 / H16 / Stanier 337)	509	PF13193	424..499
+Q0P4F7	reviewed	Medium-chain acyl-CoA ligase ACSF2, mitochondrial	7955	Danio rerio	606	PF13193	515..590
+Q0S4D7	reviewed	Steroid-22-oyl-CoA synthetase	101510	Rhodococcus jostii (strain RHA1)	555	PF13193	425..501
+Q0S4D9	reviewed	Steroid-24-oyl-CoA synthetase	101510	Rhodococcus jostii (strain RHA1)	553	PF13193	469..545
+Q0S7V5	reviewed	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase	101510	Rhodococcus jostii (strain RHA1)	515	PF13193	429..504
+Q0T8F7	reviewed	Crotonobetaine/carnitine--CoA ligase	373384	Shigella flexneri serotype 5b (strain 8401)	510	PF13193	435..494
+Q0TLV2	reviewed	Crotonobetaine/carnitine--CoA ligase	362663	Escherichia coli O6:K15:H31 (strain 536 / UPEC)	517	PF13193	435..510
+Q0VSR6	reviewed	Acetyl-coenzyme A synthetase	393595	Alcanivorax borkumensis (strain ATCC 700651 / DSM 11573 / NCIMB 13689 / SK2)	645	PF13193	528..606
+Q0VZ70	reviewed	Chondramide synthase cmdD	52	Chondromyces crocatus	3912	PF13193	2893..2968
+Q10896	reviewed	Isonitrile lipopeptide synthase	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	2512	PF13193	1890..1965
+Q10S72	reviewed	4-coumarate--CoA ligase-like 4	39947	Oryza sativa subsp. japonica	552	PF13193	463..538
+Q12MK0	reviewed	Acetyl-coenzyme A synthetase	318161	Shewanella denitrificans (strain OS217 / ATCC BAA-1090 / DSM 15013)	651	PF13193	533..611
+Q14DH7	reviewed	Acyl-CoA synthetase short-chain family member 3, mitochondrial	10090	Mus musculus	682	PF13193	566..644
+Q15YI8	reviewed	Acetyl-coenzyme A synthetase	342610	Pseudoalteromonas atlantica (strain T6c / ATCC BAA-1087)	646	PF13193	529..607
+Q17577	reviewed	Acyl-CoA synthetase 7	6239	Caenorhabditis elegans	540	PF13193	446..522
+Q17QJ1	reviewed	Medium-chain acyl-CoA ligase ACSF2, mitochondrial	9913	Bos taurus	615	PF13193	524..599
+Q17WR1	reviewed	Acetyl-coenzyme A synthetase	382638	Helicobacter acinonychis (strain Sheeba)	662	PF13193	541..623
+Q1AXQ5	reviewed	Acetyl-coenzyme A synthetase	266117	Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129 / PRD-1)	644	PF13193	527..605
+Q1C0N0	reviewed	Acetyl-coenzyme A synthetase	360102	Yersinia pestis bv. Antiqua (strain Antiqua)	652	PF13193	531..609
+Q1CAS8	reviewed	Bifunctional protein Aas	360102	Yersinia pestis bv. Antiqua (strain Antiqua)	718	PF13193	630..701
+Q1CE37	reviewed	Acetyl-coenzyme A synthetase	377628	Yersinia pestis bv. Antiqua (strain Nepal516)	652	PF13193	531..609
+Q1CUA3	reviewed	Acetyl-coenzyme A synthetase	357544	Helicobacter pylori (strain HPAG1)	662	PF13193	541..623
+Q1H0J2	reviewed	Acetyl-coenzyme A synthetase	265072	Methylobacillus flagellatus (strain KT / ATCC 51484 / DSM 6875)	654	PF13193	537..618
+Q1IAK8	reviewed	Pseudomonine synthase PmsE	384676	Pseudomonas entomophila (strain L48)	611	PF13193	448..523
+Q1IAL0	reviewed	Pseudomonine synthase PmsD	384676	Pseudomonas entomophila (strain L48)	1438	PF13193	1274..1350
+Q1J667	reviewed	D-alanine--D-alanyl carrier protein ligase	370554	Streptococcus pyogenes serotype M4 (strain MGAS10750)	512	PF13193	419..499
+Q1JGF0	reviewed	D-alanine--D-alanyl carrier protein ligase	370552	Streptococcus pyogenes serotype M2 (strain MGAS10270)	512	PF13193	419..499
+Q1JLB7	reviewed	D-alanine--D-alanyl carrier protein ligase	370551	Streptococcus pyogenes serotype M12 (strain MGAS9429)	512	PF13193	419..499
+Q1LL27	reviewed	Acetyl-coenzyme A synthetase	266264	Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34)	660	PF13193	544..625
+Q1QEB6	reviewed	Acetyl-coenzyme A synthetase	335284	Psychrobacter cryohalolentis (strain ATCC BAA-1226 / DSM 17306 / VKM B-2378 / K5)	655	PF13193	533..611
+Q1RGG1	reviewed	Crotonobetaine/carnitine--CoA ligase	364106	Escherichia coli (strain UTI89 / UPEC)	517	PF13193	435..510
+Q21166	reviewed	Acetoacetyl-CoA synthetase	6239	Caenorhabditis elegans	700	PF13193	587..665
+Q21LV0	reviewed	Acetyl-coenzyme A synthetase	203122	Saccharophagus degradans (strain 2-40 / ATCC 43961 / DSM 17024)	645	PF13193	528..606
+Q26304	reviewed	Luciferin 4-monooxygenase	27446	Luciola mingrelica	548	PF13193	455..531
+Q27549	reviewed	Acetyl-coenzyme A synthetase	5807	Cryptosporidium parvum	694	PF13193	567..653
+Q27757	reviewed	Luciferin 4-monooxygenase	1710587	Photuris pensylvanica	545	PF13193	452..528
+Q2FFU9	reviewed	2-succinylbenzoate--CoA ligase	367830	Staphylococcus aureus (strain USA300)	492	PF13193	411..483
+Q2FIE3	reviewed	D-alanine--D-alanyl carrier protein ligase	367830	Staphylococcus aureus (strain USA300)	485	PF13193	395..473
+Q2FZW6	reviewed	D-alanine--D-alanyl carrier protein ligase	93061	Staphylococcus aureus (strain NCTC 8325 / PS 47)	485	PF13193	395..473
+Q2G2V3	reviewed	2-succinylbenzoate--CoA ligase	93061	Staphylococcus aureus (strain NCTC 8325 / PS 47)	492	PF13193	411..483
+Q2G512	reviewed	Acetyl-coenzyme A synthetase	279238	Novosphingobium aromaticivorans (strain ATCC 700278 / DSM 12444 / CCUG 56034 / CIP 105152 / NBRC 16084 / F199)	649	PF13193	529..607
+Q2K2T1	reviewed	Acetyl-coenzyme A synthetase	347834	Rhizobium etli (strain CFN 42 / ATCC 51251)	651	PF13193	531..609
+Q2LW77	reviewed	Acetyl-coenzyme A synthetase	56780	Syntrophus aciditrophicus (strain SB)	647	PF13193	527..605
+Q2NR28	reviewed	Acetyl-coenzyme A synthetase	343509	Sodalis glossinidius (strain morsitans)	652	PF13193	531..609
+Q2NXE2	reviewed	Acetyl-coenzyme A synthetase	342109	Xanthomonas oryzae pv. oryzae (strain MAFF 311018)	647	PF13193	530..608
+Q2T3N9	reviewed	Acetyl-coenzyme A synthetase	271848	Burkholderia thailandensis (strain ATCC 700388 / DSM 13276 / CCUG 48851 / CIP 106301 / E264)	660	PF13193	544..625
+Q2T4N2	reviewed	Polyketide synthase ThaH	271848	Burkholderia thailandensis (strain ATCC 700388 / DSM 13276 / CCUG 48851 / CIP 106301 / E264)	3925	PF13193	972..1046
+Q2UB01	reviewed	Acyl-CoA ligase ppsA	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	561	PF13193	462..540
+Q2YLH5	reviewed	Acetyl-coenzyme A synthetase	359391	Brucella abortus (strain 2308)	651	PF13193	531..611
+Q2YTP0	reviewed	2-succinylbenzoate--CoA ligase	273036	Staphylococcus aureus (strain bovine RF122 / ET3-1)	492	PF13193	411..483
+Q2YWQ8	reviewed	D-alanine--D-alanyl carrier protein ligase	273036	Staphylococcus aureus (strain bovine RF122 / ET3-1)	485	PF13193	395..473
+Q32K60	reviewed	Crotonobetaine/carnitine--CoA ligase	300267	Shigella dysenteriae serotype 1 (strain Sd197)	517	PF13193	435..510
+Q336M7	reviewed	4-coumarate--CoA ligase-like 2	39947	Oryza sativa subsp. japonica	583	PF13193	470..522
+Q39EK2	reviewed	Acetyl-coenzyme A synthetase	482957	Burkholderia lata (strain ATCC 17760 / DSM 23089 / LMG 22485 / NCIMB 9086 / R18194 / 383)	660	PF13193	544..625
+Q3E6Y4	reviewed	4-coumarate--CoA ligase-like 3	3702	Arabidopsis thaliana	552	PF13193	463..538
+Q3IFM6	reviewed	Acetyl-coenzyme A synthetase	326442	Pseudoalteromonas translucida (strain TAC 125)	646	PF13193	529..607
+Q3JH62	reviewed	Acetyl-coenzyme A synthetase	320372	Burkholderia pseudomallei (strain 1710b)	660	PF13193	544..625
+Q3JZ94	reviewed	D-alanine--D-alanyl carrier protein ligase	205921	Streptococcus agalactiae serotype Ia (strain ATCC 27591 / A909 / CDC SS700)	511	PF13193	420..499
+Q3SLF4	reviewed	Acetyl-coenzyme A synthetase	292415	Thiobacillus denitrificans (strain ATCC 25259)	655	PF13193	538..619
+Q3UNX5	reviewed	Acyl-coenzyme A synthetase ACSM3, mitochondrial	10090	Mus musculus	580	PF13193	486..566
+Q3URE1	reviewed	Malonate--CoA ligase ACSF3, mitochondrial	10090	Mus musculus	583	PF13193	486..561
+Q3Z5X2	reviewed	Crotonobetaine/carnitine--CoA ligase	300269	Shigella sonnei (strain Ss046)	517	PF13193	435..510
+Q3ZKN0	reviewed	Long-chain fatty acid transport protein 1	9913	Bos taurus	646	PF13193	523..598
+Q42524	reviewed	4-coumarate--CoA ligase 1	3702	Arabidopsis thaliana	561	PF13193	472..547
+Q42982	reviewed	4-coumarate--CoA ligase 2	39947	Oryza sativa subsp. japonica	569	PF13193	481..556
+Q46Z41	reviewed	Acetyl-coenzyme A synthetase	264198	Cupriavidus pinatubonensis (strain JMP 134 / LMG 1197)	660	PF13193	544..625
+Q48G09	reviewed	Acetyl-coenzyme A synthetase	264730	Pseudomonas savastanoi pv. phaseolicola (strain 1448A / Race 6)	651	PF13193	531..609
+Q48SZ3	reviewed	D-alanine--D-alanyl carrier protein ligase	319701	Streptococcus pyogenes serotype M28 (strain MGAS6180)	512	PF13193	419..499
+Q499N5	reviewed	Medium-chain acyl-CoA ligase ACSF2, mitochondrial	10116	Rattus norvegicus	615	PF13193	524..599
+Q4FVA1	reviewed	Acetyl-coenzyme A synthetase	259536	Psychrobacter arcticus (strain DSM 17307 / VKM B-2377 / 273-4)	653	PF13193	533..611
+Q4G176	reviewed	Malonate--CoA ligase ACSF3, mitochondrial	9606	Homo sapiens	576	PF13193	488..563
+Q4KCY5	reviewed	L-proline--[L-prolyl-carrier protein] ligase	220664	Pseudomonas fluorescens (strain ATCC BAA-477 / NRRL B-23932 / Pf-5)	498	PF13193	412..486
+Q4L3Q0	reviewed	Putative long chain fatty acid-CoA ligase VraA	279808	Staphylococcus haemolyticus (strain JCSC1435)	461	PF13193	372..444
+Q4L4U5	reviewed	D-alanine--D-alanyl carrier protein ligase	279808	Staphylococcus haemolyticus (strain JCSC1435)	485	PF13193	395..473
+Q4LDG0	reviewed	Long-chain fatty acid transport protein 5	10090	Mus musculus	689	PF13193	565..640
+Q4R4Z9	reviewed	Medium-chain acyl-CoA ligase ACSF2, mitochondrial	9541	Macaca fascicularis	618	PF13193	527..602
+Q4UP35	reviewed	Acetyl-coenzyme A synthetase	314565	Xanthomonas campestris pv. campestris (strain 8004)	647	PF13193	530..608
+Q4WF61	reviewed	Nonribosomal peptide synthase sidE	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	2109	PF13193	430..506
+Q4WLD5	reviewed	Nicotinic acid-CoA ligase pyr1	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	581	PF13193	477..555
+Q4WR82	reviewed	Nonribosomal peptide synthetase sidC	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	4763	PF13193	727..809
+Q4WR83	reviewed	Acyl-CoA ligase sidI	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	590	PF13193	480..563
+Q4ZQG8	reviewed	Acetyl-coenzyme A synthetase	205918	Pseudomonas syringae pv. syringae (strain B728a)	651	PF13193	531..609
+Q52400	reviewed	Syringomycin synthase SyrB1	321	Pseudomonas syringae pv. syringae	614	PF13193	434..513
+Q53005	reviewed	4-hydroxybenzoate--CoA/benzoate--CoA ligase	258594	Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009)	539	PF13193	424..503
+Q53526	reviewed	D-alanine--D-alanyl carrier protein ligase	210007	Streptococcus mutans serotype c (strain ATCC 700610 / UA159)	516	PF13193	421..503
+Q53634	reviewed	2-succinylbenzoate--CoA ligase	1280	Staphylococcus aureus	492	PF13193	411..483
+Q53FZ2	reviewed	Acyl-coenzyme A synthetase ACSM3, mitochondrial	9606	Homo sapiens	586	PF13193	492..572
+Q54P77	reviewed	Probable 4-coumarate--CoA ligase 1	44689	Dictyostelium discoideum	551	PF13193	461..537
+Q54P78	reviewed	Probable 4-coumarate--CoA ligase 2	44689	Dictyostelium discoideum	551	PF13193	461..537
+Q54P79	reviewed	Probable 4-coumarate--CoA ligase 3	44689	Dictyostelium discoideum	551	PF13193	461..537
+Q54Z60	reviewed	Acetyl-coenzyme A synthetase	44689	Dictyostelium discoideum	674	PF13193	549..628
+Q55404	reviewed	Acetyl-coenzyme A synthetase	1111708	Synechocystis sp. (strain PCC 6803 / Kazusa)	653	PF13193	541..619
+Q554Z5	reviewed	Acyl-CoA synthetase short-chain family member B, mitochondrial	44689	Dictyostelium discoideum	688	PF13193	565..643
+Q57B76	reviewed	Acetyl-coenzyme A synthetase	262698	Brucella abortus biovar 1 (strain 9-941)	651	PF13193	531..611
+Q57TJ0	reviewed	Crotonobetaine/carnitine--CoA ligase	321314	Salmonella choleraesuis (strain SC-B67)	517	PF13193	435..510
+Q58DN7	reviewed	Malonate--CoA ligase ACSF3, mitochondrial	9913	Bos taurus	586	PF13193	488..563
+Q5B7J0	reviewed	Acyl-CoA ligase inpC	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	583	PF13193	472..554
+Q5BA81	reviewed	Acyl-CoA ligase easD	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	565	PF13193	474..555
+Q5HEY2	reviewed	2-succinylbenzoate--CoA ligase	93062	Staphylococcus aureus (strain COL)	492	PF13193	411..483
+Q5HHF2	reviewed	D-alanine--D-alanyl carrier protein ligase	93062	Staphylococcus aureus (strain COL)	485	PF13193	395..473
+Q5HIA1	reviewed	Putative long chain fatty acid-CoA ligase VraA	93062	Staphylococcus aureus (strain COL)	458	PF13193	371..443
+Q5HNB2	reviewed	2-succinylbenzoate--CoA ligase	176279	Staphylococcus epidermidis (strain ATCC 35984 / RP62A)	474	PF13193	383..455
+Q5HQN0	reviewed	D-alanine--D-alanyl carrier protein ligase	176279	Staphylococcus epidermidis (strain ATCC 35984 / RP62A)	485	PF13193	395..473
+Q5K4L6	reviewed	Long-chain fatty acid transport protein 3	9606	Homo sapiens	683	PF13193	559..635
+Q5KVX9	reviewed	2-succinylbenzoate--CoA ligase	235909	Geobacillus kaustophilus (strain HTA426)	490	PF13193	398..473
+Q5LRT0	reviewed	3-methylmercaptopropionyl-CoA ligase	246200	Ruegeria pomeroyi (strain ATCC 700808 / DSM 15171 / DSS-3)	539	PF13193	448..523
+Q5P603	reviewed	Indoleacetate--CoA ligase	76114	Aromatoleum aromaticum (strain EbN1)	510	PF13193	416..491
+Q5PIL0	reviewed	Crotonobetaine/carnitine--CoA ligase	295319	Salmonella paratyphi A (strain ATCC 9150 / SARB42)	517	PF13193	435..510
+Q5R9G9	reviewed	Medium-chain acyl-CoA ligase ACSF2, mitochondrial	9601	Pongo abelii	615	PF13193	524..599
+Q5RDY4	reviewed	Long-chain fatty acid transport protein 4	9601	Pongo abelii	643	PF13193	520..595
+Q5REB8	reviewed	Acyl-CoA synthetase short-chain family member 3, mitochondrial	9601	Pongo abelii	686	PF13193	571..649
+Q5REV5	reviewed	Acyl-coenzyme A synthetase ACSM3, mitochondrial	9601	Pongo abelii	586	PF13193	492..572
+Q5SIW6	reviewed	Acetyl-coenzyme A synthetase	300852	Thermus thermophilus (strain ATCC 27634 / DSM 579 / HB8)	648	PF13193	534..612
+Q5SKN9	reviewed	Long-chain-fatty-acid--CoA ligase	300852	Thermus thermophilus (strain ATCC 27634 / DSM 579 / HB8)	541	PF13193	450..524
+Q5W263	reviewed	L-proline--[L-prolyl-carrier protein] ligase	104623	Serratia sp. (strain ATCC 39006)	491	PF13193	404..479
+Q5XBN5	reviewed	D-alanine--D-alanyl carrier protein ligase	286636	Streptococcus pyogenes serotype M6 (strain ATCC BAA-946 / MGAS10394)	512	PF13193	419..499
+Q60714	reviewed	Long-chain fatty acid transport protein 1	10090	Mus musculus	646	PF13193	523..598
+Q62AD1	reviewed	Acetyl-coenzyme A synthetase	243160	Burkholderia mallei (strain ATCC 23344)	660	PF13193	544..625
+Q632I5	reviewed	2-succinylbenzoate--CoA ligase	288681	Bacillus cereus (strain ZK / E33L)	482	PF13193	396..469
+Q63E02	reviewed	D-alanine--D-alanyl carrier protein ligase	288681	Bacillus cereus (strain ZK / E33L)	504	PF13193	413..492
+Q63NC4	reviewed	Acetyl-coenzyme A synthetase	272560	Burkholderia pseudomallei (strain K96243)	660	PF13193	544..625
+Q65DH1	reviewed	D-alanine--D-alanyl carrier protein ligase	279010	Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / CCUG 7422 / NBRC 12200 / NCIMB 9375 / NCTC 10341 / NRRL NRS-1264 / Gibson 46)	502	PF13193	411..490
+Q65FT5	reviewed	2-succinylbenzoate--CoA ligase	279010	Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / CCUG 7422 / NBRC 12200 / NCIMB 9375 / NCTC 10341 / NRRL NRS-1264 / Gibson 46)	478	PF13193	399..472
+Q667F1	reviewed	Bifunctional protein Aas	273123	Yersinia pseudotuberculosis serotype I (strain IP32953)	718	PF13193	630..701
+Q66FM8	reviewed	Acetyl-coenzyme A synthetase	273123	Yersinia pseudotuberculosis serotype I (strain IP32953)	652	PF13193	531..609
+Q67W82	reviewed	4-coumarate--CoA ligase 4	39947	Oryza sativa subsp. japonica	559	PF13193	460..535
+Q68CK6	reviewed	Acyl-coenzyme A synthetase ACSM2B, mitochondrial	9606	Homo sapiens	577	PF13193	477..557
+Q69RG7	reviewed	4-coumarate--CoA ligase-like 7	39947	Oryza sativa subsp. japonica	558	PF13193	465..540
+Q6AYT9	reviewed	Acyl-coenzyme A synthetase ACSM5, mitochondrial	10116	Rattus norvegicus	578	PF13193	485..565
+Q6BQF2	reviewed	Acetyl-coenzyme A synthetase 1	284592	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	671	PF13193	551..630
+Q6BS00	reviewed	Acetyl-coenzyme A synthetase 2	284592	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	679	PF13193	548..636
+Q6ETN3	reviewed	4-coumarate--CoA ligase 3	39947	Oryza sativa subsp. japonica	554	PF13193	450..525
+Q6FLU2	reviewed	Acetyl-coenzyme A synthetase 1	284593	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)	704	PF13193	581..666
+Q6FXI2	reviewed	Acetyl-coenzyme A synthetase 2	284593	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)	683	PF13193	548..638
+Q6FYL4	reviewed	Acetyl-coenzyme A synthetase	283165	Bartonella quintana (strain Toulouse)	652	PF13193	531..609
+Q6G1W0	reviewed	Acetyl-coenzyme A synthetase	283166	Bartonella henselae (strain ATCC 49882 / DSM 28221 / CCUG 30454 / Houston 1)	652	PF13193	531..609
+Q6G8D6	reviewed	2-succinylbenzoate--CoA ligase	282459	Staphylococcus aureus (strain MSSA476)	492	PF13193	411..483
+Q6GAZ4	reviewed	D-alanine--D-alanyl carrier protein ligase	282459	Staphylococcus aureus (strain MSSA476)	485	PF13193	395..473
+Q6GBR2	reviewed	Putative long chain fatty acid-CoA ligase VraA	282459	Staphylococcus aureus (strain MSSA476)	458	PF13193	371..443
+Q6GFR0	reviewed	2-succinylbenzoate--CoA ligase	282458	Staphylococcus aureus (strain MRSA252)	492	PF13193	411..483
+Q6GIF6	reviewed	D-alanine--D-alanyl carrier protein ligase	282458	Staphylococcus aureus (strain MRSA252)	485	PF13193	395..473
+Q6GJ94	reviewed	Putative long chain fatty acid-CoA ligase VraA	282458	Staphylococcus aureus (strain MRSA252)	458	PF13193	371..443
+Q6GLK6	reviewed	Malonate--CoA ligase ACSF3, mitochondrial	8355	Xenopus laevis	578	PF13193	490..565
+Q6HC29	reviewed	2-succinylbenzoate--CoA ligase	281309	Bacillus thuringiensis subsp. konkukian (strain 97-27)	482	PF13193	396..469
+Q6HLH7	reviewed	D-alanine--D-alanyl carrier protein ligase	281309	Bacillus thuringiensis subsp. konkukian (strain 97-27)	504	PF13193	413..492
+Q6LLZ1	reviewed	Acetyl-coenzyme A synthetase	298386	Photobacterium profundum (strain SS9)	649	PF13193	531..609
+Q6MNF1	reviewed	Acetyl-coenzyme A synthetase	264462	Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIMB 9529 / HD100)	645	PF13193	528..606
+Q6NUN0	reviewed	Acyl-coenzyme A synthetase ACSM5, mitochondrial	9606	Homo sapiens	579	PF13193	486..566
+Q6P1M0	reviewed	Long-chain fatty acid transport protein 4	9606	Homo sapiens	643	PF13193	520..595
+Q6PCB7	reviewed	Long-chain fatty acid transport protein 1	9606	Homo sapiens	646	PF13193	523..598
+Q6SKG1	reviewed	Acyl-coenzyme A synthetase ACSM3, mitochondrial	10116	Rattus norvegicus	580	PF13193	486..566
+Q6TNA5	reviewed	L-allo-isoleucine:holo-[CmaA peptidyl-carrier protein] ligase	318	Pseudomonas savastanoi pv. glycinea	595	PF13193	417..493
+Q6W4T3	reviewed	Anguibactin system regulator	882102	Vibrio anguillarum (strain ATCC 68554 / 775)	1048	PF13193	863..942
+Q6YYZ2	reviewed	4-coumarate--CoA ligase-like 3	39947	Oryza sativa subsp. japonica	591	PF13193	491..565
+Q6ZAC1	reviewed	4-coumarate--CoA ligase 5	39947	Oryza sativa subsp. japonica	539	PF13193	447..522
+Q70LM4	reviewed	Linear gramicidin synthase subunit D	54914	Brevibacillus parabrevis	5085	PF13193	865..940,1926..2001,3449..3524,4504..4579
+Q70LM5	reviewed	Linear gramicidin synthase subunit C	54914	Brevibacillus parabrevis	7756	PF13193	880..955,1945..2020,3465..3535,4521..4599,6044..6119,7105..7180
+Q70LM6	reviewed	Linear gramicidin synthase subunit B	54914	Brevibacillus parabrevis	5162	PF13193	874..942,1929..2005,3444..3519,4504..4579
+Q70LM7	reviewed	Linear gramicidin synthase subunit A	54914	Brevibacillus parabrevis	2273	PF13193	598..671,1633..1703
+Q71YZ5	reviewed	2-succinylbenzoate--CoA ligase	265669	Listeria monocytogenes serotype 4b (strain F2365)	467	PF13193	382..455
+Q721J2	reviewed	D-alanine--D-alanyl carrier protein ligase	265669	Listeria monocytogenes serotype 4b (strain F2365)	510	PF13193	420..498
+Q72J95	reviewed	Acetyl-coenzyme A synthetase	262724	Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27)	648	PF13193	534..612
+Q72LY9	reviewed	Acetyl-coenzyme A synthetase	267671	Leptospira interrogans serogroup Icterohaemorrhagiae serovar copenhageni (strain Fiocruz L1-130)	661	PF13193	542..620
+Q72YK9	reviewed	2-succinylbenzoate--CoA ligase	222523	Bacillus cereus (strain ATCC 10987 / NRS 248)	481	PF13193	395..468
+Q73BD2	reviewed	D-alanine--D-alanyl carrier protein ligase	222523	Bacillus cereus (strain ATCC 10987 / NRS 248)	504	PF13193	413..492
+Q74RZ6	reviewed	Bifunctional protein Aas	632	Yersinia pestis	718	PF13193	630..701
+Q750T7	reviewed	Acetyl-coenzyme A synthetase 2	284811	Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	687	PF13193	547..642
+Q758X0	reviewed	Acetyl-coenzyme A synthetase 1	284811	Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	694	PF13193	571..656
+Q7A1Q0	reviewed	Putative long chain fatty acid-CoA ligase VraA	196620	Staphylococcus aureus (strain MW2)	458	PF13193	371..443
+Q7A769	reviewed	Putative long chain fatty acid-CoA ligase VraA	158879	Staphylococcus aureus (strain N315)	458	PF13193	371..443
+Q7BQ71	reviewed	Zwittermicin A synthase ZmaJ	1396	Bacillus cereus	525	PF13193	419..492
+Q7F1X5	reviewed	4-coumarate--CoA ligase-like 5	39947	Oryza sativa subsp. japonica	542	PF13193	449..524
+Q7M9Y2	reviewed	Acetyl-coenzyme A synthetase	273121	Wolinella succinogenes (strain ATCC 29543 / DSM 1740 / LMG 7466 / NCTC 11488 / FDC 602W)	654	PF13193	537..619
+Q7MBA6	reviewed	Acetyl-coenzyme A synthetase	243265	Photorhabdus laumondii subsp. laumondii (strain DSM 15139 / CIP 105565 / TT01)	651	PF13193	531..609
+Q7MGU3	reviewed	Acetyl-coenzyme A synthetase	196600	Vibrio vulnificus (strain YJ016)	650	PF13193	532..610
+Q7NSY7	reviewed	Acetyl-coenzyme A synthetase	243365	Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 / NCTC 9757)	654	PF13193	538..619
+Q7TN78	reviewed	Acyl-coenzyme A synthetase ACSM4, mitochondrial	10116	Rattus norvegicus	580	PF13193	486..566
+Q7TWB7	reviewed	Medium/long-chain-fatty-acid--CoA/3-oxocholest-4-en-26-oate--CoA ligase	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	548	PF13193	446..521
+Q7TWC5	reviewed	Medium/long-chain-fatty-acid--CoA ligase FadD17	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	502	PF13193	404..480
+Q7TXK7	reviewed	p-hydroxybenzoic acid--AMP ligase FadD22	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	705	PF13193	402..480
+Q7TYQ4	reviewed	Phenyloxazoline synthase MbtB	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	1414	PF13193	959..1031
+Q7WSH3	reviewed	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase	285	Comamonas testosteroni	540	PF13193	444..519
+Q7X279	reviewed	Salicylyl-CoA synthase / salicylate adenylyltransferase	1931	Streptomyces sp.	553	PF13193	457..533
+Q7XXL2	reviewed	4-coumarate--CoA ligase-like 9	39947	Oryza sativa subsp. japonica	555	PF13193	462..537
+Q80W40	reviewed	Acyl-coenzyme A synthetase ACSM4, mitochondrial	10090	Mus musculus	580	PF13193	486..566
+Q816I1	reviewed	2-succinylbenzoate--CoA ligase	226900	Bacillus cereus (strain ATCC 14579 / DSM 31 / CCUG 7414 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NCTC 2599 / NRRL B-3711)	482	PF13193	396..469
+Q81G39	reviewed	D-alanine--D-alanyl carrier protein ligase	226900	Bacillus cereus (strain ATCC 14579 / DSM 31 / CCUG 7414 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NCTC 2599 / NRRL B-3711)	504	PF13193	413..492
+Q81K97	reviewed	2-succinylbenzoate--CoA ligase	1392	Bacillus anthracis	481	PF13193	395..468
+Q81RQ7	reviewed	3,4-dihydroxybenzoate--[aryl-carrier protein] ligase	1392	Bacillus anthracis	412	PF13193	328..399
+Q81T97	reviewed	D-alanine--D-alanyl carrier protein ligase	1392	Bacillus anthracis	503	PF13193	412..491
+Q82EL5	reviewed	Acetyl-coenzyme A synthetase	227882	Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NBRC 14893 / NCIMB 12804 / NRRL 8165 / MA-4680)	652	PF13193	532..611
+Q82SI5	reviewed	Acetyl-coenzyme A synthetase	228410	Nitrosomonas europaea (strain ATCC 19718 / CIP 103999 / KCTC 2705 / NBRC 14298)	655	PF13193	539..620
+Q838K1	reviewed	2-succinylbenzoate--CoA ligase	226185	Enterococcus faecalis (strain ATCC 700802 / V583)	485	PF13193	395..468
+Q83MG9	reviewed	Crotonobetaine/carnitine--CoA ligase	623	Shigella flexneri	517	PF13193	435..510
+Q84HC5	reviewed	2-hydroxy-7-methoxy-5-methyl-1-naphthoate--CoA ligase	1897	Streptomyces carzinostaticus	558	PF13193	466..542
+Q84P21	reviewed	Peroxisomal OPC-8:0-CoA ligase 1	3702	Arabidopsis thaliana	546	PF13193	455..530
+Q84P23	reviewed	4-coumarate--CoA ligase-like 9	3702	Arabidopsis thaliana	562	PF13193	469..544
+Q84P24	reviewed	4-coumarate--CoA ligase-like 6	3702	Arabidopsis thaliana	566	PF13193	474..548
+Q84P25	reviewed	4-coumarate--CoA ligase-like 2	3702	Arabidopsis thaliana	565	PF13193	476..551
+Q84P26	reviewed	4-coumarate--CoA ligase-like 8	3702	Arabidopsis thaliana	550	PF13193	461..536
+Q87C00	reviewed	Acetyl-coenzyme A synthetase	183190	Xylella fastidiosa (strain Temecula1 / ATCC 700964)	647	PF13193	530..608
+Q87KU7	reviewed	Acetyl-coenzyme A synthetase	223926	Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633)	650	PF13193	532..610
+Q885K7	reviewed	Acetyl-coenzyme A synthetase	223283	Pseudomonas syringae pv. tomato (strain ATCC BAA-871 / DC3000)	651	PF13193	531..609
+Q88DW6	reviewed	Acetyl-coenzyme A synthetase 2	160488	Pseudomonas putida (strain ATCC 47054 / DSM 6125 / CFBP 8728 / NCIMB 11950 / KT2440)	644	PF13193	527..605
+Q88EH6	reviewed	Acetyl-coenzyme A synthetase 1	160488	Pseudomonas putida (strain ATCC 47054 / DSM 6125 / CFBP 8728 / NCIMB 11950 / KT2440)	653	PF13193	531..609
+Q88VM6	reviewed	D-alanine--D-alanyl carrier protein ligase	220668	Lactiplantibacillus plantarum (strain ATCC BAA-793 / NCIMB 8826 / WCFS1)	508	PF13193	415..495
+Q89WV5	reviewed	Acetyl-coenzyme A synthetase	224911	Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110)	648	PF13193	528..606
+Q8BGA8	reviewed	Acyl-coenzyme A synthetase ACSM5, mitochondrial	10090	Mus musculus	578	PF13193	485..565
+Q8CS21	reviewed	2-succinylbenzoate--CoA ligase	176280	Staphylococcus epidermidis (strain ATCC 12228 / FDA PCI 1200)	474	PF13193	383..455
+Q8CT93	reviewed	D-alanine--D-alanyl carrier protein ligase	176280	Staphylococcus epidermidis (strain ATCC 12228 / FDA PCI 1200)	485	PF13193	395..473
+Q8D1G8	reviewed	Acetyl-coenzyme A synthetase	632	Yersinia pestis	652	PF13193	531..609
+Q8DCZ9	reviewed	Acetyl-coenzyme A synthetase	216895	Vibrio vulnificus (strain CMCP6)	650	PF13193	532..610
+Q8DKH2	reviewed	Acetyl-coenzyme A synthetase	197221	Thermosynechococcus vestitus (strain NIES-2133 / IAM M-273 / BP-1)	656	PF13193	543..621
+Q8EDK3	reviewed	Acetyl-coenzyme A synthetase	211586	Shewanella oneidensis (strain MR-1)	650	PF13193	531..609
+Q8ENZ7	reviewed	2-succinylbenzoate--CoA ligase	221109	Oceanobacillus iheyensis (strain DSM 14371 / CIP 107618 / JCM 11309 / KCTC 3954 / HTE831)	480	PF13193	399..472
+Q8EYG2	reviewed	Acetyl-coenzyme A synthetase	189518	Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai (strain 56601)	661	PF13193	542..620
+Q8FAY8	reviewed	Acetyl-coenzyme A synthetase	199310	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)	652	PF13193	531..609
+Q8FLA5	reviewed	Crotonobetaine/carnitine--CoA ligase	199310	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)	517	PF13193	435..510
+Q8FYQ3	reviewed	Acetyl-coenzyme A synthetase	204722	Brucella suis biovar 1 (strain 1330)	651	PF13193	531..611
+Q8GB18	reviewed	Crotonobetaine/carnitine--CoA ligase	217617	Proteus sp. (strain LE138)	518	PF13193	436..511
+Q8GQN9	reviewed	Benzoate--CoA ligase	59405	Thauera aromatica	527	PF13193	440..518
+Q8GVF9	reviewed	Putative 4-coumarate--CoA ligase-like 8	39947	Oryza sativa subsp. japonica	609	PF13193	513..589
+Q8H151	reviewed	Malonate--CoA ligase	3702	Arabidopsis thaliana	608	PF13193	509..594
+Q8J0E9	reviewed	Isopenicillin N epimerase component 1	5044	Acremonium chrysogenum	609	PF13193	469..539
+Q8J2R0	reviewed	Acyl-CoA synthetase FUM10	334819	Gibberella moniliformis (strain M3125 / FGSC 7600)	552	PF13193	463..536
+Q8K0L3	reviewed	Acyl-coenzyme A synthetase ACSM2, mitochondrial	10090	Mus musculus	575	PF13193	478..558
+Q8KBY0	reviewed	Acetyl-coenzyme A synthetase	194439	Chlorobaculum tepidum (strain ATCC 49652 / DSM 12025 / NBRC 103806 / TLS)	659	PF13193	543..621
+Q8NJN3	reviewed	Acetyl-coenzyme A synthetase 2	237561	Candida albicans (strain SC5314 / ATCC MYA-2876)	671	PF13193	548..628
+Q8NVZ4	reviewed	2-succinylbenzoate--CoA ligase	196620	Staphylococcus aureus (strain MW2)	492	PF13193	411..483
+Q8P0J9	reviewed	D-alanine--D-alanyl carrier protein ligase	186103	Streptococcus pyogenes serotype M18 (strain MGAS8232)	512	PF13193	419..499
+Q8P3L1	reviewed	Acetyl-coenzyme A synthetase	190485	Xanthomonas campestris pv. campestris (strain ATCC 33913 / DSM 3586 / NCPPB 528 / LMG 568 / P 25)	647	PF13193	530..608
+Q8PF09	reviewed	Acetyl-coenzyme A synthetase	190486	Xanthomonas axonopodis pv. citri (strain 306)	647	PF13193	530..608
+Q8RU95	reviewed	4-coumarate--CoA ligase-like 6	39947	Oryza sativa subsp. japonica	598	PF13193	506..581
+Q8UBV5	reviewed	Acetyl-coenzyme A synthetase	176299	Agrobacterium fabrum (strain C58 / ATCC 33970)	651	PF13193	531..609
+Q8VCW8	reviewed	Medium-chain acyl-CoA ligase ACSF2, mitochondrial	10090	Mus musculus	615	PF13193	524..599
+Q8VM67	reviewed	D-alanine--D-alanyl carrier protein ligase	211110	Streptococcus agalactiae serotype III (strain NEM316)	511	PF13193	420..499
+Q8VYJ1	reviewed	2-succinylbenzoate--CoA ligase, chloroplastic/peroxisomal	3702	Arabidopsis thaliana	560	PF13193	450..539
+Q8VZF1	reviewed	Acetate/butyrate--CoA ligase AAE7, peroxisomal	3702	Arabidopsis thaliana	569	PF13193	469..548
+Q8X5T5	reviewed	Acetyl-coenzyme A synthetase	83334	Escherichia coli O157:H7	652	PF13193	531..609
+Q8XA34	reviewed	Crotonobetaine/carnitine--CoA ligase	83334	Escherichia coli O157:H7	517	PF13193	435..510
+Q8XBV3	reviewed	Enterobactin synthase component E	83334	Escherichia coli O157:H7	536	PF13193	446..520
+Q8XDR6	reviewed	Long-chain-fatty-acid--CoA ligase	83334	Escherichia coli O157:H7	561	PF13193	469..543
+Q8XY11	reviewed	Acetyl-coenzyme A synthetase	267608	Ralstonia nicotianae (strain GMI1000)	660	PF13193	544..625
+Q8Y8D4	reviewed	D-alanine--D-alanyl carrier protein ligase	169963	Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e)	510	PF13193	420..498
+Q8YJ48	reviewed	Acetyl-coenzyme A synthetase	224914	Brucella melitensis biotype 1 (strain 16M / ATCC 23456 / NCTC 10094)	651	PF13193	531..611
+Q8Z1R0	reviewed	Acetyl-coenzyme A synthetase	90370	Salmonella typhi	652	PF13193	531..609
+Q8Z9L4	reviewed	Crotonobetaine/carnitine--CoA ligase	90370	Salmonella typhi	517	PF13193	435..510
+Q8ZES9	reviewed	Long-chain-fatty-acid--CoA ligase	632	Yersinia pestis	562	PF13193	469..543
+Q8ZKF6	reviewed	Acetyl-coenzyme A synthetase	99287	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	652	PF13193	531..609
+Q8ZRX4	reviewed	Crotonobetaine/carnitine--CoA ligase	99287	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	517	PF13193	435..510
+Q91VA0	reviewed	Acyl-coenzyme A synthetase ACSM1, mitochondrial	10090	Mus musculus	573	PF13193	479..559
+Q91VE0	reviewed	Long-chain fatty acid transport protein 4	10090	Mus musculus	643	PF13193	520..595
+Q92AY8	reviewed	2-succinylbenzoate--CoA ligase	272626	Listeria innocua serovar 6a (strain ATCC BAA-680 / CLIP 11262)	467	PF13193	382..455
+Q92D47	reviewed	D-alanine--D-alanyl carrier protein ligase	272626	Listeria innocua serovar 6a (strain ATCC BAA-680 / CLIP 11262)	510	PF13193	420..498
+Q92KX2	reviewed	Acetyl-coenzyme A synthetase	266834	Rhizobium meliloti (strain 1021)	649	PF13193	531..609
+Q96CM8	reviewed	Medium-chain acyl-CoA ligase ACSF2, mitochondrial	9606	Homo sapiens	615	PF13193	524..599
+Q96VB5	reviewed	Acyl-CoA ligase AFT1-1	5599	Alternaria alternata	578	PF13193	473..554
+Q96VC7	reviewed	Acetyl-coenzyme A synthetase 2	4954	Zygosaccharomyces bailii	675	PF13193	547..629
+Q973W5	reviewed	3-hydroxypropionyl-coenzyme A synthetase	273063	Sulfurisphaera tokodaii (strain DSM 16993 / JCM 10545 / NBRC 100140 / 7)	659	PF13193	539..616
+Q98ET8	reviewed	Acetyl-coenzyme A synthetase	266835	Mesorhizobium japonicum (strain LMG 29417 / CECT 9101 / MAFF 303099)	651	PF13193	532..610
+Q99NB1	reviewed	Acetyl-coenzyme A synthetase 2-like, mitochondrial	10090	Mus musculus	682	PF13193	557..635
+Q99W34	reviewed	Putative long chain fatty acid-CoA ligase VraA	158878	Staphylococcus aureus (strain Mu50 / ATCC 700699)	458	PF13193	371..443
+Q99ZA6	reviewed	D-alanine--D-alanyl carrier protein ligase	301447	Streptococcus pyogenes serotype M1	512	PF13193	419..499
+Q9A2I0	reviewed	Acetyl-coenzyme A synthetase	190650	Caulobacter vibrioides (strain ATCC 19089 / CB15)	647	PF13193	530..608
+Q9AJS8	reviewed	3-hydroxybenzoate--CoA/4-hydroxybenzoate--CoA ligase	59405	Thauera aromatica	523	PF13193	431..509
+Q9BEA2	reviewed	Acyl-coenzyme A synthetase ACSM1, mitochondrial	9913	Bos taurus	577	PF13193	483..563
+Q9C8D4	reviewed	Butyrate--CoA ligase AAE11, peroxisomal	3702	Arabidopsis thaliana	572	PF13193	457..535
+Q9C9G2	reviewed	Probable acyl-activating enzyme 22	3702	Arabidopsis thaliana	535	PF13193	427..512
+Q9CG49	reviewed	D-alanine--D-alanyl carrier protein ligase	272623	Lactococcus lactis subsp. lactis (strain IL1403)	499	PF13193	404..485
+Q9CHK3	reviewed	2-succinylbenzoate--CoA ligase	272623	Lactococcus lactis subsp. lactis (strain IL1403)	451	PF13193	372..443
+Q9CMW1	reviewed	Acetyl-coenzyme A synthetase	272843	Pasteurella multocida (strain Pm70)	653	PF13193	536..617
+Q9ES38	reviewed	Long-chain fatty acid transport protein 5	10116	Rattus norvegicus	690	PF13193	566..641
+Q9EY88	reviewed	Feruloyl-CoA synthase	37632	Amycolatopsis sp.	491	PF13193	405..480
+Q9F7R5	reviewed	Acetyl-coenzyme A synthetase	133804	Gamma-proteobacterium EBAC31A08	641	PF13193	524..602
+Q9FFE6	reviewed	Probable acyl-activating enzyme 5, peroxisomal	3702	Arabidopsis thaliana	552	PF13193	454..531
+Q9FFE9	reviewed	Probable acyl-activating enzyme 6	3702	Arabidopsis thaliana	550	PF13193	454..531
+Q9H6R3	reviewed	Acyl-CoA synthetase short-chain family member 3, mitochondrial	9606	Homo sapiens	686	PF13193	571..649
+Q9HV66	reviewed	Acetyl-coenzyme A synthetase 2	208964	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	645	PF13193	528..606
+Q9HWG3	reviewed	Pyochelin synthase PchD	208964	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	547	PF13193	454..529
+Q9I1H0	reviewed	AMB antimetabolite synthase AmbB	208964	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	1249	PF13193	642..715
+Q9I4X3	reviewed	Anthranilate--CoA ligase	208964	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	517	PF13193	414..493
+Q9I558	reviewed	Acetyl-coenzyme A synthetase 1	208964	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	651	PF13193	531..609
+Q9KV59	reviewed	Acetyl-coenzyme A synthetase	243277	Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961)	649	PF13193	531..609
+Q9KWA3	reviewed	Acetyl-coenzyme A synthetase	359	Agrobacterium rhizogenes	652	PF13193	531..609
+Q9KWK5	reviewed	Putative long chain fatty acid-CoA ligase VraA	418127	Staphylococcus aureus (strain Mu3 / ATCC 700698)	458	PF13193	371..443
+Q9L9F6	reviewed	8-demethylnovobiocic acid synthase	193462	Streptomyces niveus	527	PF13193	428..503
+Q9L9G0	reviewed	Novobiocin biosynthesis protein H	193462	Streptomyces niveus	600	PF13193	432..507
+Q9LPK6	reviewed	Probable acyl-activating enzyme 9	3702	Arabidopsis thaliana	550	PF13193	457..536
+Q9LPK7	reviewed	Probable acyl-activating enzyme 10	3702	Arabidopsis thaliana	549	PF13193	454..535
+Q9LQ12	reviewed	4-coumarate--CoA ligase-like 1	3702	Arabidopsis thaliana	542	PF13193	451..526
+Q9LQS1	reviewed	Probable acyl-activating enzyme 8	3702	Arabidopsis thaliana	544	PF13193	454..531
+Q9LU36	reviewed	4-coumarate--CoA ligase 4	3702	Arabidopsis thaliana	570	PF13193	479..554
+Q9M0X9	reviewed	4-coumarate--CoA ligase-like 7	3702	Arabidopsis thaliana	544	PF13193	455..530
+Q9NR19	reviewed	Acetyl-coenzyme A synthetase, cytoplasmic	9606	Homo sapiens	701	PF13193	583..661
+Q9NUB1	reviewed	Acetyl-coenzyme A synthetase 2-like, mitochondrial	9606	Homo sapiens	689	PF13193	564..642
+Q9PB89	reviewed	Acetyl-coenzyme A synthetase	160492	Xylella fastidiosa (strain 9a5c)	647	PF13193	530..608
+Q9PMD2	reviewed	Acetyl-coenzyme A synthetase	192222	Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168)	657	PF13193	535..617
+Q9QXG4	reviewed	Acetyl-coenzyme A synthetase, cytoplasmic	10090	Mus musculus	701	PF13193	583..661
+Q9R9I9	reviewed	Mycosubtilin synthase subunit C	1423	Bacillus subtilis	2609	PF13193	679..751,2189..2261
+Q9R9J0	reviewed	Mycosubtilin synthase subunit B	1423	Bacillus subtilis	5369	PF13193	2181..2254,3707..3780,4746..4819
+Q9R9J1	reviewed	Mycosubtilin synthase subunit A	1423	Bacillus subtilis	3971	PF13193	3348..3421
+Q9RRL7	reviewed	Acetyl-coenzyme A synthetase	243230	Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / CCUG 27074 / LMG 4051 / NBRC 15346 / NCIMB 9279 / VKM B-1422 / R1)	649	PF13193	537..612
+Q9S725	reviewed	4-coumarate--CoA ligase 2	3702	Arabidopsis thaliana	556	PF13193	465..540
+Q9S777	reviewed	4-coumarate--CoA ligase 3	3702	Arabidopsis thaliana	561	PF13193	475..550
+Q9SEY5	reviewed	Isovalerate--CoA ligase AAE2	3702	Arabidopsis thaliana	603	PF13193	512..587
+Q9SFW5	reviewed	Probable acyl-activating enzyme 21	3702	Arabidopsis thaliana	546	PF13193	447..524
+Q9SMT7	reviewed	Oxalate--CoA ligase	3702	Arabidopsis thaliana	514	PF13193	425..500
+Q9SS00	reviewed	Probable acyl-activating enzyme 12, peroxisomal	3702	Arabidopsis thaliana	578	PF13193	457..542
+Q9SS01	reviewed	Benzoate--CoA ligase, peroxisomal	3702	Arabidopsis thaliana	580	PF13193	457..543
+Q9VP61	reviewed	Acetyl-coenzyme A synthetase	7227	Drosophila melanogaster	670	PF13193	552..630
+Q9X2N4	reviewed	D-alanine--D-alanyl carrier protein ligase	1288	Staphylococcus xylosus	487	PF13193	395..475
+Q9X928	reviewed	Acetyl-coenzyme A synthetase	100226	Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145)	651	PF13193	532..610
+Q9Y2P4	reviewed	Long-chain fatty acid transport protein 6	9606	Homo sapiens	619	PF13193	495..571
+Q9Y2P5	reviewed	Long-chain fatty acid transport protein 5	9606	Homo sapiens	690	PF13193	566..642
+Q9Y7B5	reviewed	Acetyl-coenzyme A synthetase 2	284590	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	684	PF13193	548..638
+Q9Z3R3	reviewed	Acetoacetyl-coenzyme A synthetase	266834	Rhizobium meliloti (strain 1021)	650	PF13193	540..612
+S3DB78	reviewed	Acyl-CoA ligase gloD	1116229	Glarea lozoyensis (strain ATCC 20868 / MF5171)	568	PF13193	471..553
+S5M744	reviewed	Feruloyl-CoA synthase	1931	Streptomyces sp.	491	PF13193	405..480
+W3X8X8	reviewed	Naringenin synthase	1229662	Pestalotiopsis fici (strain W106-1 / CGMCC3.15140)	2717	PF13193	431..507
+W7NDP3	reviewed	CoA ligase FVEG_12633	334819	Gibberella moniliformis (strain M3125 / FGSC 7600)	600	PF13193	487..564

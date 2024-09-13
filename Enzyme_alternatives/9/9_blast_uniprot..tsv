@@ -1,0 +1,251 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	TR	A0A834Y6R5	Uncharacterized protein OS=Tetracentron sinense OX=13715 GN=HHK36_033302 PE=4 SV=1	Tetracentron sinense	483	941	41.4	63.0	3.5e-119
+2	TR	A0A8J5LU30	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_004252 PE=4 SV=1	Zingiber officinale	475	927	41.9	64.1	3.5e-117
+3	TR	A0A834TS33	(-)-germacrene D synthase-like isoform X2 OS=Senna tora OX=362788 GN=G2W53_020983 PE=4 SV=1	Senna tora	490	928	40.9	60.4	4e-117
+4	TR	F6HN25	Valencene synthase OS=Vitis vinifera OX=29760 GN=VIT_18s0001g05430 PE=4 SV=1	Vitis vinifera	482	923	42.9	61.3	1.7e-116
+5	TR	A0A8M8V5E3	Beta-caryophyllene synthase isoform X2 OS=Sesamum indicum OX=4182 GN=LOC105175138 PE=4 SV=1	Sesamum indicum	477	917	41.0	61.3	1.2e-115
+6	TR	A0A8J5I3Q1	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_008658 PE=4 SV=1	Zingiber officinale	479	916	41.7	63.3	1.8e-115
+7	TR	A0A067DS69	Uncharacterized protein OS=Citrus sinensis OX=2711 GN=CISIN_1g039366mg PE=4 SV=1	Citrus sinensis	547	916	39.0	56.9	1.4e-114
+8	TR	A0A9C6WLL4	Probable terpene synthase 2 isoform X3 OS=Arachis duranensis OX=130453 GN=LOC107463235 PE=4 SV=1	Arachis duranensis	504	911	38.5	61.3	2.2e-114
+9	TR	A0A9C6WP36	Probable terpene synthase 2 isoform X2 OS=Arachis duranensis OX=130453 GN=LOC107463233 PE=4 SV=1	Arachis duranensis	505	910	38.9	61.3	3.2e-114
+10	TR	A0A834ZNE5	Uncharacterized protein OS=Tetracentron sinense OX=13715 GN=HHK36_004909 PE=4 SV=1	Tetracentron sinense	483	905	39.7	63.0	9.1e-114
+11	TR	A0A1S4BX22	(-)-germacrene D synthase-like isoform X2 OS=Nicotiana tabacum OX=4097 GN=LOC107812685 PE=4 SV=1	Nicotiana tabacum	479	899	40.3	61.6	6.4e-113
+12	TR	A0A8J5IGN3	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_008654 PE=4 SV=1	Zingiber officinale	607	908	40.5	62.2	1.3e-112
+13	TR	A0A6J0PCZ2	Beta-eudesmol synthase isoform X2 OS=Elaeis guineensis var. tenera OX=51953 GN=LOC105034997 PE=4 SV=1	Elaeis guineensis var. tenera	483	897	41.4	60.2	1.4e-112
+14	TR	A0A8J5IJA3	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_000188 PE=4 SV=1	Zingiber officinale	477	892	40.0	61.5	6.8e-112
+15	TR	A0A8J5IG05	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_008653 PE=4 SV=1	Zingiber officinale	496	893	38.5	59.5	8.6e-112
+16	TR	A0A8J5KYG8	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_043074 PE=4 SV=1	Zingiber officinale	474	879	39.5	61.4	5.5e-110
+17	TR	A0A834WWZ7	Putative terpene synthase 2 OS=Senna tora OX=362788 GN=G2W53_008758 PE=4 SV=1	Senna tora	486	880	41.4	59.7	5.6e-110
+18	TR	A0A251PN64	Uncharacterized protein OS=Prunus persica OX=3760 GN=PRUPE_4G198000 PE=4 SV=1	Prunus persica	484	878	40.4	60.0	1.1e-109
+19	TR	A0A5E4FYD2	PREDICTED: (-)-germacrene D synthase OS=Prunus dulcis OX=3755 GN=ALMOND_2B024324 PE=4 SV=1	Prunus dulcis	484	877	40.4	60.0	1.5e-109
+20	TR	A0A8J5HBD6	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_024000 PE=4 SV=1	Zingiber officinale	488	874	41.0	59.6	4.8e-109
+21	TR	A0A8J5KT63	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_039025 PE=4 SV=1	Zingiber officinale	474	870	39.5	60.8	1.2e-108
+22	TR	A0A8J5GZ52	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_027937 PE=4 SV=1	Zingiber officinale	480	870	40.9	59.7	1.5e-108
+23	TR	A0A5D2SZG0	(+)-delta-cadinene synthase OS=Gossypium mustelinum OX=34275 GN=E1A91_D11G326600v1 PE=4 SV=1	Gossypium mustelinum	486	870	39.7	59.0	1.8e-108
+24	TR	A0A067D9N6	Uncharacterized protein OS=Citrus sinensis OX=2711 GN=CISIN_1g008206mg PE=4 SV=1	Citrus sinensis	511	872	39.0	62.2	1.9e-108
+25	TR	A0A067KMP6	(+)-delta-cadinene synthase OS=Jatropha curcas OX=180498 GN=JCGZ_09953 PE=3 SV=1	Jatropha curcas	510	869	37.4	56.9	5.2e-108
+26	TR	A0A8J5H1N5	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_023992 PE=4 SV=1	Zingiber officinale	489	866	40.9	59.1	7.8e-108
+27	TR	A0A8X8C0U0	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_059885 PE=4 SV=1	Populus tomentosa	459	861	41.3	58.3	1.7e-107
+28	TR	A0A8J5H9I5	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_013742 PE=4 SV=1	Zingiber officinale	511	860	40.5	59.0	1.2e-106
+29	TR	A0A8J5G291	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_039443 PE=4 SV=1	Zingiber officinale	474	855	39.5	59.5	2.2e-106
+30	TR	A0A2C9UA48	(+)-delta-cadinene synthase OS=Manihot esculenta OX=3983 GN=MANES_16G054700 PE=3 SV=1	Manihot esculenta	464	854	42.3	59.3	2.3e-106
+31	TR	A0A8J5L365	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_027943 PE=4 SV=1	Zingiber officinale	582	863	40.9	58.9	3.3e-106
+32	TR	A0A8J5HYU5	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_004249 PE=4 SV=1	Zingiber officinale	503	855	36.7	57.7	5.3e-106
+33	TR	A0A2H5QJ62	Uncharacterized protein OS=Citrus unshiu OX=55188 GN=CUMW_235110 PE=4 SV=1	Citrus unshiu	562	859	37.8	54.0	7.4e-106
+34	TR	A0A8X7Y4F4	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_050596 PE=4 SV=1	Populus tomentosa	542	855	41.0	57.4	1.6e-105
+35	TR	A0A5N5HRU3	(-)-germacrene D synthase-like OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_008074 PE=4 SV=1	Pyrus ussuriensis x Pyrus communis	482	848	41.1	61.1	3.1e-105
+36	TR	A0A8J5G4J2	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_039446 PE=4 SV=1	Zingiber officinale	474	847	39.7	59.4	3.5e-105
+37	TR	A0A8J5GU25	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_027939 PE=4 SV=1	Zingiber officinale	497	848	39.7	58.9	4.9e-105
+38	TR	A0A8X7Y3D8	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_050221 PE=4 SV=1	Populus tomentosa	457	844	40.9	58.5	5.8e-105
+39	TR	A0A8X9A4L3	Viridiflorene synthase OS=Salvia splendens OX=180675 GN=SASPL_112454 PE=4 SV=1	Salvia splendens	476	844	37.6	59.3	1e-104
+40	TR	A0A8M8VCE0	Beta-caryophyllene synthase-like isoform X2 OS=Sesamum indicum OX=4182 GN=LOC105175139 PE=4 SV=1	Sesamum indicum	479	843	37.9	60.8	1.6e-104
+41	TR	A0A1S3ZM31	(E,E)-germacrene B synthase-like isoform X2 OS=Nicotiana tabacum OX=4097 GN=LOC107788173 PE=4 SV=1	Nicotiana tabacum	525	845	39.5	58.9	3.1e-104
+42	TR	A0A8X7YBD2	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_050215 PE=4 SV=1	Populus tomentosa	456	836	40.5	57.8	9e-104
+43	TR	A0A8X7Y8G8	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_050597 PE=4 SV=1	Populus tomentosa	451	834	40.3	56.1	1.5e-103
+44	TR	A0A8X8YU55	(-)-germacrene D synthase OS=Salvia splendens OX=180675 GN=SASPL_101075 PE=4 SV=1	Salvia splendens	432	829	41.0	61.1	4.8e-103
+45	TR	A0A8J5G7N5	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_039432 PE=4 SV=1	Zingiber officinale	762	854	39.9	59.7	7.2e-103
+46	TR	A0A6A2ZRA3	(+)-delta-cadinene synthase OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00110812pilonHSYRG00065 PE=4 SV=1	Hibiscus syriacus	507	834	38.0	56.1	8.2e-103
+47	TR	A0A8X8Y487	Viridiflorene synthase OS=Salvia splendens OX=180675 GN=SASPL_113744 PE=4 SV=1	Salvia splendens	477	831	38.6	60.1	9.5e-103
+48	TR	A0A8J5FZH1	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_043553 PE=4 SV=1	Zingiber officinale	474	830	39.3	59.0	1.2e-102
+49	TR	A0A8J5GZR6	Sesquiterpene synthase OS=Zingiber officinale OX=94328 GN=ZIOFF_023989 PE=4 SV=1	Zingiber officinale	489	831	39.2	58.4	1.4e-102
+50	TR	A0A067KS26	Uncharacterized protein OS=Jatropha curcas OX=180498 GN=JCGZ_00783 PE=3 SV=1	Jatropha curcas	893	860	42.9	59.8	1.6e-102
+51	TR	A0A8J5KW55	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_043256 PE=4 SV=1	Zingiber officinale	436	824	41.2	60.8	3.1e-102
+52	TR	A0A8J5EMJ8	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_075799 PE=4 SV=1	Zingiber officinale	474	827	39.3	59.0	3.4e-102
+53	TR	A0A251PN82	Uncharacterized protein OS=Prunus persica OX=3760 GN=PRUPE_4G199200 PE=4 SV=1	Prunus persica	488	828	39.7	59.5	3.7e-102
+54	TR	A0A6J1CP21	Valencene synthase-like isoform X2 OS=Momordica charantia OX=3673 GN=LOC111013401 PE=4 SV=1	Momordica charantia	480	827	38.7	58.6	4.1e-102
+55	TR	A0A8J5GAY2	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_039194 PE=4 SV=1	Zingiber officinale	440	823	41.2	60.4	4.9e-102
+56	TR	A0A8J5G391	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_039440 PE=4 SV=1	Zingiber officinale	475	826	39.0	59.7	5e-102
+57	TR	A0A8J5KPR9	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_043252 PE=4 SV=1	Zingiber officinale	436	822	41.2	60.6	6.1e-102
+58	TR	A0A8J5FWZ4	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_043260 PE=4 SV=1	Zingiber officinale	436	821	41.2	60.6	8.6e-102
+59	TR	A0A394CZD6	Terpene synthase N-terminal domain-containing protein OS=Lupinus angustifolius OX=3871 GN=TanjilG_00073 PE=4 SV=1	Lupinus angustifolius	443	817	39.4	61.0	4.2e-101
+60	TR	A0A8X8WAH2	Vetispiradiene synthase OS=Salvia splendens OX=180675 GN=SASPL_149051 PE=4 SV=1	Salvia splendens	478	820	37.1	60.8	4.3e-101
+61	TR	A0A8X8Z2J8	Vetispiradiene synthase OS=Salvia splendens OX=180675 GN=SASPL_151002 PE=4 SV=1	Salvia splendens	477	817	37.6	59.5	1.2e-100
+62	TR	A0A8J5G0K6	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_043545 PE=4 SV=1	Zingiber officinale	475	816	38.6	58.9	1.6e-100
+63	TR	A0A4U5Q9R9	Terpene synthase OS=Populus alba OX=43335 GN=D5086_0000121540 PE=4 SV=1	Populus alba	477	813	39.0	57.8	4.7e-100
+64	TR	A0A8J5LDI9	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_027945 PE=4 SV=1	Zingiber officinale	477	809	42.3	60.0	1.9e-99
+65	TR	A0A6J1CR35	(-)-germacrene D synthase-like isoform X2 OS=Momordica charantia OX=3673 GN=LOC111013402 PE=4 SV=1	Momordica charantia	486	809	37.4	59.0	2.4e-99
+66	TR	A0A8X8YDX5	Viridiflorene synthase OS=Salvia splendens OX=180675 GN=SASPL_112461 PE=4 SV=1	Salvia splendens	691	825	36.0	58.5	2.5e-99
+67	TR	A0A8X8WG32	Viridiflorene synthase OS=Salvia splendens OX=180675 GN=SASPL_147685 PE=4 SV=1	Salvia splendens	477	808	37.9	57.8	2.6e-99
+68	TR	A0A2H5QJ88	Uncharacterized protein OS=Citrus unshiu OX=55188 GN=CUMW_235100 PE=4 SV=1	Citrus unshiu	563	808	36.0	53.1	3.1e-98
+69	TR	A0A8J4VQ39	Uncharacterized protein OS=Castanea mollissima OX=60419 GN=CMV_017945 PE=4 SV=1	Castanea mollissima	467	798	39.7	57.5	6.1e-98
+70	TR	A0A8J5B9F5	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_075090 PE=4 SV=1	Zingiber officinale	481	799	38.2	57.4	6.5e-98
+71	TR	A0A1U8J407	(+)-delta-cadinene synthase OS=Gossypium hirsutum OX=3635 GN=LOC107903509 PE=4 SV=1	Gossypium hirsutum	481	797	36.2	56.1	1.3e-97
+72	TR	A0A1S4CIV4	Probable terpene synthase 3 OS=Nicotiana tabacum OX=4097 GN=LOC107819330 PE=4 SV=1	Nicotiana tabacum	488	796	37.8	56.7	2.3e-97
+73	TR	A0A2G2XEK5	Uncharacterized protein OS=Capsicum baccatum OX=33114 GN=CQW23_04257 PE=4 SV=1	Capsicum baccatum	459	793	41.1	60.2	2.7e-97
+74	TR	A0A8X8Y037	Viridiflorene synthase OS=Salvia splendens OX=180675 GN=SASPL_113747 PE=4 SV=1	Salvia splendens	444	791	40.0	61.4	3.4e-97
+75	TR	A0A5J5A0D8	Valerianol synthase OS=Nyssa sinensis OX=561372 GN=F0562_010192 PE=4 SV=1	Nyssa sinensis	550	795	36.9	54.9	1.8e-96
+76	TR	A0A6J1CR31	(-)-germacrene D synthase-like isoform X2 OS=Momordica charantia OX=3673 GN=LOC111013399 PE=4 SV=1	Momordica charantia	486	788	36.8	57.5	3.3e-96
+77	TR	A0A199VU40	Alpha-humulene synthase OS=Ananas comosus OX=4615 GN=ACMD2_23405 PE=4 SV=1	Ananas comosus	430	783	40.3	59.2	3.5e-96
+78	TR	D7TLC9	Valencene synthase OS=Vitis vinifera OX=29760 GN=VIT_18s0001g05240 PE=4 SV=1	Vitis vinifera	561	792	34.7	53.4	7e-96
+79	TR	A0A6J1DIG3	(+)-gamma-cadinene synthase-like OS=Momordica charantia OX=3673 GN=LOC111021378 PE=4 SV=1	Momordica charantia	494	785	37.8	58.7	1.2e-95
+80	TR	A0A5D2V7D0	(+)-delta-cadinene synthase OS=Gossypium mustelinum OX=34275 GN=E1A91_D05G414600v1 PE=4 SV=1	Gossypium mustelinum	481	782	35.8	55.7	2.3e-95
+81	TR	A0A199VM96	Alpha-humulene synthase (Fragment) OS=Ananas comosus OX=4615 GN=ACMD2_24128 PE=4 SV=1	Ananas comosus	422	774	39.9	59.2	6.1e-95
+82	TR	A0A2P5Y8X3	(+)-delta-cadinene synthase OS=Gossypium barbadense OX=3634 GN=GOBAR_AA08616 PE=4 SV=1	Gossypium barbadense	463	777	37.5	56.1	7.5e-95
+83	TR	A0A7J0DYF4	Terpenoid cyclases/Protein prenyltransferases superfamily protein OS=Actinidia rufa OX=165716 GN=Acr_00g0091610 PE=4 SV=1	Actinidia rufa	425	771	40.2	60.0	1.9e-94
+84	TR	A0A8X8WIB0	Viridiflorene synthase OS=Salvia splendens OX=180675 GN=SASPL_145901 PE=4 SV=1	Salvia splendens	456	769	36.4	57.2	9.5e-94
+85	TR	A0A1U7VK61	(-)-germacrene D synthase-like isoform X2 OS=Nicotiana sylvestris OX=4096 GN=LOC104219427 PE=4 SV=1	Nicotiana sylvestris	513	772	36.7	54.2	1.8e-93
+86	TR	A0A1S4DBI2	(-)-germacrene D synthase-like isoform X2 OS=Nicotiana tabacum OX=4097 GN=LOC107828058 PE=4 SV=1	Nicotiana tabacum	513	772	36.7	54.2	1.8e-93
+87	TR	A0A7J0D9D1	Terpenoid cyclases/Protein prenyltransferases superfamily protein OS=Actinidia rufa OX=165716 GN=Acr_00g0006020 PE=4 SV=1	Actinidia rufa	465	765	39.6	56.6	4.9e-93
+88	TR	A0A2P6QBW7	Germacrene d synthase OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr5g0038101 PE=2 SV=1	Rosa chinensis	565	772	36.2	51.2	7.3e-93
+89	TR	A0A8X7Y8S2	DhaK domain-containing protein OS=Populus tomentosa OX=118781 GN=POTOM_050213 PE=4 SV=1	Populus tomentosa	496	766	40.2	57.6	8.5e-93
+90	TR	A0A067FTE8	Uncharacterized protein OS=Citrus sinensis OX=2711 GN=CISIN_1g044370mg PE=4 SV=1	Citrus sinensis	554	765	35.0	51.5	6e-92
+91	TR	A0A8X8WHB0	Viridiflorene synthase OS=Salvia splendens OX=180675 GN=SASPL_145906 PE=4 SV=1	Salvia splendens	471	758	36.4	57.0	6.5e-92
+92	TR	A0A6A2YAC8	(+)-delta-cadinene synthase OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00111754pilonHSYRG00003 PE=4 SV=1	Hibiscus syriacus	474	757	38.0	58.1	1e-91
+93	TR	A0A8J5G4T6	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_039441 PE=4 SV=1	Zingiber officinale	441	749	40.8	59.5	5.9e-91
+94	TR	A0A368UHD3	Terpene synthase N-terminal domain-containing protein OS=Glycine max OX=3847 GN=GLYMA_12G138800 PE=4 SV=1	Glycine max	488	751	36.7	56.8	1.2e-90
+95	TR	A0A8J5CPV7	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_075802 PE=4 SV=1	Zingiber officinale	449	747	36.5	55.0	1.5e-90
+96	TR	A0A5J5A1V3	Valerianol synthase OS=Nyssa sinensis OX=561372 GN=F0562_010185 PE=4 SV=1	Nyssa sinensis	550	752	36.4	52.9	4.6e-90
+97	TR	A0A3Q0ENR5	(-)-germacrene D synthase-like isoform X2 OS=Vigna radiata var. radiata OX=3916 GN=LOC106778773 PE=4 SV=1	Vigna radiata var. radiata	483	746	35.9	58.0	5.6e-90
+98	TR	A0A8T1P808	(-)-germacrene D synthase-like OS=Carya illinoinensis OX=32201 GN=CIPAW_11G181000 PE=4 SV=1	Carya illinoinensis	517	748	36.0	52.3	7.3e-90
+99	TR	A0A4S8IV27	Terpene synthase N-terminal domain-containing protein OS=Musa balbisiana OX=52838 GN=C4D60_Mb10t00800 PE=4 SV=1	Musa balbisiana	471	744	36.2	57.5	7.9e-90
+100	TR	A0A2R6QDS9	(-)-germacrene D synthase OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc19469 PE=4 SV=1	Actinidia chinensis var. chinensis	510	745	35.7	52.4	1.7e-89
+101	TR	M1DKK8	(-)-germacrene D synthase OS=Solanum tuberosum OX=4113 PE=4 SV=1	Solanum tuberosum	428	738	39.5	57.4	1.8e-89
+102	TR	A0A8J4Q4W3	Uncharacterized protein OS=Castanea mollissima OX=60419 GN=CMV_029611 PE=4 SV=1	Castanea mollissima	555	748	34.4	52.5	2e-89
+103	TR	A0A2H5QKQ7	Uncharacterized protein OS=Citrus unshiu OX=55188 GN=CUMW_239410 PE=4 SV=1	Citrus unshiu	562	746	34.7	51.4	4.9e-89
+104	TR	A0A8J5KU20	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_043540 PE=4 SV=1	Zingiber officinale	463	738	40.0	59.8	4.9e-89
+105	TR	A0A5B6U4T7	(+)-delta-cadinene synthase OS=Gossypium australe OX=47621 GN=EPI10_009073 PE=4 SV=1	Gossypium australe	457	737	35.6	54.0	5.9e-89
+106	TR	A0A7J6FNR5	Uncharacterized protein (Fragment) OS=Cannabis sativa OX=3483 GN=G4B88_007049 PE=4 SV=1	Cannabis sativa	456	735	36.6	57.5	1.1e-88
+107	TR	A0A8J4QPE8	Uncharacterized protein OS=Castanea mollissima OX=60419 GN=CMV_023479 PE=4 SV=1	Castanea mollissima	555	741	34.1	52.3	2.2e-88
+108	TR	A0A8J4QA86	(-)-germacrene D synthase OS=Castanea mollissima OX=60419 GN=CMV_027368 PE=4 SV=1	Castanea mollissima	586	743	34.4	52.1	2.5e-88
+109	TR	A0A368UHD4	Terpene synthase N-terminal domain-containing protein OS=Glycine max OX=3847 GN=GLYMA_12G138800 PE=4 SV=1	Glycine max	500	734	35.4	55.9	5.5e-88
+110	TR	A0A2P5C4P3	Squalene/phytoene synthase OS=Trema orientale OX=63057 GN=TorRG33x02_298190 PE=4 SV=1	Trema orientale	530	729	34.1	52.8	6.9e-87
+111	TR	A0A2R6QWX2	(-)-germacrene D synthase OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc13742 PE=4 SV=1	Actinidia chinensis var. chinensis	561	729	35.0	51.6	1.6e-86
+112	TR	A0A8K0HJV3	Uncharacterized protein OS=Rhamnella rubrinervis OX=2594499 GN=FNV43_RR03989 PE=4 SV=1	Rhamnella rubrinervis	637	733	37.1	53.8	2.6e-86
+113	TR	A0A4U5PZF0	(-)-germacrene D synthase OS=Populus alba OX=43335 GN=D5086_0000163360 PE=4 SV=1	Populus alba	561	727	33.6	50.6	3.1e-86
+114	TR	A0A2P5YTQ0	(+)-delta-cadinene synthase OS=Gossypium barbadense OX=3634 GN=GOBAR_AA01626 PE=4 SV=1	Gossypium barbadense	501	721	36.9	52.1	4.9e-86
+115	TR	A0A4U5NNE0	(-)-germacrene D synthase OS=Populus alba OX=43335 GN=D5086_0000258980 PE=4 SV=1	Populus alba	561	725	33.7	50.5	6.1e-86
+116	TR	A0A7N2N753	Uncharacterized protein OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	552	722	34.0	51.4	1.3e-85
+117	TR	A0A3S3NAB6	Terpene synthase 1 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01723300 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	376	707	43.2	60.5	1.6e-85
+118	TR	A0A8X8Z8S6	Viridiflorene synthase OS=Salvia splendens OX=180675 GN=SASPL_145905 PE=4 SV=1	Salvia splendens	417	710	37.6	57.4	1.9e-85
+119	TR	A0A7N2LUV5	Uncharacterized protein OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	552	720	34.0	51.2	2.7e-85
+120	TR	A0A7N2R8W7	Uncharacterized protein OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	573	720	33.6	51.3	4.6e-85
+121	TR	A0A7N2M912	Uncharacterized protein OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	552	717	34.2	51.7	7.4e-85
+122	SP	B5A435	Sesquiterpene synthase OS=Santalum album OX=35974 PE=1 SV=1	Santalum album	559	711	33.6	51.4	6.8e-84
+123	TR	U5GUD6	Terpene synthase OS=Populus trichocarpa OX=3694 GN=POPTR_001G415100 PE=4 SV=1	Populus trichocarpa	561	710	33.5	50.3	1e-83
+124	TR	A0A067EET2	Uncharacterized protein OS=Citrus sinensis OX=2711 GN=CISIN_1g008620mg PE=4 SV=1	Citrus sinensis	559	709	34.1	51.2	1.4e-83
+125	TR	A0A843XG03	Uncharacterized protein OS=Colocasia esculenta OX=4460 GN=Taro_051179 PE=4 SV=1	Colocasia esculenta	1376	740	38.4	60.4	5.6e-83
+126	TR	A0A978UN89	Terpene synthase 10-like OS=Ziziphus jujuba var. spinosa OX=714518 GN=FEM48_Zijuj10G0119700 PE=4 SV=1	Ziziphus jujuba var. spinosa	520	701	36.0	56.5	7.5e-83
+127	TR	A0A4U6T5Y3	Terpene synthase OS=Setaria viridis OX=4556 GN=SEVIR_9G408900v2 PE=4 SV=1	Setaria viridis	470	697	33.7	55.1	7.6e-83
+128	TR	A0A2H5QKR2	Uncharacterized protein (Fragment) OS=Citrus unshiu OX=55188 GN=CUMW_239410 PE=4 SV=1	Citrus unshiu	525	699	35.1	51.4	1.7e-82
+129	TR	A0A5C7ID84	(+)-delta-cadinene synthase OS=Acer yangbiense OX=1000413 GN=EZV62_008595 PE=4 SV=1	Acer yangbiense	569	701	34.5	50.1	2.6e-82
+130	TR	A0A2H5PLT0	Uncharacterized protein OS=Citrus unshiu OX=55188 GN=CUMW_148370 PE=4 SV=1	Citrus unshiu	559	698	33.5	50.8	5.7e-82
+131	TR	A0A2U1LVM4	Terpene synthase, metal-binding domain-containing protein OS=Artemisia annua OX=35608 GN=CTI12_AA449000 PE=4 SV=1	Artemisia annua	698	707	35.5	56.8	6.8e-82
+132	SP	F6M8H7	Probable sesquiterpene synthase OS=Santalum murrayanum OX=453085 GN=STPS PE=3 SV=1	Santalum murrayanum	562	697	33.3	49.6	8.6e-82
+133	TR	A0A1R3IM35	(+)-delta-cadinene synthase OS=Corchorus olitorius OX=93759 GN=COLO4_22399 PE=4 SV=1	Corchorus olitorius	488	689	35.1	55.6	1.9e-81
+134	TR	A0A6A2YLV6	(+)-delta-cadinene synthase OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00111392pilonHSYRG00618 PE=4 SV=1	Hibiscus syriacus	441	684	36.0	54.2	2.9e-81
+135	TR	A0A103XRG2	Terpene synthase, metal-binding domain-containing protein OS=Cynara cardunculus var. scolymus OX=59895 GN=Ccrd_002378 PE=4 SV=1	Cynara cardunculus var. scolymus	482	685	36.3	56.2	6.4e-81
+136	TR	A0A4S4EH20	Uncharacterized protein OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_029004 PE=4 SV=1	Camellia sinensis var. sinensis	567	691	32.8	50.0	7.5e-81
+137	TR	A0A8J4RD07	Uncharacterized protein OS=Castanea mollissima OX=60419 GN=CMV_010239 PE=4 SV=1	Castanea mollissima	587	692	34.1	51.2	8.7e-81
+138	TR	A0A8X8WFK2	Viridiflorene synthase OS=Salvia splendens OX=180675 GN=SASPL_147680 PE=4 SV=1	Salvia splendens	667	697	37.5	57.2	1e-80
+139	TR	A0A0Q3KNZ3	Terpene synthase OS=Brachypodium distachyon OX=15368 GN=100827547 PE=4 SV=1	Brachypodium distachyon	526	687	35.1	53.8	1e-80
+140	TR	A0A8K0INV4	Putative 5-epi-aristolochene synthase (Fragment) OS=Cocos nucifera OX=13894 GN=COCNU_11G002470 PE=4 SV=1	Cocos nucifera	559	689	43.7	63.9	1.2e-80
+141	TR	A0A8X7Y956	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_049106 PE=4 SV=1	Populus tomentosa	409	677	35.3	51.1	1.3e-80
+142	SP	G5CV52	Terpene synthase 17 OS=Solanum lycopersicum OX=4081 GN=TPS17 PE=1 SV=1	Solanum lycopersicum	554	688	32.4	51.6	1.5e-80
+143	TR	A0A8J4Q9W5	(+)-delta-cadinene synthase OS=Castanea mollissima OX=60419 GN=CMV_027368 PE=4 SV=1	Castanea mollissima	532	686	32.8	49.8	1.7e-80
+144	TR	A0A7J7HC47	Valerianol synthase OS=Camellia sinensis OX=4442 GN=HYC85_012100 PE=4 SV=1	Camellia sinensis	513	681	34.2	54.2	5.7e-80
+145	TR	A0A8X8WPD8	Uncharacterized protein OS=Salvia splendens OX=180675 GN=SASPL_139266 PE=4 SV=1	Salvia splendens	465	677	37.0	56.5	6.2e-80
+146	TR	A0A8J4VDG4	(+)-delta-cadinene synthase OS=Castanea mollissima OX=60419 GN=CMV_023479 PE=4 SV=1	Castanea mollissima	532	681	32.3	50.0	9.3e-80
+147	TR	A0A067LDH0	Uncharacterized protein OS=Jatropha curcas OX=180498 GN=JCGZ_12935 PE=3 SV=1	Jatropha curcas	500	678	33.2	53.0	1.1e-79
+148	TR	A0A978UN86	Terpene synthase 10-like OS=Ziziphus jujuba var. spinosa OX=714518 GN=FEM48_Zijuj10G0119400 PE=4 SV=1	Ziziphus jujuba var. spinosa	465	675	37.5	56.7	1.2e-79
+149	TR	A0A3S3MXR3	Terpene synthase 1 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01723000 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	353	665	43.5	60.4	1.5e-79
+150	TR	A0A8X8DL43	Terpene synthase metal-binding domain-containing protein OS=Populus tomentosa OX=118781 GN=POTOM_003161 PE=4 SV=1	Populus tomentosa	320	662	45.7	65.5	1.5e-79
+151	TR	A0A8X8DEX5	Terpene synthase metal-binding domain-containing protein OS=Populus tomentosa OX=118781 GN=POTOM_006710 PE=4 SV=1	Populus tomentosa	320	662	45.7	65.5	1.5e-79
+152	TR	B9IF04	Terpene synthase OS=Populus trichocarpa OX=3694 GN=POPTR_015G085500 PE=4 SV=1	Populus trichocarpa	553	679	34.1	50.5	3.1e-79
+153	TR	A0A6A6LAS9	Uncharacterized protein OS=Hevea brasiliensis OX=3981 GN=GH714_023039 PE=3 SV=1	Hevea brasiliensis	766	691	36.2	54.7	5.7e-79
+154	TR	A0A2H5PLS5	Uncharacterized protein OS=Citrus unshiu OX=55188 GN=CUMW_148370 PE=4 SV=1	Citrus unshiu	570	678	32.9	49.8	6.7e-79
+155	TR	A0A8X8DL06	Terpene synthase metal-binding domain-containing protein OS=Populus tomentosa OX=118781 GN=POTOM_003160 PE=4 SV=1	Populus tomentosa	320	657	45.3	65.1	8.2e-79
+156	TR	A0A1R3IM33	(+)-delta-cadinene synthase OS=Corchorus olitorius OX=93759 GN=COLO4_22401 PE=4 SV=1	Corchorus olitorius	509	672	34.1	56.5	1.1e-78
+157	TR	A0A8J4QMH4	Uncharacterized protein OS=Castanea mollissima OX=60419 GN=CMV_019820 PE=4 SV=1	Castanea mollissima	450	667	38.3	58.2	1.2e-78
+158	TR	A0A1S3TCC1	(-)-germacrene D synthase-like isoform X2 OS=Vigna radiata var. radiata OX=3916 GN=LOC106753988 PE=4 SV=1	Vigna radiata var. radiata	517	671	33.6	53.2	1.9e-78
+159	TR	A0A8J5H7C0	Sesquiterpene synthase OS=Zingiber officinale OX=94328 GN=ZIOFF_023987 PE=4 SV=1	Zingiber officinale	405	662	38.4	56.9	1.9e-78
+160	TR	A0A0Q3I6C3	Terpene synthase OS=Brachypodium distachyon OX=15368 GN=100827547 PE=4 SV=1	Brachypodium distachyon	450	665	35.5	54.4	2.5e-78
+161	TR	A0A0D2TQ69	(+)-delta-cadinene synthase OS=Gossypium raimondii OX=29730 GN=B456_007G316300 PE=4 SV=1	Gossypium raimondii	493	668	34.5	54.1	2.8e-78
+162	TR	A0A0Q3NYU9	Terpene synthase OS=Brachypodium distachyon OX=15368 GN=100827547 PE=4 SV=1	Brachypodium distachyon	456	665	35.5	54.4	2.9e-78
+163	TR	A0A2G9G6T4	Gamma-curcumene synthase OS=Handroanthus impetiginosus OX=429701 GN=CDL12_26857 PE=4 SV=1	Handroanthus impetiginosus	471	665	33.0	56.3	4.4e-78
+164	TR	A0A7N2LBK1	Uncharacterized protein OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	367	655	39.0	56.7	6.9e-78
+165	TR	A0A8J5ZR70	(+)-delta-cadinene synthase OS=Gossypium anomalum OX=47600 GN=CXB51_001137 PE=4 SV=1	Gossypium anomalum	545	667	33.6	50.3	1.5e-77
+166	TR	A0A8K0GTV5	Uncharacterized protein OS=Rhamnella rubrinervis OX=2594499 GN=FNV43_RR20915 PE=4 SV=1	Rhamnella rubrinervis	449	653	34.8	51.6	1.4e-76
+167	TR	A0A3Q0ES06	Sesquiterpene synthase-like isoform X3 OS=Vigna radiata var. radiata OX=3916 GN=LOC106755584 PE=4 SV=1	Vigna radiata var. radiata	517	658	33.7	53.5	1.6e-76
+168	TR	A0A8X7YAB7	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_049499 PE=4 SV=1	Populus tomentosa	526	658	41.5	57.0	2e-76
+169	TR	U5GWF3	Terpene synthase OS=Populus trichocarpa OX=3694 GN=POPTR_001G415100 PE=4 SV=1	Populus trichocarpa	500	656	33.5	50.0	2e-76
+170	TR	A0A8J5L3V5	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_039450 PE=4 SV=1	Zingiber officinale	337	640	40.7	61.4	4.8e-76
+171	TR	A0A5D3AE27	(+)-delta-cadinene synthase OS=Gossypium mustelinum OX=34275 GN=E1A91_A01G075500v1 PE=4 SV=1	Gossypium mustelinum	545	656	33.0	49.8	6.3e-76
+172	TR	A0A0B0MPP6	(+)-delta-cadinene synthase OS=Gossypium arboreum OX=29729 GN=F383_29051 PE=4 SV=1	Gossypium arboreum	545	656	33.0	49.8	6.3e-76
+173	TR	A0A8J4QIZ7	Uncharacterized protein OS=Castanea mollissima OX=60419 GN=CMV_027049 PE=4 SV=1	Castanea mollissima	554	654	32.3	49.4	1.5e-75
+174	TR	A0A8J4R2Y7	Uncharacterized protein OS=Castanea mollissima OX=60419 GN=CMV_011970 PE=4 SV=1	Castanea mollissima	495	649	32.2	56.0	1.9e-75
+175	TR	A0A4S4E6S9	Uncharacterized protein OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_012657 PE=4 SV=1	Camellia sinensis var. sinensis	569	651	33.3	48.3	6.1e-75
+176	TR	A0A067H7V0	Uncharacterized protein OS=Citrus sinensis OX=2711 GN=CISIN_1g035568mg PE=4 SV=1	Citrus sinensis	518	647	34.8	50.5	6.8e-75
+177	TR	A0A7J9LNI9	(+)-delta-cadinene synthase (Fragment) OS=Gossypium schwendimanii OX=34291 GN=Goshw_015659 PE=4 SV=1	Gossypium schwendimanii	359	634	39.9	57.5	7.2e-75
+178	TR	A0A1U8KGL3	(+)-delta-cadinene synthase OS=Gossypium hirsutum OX=3635 GN=LOC107916720 PE=4 SV=1	Gossypium hirsutum	545	648	33.1	49.6	9.4e-75
+179	TR	A0A8J5GRL8	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_024002 PE=4 SV=1	Zingiber officinale	344	628	38.6	57.9	3.6e-74
+180	TR	A0A7J0G251	Terpenoid cyclases/Protein prenyltransferases superfamily protein OS=Actinidia rufa OX=165716 GN=Acr_17g0004110 PE=4 SV=1	Actinidia rufa	494	638	34.0	50.9	7.8e-74
+181	TR	A0A4V3WKH8	Uncharacterized protein OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_026266 PE=4 SV=1	Camellia sinensis var. sinensis	537	641	33.0	47.1	8.3e-74
+182	TR	A0A8X7YTS8	Terpene synthase OS=Populus tomentosa OX=118781 GN=POTOM_040081 PE=4 SV=1	Populus tomentosa	437	633	44.0	66.2	9.5e-74
+183	TR	A0A978VS89	Terpene synthase 10-like OS=Ziziphus jujuba var. spinosa OX=714518 GN=FEM48_Zijuj03G0196900 PE=4 SV=1	Ziziphus jujuba var. spinosa	531	640	32.4	54.0	1e-73
+184	TR	A0A6P6FWX2	LOW QUALITY PROTEIN: (-)-germacrene D synthase-like OS=Ziziphus jujuba OX=326968 GN=LOC107431448 PE=4 SV=1	Ziziphus jujuba	466	635	35.2	55.6	1e-73
+185	TR	A0A8X8Z8G4	Viridiflorene synthase OS=Salvia splendens OX=180675 GN=SASPL_145904 PE=4 SV=1	Salvia splendens	386	627	36.5	57.9	1.7e-73
+186	TR	A0A0E0LRP2	Sesquiterpene synthase OS=Oryza punctata OX=4537 PE=4 SV=1	Oryza punctata	472	633	33.6	55.3	2.4e-73
+187	TR	A0A7J0G6X8	Terpenoid cyclases/Protein prenyltransferases superfamily protein OS=Actinidia rufa OX=165716 GN=Acr_18g0007200 PE=4 SV=1	Actinidia rufa	510	635	33.7	49.6	3.2e-73
+188	TR	A0A8B8NRV0	(-)-germacrene D synthase-like isoform X2 OS=Rhodamnia argentea OX=178133 GN=LOC115737309 PE=4 SV=1	Rhodamnia argentea	373	623	37.4	56.2	4.7e-73
+189	TR	M1BIR2	Cembratrienol synthase 2a OS=Solanum tuberosum OX=4113 PE=4 SV=1	Solanum tuberosum	368	620	39.6	57.7	1.1e-72
+190	TR	A0A7J7HNF8	Valerianol synthase OS=Camellia sinensis OX=4442 GN=HYC85_007125 PE=4 SV=1	Camellia sinensis	567	635	33.1	50.1	1.3e-72
+191	TR	A0A8T0CMR8	Uncharacterized protein OS=Corymbia citriodora subsp. variegata OX=360336 GN=BT93_L3090 PE=4 SV=1	Corymbia citriodora subsp. variegata	525	632	32.9	52.3	1.3e-72
+192	TR	A0A6A3AJN0	(+)-delta-cadinene synthase OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00110458pilonHSYRG00409 PE=4 SV=1	Hibiscus syriacus	466	627	33.2	50.2	1.6e-72
+193	TR	A0A2G9H6B2	Gamma-curcumene synthase OS=Handroanthus impetiginosus OX=429701 GN=CDL12_14319 PE=4 SV=1	Handroanthus impetiginosus	471	627	31.6	55.7	1.8e-72
+194	TR	A0A5D2XDR0	Terpene synthase N-terminal domain-containing protein OS=Gossypium mustelinum OX=34275 GN=E1A91_A11G307500v1 PE=4 SV=1	Gossypium mustelinum	466	626	34.1	48.3	2.2e-72
+195	TR	A0A067DRL0	Terpene synthase metal-binding domain-containing protein (Fragment) OS=Citrus sinensis OX=2711 GN=CISIN_1g0152451mg PE=4 SV=1	Citrus sinensis	272	608	49.6	66.4	3.7e-72
+196	TR	A0A8X8X2Y4	(-)-germacrene D synthase OS=Salvia splendens OX=180675 GN=SASPL_132401 PE=4 SV=1	Salvia splendens	492	626	35.2	55.3	4.4e-72
+197	TR	A0A8J5GVL0	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_023990 PE=4 SV=1	Zingiber officinale	338	613	38.9	58.1	5.1e-72
+198	TR	A0A6P6X9E4	(-)-germacrene D synthase-like OS=Coffea arabica OX=13443 GN=LOC113741074 PE=4 SV=1	Coffea arabica	566	630	32.6	49.8	6.8e-72
+199	TR	A0A0D3ENC3	Terpene synthase N-terminal domain-containing protein OS=Oryza barthii OX=65489 PE=4 SV=1	Oryza barthii	474	622	33.8	52.1	1.1e-71
+200	TR	A0A8K0HPI9	Sesquiterpene synthase OS=Rhamnella rubrinervis OX=2594499 GN=FNV43_RR00637 PE=4 SV=1	Rhamnella rubrinervis	415	617	36.5	53.4	1.2e-71
+201	TR	A0A7J0G237	Terpene synthase-like sequence-1,8-cineole OS=Actinidia rufa OX=165716 GN=Acr_17g0004130 PE=4 SV=1	Actinidia rufa	465	618	35.9	51.6	3.3e-71
+202	TR	A0A0D9W3K1	Terpene synthase N-terminal domain-containing protein OS=Leersia perrieri OX=77586 PE=4 SV=1	Leersia perrieri	438	615	33.2	54.4	4.5e-71
+203	TR	A0A811S1J6	Uncharacterized protein OS=Miscanthus lutarioriparius OX=422564 GN=NCGR_LOCUS59042 PE=4 SV=1	Miscanthus lutarioriparius	540	622	33.5	54.7	5.5e-71
+204	TR	F6HN22	Terpene synthase metal-binding domain-containing protein OS=Vitis vinifera OX=29760 GN=VIT_18s0001g05360 PE=4 SV=1	Vitis vinifera	368	608	39.4	56.9	6.8e-71
+205	TR	A0A834Y3Y6	Terpene synthase metal-binding domain-containing protein OS=Tetracentron sinense OX=13715 GN=HHK36_033303 PE=4 SV=1	Tetracentron sinense	409	609	38.9	57.1	1.6e-70
+206	TR	A0A059BVE9	Terpene synthase N-terminal domain-containing protein OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_F03396 PE=4 SV=1	Eucalyptus grandis	502	614	33.9	49.8	3.3e-70
+207	TR	A0A8X9A9X1	Uncharacterized protein OS=Salvia splendens OX=180675 GN=SASPL_103662 PE=4 SV=1	Salvia splendens	477	610	32.6	54.3	6.8e-70
+208	TR	A0A834X217	Myrcene synthase, chloroplastic-like isoform X2 OS=Senna tora OX=362788 GN=G2W53_011368 PE=4 SV=1	Senna tora	441	607	34.1	56.1	7.3e-70
+209	TR	A0A834WZZ1	Myrcene synthase, chloroplastic-like isoform X2 OS=Senna tora OX=362788 GN=G2W53_010562 PE=4 SV=1	Senna tora	441	607	34.1	56.1	7.3e-70
+210	TR	A0A8X9A0K7	Uncharacterized protein OS=Salvia splendens OX=180675 GN=SASPL_113781 PE=4 SV=1	Salvia splendens	395	603	37.9	59.3	8.1e-70
+211	TR	A0A443Q4A3	Terpene synthase 1 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_02726600 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	556	615	50.9	70.2	8.4e-70
+212	TR	A0A7J6ER71	Terpene synthase OS=Cannabis sativa OX=3483 GN=G4B88_000554 PE=4 SV=1	Cannabis sativa	1175	640	33.3	52.1	9.3e-70
+213	TR	A0A443PRV2	Terpene synthase 1 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_02276900 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	553	614	50.6	69.7	1.1e-69
+214	TR	A0A5J4ZY50	Valerianol synthase OS=Nyssa sinensis OX=561372 GN=F0562_010178 PE=4 SV=1	Nyssa sinensis	500	610	33.5	52.1	1.2e-69
+215	TR	A0A3N7F7Y3	Terpene synthase OS=Populus trichocarpa OX=3694 GN=POPTR_007G119700 PE=4 SV=1	Populus trichocarpa	504	610	32.0	52.2	1.3e-69
+216	TR	A0A834TL44	(-)-germacrene D synthase-like OS=Senna tora OX=362788 GN=G2W53_020979 PE=4 SV=1	Senna tora	506	609	33.0	50.1	2e-69
+217	TR	A0A8T0CUU0	Uncharacterized protein OS=Corymbia citriodora subsp. variegata OX=360336 GN=BT93_L0113 PE=4 SV=1	Corymbia citriodora subsp. variegata	558	608	32.3	53.5	9.3e-69
+218	TR	A0A8J4QDF5	Sesquiterpene synthase OS=Castanea mollissima OX=60419 GN=CMV_024945 PE=4 SV=1	Castanea mollissima	514	601	31.2	46.9	3.5e-68
+219	TR	A0A8T0CV72	Uncharacterized protein OS=Corymbia citriodora subsp. variegata OX=360336 GN=BT93_L3816 PE=4 SV=1	Corymbia citriodora subsp. variegata	524	601	32.5	53.3	4.5e-68
+220	TR	A0A067KB09	Terpene synthase N-terminal domain-containing protein OS=Jatropha curcas OX=180498 GN=JCGZ_14941 PE=3 SV=1	Jatropha curcas	400	591	33.7	54.5	5.6e-68
+221	TR	A0A3L6PPC4	Putative (+)-delta-cadinene synthase OS=Panicum miliaceum OX=4540 GN=C2845_PM14G03760 PE=4 SV=1	Panicum miliaceum	474	595	33.2	53.4	1e-67
+222	TR	M1BET9	Cembratrienol synthase 2b OS=Solanum tuberosum OX=4113 PE=4 SV=1	Solanum tuberosum	326	583	40.5	60.7	1e-67
+223	TR	A0A7J0D7X0	Terpenoid cyclases/Protein prenyltransferases superfamily protein OS=Actinidia rufa OX=165716 GN=Acr_00g0006000 PE=4 SV=1	Actinidia rufa	367	586	49.4	64.9	1.2e-67
+224	TR	A0A7J8XKQ4	(+)-delta-cadinene synthase (Fragment) OS=Gossypium aridum OX=34290 GN=Goari_015044 PE=4 SV=1	Gossypium aridum	339	583	38.5	55.0	1.5e-67
+225	TR	A0A0E0JI01	Terpene synthase N-terminal domain-containing protein OS=Oryza punctata OX=4537 PE=4 SV=1	Oryza punctata	454	592	33.0	51.2	1.7e-67
+226	TR	A0A8X8CIT8	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_041308 PE=4 SV=1	Populus tomentosa	598	601	45.3	66.3	2.3e-67
+227	TR	A0A6A6M9V7	(+)-delta-cadinene synthase OS=Hevea brasiliensis OX=3981 GN=GH714_001589 PE=3 SV=1	Hevea brasiliensis	499	593	33.5	53.2	3.7e-67
+228	TR	A0A5D2T012	(+)-delta-cadinene synthase OS=Gossypium mustelinum OX=34275 GN=E1A91_D11G327800v1 PE=4 SV=1	Gossypium mustelinum	505	593	33.6	51.8	4.2e-67
+229	TR	A0A8T1NRZ4	Uncharacterized protein OS=Carya illinoinensis OX=32201 GN=CIPAW_12G115200 PE=4 SV=1	Carya illinoinensis	555	595	31.8	49.3	6.9e-67
+230	TR	A0A6P6X4C2	(-)-germacrene D synthase-like OS=Coffea arabica OX=13443 GN=LOC113739289 PE=4 SV=1	Coffea arabica	551	594	32.8	50.5	8.8e-67
+231	TR	A0A443PS16	Terpene synthase 1 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_02276800 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	562	594	50.0	68.4	1.1e-66
+232	TR	A0A6A2XR90	(+)-delta-cadinene synthase OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00116944pilonHSYRG00129 PE=4 SV=1	Hibiscus syriacus	520	590	33.5	54.4	1.7e-66
+233	TR	A0A5E4G6M8	PREDICTED: (-)-germacrene D synthase OS=Prunus dulcis OX=3755 GN=ALMOND_2B009491 PE=4 SV=1	Prunus dulcis	566	593	33.2	50.7	1.7e-66
+234	TR	A0A4S4F2R7	Uncharacterized protein OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_004601 PE=4 SV=1	Camellia sinensis var. sinensis	399	580	36.7	59.8	2.3e-66
+235	TR	A0A4Y7JR86	(+)-delta-cadinene synthase OS=Papaver somniferum OX=3469 GN=C5167_024804 PE=4 SV=1	Papaver somniferum	543	588	33.1	51.6	5.5e-66
+236	TR	A0A7J9BBL6	(+)-delta-cadinene synthase OS=Gossypium gossypioides OX=34282 GN=Gogos_017722 PE=4 SV=1	Gossypium gossypioides	545	587	50.4	65.9	8.1e-66
+237	TR	A0A7J8LCV7	(+)-delta-cadinene synthase OS=Gossypium lobatum OX=34289 GN=Golob_021103 PE=4 SV=1	Gossypium lobatum	517	585	49.6	65.9	8.3e-66
+238	TR	A0A0D2R2U6	(+)-delta-cadinene synthase OS=Gossypium raimondii OX=29730 GN=B456_007G316700 PE=4 SV=1	Gossypium raimondii	505	584	33.1	51.8	8.8e-66
+239	TR	A0A5D2W4W0	(+)-delta-cadinene synthase OS=Gossypium mustelinum OX=34275 GN=E1A91_D01G079600v1 PE=4 SV=1	Gossypium mustelinum	545	586	49.6	66.4	1.1e-65
+240	TR	A0A1U8MPZ7	(+)-delta-cadinene synthase OS=Gossypium hirsutum OX=3635 GN=LOC107940014 PE=4 SV=1	Gossypium hirsutum	545	586	50.4	65.5	1.1e-65
+241	TR	A0A7J8YPG3	(+)-delta-cadinene synthase OS=Gossypium aridum OX=34290 GN=Goari_020650 PE=4 SV=1	Gossypium aridum	517	584	50.0	65.9	1.2e-65
+242	TR	A0A0D2Q9J7	(+)-delta-cadinene synthase OS=Gossypium raimondii OX=29730 GN=B456_002G080500 PE=4 SV=1	Gossypium raimondii	516	583	50.0	65.5	1.6e-65
+243	TR	A0A7J9N616	(+)-delta-cadinene synthase OS=Gossypium schwendimanii OX=34291 GN=Goshw_008343 PE=4 SV=1	Gossypium schwendimanii	549	585	49.6	65.9	1.7e-65
+244	TR	A0A7J7HB30	Valerianol synthase OS=Camellia sinensis OX=4442 GN=HYC85_015041 PE=4 SV=1	Camellia sinensis	340	569	43.5	61.5	1.8e-65
+245	TR	A0A5B6VEC6	(+)-delta-cadinene synthase OS=Gossypium australe OX=47621 GN=EPI10_002542 PE=4 SV=1	Gossypium australe	545	583	50.4	65.9	3.1e-65
+246	TR	A0A7J0DTM1	Terpenoid cyclases/Protein prenyltransferases superfamily protein OS=Actinidia rufa OX=165716 GN=Acr_00g0078170 PE=4 SV=1	Actinidia rufa	461	577	34.6	50.7	3.2e-65
+247	TR	A0A8J4QQN9	Sesquiterpene synthase OS=Castanea mollissima OX=60419 GN=CMV_024945 PE=4 SV=1	Castanea mollissima	421	573	48.5	64.1	4.4e-65
+248	TR	A0A443PC55	Trans-ocimene synthase OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01736000 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	1071	602	32.3	51.8	8.1e-65
+249	TR	A0A7J8T952	(+)-delta-cadinene synthase OS=Gossypium davidsonii OX=34287 GN=Godav_024452 PE=4 SV=1	Gossypium davidsonii	517	577	49.1	64.7	1.2e-64
+250	TR	D7TLC8	Valencene synthase OS=Vitis vinifera OX=29760 GN=VIT_18s0001g05230 PE=4 SV=1	Vitis vinifera	555	579	48.7	66.1	1.5e-64

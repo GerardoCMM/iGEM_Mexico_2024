@@ -1,0 +1,71 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length
+Q3ZPN4	reviewed	ACMAT_VITLA	Methanol O-anthraniloyltransferase (EC 2.3.1.232) (Anthraniloyl-CoA:methanol acyltransferase) (Benzyl alcohol O-benzoyltransferase) (EC 2.3.1.196)	AMAT	Vitis labrusca (Concord grape)	449
+Q6E593	reviewed	BEBT1_PETHY	Benzyl alcohol O-benzoyltransferase (PhBEBT1) (EC 2.3.1.196) (Acetyl CoA:3-hydroxybenzyl alcohol acetyltransferase) (EC 2.3.1.-) (Acetyl CoA:benzyl alcohol acetyltransferase) (EC 2.3.1.224) (Acetyl CoA:geraniol acetyltransferase) (EC 2.3.1.-) (Benzoyl coenzyme A:benzyl alcohol benzoyl transferase) (Benzyl CoA:benzyl alcohol/phenylethanol benzoyltransferase) (PhBPBT) (Benzyl CoA:(3Z)-hex-3-en-1-ol benzoyltransferase) (EC 2.3.1.-) (Benzyl CoA:2-phenylethanol benzoyltransferase) (EC 2.3.1.-) (Benzyl CoA:3-hydroxybenzyl alcohol benzoyltransferase) (EC 2.3.1.-) (Benzyl CoA:butanol benzoyltransferase) (EC 2.3.1.-) (Benzyl CoA:geraniol benzoyltransferase) (EC 2.3.1.-) (Benzyl CoA:octan-1-ol benzoyltransferase) (EC 2.3.1.-)	BEBT1 BPBT	Petunia hybrida (Petunia)	460
+Q8GT21	reviewed	BEBT_CLABR	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Benzoyl coenzyme A:benzyl alcohol benzoyl transferase)		Clarkia breweri (Fairy fans) (Eucharidium breweri)	456
+Q8GT20	reviewed	BEBT_TOBAC	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Benzoyl coenzyme A:benzyl alcohol benzoyl transferase)	HSR201	Nicotiana tabacum (Common tobacco)	460
+A0A072UW71	unreviewed	A0A072UW71_MEDTR	Benzyl alcohol O-benzoyltransferase (Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196))	25488955 MTR_3g051790 MtrunA17_Chr3g0098961	Medicago truncatula (Barrel medic) (Medicago tribuloides)	181
+A0A072VG31	unreviewed	A0A072VG31_MEDTR	Benzyl alcohol O-benzoyltransferase (Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196))	25482869 MTR_1g040175 MtrunA17_Chr1g0165661	Medicago truncatula (Barrel medic) (Medicago tribuloides)	458
+A0A072VH86	unreviewed	A0A072VH86_MEDTR	Benzyl alcohol O-benzoyltransferase (Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196))	25482871 MTR_1g040215 MtrunA17_Chr1g0165681	Medicago truncatula (Barrel medic) (Medicago tribuloides)	461
+A0A072VH91	unreviewed	A0A072VH91_MEDTR	Benzyl alcohol O-benzoyltransferase (Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196))	25482876 MTR_1g040315 MtrunA17_Chr1g0165711	Medicago truncatula (Barrel medic) (Medicago tribuloides)	417
+A0A251SSC4	unreviewed	A0A251SSC4_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative transferase, Chloramphenicol acetyltransferase-like domain protein)	HannXRQ_Chr13g0401711 HanXRQr2_Chr11g0514531	Helianthus annuus (Common sunflower)	454
+A0A251TCX9	unreviewed	A0A251TCX9_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative acetyl CoA:(Z)-3-hexen-1-ol acetyltransferase)	CHAT HannXRQ_Chr11g0348111 HanXRQr2_Chr11g0513541	Helianthus annuus (Common sunflower)	455
+A0A251TDB9	unreviewed	A0A251TDB9_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative transferase, Chloramphenicol acetyltransferase-like domain protein)	HannXRQ_Chr11g0349691 HanXRQr2_Chr11g0514381	Helianthus annuus (Common sunflower)	463
+A0A251TDC3	unreviewed	A0A251TDC3_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative transferase, Chloramphenicol acetyltransferase-like domain protein)	HannXRQ_Chr11g0349711 HanXRQr2_Chr11g0514351	Helianthus annuus (Common sunflower)	456
+A0A251TDD1	unreviewed	A0A251TDD1_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative transferase, Chloramphenicol acetyltransferase-like domain protein)	HannXRQ_Chr11g0349821 HanXRQr2_Chr11g0514621	Helianthus annuus (Common sunflower)	230
+A0A251TDK3	unreviewed	A0A251TDK3_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative transferase, Chloramphenicol acetyltransferase-like domain protein)	HannXRQ_Chr11g0349721 HanXRQr2_Chr11g0514341	Helianthus annuus (Common sunflower)	456
+A0A251TEI5	unreviewed	A0A251TEI5_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative transferase, Chloramphenicol acetyltransferase-like domain protein)	HannXRQ_Chr11g0349851 HanXRQr2_Chr11g0514671	Helianthus annuus (Common sunflower)	454
+A0A251TEK1	unreviewed	A0A251TEK1_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative transferase, Chloramphenicol acetyltransferase-like domain protein)	HannXRQ_Chr11g0348091 HanXRQr2_Chr11g0513561	Helianthus annuus (Common sunflower)	459
+A0A251TES1	unreviewed	A0A251TES1_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative transferase, Chloramphenicol acetyltransferase-like domain protein)	HannXRQ_Chr11g0349561 HanXRQr2_Chr11g0514291	Helianthus annuus (Common sunflower)	456
+A0A251TGN8	unreviewed	A0A251TGN8_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative transferase, Chloramphenicol acetyltransferase-like domain protein)	HannXRQ_Chr11g0349551 HanXRQr2_Chr11g0514301	Helianthus annuus (Common sunflower)	456
+A0A251V6M8	unreviewed	A0A251V6M8_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative transferase, Chloramphenicol acetyltransferase-like domain protein)	HannXRQ_Chr03g0069671 HanXRQr2_Chr08g0357691	Helianthus annuus (Common sunflower)	157
+A0A251VRL3	unreviewed	A0A251VRL3_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative 13-hydroxylupanine O-tigloyltransferase)	HLTT HannXRQ_Chr01g0026951 HanXRQr2_Chr01g0039261	Helianthus annuus (Common sunflower)	461
+A0A251VSW9	unreviewed	A0A251VSW9_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196) (Putative benzyl alcohol O-benzoyltransferase)	BEBT HannXRQ_Chr01g0026961 HanXRQr2_Chr01g0039251	Helianthus annuus (Common sunflower)	461
+A0A2G9HPC7	unreviewed	A0A2G9HPC7_9LAMI	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	CDL12_07952	Handroanthus impetiginosus	181
+A0A2G9HPK0	unreviewed	A0A2G9HPK0_9LAMI	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	CDL12_07950	Handroanthus impetiginosus	176
+A0A2P6PB55	unreviewed	A0A2P6PB55_ROSCH	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	RchiOBHm_Chr7g0214161	Rosa chinensis (China rose)	462
+A0A2P6PB66	unreviewed	A0A2P6PB66_ROSCH	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	RchiOBHm_Chr7g0214231	Rosa chinensis (China rose)	462
+A0A2P6PB74	unreviewed	A0A2P6PB74_ROSCH	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	RchiOBHm_Chr7g0214351	Rosa chinensis (China rose)	435
+A0A2P6PB78	unreviewed	A0A2P6PB78_ROSCH	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	RchiOBHm_Chr7g0214391	Rosa chinensis (China rose)	435
+A0A2P6PB83	unreviewed	A0A2P6PB83_ROSCH	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	RchiOBHm_Chr7g0214321	Rosa chinensis (China rose)	526
+A0A2P6PB85	unreviewed	A0A2P6PB85_ROSCH	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	RchiOBHm_Chr7g0214451	Rosa chinensis (China rose)	462
+A0A2P6PRD1	unreviewed	A0A2P6PRD1_ROSCH	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	RchiOBHm_Chr6g0272991	Rosa chinensis (China rose)	463
+A0A396H7X8	unreviewed	A0A396H7X8_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr7g0273781	Medicago truncatula (Barrel medic) (Medicago tribuloides)	492
+A0A396H7Y3	unreviewed	A0A396H7Y3_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr7g0273701	Medicago truncatula (Barrel medic) (Medicago tribuloides)	174
+A0A396H7Z0	unreviewed	A0A396H7Z0_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr7g0273791	Medicago truncatula (Barrel medic) (Medicago tribuloides)	478
+A0A396HC61	unreviewed	A0A396HC61_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr7g0273731	Medicago truncatula (Barrel medic) (Medicago tribuloides)	528
+A0A396HDK3	unreviewed	A0A396HDK3_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr7g0273741	Medicago truncatula (Barrel medic) (Medicago tribuloides)	151
+A0A396HEF2	unreviewed	A0A396HEF2_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr6g0471891	Medicago truncatula (Barrel medic) (Medicago tribuloides)	232
+A0A396HEP6	unreviewed	A0A396HEP6_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr7g0273761	Medicago truncatula (Barrel medic) (Medicago tribuloides)	833
+A0A396HGQ8	unreviewed	A0A396HGQ8_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr6g0471981	Medicago truncatula (Barrel medic) (Medicago tribuloides)	65
+A0A396HK92	unreviewed	A0A396HK92_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr6g0471381	Medicago truncatula (Barrel medic) (Medicago tribuloides)	270
+A0A396JJM0	unreviewed	A0A396JJM0_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr1g0165721	Medicago truncatula (Barrel medic) (Medicago tribuloides)	117
+A0A396JM46	unreviewed	A0A396JM46_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr1g0165741	Medicago truncatula (Barrel medic) (Medicago tribuloides)	147
+A0A396JP14	unreviewed	A0A396JP14_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr1g0165731	Medicago truncatula (Barrel medic) (Medicago tribuloides)	112
+A0A396JQE5	unreviewed	A0A396JQE5_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr1g0165671	Medicago truncatula (Barrel medic) (Medicago tribuloides)	477
+A0A513ZRY2	unreviewed	A0A513ZRY2_AGAAI	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)		Agave amica (Tuberose) (Polianthes tuberosa)	123
+A0A5B6ZKD1	unreviewed	A0A5B6ZKD1_DAVIN	Putative Benzoyl coenzyme A: Benzyl alcohol benzoyl transferase (EC 2.3.1.196, EC 2.3.1.232)	Din_013856	Davidia involucrata (Dove tree)	99
+A0A5B7APY3	unreviewed	A0A5B7APY3_DAVIN	Putative Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196, EC 2.3.1.232)	Din_027875	Davidia involucrata (Dove tree)	119
+A0A5B7AR16	unreviewed	A0A5B7AR16_DAVIN	Putative methanol O-anthraniloyltransferase (EC 2.3.1.196, EC 2.3.1.232)	Din_027876	Davidia involucrata (Dove tree)	448
+A0A5B7AR44	unreviewed	A0A5B7AR44_DAVIN	Putative methanol O-anthraniloyltransferase-like (EC 2.3.1.196, EC 2.3.1.232)	Din_027879	Davidia involucrata (Dove tree)	223
+A0A5B7ARG0	unreviewed	A0A5B7ARG0_DAVIN	Putative methanol O-anthraniloyltransferase (EC 2.3.1.196, EC 2.3.1.232)	Din_027877	Davidia involucrata (Dove tree)	459
+A0A5B7ASR6	unreviewed	A0A5B7ASR6_DAVIN	Putative alcohol acyl transferase (EC 2.3.1.196, EC 2.3.1.232)	Din_027872	Davidia involucrata (Dove tree)	254
+A0A5B7ATJ3	unreviewed	A0A5B7ATJ3_DAVIN	Putative alcohol acyl transferase (EC 2.3.1.196, EC 2.3.1.232)	Din_027874	Davidia involucrata (Dove tree)	472
+A0A5B7B7N2	unreviewed	A0A5B7B7N2_DAVIN	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196, EC 2.3.1.232)	Din_034360	Davidia involucrata (Dove tree)	491
+A0A5B7C4L0	unreviewed	A0A5B7C4L0_DAVIN	Putative alcohol acyl transferase (EC 2.3.1.196, EC 2.3.1.232)	Din_044637	Davidia involucrata (Dove tree)	161
+A0A9K3HSJ2	unreviewed	A0A9K3HSJ2_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	HanXRQr2_Chr11g0514451	Helianthus annuus (Common sunflower)	293
+A0A9K3HSL9	unreviewed	A0A9K3HSL9_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	HanXRQr2_Chr11g0513591	Helianthus annuus (Common sunflower)	148
+A0A9K3HSX2	unreviewed	A0A9K3HSX2_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	HanXRQr2_Chr11g0514311	Helianthus annuus (Common sunflower)	168
+A0A9K3HT79	unreviewed	A0A9K3HT79_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	HanXRQr2_Chr11g0513531	Helianthus annuus (Common sunflower)	446
+A0A9K3HTC6	unreviewed	A0A9K3HTC6_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	HanXRQr2_Chr11g0514321	Helianthus annuus (Common sunflower)	287
+A0A9K3JYS7	unreviewed	A0A9K3JYS7_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	HanXRQr2_Chr01g0039051	Helianthus annuus (Common sunflower)	268
+A0A9K3N1S5	unreviewed	A0A9K3N1S5_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	HanXRQr2_Chr11g0513601	Helianthus annuus (Common sunflower)	353
+A0A9K3N1V6	unreviewed	A0A9K3N1V6_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	HanXRQr2_Chr11g0514411	Helianthus annuus (Common sunflower)	176
+A0A9K3N1Y0	unreviewed	A0A9K3N1Y0_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	HanXRQr2_Chr11g0514401	Helianthus annuus (Common sunflower)	74
+A0A9K3N1Y4	unreviewed	A0A9K3N1Y4_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	HanXRQr2_Chr11g0513611	Helianthus annuus (Common sunflower)	67
+A0A9K3N201	unreviewed	A0A9K3N201_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	HanXRQr2_Chr11g0514391	Helianthus annuus (Common sunflower)	165
+A0A9K3P4A3	unreviewed	A0A9K3P4A3_HELAN	Benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	HanXRQr2_Chr01g0039241	Helianthus annuus (Common sunflower)	447
+G7I7F5	unreviewed	G7I7F5_MEDTR	Benzyl alcohol O-benzoyltransferase (Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196))	11409527 MTR_1g081660 MtrunA17_Chr1g0191081	Medicago truncatula (Barrel medic) (Medicago tribuloides)	452
+G7KFS5	unreviewed	G7KFS5_MEDTR	Benzyl alcohol O-benzoyltransferase (Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196))	11430065 MTR_5g076700 MtrunA17_Chr5g0433641	Medicago truncatula (Barrel medic) (Medicago tribuloides)	460
+G7L0S9	unreviewed	G7L0S9_MEDTR	Benzyl alcohol O-benzoyltransferase (Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196))	11435992 MTR_7g114470 MtrunA17_Chr7g0273721	Medicago truncatula (Barrel medic) (Medicago tribuloides)	462
+G7LGU8	unreviewed	G7LGU8_MEDTR	Benzyl alcohol O-benzoyltransferase (Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196))	11445762 MTR_8g039950 MtrunA17_Chr8g0353421	Medicago truncatula (Barrel medic) (Medicago tribuloides)	130
+I3SUK4	unreviewed	I3SUK4_MEDTR	Putative benzyl alcohol O-benzoyltransferase (EC 2.3.1.196)	MtrunA17_Chr7g0273691	Medicago truncatula (Barrel medic) (Medicago tribuloides)	98

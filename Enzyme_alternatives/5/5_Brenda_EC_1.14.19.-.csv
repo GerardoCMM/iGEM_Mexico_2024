@@ -1,0 +1,82 @@
+1.14.19.1	stearoyl-CoA 9-desaturase	-	
+1.14.19.10	icosanoyl-CoA 5-desaturase	-	
+1.14.19.11	acyl-[acyl-carrier-protein] 4-desaturase	-	
+1.14.19.12	acyl-lipid omega-(9-4) desaturase	-	
+1.14.19.13	acyl-CoA 15-desaturase	-	
+1.14.19.14	linoleoyl-lipid DELTA9 conjugase	-	
+1.14.19.15	(11Z)-hexadec-11-enoyl-CoA conjugase	-	
+1.14.19.16	linoleoyl-lipid DELTA12 conjugase (11E,13Z-forming)	-	
+1.14.19.17	sphingolipid 4-desaturase	-	
+1.14.19.18	sphingolipid 8-(E)-desaturase	-	
+1.14.19.19	sphingolipid 10-desaturase	-	
+1.14.19.2	stearoyl-[acyl-carrier-protein] 9-desaturase	-	
+1.14.19.20	DELTA7-sterol 5(6)-desaturase	-	
+1.14.19.21	cholesterol 7-desaturase	-	
+1.14.19.22	acyl-lipid omega-6 desaturase (cytochrome b5)	-	
+1.14.19.23	acyl-lipid (n+3)-(Z)-desaturase (ferredoxin)	-	
+1.14.19.24	acyl-CoA 11-(E)-desaturase	-	
+1.14.19.25	acyl-lipid omega-3 desaturase (cytochrome b5)	-	
+1.14.19.26	acyl-[acyl-carrier-protein] 6-desaturase	-	
+1.14.19.27	sn-2 palmitoyl-lipid 9-desaturase	-	
+1.14.19.28	sn-1 stearoyl-lipid 9-desaturase	-	
+1.14.19.29	sphingolipid 8-(E/Z)-desaturase	-	
+1.14.19.3	acyl-CoA 6-desaturase	-	
+1.14.19.30	acyl-lipid (8-3)-desaturase	-	
+1.14.19.31	acyl-lipid (7-3)-desaturase	-	
+1.14.19.32	palmitoyl-CoA 14-(E/Z)-desaturase	-	
+1.14.19.33	DELTA12 acyl-lipid conjugase (11E,13E-forming)	-	
+1.14.19.34	acyl-lipid (9+3)-(E)-desaturase	-	
+1.14.19.35	sn-2 acyl-lipid omega-3 desaturase (ferredoxin)	-	
+1.14.19.36	sn-1 acyl-lipid omega-3 desaturase (ferredoxin)	-	
+1.14.19.37	acyl-CoA 5-desaturase	-	
+1.14.19.38	acyl-lipid DELTA6-acetylenase	-	
+1.14.19.39	acyl-lipid DELTA12-acetylenase	-	
+1.14.19.4	acyl-lipid (11-3)-desaturase	-	
+1.14.19.40	hex-5-enoyl-[acyl-carrier protein] acetylenase	-	
+1.14.19.41	sterol 22-desaturase	-	
+1.14.19.42	palmitoyl-[glycerolipid] 7-desaturase	-	
+1.14.19.43	palmitoyl-[glycerolipid] 3-(E)-desaturase	-	
+1.14.19.44	acyl-CoA (8-3)-desaturase	-	
+1.14.19.45	sn-1 oleoyl-lipid 12-desaturase	-	
+1.14.19.46	sn-1 linoleoyl-lipid 6-desaturase	-	
+1.14.19.47	acyl-lipid (9-3)-desaturase	-	
+1.14.19.48	tert-amyl alcohol desaturase	-	
+1.14.19.49	tetracycline 7-halogenase	-	
+1.14.19.5	acyl-CoA 11-(Z)-desaturase	-	
+1.14.19.50	noroxomaritidine synthase	-	
+1.14.19.51	(S)-corytuberine synthase	-	
+1.14.19.52	camalexin synthase	-	
+1.14.19.53	all-trans-retinol 3,4-desaturase	-	
+1.14.19.54	1,2-dehydroreticuline synthase	-	
+1.14.19.55	4-hydroxybenzoate brominase (decarboxylating)	-	
+1.14.19.56	1H-pyrrole-2-carbonyl-[peptidyl-carrier protein] chlorinase	-	
+1.14.19.57	1H-pyrrole-2-carbonyl-[peptidyl-carrier protein] brominase	-	
+1.14.19.58	tryptophan 5-halogenase	-	
+1.14.19.59	tryptophan 6-halogenase	-	
+1.14.19.6	acyl-CoA (9+3)-desaturase	-	
+1.14.19.60	7-chloro-L-tryptophan 6-halogenase	-	
+1.14.19.61	dihydrorhizobitoxine desaturase	-	
+1.14.19.62	secologanin synthase	-	
+1.14.19.63	pseudobaptigenin synthase	-	
+1.14.19.64	(S)-stylopine synthase	-	
+1.14.19.65	(S)-cheilanthifoline synthase	-	
+1.14.19.66	berbamunine synthase	-	
+1.14.19.67	salutaridine synthase	-	
+1.14.19.68	(S)-canadine synthase	-	
+1.14.19.69	biflaviolin synthase	-	
+1.14.19.7	(S)-2-hydroxypropylphosphonic acid epoxidase	transferred to EC 1.11.1.23	
+1.14.19.70	mycocyclosin synthase	-	
+1.14.19.71	fumitremorgin C synthase	-	
+1.14.19.72	(-)-pluviatolide synthase	-	
+1.14.19.73	(S)-nandinine synthase	-	
+1.14.19.74	(+)-piperitol/(+)-sesamin synthase	-	
+1.14.19.75	very-long-chain acyl-lipid omega-9 desaturase	-	
+1.14.19.76	flavone synthase II	-	
+1.14.19.77	plasmanylethanolamine desaturase	-	
+1.14.19.78	decanoyl-[acyl-carrier protein] acetylenase	-	
+1.14.19.79	3beta,22alpha-dihydroxysteroid 3-dehydrogenase	-	
+1.14.19.8	pentalenolactone synthase	-	
+1.14.19.9	tryptophan 7-halogenase	-	
+1.14.19.B10	indole 3-halogenase	preliminary BRENDA-supplied EC number	
+1.14.19.B8	[peptidyl-carrier-protein SgcC2]-(3S)-beta-tyrosyl thioester 3-halogenase	preliminary BRENDA-supplied EC number	
+1.14.19.B9	cis-DELTA13 desaturase	preliminary BRENDA-supplied EC number	

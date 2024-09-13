@@ -1,0 +1,355 @@
+Descripccion,Especie,% identidad,Acceso NCBI,EC:6.2.1.12,Homologia,Rango de Homología,Top 20 homología,Cluster,Tamaño cluster,Anotacion,Seleccionada,Respaldo por articulos,Interaccion con metabolitos,"
+Interacción con proteínas similares a la vía de P. nigrum",Docking,"Puntuacion 
+Total"
+Enzima 6 Paper,,,MH078050,NCBI,,,,,,,1,,,,,
+probable CoA ligase CCL7 isoform X1 [Telopea speciosissima],Telopea speciosissima,66.85,XP_043706613.1,NCBI,0.6685,10,1,,,1,1,,,0,,1.8685
+probable CoA ligase CCL7 [Telopea speciosissima],Telopea speciosissima,67.03,XP_043700802.1,NCBI,0.6703,9,1,,,1,1,,,0,,1.8703
+probable CoA ligase CCL7 [Macadamia integrifolia],Macadamia integrifolia,66.67,XP_042495822.1,NCBI,0.6667,13,1,,,1,1,,,0,,1.8667
+probable CoA ligase CCL7 [Macadamia integrifolia],Macadamia integrifolia,66.3,XP_042476791.1,NCBI,0.663,15,1,,,1,1,,,0,,1.863
+PREDICTED: 4-coumarate--CoA ligase-like 7 [Nelumbo nucifera],Nelumbo nucifera,68.43,XP_010267197.1,NCBI,0.6843,3,1,,,1,1,,,1,,2.4843
+hypothetical protein NE237_004344 [Protea cynaroides],Protea cynaroides,66.12,KAJ4971245.1,NCBI,0.6612,16,1,,,1,1,,,0,,1.8612
+hypothetical protein HHK36_018170 [Tetracentron sinense],Tetracentron sinense,66.73,KAF8396546.1,NCBI,0.6673,11,1,,,1,1,,,0,,1.8673
+hypothetical protein F0562_022137 [Nyssa sinensis],Nyssa sinensis,66.06,KAA8544125.1,NCBI,0.6606,18,1,,,1,1,,,,,1.8606
+AMP-dependent synthetase/ligase [Macleaya cordata],Macleaya cordata,67.82,OVA18005.1,NCBI,0.6782,5,1,,,1,1,,,1,,2.4782
+4-coumarate-CoA ligase OS=Thalictrum thalictroides OX=46969 GN=FRX31_004341 PE=4 SV=1,Thalictrum thalictroides,66,A0A7J6XCF2,Uniprot,0.66,19,1,,,1,1,,,,,1.86
+4-coumarate-CoA ligase [Thalictrum thalictroides],Thalictrum thalictroides,66,KAF5206072.1,NCBI,0.66,19,1,,,1,1,,,0,,1.86
+4-coumarate--CoA ligase-like protein 7 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_00795300 PE=4 SV=1,Cinnamomum micranthum f. kanehirae,67.1,A0A3S3N254,Uniprot,0.671,7,1,,,1,1,,,,,1.871
+4-coumarate--CoA ligase-like protein 7 [Cinnamomum micranthum f. kanehirae],Cinnamomum micranthum f. kanehirae,67.09,RWR79381.1,NCBI,0.6709,8,1,,,1,1,,,1,,2.4709
+4-coumarate--CoA ligase-like 7 OS=Nelumbo nucifera OX=4432 GN=LOC104604518 PE=4 SV=1,Nelumbo nucifera,68.4,A0A1U8AJ01,Uniprot,0.684,4,1,,,1,1,,,,,1.884
+4-coumarate--CoA ligase OS=Tetracentron sinense OX=13715 GN=HHK36_018170 PE=4 SV=1,Tetracentron sinense,66.7,A0A834Z3D9,Uniprot,0.667,12,1,,,1,1,,,,,1.867
+4-coumarate--CoA ligase OS=Castanea mollissima OX=60419 GN=CMV_004399 PE=4 SV=1,Castanea mollissima,61.3,A0A8J4VU10,Uniprot,0.613,204,0,1,58,1,1,,,,,1.813
+4-coumarate--CoA ligase OS=Gossypium anomalum OX=47600 GN=CXB51_009410 PE=4 SV=1,Gossypium anomalum,62,A0A8J6D2G4,Uniprot,0.62,178,0,1,48,1,1,,,,,1.82
+hypothetical protein Nepgr_008938 [Nepenthes gracilis],Nepenthes gracilis,63.8,GMH07098.1,NCBI,0.638,94,0,1,26,1,1,,,,,1.838
+hypothetical protein EUGRSUZ_B03943 [Eucalyptus grandis],Eucalyptus grandis,62.03,KCW87479.1,NCBI,0.6203,176,0,1,23,1,1,,,,,1.8203
+4-coumarate--CoA ligase-like 7 isoform A OS=Glycine soja OX=3848 GN=D0Y65_030234 PE=4 SV=1,Glycine soja,58,A0A445I2Y1,Uniprot,0.58,320,0,1,18,1,1,,,,,1.78
+4-coumarate--CoA ligase OS=Rhododendron simsii OX=118357 GN=RHSIM_Rhsim01G0211600 PE=4 SV=1,Rhododendron simsii,59.8,A0A834LY56,Uniprot,0.598,262,0,1,15,1,1,,,,,1.798
+hypothetical protein TEA_008408 [Camellia sinensis var. sinensis],Camellia sinensis var. sinensis,64.66,THG17379.1,NCBI,0.6466,53,0,1,11,1,1,,,,,1.8466
+4-coumarate--CoA ligase OS=Panicum virgatum OX=38727 GN=PVAP13_9KG593100 PE=4 SV=1,Panicum virgatum,58.1,A0A8T0NZ36,Uniprot,0.581,315,0,1,10,1,1,,,,,1.781
+4-coumarate--CoA ligase-like 7 OS=Morus notabilis OX=981085 GN=L484_020607 PE=4 SV=1,Morus notabilis,63.5,W9SXG6,Uniprot,0.635,113,0,1,8,1,1,,,,,1.835
+4-coumarate--CoA ligase-like 1 [Elaeis guineensis],Elaeis guineensis,65.38,XP_010918637.1,NCBI,0.6538,28,0,1,8,1,1,,,,,1.8538
+4-coumarate--CoA ligase OS=Carya illinoinensis OX=32201 GN=CIPAW_10G129300 PE=4 SV=1,Carya illinoinensis,57.8,A0A8T1PDN8,Uniprot,0.578,331,0,1,8,1,1,,,,,1.778
+4-coumarate--CoA ligase-like 7 OS=Morus notabilis OX=981085 GN=L484_002716 PE=4 SV=1,Morus notabilis,59.6,W9S512,Uniprot,0.596,274,0,1,7,1,1,,,,,1.796
+4-coumarate--CoA ligase-like 7 OS=Cucurbita maxima OX=3661 GN=LOC111481607 PE=4 SV=1,Cucurbita maxima,60.7,A0A6J1J0P0,Uniprot,0.607,220,0,1,4,1,1,,,,,1.807
+4-coumarate--CoA ligase OS=Salvia splendens OX=180675 GN=SASPL_120074 PE=4 SV=1,Salvia splendens,58.2,A0A8X8XS91,Uniprot,0.582,312,0,1,4,1,1,,,,,1.782
+4-coumarate--CoA ligase-like 7 OS=Dendrobium catenatum OX=906689 GN=4CLL7 PE=4 SV=1,Dendrobium catenatum,57.9,A0A2I0XAV2,Uniprot,0.579,327,0,1,3,1,1,,,,,1.779
+4-coumarate--CoA ligase OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_K02929 PE=4 SV=1,Eucalyptus grandis,60.1,A0A059A7S0,Uniprot,0.601,249,0,1,3,1,1,,,,,1.801
+4-coumarate--CoA ligase OS=Colocasia esculenta OX=4460 GN=Taro_011190 PE=4 SV=1,Colocasia esculenta,58.2,A0A843UBW2,Uniprot,0.582,312,0,1,3,1,1,,,,,1.782
+4-coumarate--CoA ligase OS=Arachis hypogaea OX=3818 GN=Ahy_B08g094024 PE=4 SV=1,Arachis hypogaea,57.3,A0A444Y7M1,Uniprot,0.573,338,0,1,3,1,1,,,,,1.773
+4-coumarate--CoA ligase family protein OS=Striga asiatica OX=4170 GN=STAS_16059 PE=4 SV=1,Striga asiatica,61.9,A0A5A7Q2S0,Uniprot,0.619,184,0,1,2,1,1,,,,,1.819
+probable CoA ligase CCL7 isoform X1 [Cornus florida],Cornus florida,62.28,XP_059659308.1,NCBI,0.6228,168,0,1,1,1,1,,,,,1.8228
+4-coumarate--CoA ligase-like 7 OS=Vitis vinifera OX=29760 GN=VIT_08s0007g05050 PE=4 SV=1,Vitis vinifera,59.4,F6HKB4,Uniprot,0.594,282,0,1,1,1,1,,,,,1.794
+4-coumarate--CoA ligase-like 7 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00110319pilonHSYRG00533 PE=4 SV=1,Hibiscus syriacus,58.3,A0A6A3B2I2,Uniprot,0.583,309,0,1,1,1,1,,,,,1.783
+4-coumarate--CoA ligase OS=Vanilla planifolia OX=51239 GN=HPP92_026019 PE=4 SV=1,Vanilla planifolia,57.3,A0A835U9W3,Uniprot,0.573,338,0,1,1,1,1,,,,,1.773
+4-coumarate--CoA ligase OS=Malus baccata OX=106549 GN=C1H46_010426 PE=4 SV=1,Malus baccata,57.5,A0A540MZ24,Uniprot,0.575,334,0,1,1,1,1,,,,,1.775
+4-coumarate--CoA ligase OS=Kalanchoe fedtschenkoi OX=63787 PE=4 SV=1,Kalanchoe fedtschenkoi,57,A0A7N0R994,Uniprot,0.57,343,0,1,1,1,1,,,,,1.77
+4-coumarate--CoA ligase OS=Kalanchoe fedtschenkoi OX=63787 PE=4 SV=1,Kalanchoe fedtschenkoi,56.4,A0A7N0URG4,Uniprot,0.564,346,0,1,1,1,1,,,,,1.764
+4-coumarate--CoA ligase OS=Carex littledalei OX=544730 GN=FCM35_KLT06800 PE=4 SV=1,Carex littledalei,59.6,A0A833QS46,Uniprot,0.596,274,0,1,1,1,1,,,,,1.796
+4-coumarate--CoA ligase OS=Ananas comosus OX=4615 GN=ACMD2_21649 PE=4 SV=1,Ananas comosus,60.1,A0A199W501,Uniprot,0.601,249,0,1,1,1,1,,,,,1.801
+4-coumarate--CoA ligase OS=Amborella trichopoda OX=13333 GN=AMTR_s00076p00189570 PE=4 SV=1,Amborella trichopoda,60.6,W1P4C6,Uniprot,0.606,226,0,1,1,1,1,,,,,1.806
+4-coumarate--CoA ligase (Fragment) OS=Coptis chinensis OX=261450 GN=IFM89_009714 PE=4 SV=1,Coptis chinensis,60.8,A0A835LR04,Uniprot,0.608,216,0,1,1,1,1,,,,,1.808
+4-coumarate-- ligase-like 7 OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A083915 PE=4 SV=1,Olea europaea subsp. europaea,59.9,A0A8S0VDQ2,Uniprot,0.599,256,0,1,1,1,1,,,,,1.799
+RecName: Full=Piperic acid--CoA ligase; Short=PipCoA ligase [Piper nigrum],Piper nigrum,75.63,A0A6B9HER0.1,NCBI,0.7563,1,1,1,2,1,0,,,1,,2.5563
+Uncharacterized protein OS=Nyssa sinensis OX=561372 GN=F0562_022137 PE=4 SV=1,Nyssa sinensis,66.1,A0A5J5BLW8,Uniprot,0.661,17,1,,,0,0,,,,,0.661
+Piperic acid--CoA ligase OS=Piper nigrum OX=13216 PE=1 SV=1,Piper nigrum,75.6,A0A6B9HER0,Uniprot,0.756,2,1,,,0,0,,,,,0.756
+hypothetical protein MRB53_001190 [Persea americana],Persea americana,66.36,KAJ8648167.1,NCBI,0.6636,14,1,,,0,0,,,0,,0.6636
+AMP-dependent synthetase/ligase OS=Macleaya cordata OX=56857 GN=BVC80_1835g411 PE=4 SV=1,Macleaya cordata,67.8,A0A200R5N5,Uniprot,0.678,6,1,,,0,0,,,,,0.678
+ABC transporter domain-containing protein OS=Daucus carota subsp. sativus OX=79200 GN=DCAR_018780 PE=4 SV=1,Daucus carota subsp. sativus,59.3,A0A164Z8Y6,Uniprot,0.593,286,0,1,45,0,0,,,,,0.593
+"AMP-binding, conserved site-containing protein OS=Cynara cardunculus var. scolymus OX=59895 GN=Ccrd_007234 PE=4 SV=1",Cynara cardunculus var. scolymus,61.6,A0A118JTR2,Uniprot,0.616,192,0,1,17,0,0,,,,,0.616
+(rape) hypothetical protein OS=Brassica napus OX=3708 GN=BnaC09g21910D PE=4 SV=1,Brassica napus,58.3,A0A078HQV5,Uniprot,0.583,309,0,1,2,0,0,,,,,0.583
+Uncharacterized protein OS=Nyssa sinensis OX=561372 GN=F0562_016510 PE=4 SV=1,Nyssa sinensis,58.5,A0A5J4ZM19,Uniprot,0.585,306,0,1,1,0,0,,,,,0.585
+hypothetical protein H6P81_019175 [Aristolochia fimbriata],Aristolochia fimbriata,65.57,KAG9439010.1,NCBI,0.6557,24,0,1,1,0,0,,,0,,0.6557
+AMP-dependent synthetase/ligase domain-containing protein OS=Salix brachista OX=2182728 GN=DKX38_027225 PE=4 SV=1,Salix brachista,59.2,A0A5N5JNC7,Uniprot,0.592,287,0,1,1,0,0,,,,,0.592
+"AMP-binding, conserved site-containing protein OS=Gossypium australe OX=47621 GN=EPI10_003403 PE=4 SV=1",Gossypium australe,61.7,A0A5B6UEZ0,Uniprot,0.617,190,0,1,1,0,0,,,,,0.617
+unnamed protein product [Linum tenue],Linum tenue,62.48,CAI0397971.1,NCBI,0.6248,163,0,,,1,,,,,,1.8248
+Uncharacterized protein OS=Vigna angularis var. angularis OX=157739 GN=Vigan.07G065800 PE=4 SV=1,Vigna angularis var. angularis,60.3,A0A0S3SGN8,Uniprot,0.603,242,0,,,0,,,,,,0.603
+Uncharacterized protein OS=Spirodela intermedia OX=51605 GN=SI8410_10014036 PE=4 SV=1,Spirodela intermedia,56.5,A0A7I8L214,Uniprot,0.565,345,0,,,0,,,,,,0.565
+Uncharacterized protein OS=Solanum lycopersicum OX=4081 GN=101249706 PE=4 SV=1,Solanum lycopersicum,60.6,A0A3Q7IZU3,Uniprot,0.606,226,0,,,0,,,,,,0.606
+Uncharacterized protein OS=Populus trichocarpa OX=3694 GN=POPTR_017G112800 PE=4 SV=1,Populus trichocarpa,64.2,A0A2K1X6J3,Uniprot,0.642,75,0,,,0,,,,,,0.642
+Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_015567 PE=4 SV=1,Populus tomentosa,63.3,A0A8X8CX83,Uniprot,0.633,120,0,,,0,,,,,,0.633
+Uncharacterized protein OS=Phaseolus angularis OX=3914 GN=LR48_Vigan598s000200 PE=4 SV=1,Phaseolus angularis,57.9,A0A0L9TEL9,Uniprot,0.579,327,0,,,0,,,,,,0.579
+Uncharacterized protein OS=Nyssa sinensis OX=561372 GN=F0562_022136 PE=4 SV=1,Nyssa sinensis,65.6,A0A5J5BN76,Uniprot,0.656,23,0,,,0,,,,,,0.656
+Uncharacterized protein OS=Nyssa sinensis OX=561372 GN=F0562_022135 PE=4 SV=1,Nyssa sinensis,64.6,A0A5J5BLY3,Uniprot,0.646,57,0,,,0,,,,,,0.646
+Uncharacterized protein OS=Mikania micrantha OX=192012 GN=E3N88_16391 PE=4 SV=1,Mikania micrantha,60.6,A0A5N6NZZ4,Uniprot,0.606,226,0,,,0,,,,,,0.606
+Uncharacterized protein OS=Lactuca sativa OX=4236 GN=LSAT_V11C600315850 PE=4 SV=1,Lactuca sativa,57.2,A0A9R1VD03,Uniprot,0.572,341,0,,,0,,,,,,0.572
+Uncharacterized protein OS=Lactuca sativa OX=4236 GN=LSAT_V11C600315820 PE=4 SV=1,Lactuca sativa,57.5,A0A9R1VAP0,Uniprot,0.575,334,0,,,0,,,,,,0.575
+Uncharacterized protein OS=Jatropha curcas OX=180498 GN=JCGZ_05454 PE=4 SV=1,Jatropha curcas,63.8,A0A067L6D3,Uniprot,0.638,94,0,,,0,,,,,,0.638
+Uncharacterized protein OS=Hevea brasiliensis OX=3981 GN=GH714_014851 PE=4 SV=1,Hevea brasiliensis,58.1,A0A6A6LJH4,Uniprot,0.581,315,0,,,0,,,,,,0.581
+Uncharacterized protein OS=Erythranthe guttata OX=4155 GN=MIMGU_mgv1a004091mg PE=4 SV=1,Erythranthe guttata,61.7,A0A022PR31,Uniprot,0.617,190,0,,,0,,,,,,0.617
+Uncharacterized protein OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS9013 PE=4 SV=1,Cuscuta campestris,62.5,A0A484KVQ8,Uniprot,0.625,157,0,,,0,,,,,,0.625
+Uncharacterized protein OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS19573 PE=4 SV=1,Cuscuta campestris,62.5,A0A484LNG9,Uniprot,0.625,157,0,,,0,,,,,,0.625
+Uncharacterized protein OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_008408 PE=4 SV=1,Camellia sinensis var. sinensis,64.7,A0A4S4EL87,Uniprot,0.647,50,0,,,0,,,,,,0.647
+Uncharacterized protein OS=Arabidopsis lyrata subsp. lyrata OX=81972 GN=ARALYDRAFT_490166 PE=4 SV=1,Arabidopsis lyrata subsp. lyrata,60.1,D7M1Y8,Uniprot,0.601,249,0,,,0,,,,,,0.601
+Uncharacterized protein (Fragment) OS=Genlisea aurea OX=192259 GN=M569_04447 PE=4 SV=1,Genlisea aurea,58.7,S8CZ23,Uniprot,0.587,298,0,,,0,,,,,,0.587
+"Putative AMP-dependent synthetase/ligase, AMP-binding enzyme domain-containing protein OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr5g0057631 PE=4 SV=1",Rosa chinensis,64.4,A0A2P6QGZ5,Uniprot,0.644,66,0,,,0,,,,,,0.644
+"Putative AMP-dependent synthetase/ligase, AMP-binding enzyme domain-containing protein OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr5g0057621 PE=4 SV=1",Rosa chinensis,62.8,A0A2P6QGZ0,Uniprot,0.628,148,0,,,0,,,,,,0.628
+Putative AMP-dependent synthetase and ligase family protein OS=Helianthus annuus OX=4232 GN=HannXRQ_Chr02g0055421 PE=4 SV=1,Helianthus annuus,59.7,A0A251VIB7,Uniprot,0.597,267,0,,,0,,,,,,0.597
+Probable CoA ligase CCL7 OS=Humulus lupulus OX=3486 GN=CCL7 PE=2 SV=1,Humulus lupulus,63.4,M4IRL6,Uniprot,0.634,116,0,,,0,,,,,,0.634
+Probable CoA ligase CCL7 OS=Arachis duranensis OX=130453 GN=LOC107476481 PE=4 SV=1,Arachis duranensis,56.1,A0A6P5N671,Uniprot,0.561,350,0,,,0,,,,,,0.561
+Probable CoA ligase CCL7 OS=Arachis duranensis OX=130453 GN=LOC107461745 PE=4 SV=1,Arachis duranensis,57.5,A0A6P4B3U5,Uniprot,0.575,334,0,,,0,,,,,,0.575
+probable CoA ligase CCL7 isoform X2 [Hevea brasiliensis],Hevea brasiliensis,63.99,XP_021648414.2,NCBI,0.6399,84,0,,,1,,,,,,1.8399
+probable CoA ligase CCL7 isoform X2 [Cornus florida],Cornus florida,64.08,XP_059659309.1,NCBI,0.6408,79,0,,,1,,,,,,1.8408
+probable CoA ligase CCL7 [Ziziphus jujuba var. spinosa],Ziziphus jujuba var. spinosa,64.9,XP_015874554.1,NCBI,0.649,39,0,,,1,,,,,,1.849
+probable CoA ligase CCL7 [Vitis vinifera],Vitis vinifera,65.03,XP_002276353.1,NCBI,0.6503,31,0,,,1,,,,,,1.8503
+probable CoA ligase CCL7 [Spinacia oleracea],Spinacia oleracea,62.34,XP_021853386.1,NCBI,0.6234,166,0,,,1,,,,,,1.8234
+probable CoA ligase CCL7 [Ricinus communis],Ricinus communis,64.61,XP_002523698.1,NCBI,0.6461,56,0,,,1,,,,,,1.8461
+probable CoA ligase CCL7 [Populus trichocarpa],Populus trichocarpa,64.05,XP_006373451.3,NCBI,0.6405,80,0,,,1,,,,,,1.8405
+probable CoA ligase CCL7 [Manihot esculenta],Manihot esculenta,64.9,XP_021610754.1,NCBI,0.649,39,0,,,1,,,,,,1.849
+probable CoA ligase CCL7 [Mangifera indica],Mangifera indica,64.48,XP_044482397.1,NCBI,0.6448,63,0,,,1,,,,0,,1.8448
+probable CoA ligase CCL7 [Mangifera indica],Mangifera indica,63.57,XP_044483448.1,NCBI,0.6357,111,0,,,1,,,,,,1.8357
+probable CoA ligase CCL7 [Magnolia sinica],Magnolia sinica,65.15,XP_058082185.1,NCBI,0.6515,30,0,,,1,,,,0,,1.8515
+probable CoA ligase CCL7 [Diospyros lotus],Diospyros lotus,63.57,XP_052186165.1,NCBI,0.6357,111,0,,,1,,,,,,1.8357
+probable CoA ligase CCL7 [Corylus avellana],Corylus avellana,63.62,XP_059429858.1,NCBI,0.6362,108,0,,,1,,,,,,1.8362
+probable CoA ligase CCL7 [Corylus avellana],Corylus avellana,63.25,XP_059430522.1,NCBI,0.6325,127,0,,,1,,,,,,1.8325
+probable CoA ligase CCL7 [Carya illinoinensis],Carya illinoinensis,65.03,XP_042955668.1,NCBI,0.6503,31,0,,,1,,,,,,1.8503
+probable CoA ligase CCL7 [Actinidia eriantha],Actinidia eriantha,63.95,XP_057475105.1,NCBI,0.6395,89,0,,,1,,,,,,1.8395
+Probable CoA ligase CCL10 OS=Humulus lupulus OX=3486 GN=CCL10 PE=2 SV=1,Humulus lupulus,58,M4IQS1,Uniprot,0.58,320,0,,,0,,,,,,0.58
+PREDICTED: 4-coumarate--CoA ligase-like 7 isoform X2 [Populus euphratica],Populus euphratica,64.42,XP_011021221.1,NCBI,0.6442,65,0,,,1,,,,,,1.8442
+PREDICTED: 4-coumarate--CoA ligase-like 7 isoform X1 [Populus euphratica],Populus euphratica,64.6,XP_011021220.1,NCBI,0.646,57,0,,,1,,,,,,1.846
+PREDICTED: 4-coumarate--CoA ligase-like 7 [Theobroma cacao],Theobroma cacao,62.36,XP_007016849.2,NCBI,0.6236,165,0,,,1,,,,,,1.8236
+PREDICTED: 4-coumarate--CoA ligase-like 7 [Fragaria vesca subsp. vesca],Fragaria vesca subsp. vesca,63.32,XP_004291645.1,NCBI,0.6332,119,0,,,1,,,,,,1.8332
+PREDICTED: 4-coumarate--CoA ligase OS=Prunus dulcis OX=3755 GN=ALMOND_2B021214 PE=4 SV=1,Prunus dulcis,60.9,A0A5E4E394,Uniprot,0.609,210,0,,,1,,,,,,1.809
+PREDICTED: 4-coumarate--CoA ligase OS=Prunus dulcis OX=3755 GN=ALMOND_2B001093 PE=4 SV=1,Prunus dulcis,62.5,A0A5E4FSV5,Uniprot,0.625,157,0,,,1,,,,,,1.825
+LOW QUALITY PROTEIN: probable CoA ligase CCL7 [Actinidia eriantha],Actinidia eriantha,64,XP_057508041.1,NCBI,0.64,83,0,,,1,,,,,,1.84
+LOW QUALITY PROTEIN: 4-coumarate--CoA ligase-like 7 OS=Sesamum indicum OX=4182 GN=LOC105170261 PE=4 SV=1,Sesamum indicum,62.9,A0A6I9TYZ0,Uniprot,0.629,145,0,,,1,,,,,,1.829
+LOW QUALITY PROTEIN: 4-coumarate--CoA ligase-like 7 OS=Coffea arabica OX=13443 GN=LOC113727337 PE=4 SV=1,Coffea arabica,62,A0A6P6VVW6,Uniprot,0.62,178,0,,,1,,,,,,1.82
+LOW QUALITY PROTEIN: 4-coumarate--CoA ligase-like 7 [Sesamum indicum],Sesamum indicum,62.95,XP_011089239.2,NCBI,0.6295,143,0,,,1,,,,,,1.8295
+LOW QUALITY PROTEIN: 4-coumarate--CoA ligase-like 7 [Pistacia vera],Pistacia vera,64.36,XP_031286893.1,NCBI,0.6436,67,0,,,1,,,,,,1.8436
+LOW QUALITY PROTEIN: 4-coumarate--CoA ligase-like 7 [Eucalyptus grandis],Eucalyptus grandis,62.03,XP_010045319.2,NCBI,0.6203,176,0,,,1,,,,,,1.8203
+hypothetical protein Vadar_006747 [Vaccinium darrowii],Vaccinium darrowii,63.11,KAH7862580.1,NCBI,0.6311,132,0,,,0,,,,,,0.6311
+hypothetical protein TIFTF001_000779 [Ficus carica],Ficus carica,63.99,GMN25006.1,NCBI,0.6399,84,0,,,1,,,,,,1.8399
+hypothetical protein SLEP1_g13846 [Rubroshorea leprosula],Rubroshorea leprosula,64.73,GKV01280.1,NCBI,0.6473,48,0,,,1,,,,,,1.8473
+hypothetical protein RJ640_021897 [Escallonia rubra],Escallonia rubra,61.57,KAK2990922.1,NCBI,0.6157,195,0,,,0,,,,,,0.6157
+hypothetical protein RJ640_021896 [Escallonia rubra],Escallonia rubra,63.14,KAK2980721.1,NCBI,0.6314,128,0,,,0,,,,,,0.6314
+hypothetical protein RJ639_004310 [Escallonia herrerae],Escallonia herrerae,63.14,KAK3019028.1,NCBI,0.6314,128,0,,,0,,,,,,0.6314
+hypothetical protein PVL29_008063 [Vitis rotundifolia],Vitis rotundifolia,64.85,KAJ9699282.1,NCBI,0.6485,43,0,,,1,,,,,,1.8485
+hypothetical protein L6164_022016 [Bauhinia variegata],Bauhinia variegata,63.44,KAI4322309.1,NCBI,0.6344,115,0,,,1,,,,,,1.8344
+hypothetical protein L6164_019050 [Bauhinia variegata],Bauhinia variegata,63.62,KAI4334348.1,NCBI,0.6362,108,0,,,1,,,,,,1.8362
+hypothetical protein K2173_023623 [Erythroxylum novogranatense],Erythroxylum novogranatense,63.87,KAJ8768719.1,NCBI,0.6387,92,0,,,0,,,,,,0.6387
+hypothetical protein K2173_016606 [Erythroxylum novogranatense],Erythroxylum novogranatense,64.96,KAJ8751403.1,NCBI,0.6496,38,0,,,0,,,,,,0.6496
+hypothetical protein JRO89_XS10G0174400 [Xanthoceras sorbifolium],Xanthoceras sorbifolium,63.95,KAH7561103.1,NCBI,0.6395,89,0,,,1,,,,,,1.8395
+hypothetical protein I3843_13G104400 [Carya illinoinensis],Carya illinoinensis,65.21,KAG7950270.1,NCBI,0.6521,29,0,,,1,,,,,,1.8521
+hypothetical protein I3842_14G090400 [Carya illinoinensis],Carya illinoinensis,62.41,KAG6678627.1,NCBI,0.6241,164,0,,,0,,,,,,0.6241
+hypothetical protein HYC85_025192 [Camellia sinensis],Camellia sinensis,64.85,KAF5937686.1,NCBI,0.6485,43,0,,,1,,,,,,1.8485
+hypothetical protein GIB67_000270 [Kingdonia uniflora],Kingdonia uniflora,65.03,KAF6140222.1,NCBI,0.6503,31,0,,,1,,,,,,1.8503
+hypothetical protein FNV43_RR05376 [Rhamnella rubrinervis],Rhamnella rubrinervis,64.72,KAF3454928.1,NCBI,0.6472,49,0,,,1,,,,,,1.8472
+hypothetical protein F2P56_032830 [Juglans regia],Juglans regia,64.3,KAF5447263.1,NCBI,0.643,69,0,,,1,,,,,,1.843
+hypothetical protein F2P56_011270 [Juglans regia],Juglans regia,63.14,KAF5470781.1,NCBI,0.6314,128,0,,,0,,,,,,0.6314
+hypothetical protein F0562_022135 [Nyssa sinensis],Nyssa sinensis,64.6,KAA8544123.1,NCBI,0.646,57,0,,,1,,,,,,1.846
+hypothetical protein Ddye_025199 [Dipteronia dyeriana],Dipteronia dyeriana,62.27,KAK2643436.1,NCBI,0.6227,169,0,,,0,,,,,,0.6227
+hypothetical protein CDL15_Pgr026864 [Punica granatum],Punica granatum,63.99,OWM73760.1,NCBI,0.6399,84,0,,,1,,,,,,1.8399
+hypothetical protein AQUCO_03000071v1 [Aquilegia coerulea],Aquilegia coerulea,65.51,PIA37227.1,NCBI,0.6551,25,0,,,1,,,,,,1.8551
+"AMP-dependent synthetase/ligase, AMP-binding enzyme domain-containing protein OS=Helianthus annuus OX=4232 GN=HannXRQ_Chr02g0055431 PE=4 SV=1",Helianthus annuus,58.8,A0A251VKR8,Uniprot,0.588,296,0,,,0,,,,,,0.588
+AMP-dependent synthetase/ligase OS=Macleaya cordata OX=56857 GN=BVC80_1731g33 PE=4 SV=1,Macleaya cordata,65.8,A0A200Q9A1,Uniprot,0.658,22,0,,,0,,,,,,0.658
+AMP-dependent synthetase/ligase OS=Corchorus olitorius OX=93759 GN=COLO4_11060 PE=4 SV=1,Corchorus olitorius,60.5,A0A1R3K5Z6,Uniprot,0.605,231,0,,,0,,,,,,0.605
+AMP-dependent synthetase/ligase OS=Corchorus olitorius OX=93759 GN=COLO4_11059 PE=4 SV=1,Corchorus olitorius,60.9,A0A1R3K5V2,Uniprot,0.609,210,0,,,0,,,,,,0.609
+AMP-dependent synthetase/ligase OS=Corchorus capsularis OX=210143 GN=CCACVL1_11760 PE=4 SV=1,Corchorus capsularis,62,A0A1R3IJR0,Uniprot,0.62,178,0,,,0,,,,,,0.62
+AMP-dependent synthetase/ligase domain-containing protein OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_B03942 PE=4 SV=1,Eucalyptus grandis,60.5,A0A059D9T8,Uniprot,0.605,231,0,,,0,,,,,,0.605
+AMP-dependent synthetase/ligase domain-containing protein OS=Carpinus fangiana OX=176857 GN=FH972_017620 PE=4 SV=1,Carpinus fangiana,58.1,A0A5N6RJZ4,Uniprot,0.581,315,0,,,0,,,,,,0.581
+AMP-dependent synthetase/ligase [Macleaya cordata],Macleaya cordata,65.81,OVA06957.1,NCBI,0.6581,21,0,,,1,,,,1,,2.4581
+AMP-dependent synthetase/ligase [Corchorus capsularis],Corchorus capsularis,61.96,OMO82790.1,NCBI,0.6196,183,0,,,1,,,,,,1.8196
+AMP-dependent synthetase and ligase family protein OS=Actinidia rufa OX=165716 GN=Acr_23g0012120 PE=4 SV=1,Actinidia rufa,63.8,A0A7J0GPT5,Uniprot,0.638,94,0,,,0,,,,,,0.638
+AMP-dependent synthetase and ligase family protein isoform 1 OS=Theobroma cacao OX=3641 GN=TCM_042143 PE=4 SV=1,Theobroma cacao,62.5,A0A061GYC8,Uniprot,0.625,157,0,,,0,,,,,,0.625
+AMP-dependent synthetase and ligase family protein isoform 1 [Theobroma cacao],Theobroma cacao,62.55,EOY34468.1,NCBI,0.6255,155,0,,,1,,,,,,1.8255
+AMP-dependent synthetase and ligase family protein [Actinidia rufa],Actinidia rufa,63.77,GFZ12827.1,NCBI,0.6377,103,0,,,1,,,,,,1.8377
+"AMP-binding, conserved site-containing protein OS=Artemisia annua OX=35608 GN=CTI12_AA622090 PE=4 SV=1",Artemisia annua,57.7,A0A2U1KAE0,Uniprot,0.577,332,0,,,0,,,,,,0.577
+"AMP-binding, conserved site-containing protein OS=Artemisia annua OX=35608 GN=CTI12_AA325700 PE=4 SV=1",Artemisia annua,58.2,A0A2U1MZN2,Uniprot,0.582,312,0,,,0,,,,,,0.582
+"AMP-binding, conserved site-containing protein OS=Artemisia annua OX=35608 GN=CTI12_AA325700 PE=4 SV=1",Artemisia annua,58,A0A2U1MZH0,Uniprot,0.58,320,0,,,0,,,,,,0.58
+"AMP-binding, conserved site-containing protein OS=Artemisia annua OX=35608 GN=CTI12_AA325700 PE=4 SV=1",Artemisia annua,58,A0A2U1MZK7,Uniprot,0.58,320,0,,,0,,,,,,0.58
+AMP-binding domain-containing protein/DUF4009 domain-containing protein OS=Cephalotus follicularis OX=3775 GN=CFOL_v3_09999 PE=4 SV=1,Cephalotus follicularis,61.6,A0A1Q3BF15,Uniprot,0.616,192,0,,,0,,,,,,0.616
+"AMP dependent CoA ligase, putative OS=Ricinus communis OX=3988 GN=RCOM_1354540 PE=4 SV=1",Ricinus communis,59.6,B9S0G8,Uniprot,0.596,274,0,,,0,,,,,,0.596
+"AMP dependent CoA ligase, putative OS=Ricinus communis OX=3988 GN=RCOM_0473330 PE=4 SV=1",Ricinus communis,64.5,B9SCH9,Uniprot,0.645,62,0,,,0,,,,,,0.645
+AMP dependent CoA ligase OS=Solanum tuberosum OX=4113 GN=102597265 PE=4 SV=1,Solanum tuberosum,62.6,M1AEE2,Uniprot,0.626,153,0,,,0,,,,,,0.626
+Acyl-CoA synthetase OS=Handroanthus impetiginosus OX=429701 GN=CDL12_17805 PE=4 SV=1,Handroanthus impetiginosus,63.1,A0A2G9GWE8,Uniprot,0.631,134,0,,,0,,,,,,0.631
+Acyl-CoA synthetase [Handroanthus impetiginosus],Handroanthus impetiginosus,63.11,PIN09597.1,NCBI,0.6311,132,0,,,1,,,,,,1.8311
+Acyl-activating enzyme 3 OS=Cannabis sativa OX=3483 GN=F8388_015665 PE=2 SV=1,Cannabis sativa,63.8,H9A1V5,Uniprot,0.638,94,0,,,0,,,,,,0.638
+4cl [Vitis amurensis],Vitis amurensis,64.3,AWY10751.1,NCBI,0.643,69,0,,,1,,,,,,1.843
+4-coumarate:CoA ligase-like protein OS=Medicago truncatula OX=3880 GN=25492399 PE=4 SV=1,Medicago truncatula,58.4,A0A072UJR1,Uniprot,0.584,308,0,,,1,,,,,,1.784
+4-coumarate:CoA ligase-like protein OS=Medicago truncatula OX=3880 GN=25487863 PE=4 SV=1,Medicago truncatula,59.2,A0A072VCC0,Uniprot,0.592,287,0,,,1,,,,,,1.792
+4-coumarate:CoA ligase OS=Glycine max OX=3847 GN=4CL PE=2 SV=1,Glycine max,59.8,H2BER4,Uniprot,0.598,262,0,,,1,,,,,,1.798
+4-coumarate:CoA ligase [Hevea brasiliensis subsp. brasiliensis],Hevea brasiliensis subsp. brasiliensis,64.35,ANG56499.1,NCBI,0.6435,68,0,,,1,,,,,,1.8435
+4-coumarate: coenzyme A ligase [Gloriosa superba],Gloriosa superba,64.04,WAU48310.1,NCBI,0.6404,82,0,,,1,,,,,,1.8404
+4-coumarate-CoA ligase OS=Trema orientale OX=63057 GN=TorOPCL4 PE=4 SV=1,Trema orientale,60.6,A0A2P5FVC4,Uniprot,0.606,226,0,,,1,,,,,,1.806
+4-coumarate-CoA ligase OS=Trema orientale OX=63057 GN=TorOPCL3 PE=4 SV=1,Trema orientale,65,A0A2P5FTQ5,Uniprot,0.65,35,0,,,1,,,,,,1.85
+4-coumarate-CoA ligase OS=Parasponia andersonii OX=3476 GN=PanOPCL4 PE=4 SV=1,Parasponia andersonii,59.7,A0A2P5BJU6,Uniprot,0.597,267,0,,,1,,,,,,1.797
+4-coumarate-CoA ligase OS=Parasponia andersonii OX=3476 GN=PanOPCL3 PE=4 SV=1,Parasponia andersonii,64.3,A0A2P5CZL5,Uniprot,0.643,69,0,,,1,,,,,,1.843
+4-coumarate-CoA ligase 7-like protein OS=Trifolium pratense OX=57577 GN=L195_g014008 PE=4 SV=1,Trifolium pratense,59,A0A2K3PPQ7,Uniprot,0.59,294,0,,,1,,,,,,1.79
+4-coumarate-CoA ligase 7-2 [Morus alba],Morus alba,63.99,ALD83616.1,NCBI,0.6399,84,0,,,1,,,,,,1.8399
+4-coumarate-CoA ligase 7 [Morus alba],Morus alba,63.99,AOV62758.1,NCBI,0.6399,84,0,,,1,,,,,,1.8399
+4-coumarate-CoA ligase [Trema orientale],Trema orientale,64.85,POO01150.1,NCBI,0.6485,43,0,,,1,,,,,,1.8485
+4-coumarate-CoA ligase [Quillaja saponaria],Quillaja saponaria,63.8,KAJ7981047.1,NCBI,0.638,94,0,,,1,,,,,,1.838
+4-coumarate-CoA ligase [Parasponia andersonii],Parasponia andersonii,64.12,PON66492.1,NCBI,0.6412,77,0,,,1,,,,,,1.8412
+4-coumarate-CoA ligase [Melia azedarach],Melia azedarach,62.91,KAJ4725038.1,NCBI,0.6291,144,0,,,1,,,,,,1.8291
+4-coumarate-CoA ligase [Camellia sinensis],Camellia sinensis,65.03,QGI57467.1,NCBI,0.6503,31,0,,,1,,,,1,,2.4503
+4-coumarate-CoA ligase [Camellia sinensis var. assamica],Camellia sinensis var. assamica,64.85,QOJ43656.1,NCBI,0.6485,43,0,,,1,,,,,,1.8485
+4-coumarate--CoA ligase-like protein 7 [Vernicia montana],Vernicia montana,64.17,UNA06900.1,NCBI,0.6417,76,0,,,1,,,,,,1.8417
+4-coumarate--CoA ligase-like OS=Arachis hypogaea OX=3818 GN=Ahy_A03g016939 PE=4 SV=1,Arachis hypogaea,56.3,A0A445E4U5,Uniprot,0.563,348,0,,,1,,,,,,1.763
+4-coumarate--CoA ligase-like OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc25973 PE=4 SV=1,Actinidia chinensis var. chinensis,63.8,A0A2R6PQ80,Uniprot,0.638,94,0,,,1,,,,,,1.838
+4-coumarate--CoA ligase-like 7-like OS=Dorcoceras hygrometricum OX=472368 GN=F511_14470 PE=4 SV=1,Dorcoceras hygrometricum,59,A0A2Z7BF92,Uniprot,0.59,294,0,,,1,,,,,,1.79
+4-coumarate--CoA ligase-like 7 OS=Vitis vinifera OX=29760 GN=VIT_06s0061g00450 PE=4 SV=1,Vitis vinifera,64.7,F6GW98,Uniprot,0.647,50,0,,,1,,,,,,1.847
+4-coumarate--CoA ligase-like 7 OS=Vigna radiata var. radiata OX=3916 GN=LOC106777374 PE=4 SV=1,Vigna radiata var. radiata,59.2,A0A1S3VPY6,Uniprot,0.592,287,0,,,1,,,,,,1.792
+4-coumarate--CoA ligase-like 7 OS=Vigna radiata var. radiata OX=3916 GN=LOC106759615 PE=4 SV=1,Vigna radiata var. radiata,60.5,A0A1S3TX94,Uniprot,0.605,231,0,,,1,,,,,,1.805
+4-coumarate--CoA ligase-like 7 OS=Spinacia oleracea OX=3562 GN=LOC110792876 PE=4 SV=1,Spinacia oleracea,62.3,A0A9R0IPV1,Uniprot,0.623,167,0,,,1,,,,,,1.823
+4-coumarate--CoA ligase-like 7 OS=Senna tora OX=362788 GN=G2W53_037794 PE=4 SV=1,Senna tora,59.5,A0A834SMZ8,Uniprot,0.595,280,0,,,1,,,,,,1.795
+4-coumarate--CoA ligase-like 7 OS=Rhodamnia argentea OX=178133 GN=LOC115745880 PE=4 SV=1,Rhodamnia argentea,59.4,A0A8B8PRE5,Uniprot,0.594,282,0,,,1,,,,,,1.794
+4-coumarate--CoA ligase-like 7 OS=Rhodamnia argentea OX=178133 GN=LOC115734449 PE=4 SV=1,Rhodamnia argentea,63.4,A0A8B8NGD8,Uniprot,0.634,116,0,,,1,,,,,,1.834
+4-coumarate--CoA ligase-like 7 OS=Raphanus sativus OX=3726 GN=LOC108828363 PE=4 SV=1,Raphanus sativus,60,A0A6J0LD18,Uniprot,0.6,254,0,,,1,,,,,,1.8
+4-coumarate--CoA ligase-like 7 OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_021237 PE=4 SV=1,Pyrus ussuriensis x Pyrus communis,59.5,A0A5N5GGM7,Uniprot,0.595,280,0,,,1,,,,,,1.795
+4-coumarate--CoA ligase-like 7 OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_006377 PE=4 SV=1,Pyrus ussuriensis x Pyrus communis,62.2,A0A5N5FZ22,Uniprot,0.622,170,0,,,1,,,,,,1.822
+4-coumarate--CoA ligase-like 7 OS=Punica granatum OX=22663 GN=LOC116200840 PE=4 SV=1,Punica granatum,63.8,A0A2I0K7V3,Uniprot,0.638,94,0,,,1,,,,,,1.838
+4-coumarate--CoA ligase-like 7 OS=Prunus yedoensis var. nudiflora OX=2094558 GN=Pyn_40077 PE=4 SV=1,Prunus yedoensis var. nudiflora,62.7,A0A314U7H8,Uniprot,0.627,149,0,,,1,,,,,,1.827
+4-coumarate--CoA ligase-like 7 OS=Prunus yedoensis var. nudiflora OX=2094558 GN=Pyn_02373 PE=4 SV=1,Prunus yedoensis var. nudiflora,60.8,A0A315AE03,Uniprot,0.608,216,0,,,1,,,,,,1.808
+4-coumarate--CoA ligase-like 7 OS=Prunus avium OX=42229 GN=LOC110766263 PE=4 SV=1,Prunus avium,61.1,A0A6P5TD16,Uniprot,0.611,207,0,,,1,,,,,,1.811
+4-coumarate--CoA ligase-like 7 OS=Prunus avium OX=42229 GN=LOC110755459 PE=4 SV=1,Prunus avium,62.9,A0A6P5S936,Uniprot,0.629,145,0,,,1,,,,,,1.829
+4-coumarate--CoA ligase-like 7 OS=Populus tomentosa OX=118781 GN=POTOM_017316 PE=4 SV=1,Populus tomentosa,63.3,A0A8X7ZUR1,Uniprot,0.633,120,0,,,1,,,,,,1.833
+4-coumarate--CoA ligase-like 7 OS=Populus alba OX=43335 GN=D5086_0000112790 PE=4 SV=1,Populus alba,63.3,A0A4U5QAX2,Uniprot,0.633,120,0,,,1,,,,,,1.833
+4-coumarate--coa ligase-like 7 OS=Phtheirospermum japonicum OX=374723 GN=PHJA_002165600 PE=4 SV=1,Phtheirospermum japonicum,61.9,A0A830CYU9,Uniprot,0.619,184,0,,,1,,,,,,1.819
+4-coumarate--CoA ligase-like 7 OS=Phaseolus vulgaris OX=3885 GN=PHAVU_011G084300g PE=4 SV=1,Phaseolus vulgaris,57.9,V7AHH4,Uniprot,0.579,327,0,,,1,,,,,,1.779
+4-coumarate--CoA ligase-like 7 OS=Phaseolus vulgaris OX=3885 GN=PHAVU_005G131400g PE=4 SV=1,Phaseolus vulgaris,60.1,V7BVX4,Uniprot,0.601,249,0,,,1,,,,,,1.801
+4-coumarate--CoA ligase-like 7 OS=Nicotiana tabacum OX=4097 GN=LOC107798422 PE=4 SV=1,Nicotiana tabacum,63,A0A1S4AJS0,Uniprot,0.63,138,0,,,1,,,,,,1.83
+4-coumarate--CoA ligase-like 7 OS=Nicotiana tabacum OX=4097 GN=LOC107797035 PE=4 SV=1,Nicotiana tabacum,63.5,A0A1S4AFE3,Uniprot,0.635,113,0,,,1,,,,,,1.835
+4-coumarate--CoA ligase-like 7 OS=Nicotiana sylvestris OX=4096 GN=LOC104234871 PE=4 SV=1,Nicotiana sylvestris,63.1,A0A1U7XIM3,Uniprot,0.631,134,0,,,1,,,,,,1.831
+4-coumarate--coa ligase-like 7 OS=Nicotiana attenuata OX=49451 GN=4CLL7 PE=4 SV=1,Nicotiana attenuata,63.7,A0A314KHX3,Uniprot,0.637,105,0,,,1,,,,,,1.837
+4-coumarate--CoA ligase-like 7 OS=Morella rubra OX=262757 GN=CJ030_MR1G019274 PE=4 SV=1,Morella rubra,59.6,A0A6A1WPJ6,Uniprot,0.596,274,0,,,1,,,,,,1.796
+4-coumarate--CoA ligase-like 7 OS=Momordica charantia OX=3673 GN=LOC111020482 PE=4 SV=1,Momordica charantia,61.4,A0A6J1DG10,Uniprot,0.614,199,0,,,1,,,,,,1.814
+4-coumarate--CoA ligase-like 7 OS=Juglans regia OX=51240 GN=LOC109020728 PE=4 SV=1,Juglans regia,64.3,A0A2I4HRL8,Uniprot,0.643,69,0,,,1,,,,,,1.843
+4-coumarate--CoA ligase-like 7 OS=Juglans regia OX=51240 GN=LOC108982339 PE=4 SV=1,Juglans regia,59.8,A0A6P9ET53,Uniprot,0.598,262,0,,,1,,,,,,1.798
+4-coumarate--CoA ligase-like 7 OS=Juglans regia OX=51240 GN=LOC108980442 PE=4 SV=1,Juglans regia,63.1,A0A6P9EFS9,Uniprot,0.631,134,0,,,1,,,,,,1.831
+4-coumarate--CoA ligase-like 7 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00110824pilonHSYRG00010 PE=4 SV=1,Hibiscus syriacus,61.4,A0A6A2ZMC0,Uniprot,0.614,199,0,,,1,,,,,,1.814
+4-coumarate--CoA ligase-like 7 OS=Herrania umbratica OX=108875 GN=LOC110412851 PE=4 SV=1,Herrania umbratica,60.9,A0A6J0ZWG1,Uniprot,0.609,210,0,,,1,,,,,,1.809
+4-coumarate--CoA ligase-like 7 OS=Gossypium trilobum OX=34281 GN=Gotri_024531 PE=4 SV=1,Gossypium trilobum,60.2,A0A7J9DMR4,Uniprot,0.602,244,0,,,1,,,,,,1.802
+4-coumarate--CoA ligase-like 7 OS=Gossypium raimondii OX=29730 GN=B456_003G144900 PE=4 SV=1,Gossypium raimondii,60.7,A0A0D2QKS3,Uniprot,0.607,220,0,,,1,,,,,,1.807
+4-coumarate--CoA ligase-like 7 OS=Gossypium raimondii OX=29730 GN=B456_003G144900 PE=4 SV=1,Gossypium raimondii,60.2,A0A0D2QTJ7,Uniprot,0.602,244,0,,,1,,,,,,1.802
+4-coumarate--CoA ligase-like 7 OS=Gossypium lobatum OX=34289 GN=Golob_025232 PE=4 SV=1,Gossypium lobatum,60.4,A0A7J8NL67,Uniprot,0.604,239,0,,,1,,,,,,1.804
+4-coumarate--CoA ligase-like 7 OS=Gossypium klotzschianum OX=34286 GN=Goklo_028659 PE=4 SV=1,Gossypium klotzschianum,58.7,A0A7J8U208,Uniprot,0.587,298,0,,,1,,,,,,1.787
+4-coumarate--CoA ligase-like 7 OS=Gossypium klotzschianum OX=34286 GN=Goklo_002039 PE=4 SV=1,Gossypium klotzschianum,60.9,A0A7J8W2B0,Uniprot,0.609,210,0,,,1,,,,,,1.809
+4-coumarate--CoA ligase-like 7 OS=Gossypium hirsutum OX=3635 GN=LOC107963914 PE=4 SV=1,Gossypium hirsutum,62.2,A0A1U8PXT3,Uniprot,0.622,170,0,,,1,,,,,,1.822
+4-coumarate--CoA ligase-like 7 OS=Gossypium hirsutum OX=3635 GN=LOC107936009 PE=4 SV=1,Gossypium hirsutum,60.2,A0A1U8MBI0,Uniprot,0.602,244,0,,,1,,,,,,1.802
+4-coumarate--CoA ligase-like 7 OS=Gossypium barbadense OX=3634 GN=GOBAR_AA07409 PE=4 SV=1,Gossypium barbadense,59.6,A0A2P5YCB4,Uniprot,0.596,274,0,,,1,,,,,,1.796
+4-coumarate--CoA ligase-like 7 OS=Gossypium barbadense OX=3634 GN=ES319_A03G038500v1 PE=4 SV=1,Gossypium barbadense,62.2,A0A2P5WRY0,Uniprot,0.622,170,0,,,1,,,,,,1.822
+4-coumarate--CoA ligase-like 7 OS=Gossypium australe OX=47621 GN=EPI10_029716 PE=4 SV=1,Gossypium australe,59.7,A0A5B6WUV3,Uniprot,0.597,267,0,,,1,,,,,,1.797
+4-coumarate--CoA ligase-like 7 OS=Gossypium aridum OX=34290 GN=Goari_020075 PE=4 SV=1,Gossypium aridum,60.2,A0A7J8WV11,Uniprot,0.602,244,0,,,1,,,,,,1.802
+4-coumarate--CoA ligase-like 7 OS=Durio zibethinus OX=66656 GN=LOC111303525 PE=4 SV=1,Durio zibethinus,61.8,A0A6P5ZS98,Uniprot,0.618,187,0,,,1,,,,,,1.818
+4-coumarate--CoA ligase-like 7 OS=Durio zibethinus OX=66656 GN=LOC111285230 PE=4 SV=1,Durio zibethinus,63.3,A0A6P5XQ41,Uniprot,0.633,120,0,,,1,,,,,,1.833
+4-coumarate--CoA ligase-like 7 OS=Cucurbita maxima OX=3661 GN=LOC111493400 PE=4 SV=1,Cucurbita maxima,60.8,A0A6J1KDQ6,Uniprot,0.608,216,0,,,1,,,,,,1.808
+4-coumarate--CoA ligase-like 7 OS=Cucumis melo var. makuwa OX=1194695 GN=E5676_scaffold609G00860 PE=4 SV=1,Cucumis melo var. makuwa,60.7,A0A5D3DCX7,Uniprot,0.607,220,0,,,1,,,,,,1.807
+4-coumarate--CoA ligase-like 7 OS=Cucumis melo var. makuwa OX=1194695 GN=E5676_scaffold352G002730 PE=4 SV=1,Cucumis melo var. makuwa,60.5,A0A5A7TKZ4,Uniprot,0.605,231,0,,,1,,,,,,1.805
+4-coumarate--CoA ligase-like 7 OS=Cucumis melo OX=3656 GN=LOC103501298 PE=4 SV=1,Cucumis melo,60.7,A0A1S3CIB0,Uniprot,0.607,220,0,,,1,,,,,,1.807
+4-coumarate--CoA ligase-like 7 OS=Cucumis melo OX=3656 GN=LOC103486502 PE=4 SV=1,Cucumis melo,60.5,A0A1S3B5U8,Uniprot,0.605,231,0,,,1,,,,,,1.805
+4-coumarate--CoA ligase-like 7 OS=Coffea arabica OX=13443 GN=LOC113707236 PE=4 SV=1,Coffea arabica,62.2,A0A6P6U3U2,Uniprot,0.622,170,0,,,1,,,,,,1.822
+4-coumarate--CoA ligase-like 7 OS=Cicer arietinum OX=3827 GN=LOC101500143 PE=4 SV=1,Cicer arietinum,60,A0A1S2XC32,Uniprot,0.6,254,0,,,1,,,,,,1.8
+4-coumarate--CoA ligase-like 7 OS=Capsicum baccatum OX=33114 GN=CQW23_26995 PE=4 SV=1,Capsicum baccatum,62.7,A0A2G2VQD4,Uniprot,0.627,149,0,,,1,,,,,,1.827
+4-coumarate--CoA ligase-like 7 OS=Capsicum annuum OX=4072 GN=T459_28675 PE=4 SV=1,Capsicum annuum,63,A0A1U8ELY2,Uniprot,0.63,138,0,,,1,,,,,,1.83
+4-coumarate--CoA ligase-like 7 OS=Cajanus cajan OX=3821 GN=KK1_026308 PE=4 SV=1,Cajanus cajan,59.2,A0A151SAH6,Uniprot,0.592,287,0,,,1,,,,,,1.792
+4-coumarate--CoA ligase-like 7 OS=Cajanus cajan OX=3821 GN=KK1_022208 PE=4 SV=1,Cajanus cajan,60.4,A0A151TNK3,Uniprot,0.604,239,0,,,1,,,,,,1.804
+4-coumarate--CoA ligase-like 7 OS=Arabidopsis thaliana OX=3702 GN=4CLL7 PE=1 SV=1,Arabidopsis thaliana,59.7,Q9M0X9,Uniprot,0.597,267,0,,,1,,,,,,1.797
+4-coumarate--CoA ligase-like 7 OS=Abrus precatorius OX=3816 GN=LOC113858955 PE=4 SV=1,Abrus precatorius,59.4,A0A8B8KW47,Uniprot,0.594,282,0,,,1,,,,,,1.794
+4-coumarate--CoA ligase-like 7 isoform X3 OS=Ziziphus jujuba OX=326968 GN=LOC107411478 PE=4 SV=1,Ziziphus jujuba,64.6,A0A6P3ZAB3,Uniprot,0.646,57,0,,,1,,,,,,1.846
+4-coumarate--CoA ligase-like 7 isoform X2 OS=Abrus precatorius OX=3816 GN=LOC113854607 PE=4 SV=1,Abrus precatorius,58.6,A0A8B8KCK7,Uniprot,0.586,302,0,,,1,,,,,,1.786
+4-coumarate--CoA ligase-like 7 isoform X1 OS=Ziziphus jujuba OX=326968 GN=LOC107411478 PE=4 SV=1,Ziziphus jujuba,64.9,A0A6P3ZLT8,Uniprot,0.649,39,0,,,1,,,,,,1.849
+4-coumarate--CoA ligase-like 7 isoform X1 OS=Tripterygium wilfordii OX=458696 GN=HS088_TW07G00327 PE=4 SV=1,Tripterygium wilfordii,62.5,A0A7J7DEQ8,Uniprot,0.625,157,0,,,1,,,,,,1.825
+4-coumarate--CoA ligase-like 7 isoform X1 OS=Raphanus sativus OX=3726 GN=LOC108825885 PE=4 SV=1,Raphanus sativus,58.1,A0A6J0L4D4,Uniprot,0.581,315,0,,,1,,,,,,1.781
+4-coumarate--CoA ligase-like 7 isoform X1 OS=Gossypium hirsutum OX=3635 GN=LOC107927154 PE=4 SV=1,Gossypium hirsutum,61.6,A0A1U8LJM9,Uniprot,0.616,192,0,,,1,,,,,,1.816
+4-coumarate--CoA ligase-like 7 isoform X1 OS=Durio zibethinus OX=66656 GN=LOC111301477 PE=4 SV=1,Durio zibethinus,62.2,A0A6P5ZK61,Uniprot,0.622,170,0,,,1,,,,,,1.822
+4-coumarate--CoA ligase-like 7 isoform X1 OS=Abrus precatorius OX=3816 GN=LOC113854607 PE=4 SV=1,Abrus precatorius,59.8,A0A8B8KCK9,Uniprot,0.598,262,0,,,1,,,,,,1.798
+4-coumarate--CoA ligase-like 7 isoform X1 [Carica papaya],Carica papaya,63.82,XP_021896204.1,NCBI,0.6382,93,0,,,1,,,,,,1.8382
+4-coumarate--CoA ligase-like 7 isoform B OS=Glycine soja OX=3848 GN=D0Y65_032420 PE=4 SV=1,Glycine soja,59.6,A0A445IDI9,Uniprot,0.596,274,0,,,1,,,,,,1.796
+4-coumarate--CoA ligase-like 7 isoform B OS=Glycine soja OX=3848 GN=D0Y65_030234 PE=4 SV=1,Glycine soja,58,A0A445I2V9,Uniprot,0.58,320,0,,,1,,,,,,1.78
+4-coumarate--CoA ligase-like 7 isoform A OS=Glycine soja OX=3848 GN=D0Y65_032420 PE=4 SV=1,Glycine soja,59.8,A0A445ID57,Uniprot,0.598,262,0,,,1,,,,,,1.798
+4-coumarate--CoA ligase-like 7 [Vitis riparia],Vitis riparia,64.66,XP_034688063.1,NCBI,0.6466,53,0,,,1,,,,,,1.8466
+4-coumarate--CoA ligase-like 7 [Tripterygium wilfordii],Tripterygium wilfordii,62.52,XP_038707703.1,NCBI,0.6252,156,0,,,1,,,,,,1.8252
+4-coumarate--CoA ligase-like 7 [Punica granatum],Punica granatum,63.8,XP_031387631.1,NCBI,0.638,94,0,,,1,,,,,,1.838
+4-coumarate--CoA ligase-like 7 [Pistacia vera],Pistacia vera,63.29,XP_031286312.1,NCBI,0.6329,125,0,,,1,,,,,,1.8329
+4-coumarate--CoA ligase-like 7 [Morus notabilis],Morus notabilis,63.62,XP_024031444.1,NCBI,0.6362,108,0,,,1,,,,,,1.8362
+4-coumarate--CoA ligase-like 7 [Juglans regia],Juglans regia,64.3,XP_018858801.1,NCBI,0.643,69,0,,,1,,,,,,1.843
+4-coumarate--CoA ligase-like 7 [Juglans regia],Juglans regia,63.14,XP_035546196.1,NCBI,0.6314,128,0,,,1,,,,,,1.8314
+4-coumarate--CoA ligase-like 7 [Juglans microcarpa x Juglans regia],Juglans microcarpa x Juglans regia,64.48,XP_040992290.1,NCBI,0.6448,63,0,,,1,,,,,,1.8448
+4-coumarate--CoA ligase-like 7 [Juglans microcarpa x Juglans regia],Juglans microcarpa x Juglans regia,62.96,XP_040994857.1,NCBI,0.6296,142,0,,,1,,,,,,1.8296
+4-coumarate--CoA ligase-like 7 [Jatropha curcas],Jatropha curcas,63.8,XP_012064722.1,NCBI,0.638,94,0,,,1,,,,,,1.838
+4-coumarate--CoA ligase-like 7 [Durio zibethinus],Durio zibethinus,63.27,XP_022730293.1,NCBI,0.6327,126,0,,,1,,,,,,1.8327
+4-coumarate--CoA ligase-like 7 [Camellia sinensis],Camellia sinensis,64.66,XP_028105125.1,NCBI,0.6466,53,0,,,1,,,,,,1.8466
+4-coumarate--CoA ligase-like 7 [Camellia lanceoleosa],Camellia lanceoleosa,64.3,KAI7991797.1,NCBI,0.643,69,0,,,1,,,,,,1.843
+4-coumarate--CoA ligase-like 7 (Fragment) OS=Gossypium raimondii OX=29730 GN=B456_013G269100 PE=4 SV=1,Gossypium raimondii,60.5,A0A0D2VKP5,Uniprot,0.605,231,0,,,1,,,,,,1.805
+4-coumarate--CoA ligase-like [Actinidia chinensis var. chinensis],Actinidia chinensis var. chinensis,63.77,PSR95216.1,NCBI,0.6377,103,0,,,1,,,,,,1.8377
+4-coumarate--CoA ligase OS=Zea mays OX=4577 GN=100191850 PE=4 SV=1,Zea mays,57.2,A0A096S078,Uniprot,0.572,341,0,,,1,,,,,,1.772
+4-coumarate--CoA ligase OS=Vigna angularis var. angularis OX=157739 GN=Vigan.06G177700 PE=4 SV=1,Vigna angularis var. angularis,59.1,A0A0S3SCI5,Uniprot,0.591,291,0,,,1,,,,,,1.791
+4-coumarate--CoA ligase OS=Trifolium subterraneum OX=3900 GN=TSUD_107600 PE=4 SV=1,Trifolium subterraneum,59.4,A0A2Z6NSM8,Uniprot,0.594,282,0,,,1,,,,,,1.794
+4-coumarate--CoA ligase OS=Sorghum bicolor OX=4558 GN=SORBI_3001G500800 PE=4 SV=1,Sorghum bicolor,57.7,A0A1B6QQG1,Uniprot,0.577,332,0,,,1,,,,,,1.777
+4-coumarate--CoA ligase OS=Setaria viridis OX=4556 GN=SEVIR_9G541400v2 PE=4 SV=1,Setaria viridis,58.6,A0A4U6TL96,Uniprot,0.586,302,0,,,1,,,,,,1.786
+4-coumarate--CoA ligase OS=Setaria italica OX=4555 GN=101781746 PE=4 SV=1,Setaria italica,58.6,K4A827,Uniprot,0.586,302,0,,,1,,,,,,1.786
+4-coumarate--CoA ligase OS=Salvia splendens OX=180675 GN=SASPL_122772 PE=4 SV=1,Salvia splendens,59.9,A0A8X8ZSS5,Uniprot,0.599,256,0,,,1,,,,,,1.799
+4-coumarate--CoA ligase OS=Salvia splendens OX=180675 GN=SASPL_100055 PE=4 SV=1,Salvia splendens,60.5,A0A8X8YS58,Uniprot,0.605,231,0,,,1,,,,,,1.805
+4-coumarate--CoA ligase OS=Salix dunnii OX=1413687 GN=SADUNF_Sadunf17G0106400 PE=4 SV=1,Salix dunnii,63.3,A0A835J5V4,Uniprot,0.633,120,0,,,1,,,,,,1.833
+4-coumarate--CoA ligase OS=Salix dunnii OX=1413687 GN=SADUNF_Sadunf04G0081900 PE=4 SV=1,Salix dunnii,62.6,A0A835K4I7,Uniprot,0.626,153,0,,,1,,,,,,1.826
+4-coumarate--CoA ligase OS=Salix brachista OX=2182728 GN=DKX38_006051 PE=4 SV=1,Salix brachista,63.1,A0A5N5N130,Uniprot,0.631,134,0,,,1,,,,,,1.831
+4-coumarate--CoA ligase OS=Rhododendron simsii OX=118357 GN=RHSIM_Rhsim01G0211500 PE=4 SV=1,Rhododendron simsii,60.4,A0A834LZG5,Uniprot,0.604,239,0,,,1,,,,,,1.804
+4-coumarate--CoA ligase OS=Rhamnella rubrinervis OX=2594499 GN=FNV43_RR05376 PE=4 SV=1,Rhamnella rubrinervis,64.7,A0A8K0MR64,Uniprot,0.647,50,0,,,1,,,,,,1.847
+4-coumarate--CoA ligase OS=Prunus persica OX=3760 GN=PRUPE_7G129300 PE=4 SV=1,Prunus persica,60.9,M5WDH6,Uniprot,0.609,210,0,,,1,,,,,,1.809
+4-coumarate--CoA ligase OS=Prunus persica OX=3760 GN=PRUPE_6G109000 PE=4 SV=1,Prunus persica,62.7,M5W8J3,Uniprot,0.627,149,0,,,1,,,,,,1.827
+4-coumarate--CoA ligase OS=Prunus armeniaca OX=36596 GN=ORAREDHAP_LOCUS35746 PE=4 SV=1,Prunus armeniaca,62.9,A0A6J5XGF1,Uniprot,0.629,145,0,,,1,,,,,,1.829
+4-coumarate--CoA ligase OS=Prunus armeniaca OX=36596 GN=CURHAP_LOCUS45306 PE=4 SV=1,Prunus armeniaca,60.6,A0A6J5XZN6,Uniprot,0.606,226,0,,,1,,,,,,1.806
+4-coumarate--CoA ligase OS=Populus trichocarpa OX=3694 GN=POPTR_004G102000 PE=4 SV=1,Populus trichocarpa,63,B9H3P7,Uniprot,0.63,138,0,,,1,,,,,,1.83
+4-coumarate--CoA ligase OS=Populus deltoides OX=3696 GN=H0E87_031367 PE=4 SV=1,Populus deltoides,63.7,A0A8T2WAJ2,Uniprot,0.637,105,0,,,1,,,,,,1.837
+4-coumarate--CoA ligase OS=Populus deltoides OX=3696 GN=H0E87_031367 PE=4 SV=1,Populus deltoides,63,A0A8T2WDY2,Uniprot,0.63,138,0,,,1,,,,,,1.83
+4-coumarate--CoA ligase OS=Phoenix dactylifera OX=42345 GN=LOC103720770 PE=4 SV=1,Phoenix dactylifera,63.4,A0A8B7CYJ5,Uniprot,0.634,116,0,,,1,,,,,,1.834
+4-coumarate--CoA ligase OS=Papaver somniferum OX=3469 GN=C5167_033646 PE=4 SV=1,Papaver somniferum,63.9,A0A4Y7KAX3,Uniprot,0.639,91,0,,,1,,,,,,1.839
+4-coumarate--CoA ligase OS=Papaver somniferum OX=3469 GN=C5167_001159 PE=4 SV=1,Papaver somniferum,63.7,A0A4Y7KVW2,Uniprot,0.637,105,0,,,1,,,,,,1.837
+4-coumarate--CoA ligase OS=Panicum virgatum OX=38727 GN=PVAP13_9NG744300 PE=4 SV=1,Panicum virgatum,58.8,A0A8T0N5P7,Uniprot,0.588,296,0,,,1,,,,,,1.788
+4-coumarate--CoA ligase OS=Panicum hallii var. hallii OX=1504633 GN=GQ55_9G610900 PE=4 SV=1,Panicum hallii var. hallii,58.5,A0A2T7CHL3,Uniprot,0.585,306,0,,,1,,,,,,1.785
+4-coumarate--CoA ligase OS=Musa balbisiana OX=52838 GN=C4D60_Mb05t21540 PE=4 SV=1,Musa balbisiana,59.1,A0A4S8JXV6,Uniprot,0.591,291,0,,,1,,,,,,1.791
+4-coumarate--CoA ligase OS=Musa acuminata subsp. malaccensis OX=214687 GN=GSMUA_346580.1 PE=4 SV=1,Musa acuminata subsp. malaccensis,61.1,A0A804K619,Uniprot,0.611,207,0,,,1,,,,,,1.811
+4-coumarate--CoA ligase OS=Musa acuminata subsp. malaccensis OX=214687 GN=GSMUA_274020.1 PE=4 SV=1,Musa acuminata subsp. malaccensis,59.7,A0A804J771,Uniprot,0.597,267,0,,,1,,,,,,1.797
+4-coumarate--CoA ligase OS=Microthlaspi erraticum OX=1685480 GN=MERR_LOCUS34201 PE=4 SV=1,Microthlaspi erraticum,61.2,A0A6D2JSJ2,Uniprot,0.612,205,0,,,1,,,,,,1.812
+4-coumarate--CoA ligase OS=Microthlaspi erraticum OX=1685480 GN=MERR_LOCUS34200 PE=4 SV=1,Microthlaspi erraticum,59.9,A0A6D2KGW3,Uniprot,0.599,256,0,,,1,,,,,,1.799
+4-coumarate--CoA ligase OS=Manihot esculenta OX=3983 GN=MANES_04G015100 PE=4 SV=1,Manihot esculenta,64.9,A0A2C9W0W5,Uniprot,0.649,39,0,,,1,,,,,,1.849
+4-coumarate--CoA ligase OS=Malus domestica OX=3750 GN=DVH24_005852 PE=4 SV=1,Malus domestica,61.8,A0A498IK94,Uniprot,0.618,187,0,,,1,,,,,,1.818
+4-coumarate--CoA ligase OS=Malus baccata OX=106549 GN=C1H46_007129 PE=4 SV=1,Malus baccata,61.5,A0A540N8D7,Uniprot,0.615,196,0,,,1,,,,,,1.815
+4-coumarate--CoA ligase OS=Lupinus angustifolius OX=3871 GN=TanjilG_23608 PE=4 SV=1,Lupinus angustifolius,58.6,A0A4P1RA03,Uniprot,0.586,302,0,,,1,,,,,,1.786
+4-coumarate--CoA ligase OS=Lupinus angustifolius OX=3871 GN=TanjilG_04318 PE=4 SV=1,Lupinus angustifolius,56.4,A0A4P1RPV1,Uniprot,0.564,346,0,,,1,,,,,,1.764
+4-coumarate--CoA ligase OS=Kingdonia uniflora OX=39325 GN=GIB67_000270 PE=4 SV=1,Kingdonia uniflora,65,A0A7J7LCD3,Uniprot,0.65,35,0,,,1,,,,,,1.85
+4-coumarate--CoA ligase OS=Kalanchoe fedtschenkoi OX=63787 PE=4 SV=1,Kalanchoe fedtschenkoi,59.1,A0A7N0URK9,Uniprot,0.591,291,0,,,1,,,,,,1.791
+4-coumarate--CoA ligase OS=Hordeum vulgare subsp. vulgare OX=112509 PE=4 SV=1,Hordeum vulgare subsp. vulgare,56.2,A0A8I6XT03,Uniprot,0.562,349,0,,,1,,,,,,1.762
+4-coumarate--CoA ligase OS=Gossypium mustelinum OX=34275 GN=E1A91_A13G267100v1 PE=4 SV=1,Gossypium mustelinum,60.2,A0A5D2WMR7,Uniprot,0.602,244,0,,,1,,,,,,1.802
+4-coumarate--CoA ligase OS=Gossypium mustelinum OX=34275 GN=E1A91_A03G043300v1 PE=4 SV=1,Gossypium mustelinum,62,A0A5D2ZUW7,Uniprot,0.62,178,0,,,1,,,,,,1.82
+4-coumarate--CoA ligase OS=Gossypium laxum OX=34288 GN=Golax_001702 PE=4 SV=1,Gossypium laxum,60.7,A0A7J9AXN3,Uniprot,0.607,220,0,,,1,,,,,,1.807
+4-coumarate--CoA ligase OS=Gossypium davidsonii OX=34287 GN=Godav_002013 PE=4 SV=1,Gossypium davidsonii,60.9,A0A7J8T6H4,Uniprot,0.609,210,0,,,1,,,,,,1.809
+4-coumarate--CoA ligase OS=Glycine max OX=3847 GN=100808944 PE=4 SV=1,Glycine max,58,I1LL16,Uniprot,0.58,320,0,,,1,,,,,,1.78
+4-coumarate--CoA ligase OS=Glycine max OX=3847 GN=100808944 PE=4 SV=1,Glycine max,58,A0A0R0HJB4,Uniprot,0.58,320,0,,,1,,,,,,1.78
+4-coumarate--CoA ligase OS=Glycine max OX=3847 GN=100808944 PE=4 SV=1,Glycine max,57.3,I1LL15,Uniprot,0.573,338,0,,,1,,,,,,1.773
+4-coumarate--CoA ligase OS=Eutrema salsugineum OX=72664 GN=EUTSA_v10028563mg PE=4 SV=1,Eutrema salsugineum,60.8,V4LE97,Uniprot,0.608,216,0,,,1,,,,,,1.808
+4-coumarate--CoA ligase OS=Eutrema salsugineum OX=72664 GN=EUTSA_v10028562mg PE=4 SV=1,Eutrema salsugineum,59.7,V4KJQ8,Uniprot,0.597,267,0,,,1,,,,,,1.797
+4-coumarate--CoA ligase OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_K02927 PE=4 SV=1,Eucalyptus grandis,61.1,A0A059A6N2,Uniprot,0.611,207,0,,,1,,,,,,1.811
+4-coumarate--CoA ligase OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_B03943 PE=4 SV=1,Eucalyptus grandis,62,A0A059DAI7,Uniprot,0.62,178,0,,,1,,,,,,1.82
+4-coumarate--CoA ligase OS=Eragrostis curvula OX=38414 GN=EJB05_07982 PE=4 SV=1,Eragrostis curvula,57.9,A0A5J9WJE5,Uniprot,0.579,327,0,,,1,,,,,,1.779
+4-coumarate--CoA ligase OS=Elaeis guineensis var. tenera OX=51953 GN=LOC105042958 PE=4 SV=1,Elaeis guineensis var. tenera,65.4,A0A6I9R2R6,Uniprot,0.654,27,0,,,1,,,,,,1.854
+4-coumarate--CoA ligase OS=Dendrobium nobile OX=94219 GN=KFK09_009842 PE=4 SV=1,Dendrobium nobile,56.9,A0A8T3BKH3,Uniprot,0.569,344,0,,,1,,,,,,1.769
+4-coumarate--CoA ligase OS=Cucumis sativus OX=3659 GN=Csa_3G740270 PE=4 SV=1,Cucumis sativus,60.1,A0A0A0LDK0,Uniprot,0.601,249,0,,,1,,,,,,1.801
+4-coumarate--CoA ligase OS=Cucumis sativus OX=3659 GN=Csa_1G108800 PE=4 SV=1,Cucumis sativus,61.4,A0A0A0LXU2,Uniprot,0.614,199,0,,,1,,,,,,1.814
+4-coumarate--CoA ligase OS=Colocasia esculenta OX=4460 GN=Taro_011192 PE=4 SV=1,Colocasia esculenta,58.1,A0A843U5L3,Uniprot,0.581,315,0,,,1,,,,,,1.781
+4-coumarate--CoA ligase OS=Cocos nucifera OX=13894 GN=COCNU_07G010980 PE=4 SV=1,Cocos nucifera,64.1,A0A8K0IFP1,Uniprot,0.641,78,0,,,1,,,,,,1.841
+4-coumarate--CoA ligase OS=Citrus unshiu OX=55188 GN=CUMW_252520 PE=4 SV=1,Citrus unshiu,61.5,A0A2H5QQL4,Uniprot,0.615,196,0,,,1,,,,,,1.815
+4-coumarate--CoA ligase OS=Citrus unshiu OX=55188 GN=CUMW_196680 PE=4 SV=1,Citrus unshiu,62.7,A0A2H5Q500,Uniprot,0.627,149,0,,,1,,,,,,1.827
+4-coumarate--CoA ligase OS=Citrus clementina OX=85681 GN=CICLE_v10028138mg PE=4 SV=1,Citrus clementina,62.2,V4SG03,Uniprot,0.622,170,0,,,1,,,,,,1.822
+4-coumarate--CoA ligase OS=Chenopodium quinoa OX=63459 PE=4 SV=1,Chenopodium quinoa,61.8,A0A803MGV5,Uniprot,0.618,187,0,,,1,,,,,,1.818
+4-coumarate--CoA ligase OS=Castanea mollissima OX=60419 GN=CMV_006432 PE=4 SV=1,Castanea mollissima,61.9,A0A8J4W101,Uniprot,0.619,184,0,,,1,,,,,,1.819
+4-coumarate--CoA ligase OS=Carya illinoinensis OX=32201 GN=CIPAW_14G088000 PE=4 SV=1,Carya illinoinensis,61.5,A0A8T1NI84,Uniprot,0.615,196,0,,,1,,,,,,1.815
+4-coumarate--CoA ligase OS=Carya illinoinensis OX=32201 GN=CIPAW_13G119400 PE=4 SV=1,Carya illinoinensis,65,A0A8T1NIX1,Uniprot,0.65,35,0,,,1,,,,,,1.85
+4-coumarate--CoA ligase OS=Carya illinoinensis OX=32201 GN=CIPAW_10G129400 PE=4 SV=1,Carya illinoinensis,58.7,A0A8T1PAV6,Uniprot,0.587,298,0,,,1,,,,,,1.787
+4-coumarate--CoA ligase OS=Carpinus fangiana OX=176857 GN=FH972_012004 PE=4 SV=1,Carpinus fangiana,62.5,A0A5N6R403,Uniprot,0.625,157,0,,,1,,,,,,1.825
+4-coumarate--CoA ligase OS=Capsella rubella OX=81985 GN=CARUB_v10000646mg PE=4 SV=1,Capsella rubella,60.3,R0H9R2,Uniprot,0.603,242,0,,,1,,,,,,1.803
+4-coumarate--CoA ligase OS=Camellia sinensis OX=4442 GN=HYC85_025192 PE=4 SV=1,Camellia sinensis,64.8,A0A7J7GEC3,Uniprot,0.648,47,0,,,1,,,,,,1.848
+4-coumarate--CoA ligase OS=Arachis hypogaea OX=3818 GN=Ahy_A08g039365 PE=4 SV=1,Arachis hypogaea,57.5,A0A445BW30,Uniprot,0.575,334,0,,,1,,,,,,1.775
+4-coumarate--CoA ligase OS=Arabis nemorensis OX=586526 GN=ANE_LOCUS18291 PE=4 SV=1,Arabis nemorensis,59.7,A0A565C2P3,Uniprot,0.597,267,0,,,1,,,,,,1.797
+4-coumarate--CoA ligase OS=Arabis alpina OX=50452 GN=AALP_Aa6g213500 PE=4 SV=1,Arabis alpina,58.7,A0A087GQR9,Uniprot,0.587,298,0,,,1,,,,,,1.787
+4-coumarate--CoA ligase OS=Aquilegia coerulea OX=218851 GN=AQUCO_03000071v1 PE=4 SV=1,Aquilegia coerulea,65.5,A0A2G5D214,Uniprot,0.655,26,0,,,1,,,,,,1.855
+4-coumarate--CoA ligase OS=Aquilegia coerulea OX=218851 GN=AQUCO_03000071v1 PE=4 SV=1,Aquilegia coerulea,64.6,A0A2G5D130,Uniprot,0.646,57,0,,,1,,,,,,1.846
+4-coumarate--CoA ligase OS=Apostasia shenzhenica OX=1088818 GN=4CLL7 PE=4 SV=1,Apostasia shenzhenica,59.9,A0A2H9ZXN4,Uniprot,0.599,256,0,,,1,,,,,,1.799
+4-coumarate--CoA ligase OS=Ananas comosus OX=4615 GN=ACMD2_25769 PE=4 SV=1,Ananas comosus,61.4,A0A199VGP1,Uniprot,0.614,199,0,,,1,,,,,,1.814
+4-coumarate--CoA ligase OS=Acer yangbiense OX=1000413 GN=EZV62_002372 PE=4 SV=1,Acer yangbiense,61.4,A0A5C7IX43,Uniprot,0.614,199,0,,,1,,,,,,1.814
+4-coumarate--CoA ligase family protein OS=Striga asiatica OX=4170 GN=STAS_09649 PE=4 SV=1,Striga asiatica,59.9,A0A5A7PKV4,Uniprot,0.599,256,0,,,1,,,,,,1.799
+4-coumarate--CoA ligase family protein 10 [Populus tomentosa],Populus tomentosa,64.05,APR64148.1,NCBI,0.6405,80,0,,,1,,,,,,1.8405
+4-coumarate--CoA ligase (Fragment) OS=Gossypium trilobum OX=34281 GN=Gotri_001942 PE=4 SV=1,Gossypium trilobum,60.7,A0A7J9FGP4,Uniprot,0.607,220,0,,,1,,,,,,1.807
+4-coumarate-- ligase-like 7 OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A039066 PE=4 SV=1,Olea europaea subsp. europaea,61.2,A0A8S0R2G8,Uniprot,0.612,205,0,,,1,,,,,,1.812
+(rape) hypothetical protein OS=Brassica napus OX=3708 GN=BnaC09g21890D PE=4 SV=1,Brassica napus,59.9,A0A078HKZ9,Uniprot,0.599,256,0,,,0,,,,,,0.599
+(rape) hypothetical protein OS=Brassica napus OX=3708 GN=BnaA09g19900D PE=4 SV=1,Brassica napus,58.3,A0A078I937,Uniprot,0.583,309,0,,,0,,,,,,0.583
+(rape) hypothetical protein OS=Brassica napus OX=3708 GN=BnaA09g19890D PE=4 SV=1,Brassica napus,60.5,A0A078I666,Uniprot,0.605,231,0,,,0,,,,,,0.605
+,,,,,,,,39,,,,,,,,

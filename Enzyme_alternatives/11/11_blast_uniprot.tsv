@@ -1,0 +1,251 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	SP	P0DO57	Piperamide synthase OS=Piper nigrum OX=13216 GN=PAS PE=1 SV=1	Piper nigrum	460	2411	100.0	100.0	0.0
+2	SP	P0DO56	Piperine synthase OS=Piper nigrum OX=13216 GN=PS PE=1 SV=1	Piper nigrum	461	1533	65.3	77.5	0.0
+3	TR	A0A6P4ARX0	Benzyl alcohol O-benzoyltransferase-like OS=Ziziphus jujuba OX=326968 GN=LOC107432782 PE=4 SV=1	Ziziphus jujuba	459	1062	50.1	63.4	2.9e-138
+4	TR	A0A6A1UY21	Benzyl alcohol O-benzoyltransferase OS=Morella rubra OX=262757 GN=CJ030_MR7G012095 PE=4 SV=1	Morella rubra	452	1049	49.1	64.1	2.1e-136
+5	TR	W1NH21	Benzyl alcohol O-benzoyltransferase OS=Amborella trichopoda OX=13333 GN=AMTR_s00011p00264170 PE=4 SV=1	Amborella trichopoda	476	1050	49.0	63.7	3.3e-136
+6	TR	A0A6P6XDB1	Benzyl alcohol O-benzoyltransferase-like OS=Coffea arabica OX=13443 GN=LOC113742192 PE=4 SV=1	Coffea arabica	460	1041	48.3	63.8	4.5e-135
+7	SP	Q8GT21	Benzyl alcohol O-benzoyltransferase OS=Clarkia breweri OX=36903 PE=1 SV=1	Clarkia breweri	456	1040	46.9	64.5	5.6e-135
+8	TR	A0A6P6SMX1	Benzyl alcohol O-benzoyltransferase-like OS=Coffea arabica OX=13443 GN=LOC113692843 PE=4 SV=1	Coffea arabica	470	1041	47.7	63.2	6.2e-135
+9	TR	A0A2C9VBN1	Benzyl alcohol O-benzoyltransferase OS=Manihot esculenta OX=3983 GN=MANES_09G131200 PE=4 SV=1	Manihot esculenta	459	1036	46.8	62.5	2.5e-134
+10	TR	A0A843W4M8	Benzyl alcohol O-benzoyltransferase OS=Colocasia esculenta OX=4460 GN=Taro_031942 PE=3 SV=1	Colocasia esculenta	455	1035	48.2	64.1	3.1e-134
+11	TR	A0A6P6T3U4	Benzyl alcohol O-benzoyltransferase-like isoform X1 OS=Coffea arabica OX=13443 GN=LOC113697293 PE=4 SV=1	Coffea arabica	456	1033	47.9	63.8	6.4e-134
+12	TR	A0A6P6SYD0	Benzyl alcohol O-benzoyltransferase-like OS=Coffea arabica OX=13443 GN=LOC113695991 PE=4 SV=1	Coffea arabica	469	1034	47.9	64.0	6.9e-134
+13	TR	A0A6P6T4B6	Benzyl alcohol O-benzoyltransferase-like OS=Coffea arabica OX=13443 GN=LOC113697351 PE=4 SV=1	Coffea arabica	456	1032	47.9	63.5	9e-134
+14	TR	A0A0S3S599	Benzyl alcohol O-benzoyltransferase OS=Vigna angularis var. angularis OX=157739 GN=Vigan.05G142800 PE=4 SV=1	Vigna angularis var. angularis	458	1031	47.9	62.7	1.4e-133
+15	TR	A0A0L9VCZ2	Benzyl alcohol O-benzoyltransferase OS=Phaseolus angularis OX=3914 GN=HKW66_Vig0074180 PE=4 SV=1	Phaseolus angularis	458	1031	47.9	62.7	1.4e-133
+16	TR	A0A8K0GZJ8	Benzyl alcohol O-benzoyltransferase OS=Rhamnella rubrinervis OX=2594499 GN=FNV43_RR16834 PE=4 SV=1	Rhamnella rubrinervis	459	1031	48.6	63.1	1.4e-133
+17	TR	A0A1S3CHT9	Benzyl alcohol O-benzoyltransferase-like OS=Cucumis melo OX=3656 GN=LOC103501099 PE=4 SV=1	Cucumis melo	459	1031	47.2	64.7	1.4e-133
+18	TR	A0A8B9AHW3	Benzyl alcohol O-benzoyltransferase-like OS=Phoenix dactylifera OX=42345 GN=LOC103713019 PE=3 SV=1	Phoenix dactylifera	459	1031	48.1	62.2	1.4e-133
+19	TR	A0A6A1UY65	Benzyl alcohol O-benzoyltransferase OS=Morella rubra OX=262757 GN=CJ030_MR7G012091 PE=4 SV=1	Morella rubra	459	1031	49.3	63.1	1.4e-133
+20	TR	A0A5D3BNT2	Benzyl alcohol O-benzoyltransferase-like OS=Cucumis melo var. makuwa OX=1194695 GN=E5676_scaffold602G001120 PE=4 SV=1	Cucumis melo var. makuwa	459	1031	47.2	64.7	1.4e-133
+21	TR	A0A6P6SQ41	Benzyl alcohol O-benzoyltransferase-like OS=Coffea arabica OX=13443 GN=LOC113693628 PE=4 SV=1	Coffea arabica	470	1032	47.0	63.0	1.4e-133
+22	TR	A0A1S3VGL7	Benzyl alcohol O-benzoyltransferase-like OS=Vigna radiata var. radiata OX=3916 GN=LOC106774836 PE=4 SV=1	Vigna radiata var. radiata	458	1028	47.9	62.9	3.9e-133
+23	TR	A0A7J0E0Y3	HXXXD-type acyl-transferase family protein OS=Actinidia rufa OX=165716 GN=Acr_00g0097940 PE=4 SV=1	Actinidia rufa	462	1027	46.8	62.1	6.2e-133
+24	TR	A0A8B9AHW1	Benzyl alcohol O-benzoyltransferase-like OS=Phoenix dactylifera OX=42345 GN=LOC103700693 PE=3 SV=1	Phoenix dactylifera	459	1024	47.6	62.0	1.6e-132
+25	TR	A0A498IHC8	Benzyl alcohol O-benzoyltransferase OS=Malus domestica OX=3750 GN=DVH24_034838 PE=4 SV=1	Malus domestica	461	1024	47.2	64.1	1.7e-132
+26	TR	A0A1S3VFT9	Benzyl alcohol O-benzoyltransferase-like OS=Vigna radiata var. radiata OX=3916 GN=LOC106774560 PE=4 SV=1	Vigna radiata var. radiata	458	1023	48.7	63.1	2.2e-132
+27	TR	A0A1S3VIQ7	Benzyl alcohol O-benzoyltransferase-like OS=Vigna radiata var. radiata OX=3916 GN=LOC106775380 PE=4 SV=1	Vigna radiata var. radiata	458	1022	47.7	62.8	3.1e-132
+28	TR	A0A0A0LR91	Benzyl alcohol O-benzoyltransferase OS=Cucumis sativus OX=3659 GN=Csa_2G431070 PE=4 SV=1	Cucumis sativus	459	1022	47.0	64.5	3.2e-132
+29	TR	A0A8K0N8N1	Benzyl alcohol O-benzoyltransferase OS=Cocos nucifera OX=13894 GN=COCNU_10G010020 PE=3 SV=1	Cocos nucifera	459	1022	48.8	64.4	3.2e-132
+30	SP	Q8GT20	Benzyl alcohol O-benzoyltransferase OS=Nicotiana tabacum OX=4097 GN=HSR201 PE=1 SV=1	Nicotiana tabacum	460	1022	48.5	63.9	3.3e-132
+31	TR	A0A835MDB8	Benzyl alcohol O-benzoyltransferase OS=Coptis chinensis OX=261450 GN=IFM89_023393 PE=4 SV=1	Coptis chinensis	456	1020	47.7	63.3	5.8e-132
+32	TR	A0A068VDF3	Benzyl alcohol O-benzoyltransferase OS=Coffea canephora OX=49390 GN=GSCOC_T00012436001 PE=4 SV=1	Coffea canephora	460	1020	47.0	63.1	6.7e-132
+33	TR	A0A1U8BFE3	Benzyl alcohol O-benzoyltransferase OS=Nelumbo nucifera OX=4432 GN=LOC104610311 PE=4 SV=1	Nelumbo nucifera	459	1019	48.0	64.5	9.1e-132
+34	TR	A0A540NAD1	Benzyl alcohol O-benzoyltransferase OS=Malus baccata OX=106549 GN=C1H46_006419 PE=4 SV=1	Malus baccata	461	1019	46.6	63.7	9.7e-132
+35	TR	A0A2R6Q9L9	Benzyl alcohol O-benzoyltransferase OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc20457 PE=4 SV=1	Actinidia chinensis var. chinensis	462	1019	46.8	62.1	1e-131
+36	TR	A0A8B8Q2W6	Benzyl alcohol O-benzoyltransferase isoform X2 OS=Rhodamnia argentea OX=178133 GN=LOC115748376 PE=4 SV=1	Rhodamnia argentea	456	1017	48.4	62.9	1.7e-131
+37	TR	A0A7N2RA53	Benzyl alcohol O-benzoyltransferase OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	457	1016	48.4	63.1	2.4e-131
+38	TR	A0A1S4C4D3	Benzyl alcohol O-benzoyltransferase OS=Nicotiana tabacum OX=4097 GN=LOC107814928 PE=4 SV=1	Nicotiana tabacum	460	1016	49.0	64.2	2.7e-131
+39	TR	A0A6J1JGR9	Benzyl alcohol O-benzoyltransferase-like OS=Cucurbita maxima OX=3661 GN=LOC111484237 PE=4 SV=1	Cucurbita maxima	461	1015	46.6	63.5	3.9e-131
+40	TR	A0A1R3KLW7	Transferase OS=Corchorus olitorius OX=93759 GN=COLO4_06819 PE=4 SV=1	Corchorus olitorius	456	1014	47.8	63.1	4.7e-131
+41	TR	A0A834YIA1	Benzyl alcohol O-benzoyltransferase OS=Tetracentron sinense OX=13715 GN=HHK36_028335 PE=4 SV=1	Tetracentron sinense	457	1014	48.0	63.2	4.9e-131
+42	TR	A0A5N6RFE6	Benzyl alcohol O-benzoyltransferase OS=Carpinus fangiana OX=176857 GN=FH972_016114 PE=4 SV=1	Carpinus fangiana	458	1014	47.7	62.9	5e-131
+43	TR	A0A7J7I1L8	Benzyl alcohol O-benzoyltransferase OS=Camellia sinensis OX=4442 GN=HYC85_000161 PE=4 SV=1	Camellia sinensis	463	1014	47.5	63.7	5.9e-131
+44	TR	A0A2H9ZQY9	Benzyl alcohol O-benzoyltransferase OS=Apostasia shenzhenica OX=1088818 GN=HSR201 PE=3 SV=1	Apostasia shenzhenica	453	1013	47.9	64.5	6e-131
+45	TR	A0A6P6T4A6	Benzyl alcohol O-benzoyltransferase-like OS=Coffea arabica OX=13443 GN=LOC113697344 PE=4 SV=1	Coffea arabica	483	1015	46.0	61.7	8e-131
+46	TR	A0A843W0E1	Benzyl alcohol O-benzoyltransferase OS=Colocasia esculenta OX=4460 GN=Taro_031941 PE=3 SV=1	Colocasia esculenta	458	1010	47.9	62.0	2e-130
+47	TR	A0A151RV19	Taxadien-5-alpha-ol O-acetyltransferase OS=Cajanus cajan OX=3821 GN=KK1_032023 PE=4 SV=1	Cajanus cajan	458	1010	48.1	62.0	2e-130
+48	TR	A0A6P6T3W4	Benzyl alcohol O-benzoyltransferase-like isoform X3 OS=Coffea arabica OX=13443 GN=LOC113697293 PE=4 SV=1	Coffea arabica	459	1010	47.4	63.0	2.1e-130
+49	TR	A0A8T3B8K1	Benzyl alcohol O-benzoyltransferase OS=Dendrobium nobile OX=94219 GN=KFK09_016036 PE=3 SV=1	Dendrobium nobile	471	1011	46.2	64.6	2.2e-130
+50	TR	A0A444F0K7	Benzyl alcohol O-benzoyltransferase OS=Ensete ventricosum OX=4639 GN=GW17_00019953 PE=3 SV=1	Ensete ventricosum	457	1009	49.5	63.3	2.8e-130
+51	TR	A0A218WHX9	Benzyl alcohol O-benzoyltransferase OS=Punica granatum OX=22663 GN=LOC116193195 PE=4 SV=1	Punica granatum	457	1009	46.0	62.4	2.8e-130
+52	TR	A0A6J1L4Q1	Benzyl alcohol O-benzoyltransferase-like OS=Cucurbita maxima OX=3661 GN=LOC111499875 PE=4 SV=1	Cucurbita maxima	458	1009	46.8	63.5	2.9e-130
+53	TR	A0A4S4DP85	Benzyl alcohol O-benzoyltransferase OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_011957 PE=4 SV=1	Camellia sinensis var. sinensis	515	1014	47.5	63.7	3.1e-130
+54	TR	A0A445IFT1	Benzyl alcohol O-benzoyltransferase OS=Glycine soja OX=3848 GN=D0Y65_025559 PE=4 SV=1	Glycine soja	454	1008	47.7	63.3	3.5e-130
+55	TR	A0A7J7NNW1	Benzyl alcohol O-benzoyltransferase OS=Kingdonia uniflora OX=39325 GN=GIB67_038404 PE=4 SV=1	Kingdonia uniflora	456	1008	46.5	62.6	3.8e-130
+56	TR	A0A067KX45	Benzyl alcohol O-benzoyltransferase OS=Jatropha curcas OX=180498 GN=JCGZ_02588 PE=4 SV=1	Jatropha curcas	459	1008	45.5	61.8	4.2e-130
+57	TR	A0A061EYY7	Benzoyl coenzyme A: Benzyl alcohol benzoyl transferase OS=Theobroma cacao OX=3641 GN=TCM_025661 PE=4 SV=1	Theobroma cacao	454	1007	48.2	64.0	5e-130
+58	TR	A0A068VLD0	Benzyl alcohol O-benzoyltransferase OS=Coffea canephora OX=49390 GN=GSCOC_T00013680001 PE=4 SV=1	Coffea canephora	456	1007	46.8	62.4	5.4e-130
+59	TR	V4SS76	Benzyl alcohol O-benzoyltransferase OS=Citrus clementina OX=85681 GN=CICLE_v10031489mg PE=4 SV=1	Citrus clementina	458	1007	47.7	62.1	5.7e-130
+60	TR	A0A7I8LAZ3	Uncharacterized protein OS=Spirodela intermedia OX=51605 GN=SI8410_13017132 PE=3 SV=1	Spirodela intermedia	450	1006	49.7	63.8	6.2e-130
+61	TR	A0A6J1A7S2	Benzyl alcohol O-benzoyltransferase-like OS=Herrania umbratica OX=108875 GN=LOC110415454 PE=4 SV=1	Herrania umbratica	454	1006	48.0	64.2	7.1e-130
+62	TR	M0ZKM2	Hsr201 protein OS=Solanum tuberosum OX=4113 PE=4 SV=1	Solanum tuberosum	466	1007	48.0	64.1	7.4e-130
+63	TR	A0A2U1M7U6	Benzyl alcohol O-benzoyltransferase OS=Artemisia annua OX=35608 GN=CTI12_AA314430 PE=4 SV=1	Artemisia annua	462	1006	47.5	63.1	9.2e-130
+64	TR	A0A445FKZ0	Benzyl alcohol O-benzoyltransferase OS=Glycine soja OX=3848 GN=D0Y65_052446 PE=4 SV=1	Glycine soja	464	1006	47.3	62.0	9.8e-130
+65	TR	A0A0R0ETE6	Benzyl alcohol O-benzoyltransferase OS=Glycine max OX=3847 GN=100792864 PE=4 SV=1	Glycine max	464	1006	47.3	62.0	9.8e-130
+66	TR	I1L7B2	Benzyl alcohol O-benzoyltransferase OS=Glycine max OX=3847 GN=100799685 PE=4 SV=1	Glycine max	454	1005	47.4	63.3	1e-129
+67	TR	A0A1J6KHR5	Benzyl alcohol o-benzoyltransferase OS=Nicotiana attenuata OX=49451 GN=HSR201 PE=4 SV=1	Nicotiana attenuata	460	1005	48.3	64.6	1.2e-129
+68	TR	A0A200R6N8	Transferase OS=Macleaya cordata OX=56857 GN=BVC80_1833g25 PE=4 SV=1	Macleaya cordata	464	1005	46.7	62.2	1.4e-129
+69	TR	A0A5B6WXF8	Benzyl alcohol O-benzoyltransferase OS=Gossypium australe OX=47621 GN=EPI10_030459 PE=4 SV=1	Gossypium australe	454	1004	46.7	63.7	1.4e-129
+70	TR	A0A5N6RG05	Benzyl alcohol O-benzoyltransferase OS=Carpinus fangiana OX=176857 GN=FH972_016119 PE=4 SV=1	Carpinus fangiana	456	1004	47.9	62.5	1.5e-129
+71	TR	A0A7N2MGJ2	Benzyl alcohol O-benzoyltransferase OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	457	1004	48.2	62.7	1.6e-129
+72	TR	A0A445LHN5	Benzyl alcohol O-benzoyltransferase OS=Glycine soja OX=3848 GN=D0Y65_002542 PE=4 SV=1	Glycine soja	459	1004	47.7	62.0	1.7e-129
+73	TR	A0A1J7HAM2	Benzyl alcohol O-benzoyltransferase OS=Lupinus angustifolius OX=3871 GN=TanjilG_15760 PE=4 SV=1	Lupinus angustifolius	459	1004	47.8	62.4	1.7e-129
+74	TR	A0A0R0KQE9	Benzyl alcohol O-benzoyltransferase OS=Glycine max OX=3847 GN=100797017 PE=4 SV=1	Glycine max	459	1004	47.7	62.0	1.7e-129
+75	TR	A0A0D2SGF2	Benzyl alcohol O-benzoyltransferase OS=Gossypium raimondii OX=29730 GN=B456_013G185500 PE=4 SV=1	Gossypium raimondii	454	1003	46.5	63.7	2e-129
+76	TR	A0A6J5Y070	Benzyl alcohol O-benzoyltransferase OS=Prunus armeniaca OX=36596 GN=CURHAP_LOCUS47238 PE=4 SV=1	Prunus armeniaca	461	1003	46.3	63.4	2.5e-129
+77	TR	A0A5N6P3E3	Benzyl alcohol O-benzoyltransferase OS=Mikania micrantha OX=192012 GN=E3N88_14531 PE=4 SV=1	Mikania micrantha	462	1003	47.0	63.7	2.6e-129
+78	TR	A0A6J1D5A6	Benzyl alcohol O-benzoyltransferase-like OS=Momordica charantia OX=3673 GN=LOC111017149 PE=4 SV=1	Momordica charantia	458	1002	46.5	63.4	3.3e-129
+79	TR	A0A8J4QAC5	Benzyl alcohol O-benzoyltransferase OS=Castanea mollissima OX=60419 GN=CMV_027287 PE=4 SV=1	Castanea mollissima	457	1001	48.7	62.4	4.5e-129
+80	TR	A0A8J4RN87	Benzyl alcohol O-benzoyltransferase OS=Castanea mollissima OX=60419 GN=CMV_006898 PE=4 SV=1	Castanea mollissima	457	1001	48.4	62.4	4.5e-129
+81	TR	A0A1U7Z0B0	Benzyl alcohol O-benzoyltransferase OS=Nicotiana sylvestris OX=4096 GN=LOC104249987 PE=4 SV=1	Nicotiana sylvestris	460	1001	48.5	63.9	4.9e-129
+82	TR	A0A1S3YHI1	Benzyl alcohol O-benzoyltransferase-like OS=Nicotiana tabacum OX=4097 GN=LOC107776214 PE=4 SV=1	Nicotiana tabacum	460	1001	48.5	63.9	4.9e-129
+83	TR	A0A7J8TC29	Benzyl alcohol O-benzoyltransferase OS=Gossypium davidsonii OX=34287 GN=Godav_029685 PE=4 SV=1	Gossypium davidsonii	454	1000	46.5	63.4	5.7e-129
+84	TR	B9I6S9	Benzoyl-CoA:salicyl alcohol O-benzoyltransferase OS=Populus trichocarpa OX=3694 GN=POPTR_013G074500 PE=2 SV=1	Populus trichocarpa	459	1000	48.1	61.8	6.7e-129
+85	TR	A0A9R0JZJ7	Benzyl alcohol O-benzoyltransferase-like OS=Spinacia oleracea OX=3562 GN=LOC110792434 PE=4 SV=1	Spinacia oleracea	464	1000	47.0	62.1	7.9e-129
+86	TR	A0A8B8MD51	Benzyl alcohol O-benzoyltransferase OS=Abrus precatorius OX=3816 GN=LOC113872425 PE=4 SV=1	Abrus precatorius	458	999	47.9	62.5	9.2e-129
+87	TR	A0A8T0CLB4	Benzyl alcohol O-benzoyltransferase OS=Corymbia citriodora subsp. variegata OX=360336 GN=BT93_L1882 PE=4 SV=1	Corymbia citriodora subsp. variegata	460	999	47.7	62.6	9.8e-129
+88	TR	A0A6P5SF85	Benzyl alcohol O-benzoyltransferase OS=Prunus avium OX=42229 GN=LOC110755953 PE=4 SV=1	Prunus avium	461	999	46.5	62.9	1e-128
+89	TR	A0A1U7YN93	Benzyl alcohol O-benzoyltransferase-like isoform X1 OS=Nicotiana sylvestris OX=4096 GN=LOC104248830 PE=4 SV=1	Nicotiana sylvestris	462	999	48.1	63.9	1e-128
+90	TR	A0A1S4CZW2	Benzyl alcohol O-benzoyltransferase-like isoform X1 OS=Nicotiana tabacum OX=4097 GN=LOC107824435 PE=4 SV=1	Nicotiana tabacum	462	999	48.1	63.9	1e-128
+91	TR	A0A5D2S558	Benzyl alcohol O-benzoyltransferase OS=Gossypium mustelinum OX=34275 GN=E1A91_D13G190300v1 PE=4 SV=1	Gossypium mustelinum	454	998	46.3	63.4	1.1e-128
+92	TR	A0A4Y7KQ43	Benzyl alcohol O-benzoyltransferase OS=Papaver somniferum OX=3469 GN=C5167_049550 PE=4 SV=1	Papaver somniferum	464	998	45.6	64.0	1.6e-128
+93	TR	A0A0B0MGB1	Benzyl alcohol O-benzoyltransferase OS=Gossypium arboreum OX=29729 GN=F383_18093 PE=4 SV=1	Gossypium arboreum	454	997	46.3	63.2	1.6e-128
+94	TR	A0A6A2XU52	Benzyl alcohol O-benzoyltransferase OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00111402pilonHSYRG00673 PE=4 SV=1	Hibiscus syriacus	457	997	46.3	63.6	1.8e-128
+95	TR	A0A8J5H3I6	Benzyl alcohol O-benzoyltransferase OS=Zingiber officinale OX=94328 GN=ZIOFF_025310 PE=4 SV=1	Zingiber officinale	458	997	47.6	61.5	1.8e-128
+96	TR	A0A3S3QLV0	Benzyl alcohol O-benzoyltransferase OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01617700 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	464	997	47.2	63.3	2.2e-128
+97	TR	I1JRK2	Benzyl alcohol O-benzoyltransferase OS=Glycine max OX=3847 GN=100787907 PE=4 SV=2	Glycine max	475	998	47.3	62.9	2.3e-128
+98	TR	A0A022RMU5	Benzyl alcohol O-benzoyltransferase OS=Erythranthe guttata OX=4155 GN=MIMGU_mgv1a006154mg PE=4 SV=1	Erythranthe guttata	455	996	47.1	63.3	2.4e-128
+99	TR	A0A540NBX9	Uncharacterized protein OS=Malus baccata OX=106549 GN=C1H46_006408 PE=4 SV=1	Malus baccata	456	996	47.5	64.0	2.5e-128
+100	TR	A0A498ID75	Benzyl alcohol O-benzoyltransferase OS=Malus domestica OX=3750 GN=DVH24_034827 PE=4 SV=1	Malus domestica	456	996	47.3	64.2	2.5e-128
+101	TR	A0A804K740	(wild Malaysian banana) hypothetical protein OS=Musa acuminata subsp. malaccensis OX=214687 GN=GSMUA_349120.1 PE=3 SV=1	Musa acuminata subsp. malaccensis	457	996	48.6	63.1	2.5e-128
+102	TR	A0A0S3S5D9	Benzyl alcohol O-benzoyltransferase OS=Vigna angularis var. angularis OX=157739 GN=Vigan.05G142600 PE=4 SV=1	Vigna angularis var. angularis	448	995	47.3	61.9	2.7e-128
+103	TR	A0A540NAC4	Benzyl alcohol O-benzoyltransferase OS=Malus baccata OX=106549 GN=C1H46_006409 PE=4 SV=1	Malus baccata	461	996	45.9	64.0	2.9e-128
+104	TR	A0A7J8T408	Benzyl alcohol O-benzoyltransferase OS=Gossypium davidsonii OX=34287 GN=Godav_001463 PE=4 SV=1	Gossypium davidsonii	444	994	47.3	62.9	3.3e-128
+105	TR	A0A2I0X1I6	Benzyl alcohol O-benzoyltransferase OS=Dendrobium catenatum OX=906689 GN=HSR201 PE=3 SV=1	Dendrobium catenatum	466	996	46.4	64.3	3.4e-128
+106	TR	A0A5C7IAQ9	Benzyl alcohol O-benzoyltransferase OS=Acer yangbiense OX=1000413 GN=EZV62_007552 PE=4 SV=1	Acer yangbiense	458	995	48.3	63.0	3.7e-128
+107	TR	A0A2R6RSA2	Benzyl alcohol O-benzoyltransferase OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc03190 PE=4 SV=1	Actinidia chinensis var. chinensis	457	994	47.5	61.8	5.1e-128
+108	TR	A0A8X8CEC1	Benzyl alcohol O-benzoyltransferase OS=Populus tomentosa OX=118781 GN=POTOM_044245 PE=4 SV=1	Populus tomentosa	459	994	47.9	61.6	5.4e-128
+109	TR	A0A4U5QHH0	Transferase family protein OS=Populus alba OX=43335 GN=D5086_0000092710 PE=4 SV=1	Populus alba	459	994	47.9	61.6	5.4e-128
+110	TR	A0A8J5H1L3	Benzyl alcohol O-benzoyltransferase OS=Zingiber officinale OX=94328 GN=ZIOFF_025317 PE=4 SV=1	Zingiber officinale	453	993	47.9	62.6	6.3e-128
+111	TR	A0A6P5WV03	Benzyl alcohol O-benzoyltransferase-like OS=Durio zibethinus OX=66656 GN=LOC111277759 PE=4 SV=1	Durio zibethinus	457	993	48.1	64.2	7.2e-128
+112	TR	A0A1J7I4I0	Benzyl alcohol O-benzoyltransferase OS=Lupinus angustifolius OX=3871 GN=TanjilG_11858 PE=4 SV=1	Lupinus angustifolius	457	993	46.9	63.0	7.2e-128
+113	TR	A0A1E5UQE4	Benzyl alcohol O-benzoyltransferase OS=Dichanthelium oligosanthes OX=888268 GN=BAE44_0023861 PE=3 SV=1	Dichanthelium oligosanthes	459	993	48.1	61.3	7.7e-128
+114	TR	A0A2U1PV25	Benzyl alcohol O-benzoyltransferase OS=Artemisia annua OX=35608 GN=CTI12_AA109880 PE=4 SV=1	Artemisia annua	449	992	46.3	64.4	7.8e-128
+115	TR	A0A5N5J392	Benzyl alcohol O-benzoyltransferase OS=Salix brachista OX=2182728 GN=DKX38_029302 PE=4 SV=1	Salix brachista	484	995	47.6	61.3	8.5e-128
+116	TR	A0A834WJC9	Benzyl alcohol O-benzoyltransferase OS=Senna tora OX=362788 GN=G2W53_023166 PE=4 SV=1	Senna tora	463	993	48.4	61.1	8.7e-128
+117	TR	A0A4Y7KAN7	Benzyl alcohol O-benzoyltransferase OS=Papaver somniferum OX=3469 GN=C5167_032495 PE=4 SV=1	Papaver somniferum	464	993	45.4	63.4	9e-128
+118	TR	A0A443PSM8	Benzyl alcohol O-benzoyltransferase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_02306900 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	456	992	47.7	64.2	9.8e-128
+119	TR	A0A8J5LJQ6	Benzyl alcohol O-benzoyltransferase OS=Zingiber officinale OX=94328 GN=ZIOFF_025314 PE=4 SV=1	Zingiber officinale	458	992	47.8	62.7	1e-127
+120	TR	A0A5E4FC72	PREDICTED: benzyl alcohol OS=Prunus dulcis OX=3755 GN=ALMOND_2B013042 PE=4 SV=1	Prunus dulcis	461	992	46.3	62.9	1.2e-127
+121	TR	A0A5D2WJV7	Benzyl alcohol O-benzoyltransferase OS=Gossypium mustelinum OX=34275 GN=E1A91_A13G182500v1 PE=4 SV=1	Gossypium mustelinum	454	991	46.0	63.0	1.3e-127
+122	TR	A0A7J9FTE0	Benzyl alcohol O-benzoyltransferase OS=Gossypium trilobum OX=34281 GN=Gotri_027535 PE=4 SV=1	Gossypium trilobum	454	991	46.0	63.0	1.3e-127
+123	TR	A0A2P5VNI5	Benzyl alcohol O-benzoyltransferase OS=Gossypium barbadense OX=3634 GN=ES319_A13G175800v1 PE=4 SV=1	Gossypium barbadense	454	991	46.0	63.0	1.3e-127
+124	TR	A0A445LGJ3	Benzyl alcohol O-benzoyltransferase OS=Glycine soja OX=3848 GN=D0Y65_008124 PE=4 SV=1	Glycine soja	475	992	47.1	62.7	1.8e-127
+125	TR	A0A835C4P6	Benzyl alcohol O-benzoyltransferase OS=Digitaria exilis OX=1010633 GN=HU200_022437 PE=3 SV=1	Digitaria exilis	466	991	47.8	61.2	1.9e-127
+126	TR	A0A1S3VIA7	Benzyl alcohol O-benzoyltransferase OS=Vigna radiata var. radiata OX=3916 GN=LOC106775345 PE=4 SV=1	Vigna radiata var. radiata	461	990	46.6	61.9	2.3e-127
+127	TR	A0A8X8CD35	Benzyl alcohol O-benzoyltransferase OS=Populus tomentosa OX=118781 GN=POTOM_045404 PE=4 SV=1	Populus tomentosa	474	991	47.7	61.7	2.5e-127
+128	TR	A0A8T3BC48	Benzyl alcohol O-benzoyltransferase OS=Dendrobium nobile OX=94219 GN=KFK09_016033 PE=3 SV=1	Dendrobium nobile	466	990	45.3	62.9	2.7e-127
+129	TR	A0A059D1Y9	Benzyl alcohol O-benzoyltransferase OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_B01448 PE=4 SV=1	Eucalyptus grandis	458	989	47.4	62.8	3e-127
+130	TR	A0A199V8U7	Benzyl alcohol O-benzoyltransferase OS=Ananas comosus OX=4615 GN=ACMD2_02493 PE=3 SV=1	Ananas comosus	464	989	47.4	63.0	3.6e-127
+131	TR	A0A8T1QMN7	Benzyl alcohol O-benzoyltransferase OS=Carya illinoinensis OX=32201 GN=CIPAW_05G210500 PE=4 SV=1	Carya illinoinensis	455	988	46.6	62.6	3.8e-127
+132	TR	A0A8J5H7X1	Benzyl alcohol O-benzoyltransferase OS=Zingiber officinale OX=94328 GN=ZIOFF_029272 PE=4 SV=1	Zingiber officinale	458	988	47.4	61.2	4.2e-127
+133	SP	Q6E593	Benzyl alcohol O-benzoyltransferase OS=Petunia hybrida OX=4102 GN=BEBT1 PE=1 SV=1	Petunia hybrida	460	988	47.0	63.6	4.5e-127
+134	TR	A0A8T0CR10	Benzyl alcohol O-benzoyltransferase OS=Corymbia citriodora subsp. variegata OX=360336 GN=BT93_L1881 PE=4 SV=1	Corymbia citriodora subsp. variegata	460	988	48.0	61.5	4.5e-127
+135	TR	A0A7J9AY98	Benzyl alcohol O-benzoyltransferase OS=Gossypium laxum OX=34288 GN=Golax_001258 PE=4 SV=1	Gossypium laxum	454	987	46.0	63.0	5.2e-127
+136	TR	A0A7J8NB34	Benzyl alcohol O-benzoyltransferase OS=Gossypium lobatum OX=34289 GN=Golob_001308 PE=4 SV=1	Gossypium lobatum	454	987	45.7	63.1	5.2e-127
+137	TR	A0A7J8YJA0	Benzyl alcohol O-benzoyltransferase OS=Gossypium aridum OX=34290 GN=Goari_001290 PE=4 SV=1	Gossypium aridum	454	987	46.0	63.0	5.2e-127
+138	TR	A0A7J9MTT4	Benzyl alcohol O-benzoyltransferase OS=Gossypium schwendimanii OX=34291 GN=Goshw_012681 PE=4 SV=1	Gossypium schwendimanii	454	987	46.0	63.0	5.2e-127
+139	TR	A0A5A7QQ06	HXXXD-type acyl-transferase family protein OS=Striga asiatica OX=4170 GN=STAS_24118 PE=4 SV=1	Striga asiatica	455	987	48.9	60.4	5.4e-127
+140	TR	A0A1S3VHV5	Benzyl alcohol O-benzoyltransferase OS=Vigna radiata var. radiata OX=3916 GN=LOC106775223 PE=4 SV=1	Vigna radiata var. radiata	446	986	48.2	61.8	5.7e-127
+141	TR	A0A1Q3BRJ2	Transferase domain-containing protein OS=Cephalotus follicularis OX=3775 GN=CFOL_v3_14145 PE=4 SV=1	Cephalotus follicularis	459	987	45.9	62.2	6.2e-127
+142	TR	A0A2Z6PEH7	Benzyl alcohol O-benzoyltransferase OS=Trifolium subterraneum OX=3900 GN=TSUD_404790 PE=4 SV=1	Trifolium subterraneum	458	986	46.6	62.2	8.4e-127
+143	TR	A0A834Y5J3	Benzyl alcohol O-benzoyltransferase OS=Tetracentron sinense OX=13715 GN=HHK36_032215 PE=4 SV=1	Tetracentron sinense	455	985	46.4	63.0	1.1e-126
+144	TR	A0A5J9V9N8	Benzyl alcohol O-benzoyltransferase (Fragment) OS=Eragrostis curvula OX=38414 GN=EJB05_23846 PE=3 SV=1	Eragrostis curvula	458	985	47.3	62.1	1.2e-126
+145	TR	A0A2Z6PEP8	Benzyl alcohol O-benzoyltransferase OS=Trifolium subterraneum OX=3900 GN=TSUD_404820 PE=4 SV=1	Trifolium subterraneum	459	985	46.5	63.2	1.2e-126
+146	TR	A0A061F710	Benzoyl coenzyme A: Benzyl alcohol benzoyl transferase, putative OS=Theobroma cacao OX=3641 GN=TCM_025648 PE=4 SV=1	Theobroma cacao	471	986	47.9	62.2	1.3e-126
+147	TR	A0A1U8MHK2	Benzyl alcohol O-benzoyltransferase-like OS=Gossypium hirsutum OX=3635 GN=LOC107937814 PE=4 SV=1	Gossypium hirsutum	454	984	46.0	63.2	1.5e-126
+148	TR	A0A9R1WIP6	Uncharacterized protein OS=Lactuca sativa OX=4236 GN=LSAT_V11C100022710 PE=4 SV=1	Lactuca sativa	465	985	45.3	63.9	1.5e-126
+149	TR	A0A6A3CWK7	Benzyl alcohol O-benzoyltransferase OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00001120pilonHSYRG00395 PE=4 SV=1	Hibiscus syriacus	457	984	46.0	62.9	1.6e-126
+150	TR	A0A9R1XT26	Uncharacterized protein OS=Lactuca sativa OX=4236 GN=LSAT_V11C100022700 PE=4 SV=1	Lactuca sativa	461	984	47.6	61.9	1.9e-126
+151	TR	A0A6P4C2V8	Benzyl alcohol O-benzoyltransferase OS=Arachis duranensis OX=130453 GN=LOC107462813 PE=4 SV=1	Arachis duranensis	464	984	47.5	62.3	2.1e-126
+152	TR	A0A445BZV8	Benzyl alcohol O-benzoyltransferase OS=Arachis hypogaea OX=3818 GN=Ahy_A08g040543 PE=4 SV=1	Arachis hypogaea	464	984	47.5	62.3	2.1e-126
+153	TR	A0A8X7YJW4	Benzyl alcohol O-benzoyltransferase OS=Populus tomentosa OX=118781 GN=POTOM_044242 PE=4 SV=1	Populus tomentosa	457	983	47.2	62.1	2.3e-126
+154	TR	A0A8T1NYZ6	Benzyl alcohol O-benzoyltransferase OS=Carya illinoinensis OX=32201 GN=CIPAW_12G125800 PE=4 SV=1	Carya illinoinensis	461	983	46.2	63.8	2.6e-126
+155	TR	A0A162AGT5	Benzyl alcohol O-benzoyltransferase OS=Daucus carota subsp. sativus OX=79200 GN=DCAR_001552 PE=4 SV=1	Daucus carota subsp. sativus	463	983	47.7	62.3	2.8e-126
+156	TR	A0A834YCX6	Benzyl alcohol O-benzoyltransferase OS=Tetracentron sinense OX=13715 GN=HHK36_028374 PE=4 SV=1	Tetracentron sinense	455	982	46.1	63.0	3.1e-126
+157	TR	A0A3S3NV76	Benzyl alcohol O-benzoyltransferase OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01617800 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	456	982	47.2	63.5	3.2e-126
+158	TR	A0A4U5PNL9	Benzyl alcohol O-benzoyltransferase-like OS=Populus alba OX=43335 GN=D5086_0000200990 PE=4 SV=1	Populus alba	457	982	47.2	62.1	3.3e-126
+159	TR	A0A8J5GRC0	Benzyl alcohol O-benzoyltransferase OS=Zingiber officinale OX=94328 GN=ZIOFF_029279 PE=4 SV=1	Zingiber officinale	458	982	47.7	62.4	3.4e-126
+160	TR	A0A8S0SSS5	Benzyl alcohol O-benzoyltransferase OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A027299 PE=4 SV=1	Olea europaea subsp. europaea	452	981	46.2	61.2	3.9e-126
+161	TR	A0A1S3E641	Benzyl alcohol O-benzoyltransferase-like OS=Cicer arietinum OX=3827 GN=LOC101508133 PE=4 SV=1	Cicer arietinum	463	982	47.2	61.3	4e-126
+162	TR	A0A6P5Z5P5	Benzyl alcohol O-benzoyltransferase-like OS=Durio zibethinus OX=66656 GN=LOC111297394 PE=4 SV=1	Durio zibethinus	444	980	46.4	63.9	4.3e-126
+163	TR	A0A2I4F947	Benzyl alcohol O-benzoyltransferase-like OS=Juglans regia OX=51240 GN=LOC108996627 PE=4 SV=2	Juglans regia	455	981	46.8	62.4	4.3e-126
+164	TR	A0A834SKN9	Benzyl alcohol O-benzoyltransferase OS=Senna tora OX=362788 GN=G2W53_044292 PE=4 SV=1	Senna tora	458	981	47.3	61.8	4.8e-126
+165	TR	V7BIY5	Benzyl alcohol O-benzoyltransferase OS=Phaseolus vulgaris OX=3885 GN=PHAVU_007G280800g PE=4 SV=1	Phaseolus vulgaris	458	981	47.4	63.1	4.8e-126
+166	TR	A0A6I9SDE0	Benzyl alcohol O-benzoyltransferase OS=Elaeis guineensis var. tenera OX=51953 GN=LOC105059710 PE=3 SV=1	Elaeis guineensis var. tenera	469	982	44.9	61.1	4.8e-126
+167	TR	A0A6G1EW58	Uncharacterized protein OS=Oryza meyeriana var. granulata OX=110450 GN=E2562_010724 PE=3 SV=1	Oryza meyeriana var. granulata	469	982	46.4	62.0	4.8e-126
+168	TR	A0A8S0T1S9	Benzyl alcohol O-benzoyltransferase OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A009862 PE=4 SV=1	Olea europaea subsp. europaea	452	980	46.1	60.8	5.6e-126
+169	TR	A0A251VSW9	Benzyl alcohol O-benzoyltransferase OS=Helianthus annuus OX=4232 GN=BEBT PE=4 SV=1	Helianthus annuus	461	980	46.7	62.5	7.5e-126
+170	TR	A0A166GFC7	Benzyl alcohol O-benzoyltransferase OS=Daucus carota subsp. sativus OX=79200 GN=DCAR_001551 PE=4 SV=1	Daucus carota subsp. sativus	462	980	47.3	62.3	7.7e-126
+171	TR	A0A7N2MIT0	Benzyl alcohol O-benzoyltransferase OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	453	979	46.4	62.7	8.2e-126
+172	TR	A0A022RN35	Benzyl alcohol O-benzoyltransferase OS=Erythranthe guttata OX=4155 GN=MIMGU_mgv1a006089mg PE=4 SV=1	Erythranthe guttata	458	979	46.4	62.4	9.6e-126
+173	TR	A0A8J4QYP0	Benzyl alcohol O-benzoyltransferase OS=Castanea mollissima OX=60419 GN=CMV_016992 PE=4 SV=1	Castanea mollissima	459	979	47.1	63.2	9.9e-126
+174	TR	A0A103XZX5	Chloramphenicol acetyltransferase-like domain-containing protein OS=Cynara cardunculus var. scolymus OX=59895 GN=Ccrd_021736 PE=4 SV=1	Cynara cardunculus var. scolymus	461	979	46.6	62.3	1.1e-125
+175	TR	A0A0E0M9F1	Cystatin domain-containing protein OS=Oryza punctata OX=4537 PE=3 SV=1	Oryza punctata	589	990	46.3	61.9	1.2e-125
+176	TR	A0A8X7XUX4	Benzyl alcohol O-benzoyltransferase OS=Populus tomentosa OX=118781 GN=POTOM_059120 PE=4 SV=1	Populus tomentosa	460	978	46.7	61.3	1.4e-125
+177	TR	A0A6J1KWZ0	Benzyl alcohol O-benzoyltransferase-like OS=Cucurbita maxima OX=3661 GN=LOC111499525 PE=4 SV=1	Cucurbita maxima	461	978	46.1	61.6	1.5e-125
+178	TR	A0A803LPH1	Benzyl alcohol O-benzoyltransferase OS=Chenopodium quinoa OX=63459 PE=4 SV=1	Chenopodium quinoa	465	978	44.7	61.2	1.7e-125
+179	TR	A0A2K3LLZ3	Benzyl alcohol O-benzoyltransferase-like protein OS=Trifolium pratense OX=57577 GN=L195_g035541 PE=4 SV=1	Trifolium pratense	459	977	45.4	62.0	2e-125
+180	TR	A0A8J5GPC4	Benzyl alcohol O-benzoyltransferase OS=Zingiber officinale OX=94328 GN=ZIOFF_029275 PE=3 SV=1	Zingiber officinale	462	977	47.5	62.3	2.2e-125
+181	TR	A0A4U6SY36	Benzyl alcohol O-benzoyltransferase OS=Setaria viridis OX=4556 GN=SEVIR_9G199900v2 PE=3 SV=1	Setaria viridis	463	977	46.9	60.3	2.3e-125
+182	TR	A0A0E0EZM0	Uncharacterized protein OS=Oryza meridionalis OX=40149 PE=3 SV=1	Oryza meridionalis	474	978	46.6	60.9	2.3e-125
+183	TR	C5WWE4	Benzyl alcohol O-benzoyltransferase OS=Sorghum bicolor OX=4558 GN=SORBI_3001G201800 PE=3 SV=1	Sorghum bicolor	465	977	47.4	61.5	2.4e-125
+184	TR	A0A8X7YKV5	Benzyl alcohol O-benzoyltransferase OS=Populus tomentosa OX=118781 GN=POTOM_045402 PE=4 SV=1	Populus tomentosa	444	975	46.3	61.9	2.4e-125
+185	TR	A0A5N6RF58	Benzyl alcohol O-benzoyltransferase OS=Carpinus fangiana OX=176857 GN=FH972_016117 PE=4 SV=1	Carpinus fangiana	455	976	46.7	62.2	2.5e-125
+186	TR	A0A4S8I4Y1	Benzyl alcohol O-benzoyltransferase OS=Musa balbisiana OX=52838 GN=C4D60_Mb00t00230 PE=3 SV=1	Musa balbisiana	457	976	48.0	62.8	2.6e-125
+187	TR	A0A8X8C0F9	Benzyl alcohol O-benzoyltransferase OS=Populus tomentosa OX=118781 GN=POTOM_058134 PE=4 SV=1	Populus tomentosa	460	976	46.6	61.9	2.9e-125
+188	TR	A0A4U5Q137	Benzyl alcohol O-benzoyltransferase-like OS=Populus alba OX=43335 GN=D5086_0000170200 PE=4 SV=1	Populus alba	460	976	46.6	61.7	2.9e-125
+189	TR	B9IPY5	Benzyl alcohol O-benzoyltransferase OS=Populus trichocarpa OX=3694 GN=POPTR_019G043600 PE=4 SV=2	Populus trichocarpa	460	976	46.5	61.3	2.9e-125
+190	TR	A0A8B7BKS9	Benzyl alcohol O-benzoyltransferase-like OS=Phoenix dactylifera OX=42345 GN=LOC103699757 PE=3 SV=1	Phoenix dactylifera	460	976	45.0	61.4	2.9e-125
+191	TR	A0A6P6BIC4	Benzyl alcohol O-benzoyltransferase-like OS=Durio zibethinus OX=66656 GN=LOC111318339 PE=4 SV=1	Durio zibethinus	449	974	47.2	63.0	4.1e-125
+192	TR	K4AKI6	Benzyl alcohol O-benzoyltransferase OS=Setaria italica OX=4555 GN=101759181 PE=3 SV=1	Setaria italica	463	975	46.9	60.3	4.5e-125
+193	TR	A0A7J8YJA8	Benzyl alcohol O-benzoyltransferase (Fragment) OS=Gossypium aridum OX=34290 GN=Goari_001289 PE=4 SV=1	Gossypium aridum	443	973	46.6	62.2	4.7e-125
+194	TR	A0A8X7YLV7	Benzyl alcohol O-benzoyltransferase OS=Populus tomentosa OX=118781 GN=POTOM_045403 PE=4 SV=1	Populus tomentosa	456	974	46.0	62.1	5.1e-125
+195	TR	A0A0S3S572	Benzyl alcohol O-benzoyltransferase OS=Vigna angularis var. angularis OX=157739 GN=Vigan.05G143000 PE=4 SV=1	Vigna angularis var. angularis	458	974	46.6	61.3	5.4e-125
+196	TR	A0A0L9VD31	Benzyl alcohol O-benzoyltransferase OS=Phaseolus angularis OX=3914 GN=HKW66_Vig0074200 PE=4 SV=1	Phaseolus angularis	458	974	46.6	61.3	5.4e-125
+197	TR	A0A804NPN8	Benzyl alcohol O-benzoyltransferase OS=Zea mays OX=4577 PE=3 SV=1	Zea mays	459	974	47.4	61.7	5.6e-125
+198	TR	A0A2Z6PPP4	Benzyl alcohol O-benzoyltransferase OS=Trifolium subterraneum OX=3900 GN=TSUD_404740 PE=4 SV=1	Trifolium subterraneum	459	974	44.5	63.1	5.6e-125
+199	TR	A0A2P6PRD1	Putative benzyl alcohol O-benzoyltransferase OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr6g0272991 PE=4 SV=1	Rosa chinensis	463	974	46.7	63.1	6.4e-125
+200	TR	A0A8K0IIM4	Benzyl alcohol O-benzoyltransferase OS=Cocos nucifera OX=13894 GN=COCNU_08G007060 PE=3 SV=1	Cocos nucifera	467	974	44.7	60.1	7.3e-125
+201	TR	A0A6J1A9J1	Benzyl alcohol O-benzoyltransferase-like OS=Herrania umbratica OX=108875 GN=LOC110415922 PE=4 SV=1	Herrania umbratica	452	972	45.2	62.3	9e-125
+202	TR	A0A5J5AEX2	Uncharacterized protein OS=Nyssa sinensis OX=561372 GN=F0562_035134 PE=4 SV=1	Nyssa sinensis	457	972	46.3	63.2	1.1e-124
+203	TR	A0A6P5XK65	Benzyl alcohol O-benzoyltransferase-like OS=Durio zibethinus OX=66656 GN=LOC111284102 PE=4 SV=1	Durio zibethinus	449	971	47.0	63.0	1.2e-124
+204	TR	A0A444XZD6	Benzyl alcohol O-benzoyltransferase OS=Arachis hypogaea OX=3818 GN=Ahy_B08g089998 PE=4 SV=1	Arachis hypogaea	462	972	47.1	62.4	1.2e-124
+205	TR	A0A4U5PQF4	Benzyl alcohol O-benzoyltransferase-like OS=Populus alba OX=43335 GN=D5086_0000200960 PE=4 SV=1	Populus alba	444	970	46.0	62.1	1.4e-124
+206	TR	A0A8X7YFR4	Benzyl alcohol O-benzoyltransferase OS=Populus tomentosa OX=118781 GN=POTOM_044239 PE=4 SV=1	Populus tomentosa	444	969	46.0	61.9	2e-124
+207	TR	A0A0S3SVA8	Benzyl alcohol O-benzoyltransferase OS=Vigna angularis var. angularis OX=157739 GN=Vigan.08G368500 PE=4 SV=1	Vigna angularis var. angularis	462	970	47.3	61.7	2.5e-124
+208	TR	A0A0L9TUK3	Benzyl alcohol O-benzoyltransferase OS=Phaseolus angularis OX=3914 GN=HKW66_Vig0189790 PE=4 SV=1	Phaseolus angularis	462	970	47.3	61.7	2.5e-124
+209	TR	A0A200Q1Z2	Transferase OS=Macleaya cordata OX=56857 GN=BVC80_1717g68 PE=4 SV=1	Macleaya cordata	464	970	45.4	63.3	2.6e-124
+210	TR	A0A6P6SV76	Benzyl alcohol O-benzoyltransferase-like OS=Coffea arabica OX=13443 GN=LOC113695058 PE=4 SV=1	Coffea arabica	462	969	46.2	62.4	3.5e-124
+211	TR	A0A8B8Q0V1	Benzyl alcohol O-benzoyltransferase isoform X1 OS=Rhodamnia argentea OX=178133 GN=LOC115748376 PE=4 SV=1	Rhodamnia argentea	458	968	46.4	61.8	4.4e-124
+212	TR	A0A8T0MIG8	Benzyl alcohol O-benzoyltransferase OS=Panicum virgatum OX=38727 GN=PVAP13_9NG251800 PE=3 SV=1	Panicum virgatum	458	968	47.1	60.9	4.4e-124
+213	TR	A0A8J5W771	Benzyl alcohol O-benzoyltransferase OS=Zizania palustris OX=103762 GN=GUJ93_ZPchr0010g8000 PE=4 SV=1	Zizania palustris	470	969	47.0	62.6	4.5e-124
+214	TR	A0A445LGU1	Benzyl alcohol O-benzoyltransferase OS=Glycine soja OX=3848 GN=D0Y65_008126 PE=4 SV=1	Glycine soja	452	967	45.8	61.1	5.1e-124
+215	TR	I1JRK7	Benzyl alcohol O-benzoyltransferase OS=Glycine max OX=3847 GN=100793362 PE=4 SV=1	Glycine max	452	967	45.8	61.1	5.1e-124
+216	TR	B9I6S8	Uncharacterized protein OS=Populus trichocarpa OX=3694 GN=POPTR_013G074400 PE=4 SV=1	Populus trichocarpa	456	967	45.8	61.2	5.8e-124
+217	TR	A0A7J6DRT5	Benzyl alcohol O-benzoyltransferase OS=Cannabis sativa OX=3483 GN=F8388_025710 PE=4 SV=1	Cannabis sativa	456	967	47.2	62.0	5.8e-124
+218	TR	A0A8J5LGX8	Benzyl alcohol O-benzoyltransferase OS=Zingiber officinale OX=94328 GN=ZIOFF_025313 PE=4 SV=1	Zingiber officinale	462	967	47.0	62.2	7e-124
+219	TR	A0A1S3UY06	Benzyl alcohol O-benzoyltransferase OS=Vigna radiata var. radiata OX=3916 GN=LOC106769599 PE=4 SV=1	Vigna radiata var. radiata	462	967	46.9	61.0	7e-124
+220	TR	A0A8T0NF57	Benzyl alcohol O-benzoyltransferase OS=Panicum virgatum OX=38727 GN=PVAP13_9KG132500 PE=3 SV=1	Panicum virgatum	463	967	46.7	60.2	7.3e-124
+221	TR	A0A7N2MIH7	Benzyl alcohol O-benzoyltransferase OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	453	966	45.3	61.8	7.5e-124
+222	TR	A0A8J4RAF1	Benzyl alcohol O-benzoyltransferase OS=Castanea mollissima OX=60419 GN=CMV_009880 PE=4 SV=1	Castanea mollissima	444	965	45.9	61.5	7.9e-124
+223	TR	A0A4U5QG08	Benzyl alcohol O-benzoyltransferase-like OS=Populus alba OX=43335 GN=D5086_0000092720 PE=4 SV=1	Populus alba	456	966	45.6	61.7	8.2e-124
+224	TR	A0A175YCL8	Benzyl alcohol O-benzoyltransferase OS=Daucus carota subsp. sativus OX=79200 GN=DCAR_028959 PE=4 SV=1	Daucus carota subsp. sativus	456	966	46.8	62.3	8.2e-124
+225	TR	A0A7N2MFX2	Benzyl alcohol O-benzoyltransferase OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	459	966	47.0	62.6	9e-124
+226	TR	A0A3L6SE07	Benzyl alcohol O-benzoyltransferase OS=Panicum miliaceum OX=4540 GN=C2845_PM02G10180 PE=3 SV=1	Panicum miliaceum	459	966	46.9	60.8	9e-124
+227	TR	A0A6A3CZ82	Benzyl alcohol O-benzoyltransferase OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00000738pilonHSYRG00038 PE=4 SV=1	Hibiscus syriacus	453	965	46.7	63.0	1.1e-123
+228	TR	A0A0E0BCE7	Uncharacterized protein OS=Oryza glumipatula OX=40148 PE=3 SV=1	Oryza glumipatula	475	967	46.0	60.4	1.1e-123
+229	TR	B9SDE9	3'-N-debenzoyl-2'-deoxytaxol N-benzoyltransferase, putative OS=Ricinus communis OX=3988 GN=RCOM_1517160 PE=4 SV=1	Ricinus communis	455	965	43.1	61.1	1.1e-123
+230	TR	A0A1S3VHK2	Benzyl alcohol O-benzoyltransferase-like OS=Vigna radiata var. radiata OX=3916 GN=LOC106775140 PE=4 SV=1	Vigna radiata var. radiata	458	965	45.5	61.3	1.2e-123
+231	TR	A2Z936	Uncharacterized protein OS=Oryza sativa subsp. indica OX=39946 GN=OsI_34226 PE=3 SV=1	Oryza sativa subsp. indica	475	966	46.0	60.4	1.5e-123
+232	TR	A0A7J9I2X3	Benzyl alcohol O-benzoyltransferase-like OS=Gossypium harknessii OX=34285 GN=Gohar_000917 PE=4 SV=1	Gossypium harknessii	443	963	45.2	62.6	1.5e-123
+233	TR	A0A8J5WM09	Benzyl alcohol O-benzoyltransferase OS=Zizania palustris OX=103762 GN=GUJ93_ZPchr0012g19698 PE=4 SV=1	Zizania palustris	468	965	46.0	61.9	1.7e-123
+234	TR	A0A7N2MHK1	Benzyl alcohol O-benzoyltransferase OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	448	963	47.7	61.5	1.8e-123
+235	TR	A0A3B5ZT68	Benzyl alcohol O-benzoyltransferase OS=Triticum aestivum OX=4565 PE=3 SV=1	Triticum aestivum	463	964	46.9	60.7	2.1e-123
+236	TR	A0A452YJI5	Benzyl alcohol O-benzoyltransferase OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1	Aegilops tauschii subsp. strangulata	463	964	46.9	60.7	2.1e-123
+237	TR	A0A8J5GTI8	Benzyl alcohol O-benzoyltransferase OS=Zingiber officinale OX=94328 GN=ZIOFF_029280 PE=4 SV=1	Zingiber officinale	465	964	46.8	61.3	2.2e-123
+238	TR	A0A6P5XX28	Benzyl alcohol O-benzoyltransferase-like OS=Durio zibethinus OX=66656 GN=LOC111286852 PE=4 SV=1	Durio zibethinus	456	963	46.4	62.1	2.3e-123
+239	TR	A0A0D2TZX5	Uncharacterized protein OS=Gossypium raimondii OX=29730 GN=B456_013G121600 PE=4 SV=1	Gossypium raimondii	448	962	44.8	62.3	2.5e-123
+240	TR	A0A804J581	(wild Malaysian banana) hypothetical protein OS=Musa acuminata subsp. malaccensis OX=214687 GN=GSMUA_268760.1 PE=3 SV=1	Musa acuminata subsp. malaccensis	460	963	46.5	59.4	2.6e-123
+241	TR	A0A3L6TJW4	10-deacetylbaccatin III 10-O-acetyltransferase OS=Panicum miliaceum OX=4540 GN=C2845_PM01G38540 PE=3 SV=1	Panicum miliaceum	461	963	46.7	60.3	2.7e-123
+242	TR	A0A6I9TQU6	LOW QUALITY PROTEIN: benzyl alcohol O-benzoyltransferase-like OS=Sesamum indicum OX=4182 GN=LOC105167776 PE=4 SV=1	Sesamum indicum	466	963	45.2	62.5	3.2e-123
+243	TR	A0A6A2YJD7	Benzyl alcohol O-benzoyltransferase OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00111540pilonHSYRG00265 PE=4 SV=1	Hibiscus syriacus	445	961	45.9	61.6	3.3e-123
+244	TR	A0A5D2S2C6	Benzyl alcohol O-benzoyltransferase-like OS=Gossypium mustelinum OX=34275 GN=E1A91_D13G127400v1 PE=4 SV=1	Gossypium mustelinum	448	961	44.4	62.7	3.6e-123
+245	TR	A0A1U8KSW3	Benzyl alcohol O-benzoyltransferase-like OS=Gossypium hirsutum OX=3635 GN=LOC107919066 PE=4 SV=1	Gossypium hirsutum	448	961	44.8	61.8	3.6e-123
+246	TR	A0A2T7C575	Benzyl alcohol O-benzoyltransferase OS=Panicum hallii var. hallii OX=1504633 GN=GQ55_9G192800 PE=3 SV=1	Panicum hallii var. hallii	460	962	46.6	60.8	3.7e-123
+247	TR	A0A061EZS1	Benzoyl coenzyme A: Benzyl alcohol benzoyl transferase OS=Theobroma cacao OX=3641 GN=TCM_025664 PE=4 SV=1	Theobroma cacao	452	961	44.4	62.2	4.1e-123
+248	TR	A0A0E0IUX4	Uncharacterized protein OS=Oryza nivara OX=4536 PE=3 SV=1	Oryza nivara	475	963	45.8	60.4	4.3e-123
+249	TR	A0A5N6RHM1	Benzyl alcohol O-benzoyltransferase OS=Carpinus fangiana OX=176857 GN=FH972_016113 PE=4 SV=1	Carpinus fangiana	465	962	45.6	61.1	4.4e-123
+250	TR	A0A067KTS8	Uncharacterized protein OS=Jatropha curcas OX=180498 GN=JCGZ_02587 PE=4 SV=1	Jatropha curcas	444	960	45.3	62.2	4.5e-123

@@ -1,0 +1,251 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	TR	A0A7J6WQT2	(S)-canadine synthase OS=Thalictrum thalictroides OX=46969 GN=FRX31_010697 PE=4 SV=1	Thalictrum thalictroides	466	1273	52.2	71.3	1.9e-169
+2	SP	Q948Y1	(S)-canadine synthase OS=Coptis japonica OX=3442 GN=CYP719A1 PE=1 SV=1	Coptis japonica	491	1267	49.8	69.4	3.6e-168
+3	TR	A0A7J6WF91	(S)-canadine synthase OS=Thalictrum thalictroides OX=46969 GN=FRX31_014856 PE=3 SV=1	Thalictrum thalictroides	488	1260	49.4	67.6	3.7e-167
+4	TR	A0A2G5DHT1	(S)-canadine synthase OS=Aquilegia coerulea OX=218851 GN=AQUCO_02000479v1 PE=3 SV=1	Aquilegia coerulea	494	1252	49.1	70.3	7.4e-166
+5	TR	A0A2G5DDA9	(S)-canadine synthase OS=Aquilegia coerulea OX=218851 GN=AQUCO_02200105v1 PE=4 SV=1	Aquilegia coerulea	491	1238	48.0	68.0	8.8e-164
+6	TR	A0A200QMM5	Cytochrome P450 OS=Macleaya cordata OX=56857 GN=BVC80_41g7 PE=3 SV=1	Macleaya cordata	490	1228	49.6	68.2	2.8e-162
+7	TR	A0A7J6VE74	(S)-canadine synthase OS=Thalictrum thalictroides OX=46969 GN=FRX31_027019 PE=3 SV=1	Thalictrum thalictroides	492	1228	50.3	70.4	3e-162
+8	TR	A0A7J6V0U2	(S)-canadine synthase OS=Thalictrum thalictroides OX=46969 GN=FRX31_032409 PE=4 SV=1	Thalictrum thalictroides	464	1221	49.7	70.2	1.3e-161
+9	TR	A0A2G5F9N2	(S)-canadine synthase OS=Aquilegia coerulea OX=218851 GN=AQUCO_00100277v1 PE=3 SV=1	Aquilegia coerulea	494	1221	47.4	68.6	3.6e-161
+10	TR	A0A443PH96	S-canadine synthase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01919200 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	498	1221	50.3	67.3	4.2e-161
+11	TR	A0A2G5CPL9	(S)-canadine synthase OS=Aquilegia coerulea OX=218851 GN=AQUCO_04200188v1 PE=3 SV=1	Aquilegia coerulea	494	1220	47.4	68.4	5.2e-161
+12	TR	A0A443PH60	S-canadine synthase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01919800 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	491	1216	50.1	67.1	1.9e-160
+13	TR	A0A443PH93	S-canadine synthase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01919300 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	491	1216	50.1	67.1	1.9e-160
+14	TR	A0A7J6X6B7	Cytochrome p450 OS=Thalictrum thalictroides OX=46969 GN=FRX31_005205 PE=3 SV=1	Thalictrum thalictroides	621	1227	49.3	70.4	2.9e-160
+15	TR	A0A834ZFH2	Cytochrome P450 OS=Tetracentron sinense OX=13715 GN=HHK36_008411 PE=3 SV=1	Tetracentron sinense	498	1214	47.6	67.5	4.8e-160
+16	TR	A0A3S3QV59	S-canadine synthase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01919500 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	499	1214	49.5	66.8	4.9e-160
+17	TR	A0A443PH40	S-canadine synthase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01917800 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	492	1213	51.3	67.6	5.5e-160
+18	TR	A0A2G5F9X7	(S)-canadine synthase OS=Aquilegia coerulea OX=218851 GN=AQUCO_00100288v1 PE=3 SV=1	Aquilegia coerulea	494	1210	46.8	67.4	1.7e-159
+19	TR	A0A7J6VQT0	(S)-canadine synthase OS=Thalictrum thalictroides OX=46969 GN=FRX31_023474 PE=3 SV=1	Thalictrum thalictroides	515	1211	47.7	67.7	2.4e-159
+20	TR	A0A3S3NLP2	S-canadine synthase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01919400 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	493	1206	48.7	65.5	6.5e-159
+21	SP	B1NF20	Cheilanthifoline synthase OS=Argemone mexicana OX=54796 GN=CYP719A14 PE=1 SV=1	Argemone mexicana	494	1206	49.2	68.2	6.8e-159
+22	SP	B5UAQ8	Cheilanthifoline synthase OS=Eschscholzia californica OX=3467 GN=CYP719A5 PE=1 SV=1	Eschscholzia californica	490	1204	49.0	66.4	1.2e-158
+23	TR	A0A443PH43	S-canadine synthase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01917900 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	494	1203	48.4	66.3	1.9e-158
+24	TR	A0A1U8AVU0	(S)-canadine synthase-like OS=Nelumbo nucifera OX=4432 GN=LOC104604446 PE=3 SV=1	Nelumbo nucifera	495	1196	48.0	66.3	2.3e-157
+25	TR	A0A7J6W5J9	(S)-canadine synthase OS=Thalictrum thalictroides OX=46969 GN=FRX31_017777 PE=4 SV=1	Thalictrum thalictroides	493	1192	48.2	66.7	8.6e-157
+26	SP	B1NF19	Trifunctional (S)-stylopine synthase/(S)-nandinine synthase/(S)-canadine synthase OS=Argemone mexicana OX=54796 GN=CYP719A13 PE=1 SV=1	Argemone mexicana	504	1189	47.4	68.6	3.5e-156
+27	TR	A0A443NLJ1	Cytochrome P450 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_00793800 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	573	1193	50.3	68.6	8.4e-156
+28	TR	A0A4Y7IQ36	Stylopine synthase OS=Papaver somniferum OX=3469 GN=C5167_018254 PE=3 SV=1	Papaver somniferum	458	1180	48.8	69.0	1.7e-155
+29	TR	A0A835DJB2	Cytochrome P450 OS=Tetracentron sinense OX=13715 GN=HHK36_008409 PE=3 SV=1	Tetracentron sinense	497	1175	47.7	66.0	3.6e-154
+30	SP	I3QBP4	(S)-canadine synthase CYP719A21 OS=Papaver somniferum OX=3469 GN=CYP719A21 PE=1 SV=1	Papaver somniferum	488	1170	47.3	65.5	1.5e-153
+31	TR	A0A4Y7LIE4	CYP719A21 OS=Papaver somniferum OX=3469 GN=C5167_047522 PE=3 SV=1	Papaver somniferum	486	1166	47.3	65.5	5.8e-153
+32	TR	A0A4Y7IQR6	Cheilanthifoline synthase OS=Papaver somniferum OX=3469 GN=C5167_018250 PE=3 SV=1	Papaver somniferum	492	1166	47.9	66.1	7.1e-153
+33	TR	A0A200QTC5	Cytochrome P450 OS=Macleaya cordata OX=56857 GN=BVC80_1765g10 PE=3 SV=1	Macleaya cordata	493	1165	47.5	66.3	1e-152
+34	TR	A0A3S3N484	Putative CYP719 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_02119900 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	493	1161	47.7	64.7	4.2e-152
+35	SP	Q50LH4	Trifunctional (S)-stylopine synthase 2/(S)-nandinine synthase/(S)-canadine synthase OS=Eschscholzia californica OX=3467 GN=CYP719A3 PE=1 SV=1	Eschscholzia californica	495	1159	46.8	68.5	8.9e-152
+36	TR	A0A443PH61	Putative CYP719 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01919100 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	493	1158	47.5	64.5	1.2e-151
+37	TR	A0A4Y7IS88	Cheilanthifoline synthase OS=Papaver somniferum OX=3469 GN=C5167_020169 PE=3 SV=1	Papaver somniferum	492	1157	47.5	65.7	1.6e-151
+38	TR	A0A834ZQ39	Cytochrome P450 OS=Tetracentron sinense OX=13715 GN=HHK36_008413 PE=3 SV=1	Tetracentron sinense	492	1153	44.3	66.6	6.5e-151
+39	TR	A0A200QMM8	Cytochrome P450 OS=Macleaya cordata OX=56857 GN=BVC80_41g8 PE=3 SV=1	Macleaya cordata	487	1152	47.4	67.5	7.8e-151
+40	TR	A0A834YLN3	Cytochrome P450 OS=Tetracentron sinense OX=13715 GN=HHK36_023668 PE=3 SV=1	Tetracentron sinense	490	1151	45.1	65.8	1.2e-150
+41	TR	A0A3S3NGY8	Putative CYP719 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_02120200 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	494	1150	47.8	64.4	2e-150
+42	TR	A0A443PH84	Putative CYP719 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01918300 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	493	1143	47.9	63.3	2.2e-149
+43	TR	A0A200QIZ5	Cytochrome P450 OS=Macleaya cordata OX=56857 GN=BVC80_8983g48 PE=3 SV=1	Macleaya cordata	504	1143	46.4	65.2	3.1e-149
+44	TR	A0A2G5DSS1	Cytochrome P450 OS=Aquilegia coerulea OX=218851 GN=AQUCO_01500066v1 PE=3 SV=1	Aquilegia coerulea	495	1142	47.4	67.5	3.3e-149
+45	SP	Q50LH3	(S)-stylopine synthase 1 OS=Eschscholzia californica OX=3467 GN=CYP719A2 PE=1 SV=1	Eschscholzia californica	495	1139	46.7	67.7	9.4e-149
+46	TR	A0A2G5E4E1	Cytochrome P450 OS=Aquilegia coerulea OX=218851 GN=AQUCO_01200087v1 PE=3 SV=1	Aquilegia coerulea	500	1117	46.6	67.1	2.3e-145
+47	SP	L7T720	Pluviatolide synthase OS=Podophyllum peltatum OX=35933 GN=CYP719A24 PE=1 SV=2	Podophyllum peltatum	489	1106	47.3	67.4	7.4e-144
+48	SP	L7T8H2	Pluviatolide synthase OS=Sinopodophyllum hexandrum OX=93608 GN=CYP719A23 PE=1 SV=1	Sinopodophyllum hexandrum	489	1100	46.5	67.6	6e-143
+49	TR	A0A835I2C9	(S)-canadine synthase OS=Coptis chinensis OX=261450 GN=IFM89_030134 PE=3 SV=1	Coptis chinensis	507	1091	45.6	64.2	2.4e-141
+50	TR	A0A4Y7IW38	Uncharacterized protein OS=Papaver somniferum OX=3469 GN=C5167_020055 PE=3 SV=1	Papaver somniferum	492	1085	45.0	63.2	1.2e-140
+51	TR	A0A835M5Z6	(S)-canadine synthase OS=Coptis chinensis OX=261450 GN=IFM89_021655 PE=3 SV=1	Coptis chinensis	423	1054	47.6	65.1	5.9e-137
+52	TR	A0A835CYP6	Cytochrome P450 OS=Tetracentron sinense OX=13715 GN=HHK36_030440 PE=3 SV=1	Tetracentron sinense	501	1061	46.7	65.9	6.8e-137
+53	TR	A0A835DNB9	Cytochrome P450 OS=Tetracentron sinense OX=13715 GN=HHK36_008410 PE=3 SV=1	Tetracentron sinense	456	1043	44.2	60.5	8.1e-135
+54	TR	A0A4Y7IL45	Cytochrome P450 OS=Papaver somniferum OX=3469 GN=C5167_018048 PE=3 SV=1	Papaver somniferum	477	1024	43.6	63.8	1.2e-131
+55	TR	A0A4Y7LKP9	Salutaridine synthase OS=Papaver somniferum OX=3469 GN=C5167_047533 PE=4 SV=1	Papaver somniferum	505	1018	42.8	63.2	2.3e-130
+56	TR	A0A443PH64	Putative CYP719 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01919000 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	494	1015	44.1	60.5	4.6e-130
+57	SP	B1NF18	Salutaridine synthase OS=Papaver somniferum OX=3469 GN=CYP719B1 PE=1 SV=1	Papaver somniferum	505	1012	42.6	63.0	1.9e-129
+58	TR	A0A3S3N878	S-canadine synthase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01919700 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	468	1001	43.3	59.0	2.6e-128
+59	TR	A0A4Y7IL67	Uncharacterized protein OS=Papaver somniferum OX=3469 GN=C5167_017881 PE=3 SV=1	Papaver somniferum	494	985	43.3	62.5	1.5e-125
+60	TR	A0A443PH85	S-canadine synthase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01918200 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	486	932	46.8	64.8	1.1e-117
+61	TR	A0A834YAN4	Cytochrome P450 OS=Tetracentron sinense OX=13715 GN=HHK36_032520 PE=3 SV=1	Tetracentron sinense	404	854	42.2	64.1	4.4e-107
+62	TR	A0A835GWZ8	Cytochrome P450 OS=Coptis chinensis OX=261450 GN=IFM89_009396 PE=3 SV=1	Coptis chinensis	351	727	39.9	58.5	9.1e-89
+63	TR	A0A443PH38	Putative CYP719 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01917700 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	285	717	49.7	65.7	3.4e-88
+64	TR	A0A4Y7IW21	Cytochrome P450 OS=Papaver somniferum OX=3469 GN=C5167_021271 PE=3 SV=1	Papaver somniferum	322	716	44.1	66.1	1.6e-87
+65	TR	A0A835IDD5	Cytochrome P450 OS=Coptis chinensis OX=261450 GN=IFM89_021660 PE=4 SV=1	Coptis chinensis	369	670	44.6	65.3	5.2e-80
+66	TR	A0A835IBP9	Cytochrome P450 OS=Coptis chinensis OX=261450 GN=IFM89_021646 PE=4 SV=1	Coptis chinensis	376	669	44.2	65.6	9e-80
+67	TR	A0A4Y7IZA5	Uncharacterized protein OS=Papaver somniferum OX=3469 GN=C5167_021254 PE=4 SV=1	Papaver somniferum	338	638	40.4	61.4	1.2e-75
+68	TR	A0A4Y7IM26	Uncharacterized protein OS=Papaver somniferum OX=3469 GN=C5167_018361 PE=3 SV=1	Papaver somniferum	285	629	46.3	61.7	5e-75
+69	TR	A0A3S3P005	Putative CYP719 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01918100 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	294	622	42.1	56.4	7.3e-74
+70	TR	A0A443PH51	S-canadine synthase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01918800 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	283	596	44.5	62.0	3.9e-70
+71	TR	A0A443PH68	Stylopine synthase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01918500 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	191	538	53.9	68.6	8.5e-63
+72	TR	A0A8T0GKA6	Cytochrome P450 OS=Ceratodon purpureus OX=3225 GN=KC19_10G041300 PE=3 SV=1	Ceratodon purpureus	565	552	27.4	49.3	1.8e-60
+73	TR	A0A834ZMF6	Cytochrome P450 OS=Tetracentron sinense OX=13715 GN=HHK36_008412 PE=3 SV=1	Tetracentron sinense	351	529	47.3	66.7	2.3e-59
+74	TR	W1PYM1	Cytochrome P450 OS=Amborella trichopoda OX=13333 GN=AMTR_s00040p00200250 PE=3 SV=1	Amborella trichopoda	496	538	30.2	49.8	4.3e-59
+75	TR	A0A2K1J1V7	Cytochrome P450 OS=Physcomitrium patens OX=3218 GN=PHYPA_023408 PE=3 SV=1	Physcomitrium patens	530	536	29.2	48.9	1.8e-58
+76	TR	A0A443PH81	Putative CYP719 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01918400 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	281	510	42.4	62.4	2e-57
+77	TR	A0A103YI81	Cytochrome P450 OS=Cynara cardunculus var. scolymus OX=59895 GN=Ccrd_011972 PE=3 SV=1	Cynara cardunculus var. scolymus	503	523	31.8	46.8	7.6e-57
+78	TR	A0A3S4PGH0	S-canadine synthase-like protein OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01919600 PE=3 SV=1	Cinnamomum micranthum f. kanehirae	399	508	46.8	66.1	1e-55
+79	TR	M1CLZ5	Cytochrome P450 77A1 OS=Solanum tuberosum OX=4113 PE=3 SV=1	Solanum tuberosum	503	512	29.7	46.5	2.9e-55
+80	TR	A0A803L109	Cytochrome P450 OS=Chenopodium quinoa OX=63459 PE=3 SV=1	Chenopodium quinoa	525	512	30.1	46.4	4.7e-55
+81	TR	A0A9R1WI03	Uncharacterized protein OS=Lactuca sativa OX=4236 GN=LSAT_V11C200088370 PE=4 SV=1	Lactuca sativa	509	511	32.0	47.5	4.7e-55
+82	TR	A0A2U1PNM7	Cytochrome P450 OS=Artemisia annua OX=35608 GN=CTI12_AA131260 PE=3 SV=1	Artemisia annua	506	510	30.3	46.0	6.1e-55
+83	TR	A0A9R0K1J1	Cytochrome P450 77A2-like OS=Spinacia oleracea OX=3562 GN=LOC110793773 PE=4 SV=1	Spinacia oleracea	520	509	29.5	45.6	1.1e-54
+84	TR	A0A2U1L9U7	Cytochrome P450 OS=Artemisia annua OX=35608 GN=CTI12_AA514630 PE=3 SV=1	Artemisia annua	506	508	30.3	46.0	1.2e-54
+85	TR	A0A8J5YQC8	Uncharacterized protein OS=Gossypium anomalum OX=47600 GN=CXB51_013728 PE=3 SV=1	Gossypium anomalum	505	503	29.4	46.7	6.1e-54
+86	TR	A0A2I0VM48	Cytochrome P450 77A1 OS=Dendrobium catenatum OX=906689 GN=CYP77A1 PE=3 SV=1	Dendrobium catenatum	513	503	29.4	47.4	7.2e-54
+87	TR	A0A2K3NCA2	Cytochrome p450 77a3-like protein OS=Trifolium pratense OX=57577 GN=L195_g023963 PE=3 SV=1	Trifolium pratense	508	500	29.9	46.9	1.8e-53
+88	TR	A0A5D2UMG5	Cytochrome P450 OS=Gossypium mustelinum OX=34275 GN=E1A91_D06G181500v1 PE=3 SV=1	Gossypium mustelinum	505	499	29.4	46.5	2.3e-53
+89	TR	A0A9K3ECE3	Cytochrome P450 OS=Helianthus annuus OX=4232 GN=HanXRQr2_Chr14g0661181 PE=3 SV=1	Helianthus annuus	506	498	31.5	45.8	3.3e-53
+90	TR	A0A2R6W7W4	Cytochrome P450 OS=Marchantia polymorpha OX=3197 GN=MARPO_0132s0024 PE=3 SV=1	Marchantia polymorpha	498	497	27.1	47.8	3.8e-53
+91	TR	A0A1U8PTQ7	Cytochrome P450 77A4-like OS=Gossypium hirsutum OX=3635 GN=LOC107961980 PE=3 SV=1	Gossypium hirsutum	505	497	29.0	46.7	4.4e-53
+92	TR	A0A2G5F9P4	Uncharacterized protein OS=Aquilegia coerulea OX=218851 GN=AQUCO_00100284v1 PE=4 SV=1	Aquilegia coerulea	215	474	42.8	67.9	5.3e-53
+93	TR	A0A7I8LBY7	Uncharacterized protein OS=Spirodela intermedia OX=51605 GN=SI8410_13017456 PE=3 SV=1	Spirodela intermedia	519	497	29.4	47.8	5.9e-53
+94	TR	A0A176WAN7	Cytochrome P450 OS=Marchantia polymorpha subsp. ruderalis OX=1480154 GN=AXG93_1390s1190 PE=3 SV=1	Marchantia polymorpha subsp. ruderalis	520	497	27.1	47.8	6e-53
+95	TR	A0A5D2YYR2	Cytochrome P450 OS=Gossypium mustelinum OX=34275 GN=E1A91_A06G160200v1 PE=3 SV=1	Gossypium mustelinum	505	496	29.0	46.7	6.2e-53
+96	TR	D8SCG3	p-coumaroyl shikimate/quinate 3'-hydroxylase OS=Selaginella moellendorffii OX=88036 GN=C3'H1-2 PE=3 SV=1	Selaginella moellendorffii	524	496	27.7	48.1	9.1e-53
+97	TR	G7JI12	Cytochrome P450 family 87 protein OS=Medicago truncatula OX=3880 GN=11436327 PE=3 SV=1	Medicago truncatula	508	495	29.8	46.2	9.2e-53
+98	TR	A0A5E4FXH8	Uncharacterized protein OS=Prunus dulcis OX=3755 GN=ALMOND_2B035074 PE=3 SV=1	Prunus dulcis	514	495	31.3	46.2	1e-52
+99	TR	A0A328CZN1	Uncharacterized protein OS=Cuscuta australis OX=267555 GN=DM860_003995 PE=3 SV=1	Cuscuta australis	518	495	29.6	46.0	1.1e-52
+100	TR	A0A251TAW5	Premnaspirodiene oxygenase OS=Helianthus annuus OX=4232 GN=C71DA PE=3 SV=1	Helianthus annuus	502	494	28.9	46.8	1.1e-52
+101	TR	A0A1J6IDZ2	Cytochrome p450 77a2 OS=Nicotiana attenuata OX=49451 GN=CYP77A2 PE=3 SV=1	Nicotiana attenuata	513	494	30.8	46.9	1.4e-52
+102	TR	A0A8T3BHK2	Cytochrome P450 OS=Dendrobium nobile OX=94219 GN=KFK09_009592 PE=3 SV=1	Dendrobium nobile	512	493	29.3	47.6	1.9e-52
+103	TR	A0A1S3ZPC5	Cytochrome P450 77A1-like OS=Nicotiana tabacum OX=4097 GN=LOC107788916 PE=3 SV=1	Nicotiana tabacum	501	492	28.5	47.2	2.1e-52
+104	TR	A0A3Q7IPR0	Uncharacterized protein OS=Solanum lycopersicum OX=4081 GN=101250470 PE=3 SV=1	Solanum lycopersicum	503	492	28.8	46.6	2.2e-52
+105	TR	M5XMD8	Cytochrome P450 77A3 OS=Prunus persica OX=3760 GN=PRUPE_2G086300 PE=3 SV=1	Prunus persica	514	492	30.9	46.0	2.8e-52
+106	TR	V7C6X0	Cytochrome P450 77A3 OS=Phaseolus vulgaris OX=3885 GN=PHAVU_003G076900g PE=3 SV=1	Phaseolus vulgaris	510	491	29.5	47.8	3.6e-52
+107	TR	A0A2G9HIA1	Cytochrome P450 CYP2 subfamily OS=Handroanthus impetiginosus OX=429701 GN=CDL12_10052 PE=3 SV=1	Handroanthus impetiginosus	501	490	29.9	47.6	4.2e-52
+108	TR	A0A6J5WC78	Cytochrome P450 77A3 OS=Prunus armeniaca OX=36596 GN=CURHAP_LOCUS13726 PE=3 SV=1	Prunus armeniaca	514	490	30.9	45.8	5.4e-52
+109	TR	A0A484N9E6	Cytochrome P450 OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS38260 PE=3 SV=1	Cuscuta campestris	518	490	29.4	45.8	5.8e-52
+110	TR	A0A078FE68	(rape) hypothetical protein OS=Brassica napus OX=3708 GN=BnaA03g01330D PE=3 SV=1	Brassica napus	503	489	29.7	46.2	6e-52
+111	TR	A0A6A1WAD2	Cytochrome P450 77A3 OS=Morella rubra OX=262757 GN=CJ030_MR2G004007 PE=3 SV=1	Morella rubra	509	489	29.2	47.4	6.8e-52
+112	TR	A0A843VER5	Cytochrome P450 89A2 OS=Colocasia esculenta OX=4460 GN=Taro_029806 PE=3 SV=1	Colocasia esculenta	519	489	28.7	47.4	8.3e-52
+113	TR	A0A7J9HMZ5	Uncharacterized protein (Fragment) OS=Gossypium harknessii OX=34285 GN=Gohar_003102 PE=3 SV=1	Gossypium harknessii	488	487	29.7	46.7	8.6e-52
+114	TR	U5CWH8	Cytochrome P450 OS=Amborella trichopoda OX=13333 GN=AMTR_s00059p00204120 PE=3 SV=1	Amborella trichopoda	516	488	28.7	45.3	1.1e-51
+115	TR	A0A7J7D792	Cytochrome P450 family protein OS=Tripterygium wilfordii OX=458696 GN=HS088_TW09G00225 PE=3 SV=1	Tripterygium wilfordii	505	487	27.8	46.3	1.2e-51
+116	TR	A0A0D2VBS8	Cytochrome P450 OS=Gossypium raimondii OX=29730 GN=B456_010G178900 PE=3 SV=1	Gossypium raimondii	505	487	29.0	46.3	1.2e-51
+117	TR	A0A835KE86	Cytochrome P450 OS=Salix dunnii OX=1413687 GN=SADUNF_Sadunf04G0011200 PE=3 SV=1	Salix dunnii	507	487	28.5	46.5	1.3e-51
+118	TR	A0A6P6SBC5	Premnaspirodiene oxygenase-like OS=Coffea arabica OX=13443 GN=LOC113689899 PE=3 SV=1	Coffea arabica	508	487	29.6	48.5	1.3e-51
+119	TR	A0A1U8ITG4	Cytochrome P450 77A4-like OS=Gossypium hirsutum OX=3635 GN=LOC107900179 PE=3 SV=1	Gossypium hirsutum	495	486	29.9	46.9	1.4e-51
+120	TR	W9S4G3	Cytochrome P450 77A3 OS=Morus notabilis OX=981085 GN=L484_016787 PE=3 SV=1	Morus notabilis	501	486	31.1	46.5	1.6e-51
+121	TR	A0A6P5SVQ7	Cytochrome P450 77A3-like OS=Prunus avium OX=42229 GN=LOC110760275 PE=3 SV=1	Prunus avium	514	486	30.9	45.8	2e-51
+122	TR	A0A8S9FJL5	Cytochrome P450 OS=Brassica cretica OX=69181 GN=F2Q70_00031912 PE=3 SV=1	Brassica cretica	501	485	30.1	48.1	2.2e-51
+123	TR	A0A1S2XXQ7	Cytochrome P450 77A3-like OS=Cicer arietinum OX=3827 GN=LOC101513914 PE=3 SV=1	Cicer arietinum	521	486	29.0	45.9	2.3e-51
+124	TR	A0A1S3UTV9	Cytochrome P450 77A1 OS=Vigna radiata var. radiata OX=3916 GN=LOC106768697 PE=3 SV=1	Vigna radiata var. radiata	506	485	29.0	47.6	2.4e-51
+125	TR	A0A7N0TS06	Cytochrome P450 OS=Kalanchoe fedtschenkoi OX=63787 PE=3 SV=1	Kalanchoe fedtschenkoi	514	485	29.3	45.3	2.8e-51
+126	TR	A0A2P5EH66	Cytochrome P450, E-class, group I OS=Trema orientale OX=63057 GN=TorRG33x02_194230 PE=3 SV=1	Trema orientale	508	484	29.8	46.9	3.5e-51
+127	TR	A0A484MJI7	Cytochrome P450 77A3 OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS30731 PE=3 SV=1	Cuscuta campestris	508	484	30.4	47.4	3.5e-51
+128	TR	A0A7J6HWI0	Cytochrome P450 OS=Cannabis sativa OX=3483 GN=F8388_027185 PE=3 SV=1	Cannabis sativa	508	484	28.5	47.1	3.5e-51
+129	TR	A0A843VC20	Cytochrome P450 89A2 OS=Colocasia esculenta OX=4460 GN=Taro_028736 PE=4 SV=1	Colocasia esculenta	902	499	30.0	45.4	3.7e-51
+130	TR	A0A8S0V194	Cytochrome P450 77A2 OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A068714 PE=3 SV=1	Olea europaea subsp. europaea	514	484	29.8	46.3	3.9e-51
+131	TR	A0A6J0MVA3	Cytochrome P450 77A4 OS=Raphanus sativus OX=3726 GN=LOC108847097 PE=3 SV=1	Raphanus sativus	503	483	29.5	45.8	4.4e-51
+132	TR	A0A7J6CCA1	Steroid 21-hydroxylase OS=Onychostoma macrolepis OX=369639 GN=G5714_016305 PE=3 SV=1	Onychostoma macrolepis	521	484	28.5	49.1	4.5e-51
+133	TR	A0A5J5AVQ5	Cytochrome P450 OS=Nyssa sinensis OX=561372 GN=F0562_032036 PE=3 SV=1	Nyssa sinensis	507	483	29.8	46.7	4.7e-51
+134	TR	A0A4W4FVA0	Steroid 21-hydroxylase OS=Electrophorus electricus OX=8005 GN=LOC113570604 PE=3 SV=1	Electrophorus electricus	524	484	29.2	49.1	4.7e-51
+135	TR	A0A2I0W5S2	Cytochrome P450 89A2 OS=Dendrobium catenatum OX=906689 GN=CYP89A2 PE=3 SV=1	Dendrobium catenatum	515	483	27.9	45.9	5.5e-51
+136	SP	P37123	Cytochrome P450 77A1 (Fragment) OS=Solanum melongena OX=4111 GN=CYP77A1 PE=2 SV=1	Solanum melongena	499	482	29.2	46.0	5.6e-51
+137	TR	A0A6J0LRJ1	Cytochrome P450 71B23 OS=Raphanus sativus OX=3726 GN=LOC108833497 PE=3 SV=1	Raphanus sativus	501	482	30.2	48.6	5.8e-51
+138	TR	A0A022RE97	Cytochrome P450 OS=Erythranthe guttata OX=4155 GN=MIMGU_mgv1a004860mg PE=3 SV=1	Erythranthe guttata	507	482	29.4	46.0	6.6e-51
+139	TR	A0A328D147	Uncharacterized protein OS=Cuscuta australis OX=267555 GN=DM860_003015 PE=3 SV=1	Cuscuta australis	508	482	30.5	47.6	6.7e-51
+140	TR	A0A9R0KBV6	Cytochrome P450 77A4-like OS=Spinacia oleracea OX=3562 GN=LOC110803623 PE=4 SV=1	Spinacia oleracea	508	482	28.3	47.8	6.7e-51
+141	TR	A0A6P4BFB4	Cytochrome P450 77A1 OS=Arachis duranensis OX=130453 GN=LOC107466822 PE=3 SV=1	Arachis duranensis	510	482	28.4	47.0	7e-51
+142	TR	A0A445ELF5	Cytochrome P450 OS=Arachis hypogaea OX=3818 GN=Ahy_A01g000819 PE=3 SV=1	Arachis hypogaea	510	482	28.4	47.0	7e-51
+143	TR	A0A1U7UWD2	Cytochrome P450 77A2 OS=Nicotiana sylvestris OX=4096 GN=LOC104212698 PE=3 SV=1	Nicotiana sylvestris	513	482	30.6	46.8	7.4e-51
+144	TR	A0A978VN74	Cytochrome P450 77A3-like OS=Ziziphus jujuba var. spinosa OX=714518 GN=FEM48_Zijuj03G0045400 PE=3 SV=1	Ziziphus jujuba var. spinosa	516	482	29.6	45.3	7.9e-51
+145	TR	A0A484LUS5	Cytochrome P450 OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS22049 PE=3 SV=1	Cuscuta campestris	521	482	29.7	45.3	8.7e-51
+146	TR	A0A0S3R9P4	Cytochrome P450 OS=Vigna angularis var. angularis OX=157739 GN=Vigan.01G550700 PE=3 SV=1	Vigna angularis var. angularis	506	481	28.7	46.6	9e-51
+147	TR	A0A0L9TTF8	Cytochrome P450 OS=Phaseolus angularis OX=3914 GN=LR48_Vigan01g338100 PE=3 SV=1	Phaseolus angularis	506	481	28.7	46.6	9e-51
+148	TR	A0A5N5MZX8	Cytochrome P450 OS=Salix brachista OX=2182728 GN=DKX38_005399 PE=3 SV=1	Salix brachista	507	481	28.1	46.4	9.2e-51
+149	TR	A0A1S3XDK2	Cytochrome P450 77A2 OS=Nicotiana tabacum OX=4097 GN=LOC107764015 PE=3 SV=1	Nicotiana tabacum	513	481	30.8	46.8	1e-50
+150	TR	A0A2K3MTW7	Cytochrome p450 77a3-like protein OS=Trifolium pratense OX=57577 GN=L195_g017352 PE=3 SV=1	Trifolium pratense	515	481	29.8	45.3	1.1e-50
+151	TR	A0A1J7FNX1	Cytochrome P450 77A3 OS=Lupinus angustifolius OX=3871 GN=TanjilG_05156 PE=3 SV=1	Lupinus angustifolius	517	481	28.9	45.8	1.1e-50
+152	TR	A0A2P5APA6	Cytochrome P450, E-class, group I OS=Parasponia andersonii OX=3476 GN=PanWU01x14_312750 PE=3 SV=1	Parasponia andersonii	508	480	29.0	46.6	1.3e-50
+153	TR	A0A2I0AUI2	Cytochrome P450 89A2 OS=Apostasia shenzhenica OX=1088818 GN=CYP89A2 PE=3 SV=1	Apostasia shenzhenica	516	480	27.0	46.5	1.5e-50
+154	TR	A0A067JAJ2	Cytochrome P450 OS=Jatropha curcas OX=180498 GN=JCGZ_21248 PE=3 SV=1	Jatropha curcas	505	479	28.7	48.0	1.7e-50
+155	TR	A0A5J5B9A7	Cytochrome P450 OS=Nyssa sinensis OX=561372 GN=F0562_025871 PE=3 SV=1	Nyssa sinensis	532	480	31.0	45.8	2.1e-50
+156	TR	A0A2I0BFF5	Cytochrome P450 77A3 OS=Apostasia shenzhenica OX=1088818 GN=CYP77A3 PE=3 SV=1	Apostasia shenzhenica	516	479	29.3	47.6	2.1e-50
+157	TR	A0A498JIP9	Cytochrome P450 OS=Malus domestica OX=3750 GN=DVH24_024529 PE=3 SV=1	Malus domestica	535	480	27.7	44.3	2.2e-50
+158	TR	A0A314KMX0	Cytochrome p450 77a1 OS=Nicotiana attenuata OX=49451 GN=CYP77A1_1 PE=3 SV=1	Nicotiana attenuata	501	478	27.7	46.6	2.2e-50
+159	TR	A0A7J8VJB8	Uncharacterized protein (Fragment) OS=Gossypium klotzschianum OX=34286 GN=Goklo_006774 PE=3 SV=1	Gossypium klotzschianum	470	476	29.7	46.8	2.2e-50
+160	TR	A0A1J7HRW5	Cytochrome P450 71A1-like OS=Lupinus angustifolius OX=3871 GN=TanjilG_07185 PE=3 SV=1	Lupinus angustifolius	486	477	28.5	46.3	2.2e-50
+161	TR	A0A5N5F034	Cytochrome P450 77A1-like OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_031919 PE=3 SV=1	Pyrus ussuriensis x Pyrus communis	537	480	28.1	44.5	2.3e-50
+162	TR	A0A1E5WLR2	Cytochrome P450 89A2 OS=Dichanthelium oligosanthes OX=888268 GN=BAE44_0000682 PE=3 SV=1	Dichanthelium oligosanthes	523	479	29.6	45.6	2.4e-50
+163	TR	A0A2I0A2V1	Cytochrome P450 71A1 OS=Apostasia shenzhenica OX=1088818 GN=CYP71A1 PE=3 SV=1	Apostasia shenzhenica	506	478	29.3	47.4	2.4e-50
+164	TR	A0A830DDB8	Cytochrome p450 77a2 OS=Phtheirospermum japonicum OX=374723 GN=PHJA_002577100 PE=3 SV=1	Phtheirospermum japonicum	507	478	30.0	47.2	2.5e-50
+165	TR	A0A6P6S502	Premnaspirodiene oxygenase-like OS=Coffea arabica OX=13443 GN=LOC113687900 PE=3 SV=1	Coffea arabica	508	478	29.2	48.3	2.5e-50
+166	TR	A0A6P6SC14	Premnaspirodiene oxygenase-like OS=Coffea arabica OX=13443 GN=LOC113690037 PE=3 SV=1	Coffea arabica	508	478	29.2	48.3	2.5e-50
+167	TR	V4L7E6	Cytochrome P450 77A3 OS=Eutrema salsugineum OX=72664 GN=EUTSA_v10007399mg PE=3 SV=1	Eutrema salsugineum	510	478	28.2	46.7	2.6e-50
+168	TR	A0A2I0A3U4	Cytochrome P450 89A9 OS=Apostasia shenzhenica OX=1088818 GN=CYP89A9 PE=3 SV=1	Apostasia shenzhenica	511	478	28.0	45.8	2.7e-50
+169	TR	A0A2I4H6Z1	Cytochrome P450 77A1 OS=Juglans regia OX=51240 GN=LOC109014061 PE=3 SV=2	Juglans regia	512	478	29.0	46.7	2.7e-50
+170	TR	A0A8T3ACD7	Cytochrome P450 OS=Dendrobium nobile OX=94219 GN=KFK09_023903 PE=3 SV=1	Dendrobium nobile	517	478	27.6	46.5	3e-50
+171	TR	A0A8J5W6Q4	Cytochrome P450 OS=Zizania palustris OX=103762 GN=GUJ93_ZPchr0014g47188 PE=3 SV=1	Zizania palustris	535	479	29.5	46.0	3e-50
+172	TR	A0A078FKG6	(rape) hypothetical protein OS=Brassica napus OX=3708 GN=BnaA06g33020D PE=3 SV=1	Brassica napus	501	477	29.7	47.2	3e-50
+173	TR	A0A830CUA1	Cytochrome p450 77a2 OS=Phtheirospermum japonicum OX=374723 GN=PHJA_002406000 PE=3 SV=1	Phtheirospermum japonicum	519	478	30.3	47.8	3.1e-50
+174	TR	A0A2T7CUK8	Uncharacterized protein OS=Panicum hallii var. hallii OX=1504633 GN=GQ55_7G129700 PE=3 SV=1	Panicum hallii var. hallii	539	479	29.4	45.9	3.3e-50
+175	TR	A0A484MNE4	Uncharacterized protein OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS31354 PE=3 SV=1	Cuscuta campestris	491	476	30.9	47.6	3.5e-50
+176	TR	A0A6P6XKR1	Premnaspirodiene oxygenase-like OS=Coffea arabica OX=13443 GN=LOC113743718 PE=3 SV=1	Coffea arabica	508	477	29.4	48.5	3.5e-50
+177	TR	A0A2P6RVJ3	Putative cytochrome P450 OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr2g0133181 PE=3 SV=1	Rosa chinensis	511	477	30.4	47.4	3.7e-50
+178	TR	A0A6I9V1S4	Cytochrome P450 77A2-like OS=Sesamum indicum OX=4182 GN=LOC105179689 PE=3 SV=1	Sesamum indicum	531	478	29.8	47.3	3.9e-50
+179	TR	A0A4U6TT33	Cytochrome P450 OS=Setaria viridis OX=4556 GN=SEVIR_7G095650v2 PE=3 SV=1	Setaria viridis	534	478	29.4	46.4	4.1e-50
+180	TR	K3Y6E9	Cytochrome P450 OS=Setaria italica OX=4555 GN=101753063 PE=3 SV=1	Setaria italica	534	478	29.4	46.4	4.1e-50
+181	TR	A0A8B7CED2	Cytochrome P450 89A2-like OS=Phoenix dactylifera OX=42345 GN=LOC103712482 PE=3 SV=1	Phoenix dactylifera	511	476	28.5	45.7	5.1e-50
+182	TR	A0A6J0K0D2	Cytochrome P450 71B23-like OS=Raphanus sativus OX=3726 GN=LOC108813363 PE=3 SV=1	Raphanus sativus	498	475	29.9	48.4	5.5e-50
+183	TR	A0A673H4S2	Steroid 21-hydroxylase-like OS=Sinocyclocheilus rhinocerous OX=307959 GN=LOC107743211 PE=3 SV=1	Sinocyclocheilus rhinocerous	500	475	28.6	50.2	5.8e-50
+184	TR	A0A9R1UCN1	Uncharacterized protein OS=Lactuca sativa OX=4236 GN=LSAT_V11C900474820 PE=4 SV=1	Lactuca sativa	556	478	30.6	45.5	6.1e-50
+185	TR	A0A2G5F9M9	Cytochrome P450 OS=Aquilegia coerulea OX=218851 GN=AQUCO_00100283v1 PE=3 SV=1	Aquilegia coerulea	170	449	51.8	70.7	6.2e-50
+186	TR	A0A8C0YFM2	Cytochrome P450, family 21, subfamily A, polypeptide 2 OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	522	476	28.9	47.9	6.3e-50
+187	TR	A0A068UQR9	Premnaspirodiene oxygenase-like OS=Coffea canephora OX=49390 GN=GSCOC_T00031577001 PE=3 SV=1	Coffea canephora	508	475	29.4	48.3	6.7e-50
+188	TR	A0A078H7Z4	BnaC08g41990D protein OS=Brassica napus OX=3708 GN=BnaC08g41990D PE=3 SV=1	Brassica napus	510	475	28.5	46.4	7e-50
+189	TR	A0A843VMC4	Cytochrome P450 71A1 OS=Colocasia esculenta OX=4460 GN=Taro_026024 PE=3 SV=1	Colocasia esculenta	529	476	28.6	46.7	7.2e-50
+190	TR	A0A5E4E6P6	PREDICTED: cytochrome P450 OS=Prunus dulcis OX=3755 GN=ALMOND_2B014746 PE=3 SV=1	Prunus dulcis	516	475	29.8	45.7	7.9e-50
+191	TR	A0A3L6QJL6	Cytochrome P450 89A2-like OS=Panicum miliaceum OX=4540 GN=C2845_PM12G08930 PE=3 SV=1	Panicum miliaceum	518	475	29.4	45.9	8.2e-50
+192	TR	C0PFY1	Cytochrome P450 77A3 OS=Zea mays OX=4577 GN=100273592 PE=2 SV=1	Zea mays	519	475	28.2	43.6	8.3e-50
+193	TR	A0A9K3HN25	Premnaspirodiene oxygenase OS=Helianthus annuus OX=4232 GN=HanXRQr2_Chr11g0480401 PE=3 SV=1	Helianthus annuus	503	474	27.9	46.0	8.5e-50
+194	TR	A0A8T0PY70	Uncharacterized protein OS=Panicum virgatum OX=38727 GN=PVAP13_7NG214500 PE=3 SV=1	Panicum virgatum	540	476	29.4	45.9	8.9e-50
+195	TR	A0A843VLY5	Cytochrome P450 89A2 OS=Colocasia esculenta OX=4460 GN=Taro_028733 PE=3 SV=1	Colocasia esculenta	507	474	28.5	46.9	9.2e-50
+196	TR	A0A4P1RTR3	Cytochrome P450 OS=Lupinus angustifolius OX=3871 GN=TanjilG_13192 PE=3 SV=1	Lupinus angustifolius	512	474	29.7	46.7	1e-49
+197	TR	A0A8K0DTX5	Cytochrome P450 OS=Rhamnella rubrinervis OX=2594499 GN=FNV43_RR25251 PE=3 SV=1	Rhamnella rubrinervis	518	474	29.3	45.0	1.1e-49
+198	TR	A0A671U7S4	Steroid 21-hydroxylase OS=Sparus aurata OX=8175 GN=LOC115567844 PE=3 SV=1	Sparus aurata	523	474	28.8	49.8	1.2e-49
+199	TR	A0A8X8ACK2	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_014908 PE=3 SV=1	Populus tomentosa	506	473	29.3	46.1	1.3e-49
+200	TR	A0A4U5NL27	Cytochrome P450 family protein OS=Populus alba OX=43335 GN=D5086_0000267630 PE=3 SV=1	Populus alba	506	473	29.3	46.1	1.3e-49
+201	TR	A0A068UT26	Premnaspirodiene oxygenase-like OS=Coffea canephora OX=49390 GN=GSCOC_T00031582001 PE=3 SV=1	Coffea canephora	508	473	29.0	48.1	1.3e-49
+202	TR	A0A8T1PKC9	Cytochrome P450 OS=Carya illinoinensis OX=32201 GN=CIPAW_09G089200 PE=3 SV=1	Carya illinoinensis	510	473	29.1	46.5	1.4e-49
+203	TR	A0A6J0LFD8	Cytochrome P450 77A3-like OS=Raphanus sativus OX=3726 GN=LOC108829178 PE=3 SV=1	Raphanus sativus	510	473	28.3	46.7	1.4e-49
+204	TR	D7LXL2	CYP77A4 OS=Arabidopsis lyrata subsp. lyrata OX=81972 GN=ARALYDRAFT_487247 PE=3 SV=1	Arabidopsis lyrata subsp. lyrata	511	473	29.0	45.6	1.4e-49
+205	TR	A0A1J7GLK0	Uncharacterized protein OS=Lupinus angustifolius OX=3871 GN=TanjilG_07618 PE=3 SV=1	Lupinus angustifolius	512	473	28.9	45.5	1.4e-49
+206	TR	D7UBU8	Cytochrome P450 77A2 OS=Vitis vinifera OX=29760 GN=VIT_13s0074g00390 PE=3 SV=1	Vitis vinifera	515	473	28.4	46.4	1.5e-49
+207	TR	A0A6A6LY74	Cytochrome P450 OS=Hevea brasiliensis OX=3981 GN=GH714_000880 PE=3 SV=1	Hevea brasiliensis	505	472	28.7	46.6	1.7e-49
+208	TR	B9RXP4	Cytochrome P450, putative OS=Ricinus communis OX=3988 GN=RCOM_0905330 PE=3 SV=1	Ricinus communis	505	472	27.1	46.2	1.7e-49
+209	TR	C5XH17	Cytochrome P450 OS=Sorghum bicolor OX=4558 GN=SORBI_3003G413800 PE=3 SV=1	Sorghum bicolor	523	473	29.4	46.8	1.7e-49
+210	TR	A0A1S3ED33	Cytochrome P450 77A1 OS=Cicer arietinum OX=3827 GN=LOC105852450 PE=3 SV=1	Cicer arietinum	508	472	29.2	47.0	1.8e-49
+211	TR	A0A314UQ02	Cytochrome P450 77A3 OS=Prunus yedoensis var. nudiflora OX=2094558 GN=Pyn_02323 PE=3 SV=1	Prunus yedoensis var. nudiflora	514	472	30.3	45.4	2e-49
+212	TR	M5VW54	Cytochrome P450 OS=Prunus persica OX=3760 GN=PRUPE_7G219700 PE=3 SV=1	Prunus persica	516	472	29.4	45.6	2.1e-49
+213	TR	A0A103YE93	Cytochrome P450 OS=Cynara cardunculus var. scolymus OX=59895 GN=Ccrd_014191 PE=3 SV=1	Cynara cardunculus var. scolymus	502	471	30.6	45.4	2.2e-49
+214	TR	A0A8K0HH84	Uncharacterized protein OS=Rhamnella rubrinervis OX=2594499 GN=FNV43_RR07791 PE=3 SV=1	Rhamnella rubrinervis	506	471	27.9	45.9	2.4e-49
+215	TR	A0A978W1D7	Cytochrome P450 77A1 OS=Ziziphus jujuba var. spinosa OX=714518 GN=FEM48_Zijuj01G0129200 PE=3 SV=1	Ziziphus jujuba var. spinosa	507	471	29.2	46.6	2.5e-49
+216	TR	A0A6P3ZWF5	Cytochrome P450 77A1 OS=Ziziphus jujuba OX=326968 GN=LOC107420023 PE=3 SV=1	Ziziphus jujuba	507	471	29.2	46.6	2.5e-49
+217	TR	A0A445AXI1	Cytochrome P450 OS=Arachis hypogaea OX=3818 GN=Ahy_B01g055903 PE=3 SV=1	Arachis hypogaea	510	471	28.6	46.4	2.6e-49
+218	TR	A0A671LW96	Steroid 21-hydroxylase-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107685595 PE=3 SV=1	Sinocyclocheilus anshuiensis	494	470	28.2	49.8	2.7e-49
+219	TR	A0A1R3H3Q8	Cytochrome P450 OS=Corchorus olitorius OX=93759 GN=COLO4_31741 PE=3 SV=1	Corchorus olitorius	512	471	29.5	45.8	2.7e-49
+220	TR	C3SAE5	p450 OS=Brachypodium distachyon OX=15368 GN=BRADI_3g17090v3 PE=3 SV=1	Brachypodium distachyon	531	472	29.5	45.9	2.8e-49
+221	TR	A0A6J0JV73	Cytochrome P450 71B4-like OS=Raphanus sativus OX=3726 GN=LOC108811121 PE=3 SV=1	Raphanus sativus	501	470	28.9	47.3	3e-49
+222	TR	A0A5N6Q8B8	Cytochrome P450 OS=Carpinus fangiana OX=176857 GN=FH972_000252 PE=3 SV=1	Carpinus fangiana	506	470	29.1	47.6	3.4e-49
+223	TR	A0A4U5NLL2	Cytochrome P450 family protein OS=Populus alba OX=43335 GN=D5086_0000267640 PE=3 SV=1	Populus alba	507	470	28.1	45.6	3.4e-49
+224	TR	B9H1E7	Cytochrome P450 OS=Populus trichocarpa OX=3694 GN=POPTR_004G019000 PE=3 SV=2	Populus trichocarpa	507	470	28.1	46.0	3.4e-49
+225	TR	A0A445IL45	Cytochrome P450 71D8 OS=Glycine soja OX=3848 GN=D0Y65_026741 PE=3 SV=1	Glycine soja	508	470	27.8	45.7	3.5e-49
+226	TR	A0A803M201	Cytochrome P450 OS=Chenopodium quinoa OX=63459 PE=3 SV=1	Chenopodium quinoa	493	469	28.6	46.7	3.6e-49
+227	TR	A0A835ARB7	Cytochrome P450 OS=Digitaria exilis OX=1010633 GN=HU200_051166 PE=3 SV=1	Digitaria exilis	531	471	28.7	44.6	3.9e-49
+228	TR	A0A6J5Y2R3	Cytochrome P450 OS=Prunus armeniaca OX=36596 GN=CURHAP_LOCUS46542 PE=3 SV=1	Prunus armeniaca	516	470	29.8	45.9	4.1e-49
+229	TR	W5LAA4	Cytochrome P450, family 21, subfamily A, polypeptide 2 OS=Astyanax mexicanus OX=7994 PE=3 SV=2	Astyanax mexicanus	500	469	28.6	48.4	4.2e-49
+230	TR	A0A6P6TQN0	Ferruginol synthase-like OS=Coffea arabica OX=13443 GN=LOC113703564 PE=3 SV=1	Coffea arabica	500	469	27.7	46.8	4.2e-49
+231	TR	A0A6A3AX34	Cytochrome P450 81D1 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00110332pilonHSYRG01310 PE=3 SV=1	Hibiscus syriacus	500	469	28.7	46.0	4.2e-49
+232	TR	A0A5N5F0A4	Cytochrome P450 77A1-like OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_031979 PE=3 SV=1	Pyrus ussuriensis x Pyrus communis	537	471	27.7	44.5	4.3e-49
+233	TR	A0A673H2R4	Steroid 21-hydroxylase-like OS=Sinocyclocheilus rhinocerous OX=307959 GN=LOC107743211 PE=3 SV=1	Sinocyclocheilus rhinocerous	503	469	28.2	49.6	4.4e-49
+234	TR	A0A565ARE3	Cytochrome P450 OS=Arabis nemorensis OX=586526 GN=ANE_LOCUS1623 PE=3 SV=1	Arabis nemorensis	504	469	30.4	49.2	4.5e-49
+235	TR	A0A9J7KXG7	Cytochrome P450 2U1-like isoform X4 OS=Branchiostoma floridae OX=7739 GN=LOC118413157 PE=3 SV=1	Branchiostoma floridae	488	468	27.4	46.3	4.6e-49
+236	TR	I1L9Y1	Cytochrome P450 71D8 OS=Glycine max OX=3847 GN=100790902 PE=3 SV=1	Glycine max	508	469	27.8	45.7	4.9e-49
+237	TR	A0A6P4ZSW0	Cytochrome P450 2D6-like OS=Branchiostoma belcheri OX=7741 GN=LOC109481790 PE=3 SV=1	Branchiostoma belcheri	492	468	28.6	46.5	4.9e-49
+238	TR	A0A6J0KTA7	Cytochrome P450 77A3-like OS=Raphanus sativus OX=3726 GN=LOC108821821 PE=3 SV=1	Raphanus sativus	510	469	27.6	46.6	5e-49
+239	TR	A0A078JEG5	(rape) hypothetical protein OS=Brassica napus OX=3708 GN=BnaA08g31590D PE=3 SV=1	Brassica napus	510	469	27.2	46.0	5e-49
+240	SP	Q9LZ31	Cytochrome P450 77A4 OS=Arabidopsis thaliana OX=3702 GN=CYP77A4 PE=2 SV=1	Arabidopsis thaliana	512	469	28.8	45.4	5.2e-49
+241	TR	A0A4V3WKW2	Uncharacterized protein OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_015141 PE=3 SV=1	Camellia sinensis var. sinensis	512	469	29.1	46.2	5.2e-49
+242	TR	A0A8B8MF94	Cytochrome P450 77A3 OS=Abrus precatorius OX=3816 GN=LOC113872464 PE=3 SV=1	Abrus precatorius	512	469	29.4	45.9	5.2e-49
+243	TR	A0A4U5V2E5	Steroid 21-hydroxylase OS=Collichthys lucidus OX=240159 GN=D9C73_016041 PE=3 SV=1	Collichthys lucidus	513	469	29.6	49.5	5.3e-49
+244	TR	D8R0C2	Uncharacterized protein CYP77D1 (Fragment) OS=Selaginella moellendorffii OX=88036 GN=CYP77D1 PE=3 SV=1	Selaginella moellendorffii	449	465	28.8	48.7	5.5e-49
+245	TR	A0A314KNE2	Cytochrome p450 77a1 OS=Nicotiana attenuata OX=49451 GN=CYP77A1_0 PE=3 SV=1	Nicotiana attenuata	498	468	29.7	46.6	5.6e-49
+246	TR	A0A8T0R758	Cytochrome P450 89A2 OS=Panicum virgatum OX=38727 GN=PVAP13_6KG057800 PE=3 SV=1	Panicum virgatum	521	469	29.3	45.6	6.2e-49
+247	TR	A0A1Q3BJI7	p450 domain-containing protein OS=Cephalotus follicularis OX=3775 GN=CFOL_v3_11683 PE=3 SV=1	Cephalotus follicularis	505	468	28.7	46.5	6.4e-49
+248	TR	K7W1T9	Putative cytochrome P450 superfamily protein OS=Zea mays OX=4577 GN=103636322 PE=3 SV=1	Zea mays	523	469	29.0	46.8	6.4e-49
+249	TR	A0A8X8A2Y0	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_016659 PE=3 SV=1	Populus tomentosa	507	468	28.1	45.8	6.6e-49
+250	TR	A0A8X8A0U6	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_014909 PE=3 SV=1	Populus tomentosa	507	468	28.1	45.6	6.6e-49

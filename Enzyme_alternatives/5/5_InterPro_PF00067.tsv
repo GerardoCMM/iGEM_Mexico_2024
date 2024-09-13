@@ -1,0 +1,1753 @@
+Accession	Source Database	Name	Tax ID	Tax Name	Length	Entry Accession	Matches
+A0A017SFB8	reviewed	Cytochrome P450 monooxygenase fogE	1388766	Aspergillus ruber (strain CBS 135680)	538	PF00067	31..470
+A0A017SR40	reviewed	Echilunin cytochrome P450 monooxygenase	1388766	Aspergillus ruber (strain CBS 135680)	534	PF00067	50..492
+A0A068A9T2	reviewed	Cytochrome P450 monooxygenase orf3	1131482	Eupenicillium brefeldianum	513	PF00067	63..475
+A0A068AA78	reviewed	Cytochrome P450 monooxygenase orf5	1131482	Eupenicillium brefeldianum	489	PF00067	56..481
+A0A068AA98	reviewed	Cytochrome P450 monooxygenase orf4	1131482	Eupenicillium brefeldianum	508	PF00067	48..475
+A0A068ACU3	reviewed	Cytochrome P450 monooxygenase orf6	1131482	Eupenicillium brefeldianum	502	PF00067	53..467
+A0A068Q5V6	reviewed	Cytochrome P450 71AU50	102107	Prunus mume	497	PF00067	29..484
+A0A068Q605	reviewed	Tryptophan N-monooxygenase CYP79A68	102107	Prunus mume	533	PF00067	47..515
+A0A068Q609	reviewed	Phenylacetaldehyde oxime monooxygenase CYP71AN24	102107	Prunus mume	526	PF00067	57..500
+A0A068Q6L2	reviewed	Cytochrome P450 736A117	102107	Prunus mume	518	PF00067	50..507
+A0A068Q721	reviewed	Cytochrome P450 71AP13	102107	Prunus mume	514	PF00067	49..499
+A0A068Q7V0	reviewed	Phenylalanine N-monooxygenase CYP79D16	102107	Prunus mume	534	PF00067	48..518
+A0A075TMP8	reviewed	Cytochrome P450 monooxygenase patI	27334	Penicillium expansum	526	PF00067	39..482
+A0A075TRL5	reviewed	Cytochrome P450 monooxygenase patH	27334	Penicillium expansum	524	PF00067	32..476
+A0A084API1	reviewed	Cytochrome P450 monooxygenase SAT11	1280523	Stachybotrys chartarum (strain CBS 109288 / IBT 7711)	526	PF00067	55..484
+A0A084R1J1	reviewed	Cytochrome P450 monooxygenase ATR3	1283841	Stachybotrys chlorohalonata (strain IBT 40285)	478	PF00067	134..467
+A0A084R1J2	reviewed	Cytochrome P450 monooxygenase ATR14	1283841	Stachybotrys chlorohalonata (strain IBT 40285)	446	PF00067	85..385,389..443
+A0A084R1M6	reviewed	Cytochrome P450 monooxygenase ATR2	1283841	Stachybotrys chlorohalonata (strain IBT 40285)	513	PF00067	138..501
+A0A084R1M7	reviewed	Cytochrome P450 monooxygenase ATR4	1283841	Stachybotrys chlorohalonata (strain IBT 40285)	524	PF00067	173..500
+A0A087X1C5	reviewed	Putative cytochrome P450 2D7	9606	Homo sapiens	515	PF00067	34..329,348..511
+A0A097ZPE4	reviewed	Cytochrome P450 monooxygenase andK	1549217	Emericella variicolor	865	PF00067	47..478
+A0A098CZ12	reviewed	Cytochrome P450 monooxygenase FGSG_15680	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	430	PF00067	14..381
+A0A098D1J7	reviewed	Cytochrome P450 monooxygenase CLM2	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	529	PF00067	27..476
+A0A098DDI4	reviewed	Cytochrome P450 monooxygenase FGSG_08207	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	522	PF00067	295..483
+A0A098DJ84	reviewed	C-22 sterol desaturase ERG5B	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	534	PF00067	73..481
+A0A0A2J1Z6	reviewed	Self-sufficient cytochrome P450 monooxygenase CYP505E4	27334	Penicillium expansum	1048	PF00067	8..433
+A0A0A2JY25	reviewed	Cytochrome P450 monooxygenase cnsC	27334	Penicillium expansum	495	PF00067	215..471
+A0A0B4KZX8	reviewed	Beta-amyrin 16-alpha-hydroxylase CYP87D16	992730	Maesa lanceolata	475	PF00067	33..456
+A0A0B4L1W8	reviewed	Cytochrome P450 716A75	992730	Maesa lanceolata	487	PF00067	44..459
+A0A0B5KYT4	reviewed	Cytochrome P450 monooxygenase mpaDE'	5074	Penicillium brevicompactum	853	PF00067	48..481
+A0A0C1E1L9	reviewed	Cytochrome P450 monooxygenase opaB	40382	Aspergillus ustus	575	PF00067	109..424
+A0A0C2W6G6	reviewed	Cytochrome P450 monooxygenase iboC	946122	Amanita muscaria (strain Koide BX008)	561	PF00067	37..416
+A0A0C3HJL3	reviewed	Self-sufficient cytochrome P450 monooxygenase CYP505AG1	913774	Oidiodendron maius (strain Zn)	1073	PF00067	12..455
+A0A0C5Q4Y6	reviewed	Ferruginol synthase 1	39367	Rosmarinus officinalis	493	PF00067	29..464
+A0A0C5QRZ2	reviewed	Ferruginol synthase	268906	Salvia fruticosa	492	PF00067	28..466
+A0A0C6DUU3	reviewed	Cytochrome P450 monooxygenase bet2	1979465	Neocamarosporium betae	521	PF00067	72..506
+A0A0D1DMJ7	reviewed	Cytochrome P450 monooxygenase cyp1	237631	Ustilago maydis (strain 521 / FGSC 9021)	640	PF00067	152..599
+A0A0D1DT62	reviewed	Cytochrome P450 monooxygenase cayp2	237631	Ustilago maydis (strain 521 / FGSC 9021)	535	PF00067	53..523
+A0A0D9MRV9	reviewed	O-methylsterigmatocystin oxidoreductase	1392242	Aspergillus flavus (strain ATCC MYA-384 / AF70)	528	PF00067	32..485
+A0A0E3D8K9	reviewed	Cytochrome P450 monooxygenase penP	36656	Penicillium crustosum	517	PF00067	174..492
+A0A0E3D8L2	reviewed	Cytochrome P450 monooxygenase PC-23	36656	Penicillium crustosum	204	PF00067	1..163
+A0A0E3D8M1	reviewed	Cytochrome P450 monooxygenase PC-21	36656	Penicillium crustosum	510	PF00067	80..482
+A0A0E3D8M6	reviewed	Cytochrome P450 monooxygenase PC-20	36656	Penicillium crustosum	453	PF00067	277..338,341..411
+A0A0E3D8N7	reviewed	Cytochrome P450 monooxygenase janQ	5079	Penicillium janthinellum	501	PF00067	179..481
+A0A0E3D8P0	reviewed	Cytochrome P450 monooxygenase janP	5079	Penicillium janthinellum	515	PF00067	179..491
+A0A0E3D8P5	reviewed	Cytochrome P450 monooxygenase PC-05	36656	Penicillium crustosum	497	PF00067	221..473
+A0A0E3D8P8	reviewed	Cytochrome P450 monooxygenase penQ	36656	Penicillium crustosum	510	PF00067	223..484
+A0A0F7TN11	reviewed	Cytochrome P450 monooxygenase ausR	104259	Penicillium brasilianum	496	PF00067	141..477
+A0A0F7TN60	reviewed	Cytochrome P450 monooxygenase ausG	104259	Penicillium brasilianum	530	PF00067	242..520
+A0A0F7TSZ5	reviewed	Cytochrome P450 monooxygenase ausI	104259	Penicillium brasilianum	500	PF00067	293..471
+A0A0G2RKY1	reviewed	Ent-kaurene oxidase	226208	Salvia miltiorrhiza	519	PF00067	48..492
+A0A0G4IRM5	reviewed	Mitochondrial hydroperoxide bicyclase CYP50918A1	37360	Plasmodiophora brassicae	549	PF00067	346..463
+A0A0G4P2K0	reviewed	Self-sufficient cytochrome P450 monooxygenase CYP505E4	1429867	Penicillium camemberti (strain FM 013)	1049	PF00067	8..432
+A0A0N7F297	reviewed	Demethylepipodophyllotoxin synthase	93608	Sinopodophyllum hexandrum	519	PF00067	37..499
+A0A0N9HKQ7	reviewed	Bicoumarin synthase desC	1810909	Aspergillus desertorum	536	PF00067	338..511
+A0A0N9HT29	reviewed	Desmethyl-deoxy-podophyllotoxin synthase	93608	Sinopodophyllum hexandrum	507	PF00067	33..480
+A0A0N9HTU1	reviewed	Desmethylyatein synthase	93608	Sinopodophyllum hexandrum	493	PF00067	31..475
+A0A0P0ZEA9	reviewed	Stellatic acid synthase	1549217	Emericella variicolor	522	PF00067	76..366,408..482
+A0A0R8YXT5	reviewed	Methylphloroacetophenone oxidase	174080	Cladonia uncialis	445	PF00067	77..445
+A0A0S1TP26	reviewed	Ferruginol synthase	396869	Salvia pomifera	453	PF00067	2..425
+A0A0S1TPC7	reviewed	Carnosic acid synthase	396869	Salvia pomifera	500	PF00067	33..487
+A0A0S1TQ04	reviewed	Salviol synthase	396869	Salvia pomifera	499	PF00067	37..482
+A0A0S2IHL2	reviewed	Cytochrome P450 72A397	228393	Kalopanax septemlobus	520	PF00067	89..497
+A0A0S2II38	reviewed	Beta-amyrin 28-monooxygenase	228393	Kalopanax septemlobus	481	PF00067	38..453
+A0A0U2U8U5	reviewed	Beta-amyrin 28-monooxygenase	50459	Barbarea vulgaris	475	PF00067	34..447
+A0A0U2V7I8	reviewed	Cytochrome P450 monooxygenase CYP3	5270	Ustilago maydis	540	PF00067	61..523
+A0A0U4ZPJ7	reviewed	Cytochrome P450 monooxygenase ausG	454130	Aspergillus calidoustus	529	PF00067	235..514
+A0A0U5CJM3	reviewed	Cytochrome P450 monooxygenase ausI	454130	Aspergillus calidoustus	517	PF00067	212..487
+A0A0U5CJT8	reviewed	Cytochrome P450 monooxygenase ausR	454130	Aspergillus calidoustus	500	PF00067	150..488
+A0A0U5GRB4	reviewed	Cytochrome P450 monooxygenase drtD	454130	Aspergillus calidoustus	524	PF00067	29..466
+A0A0Y0GRS3	reviewed	Sugiol synthase	226208	Salvia miltiorrhiza	494	PF00067	29..473
+A0A100IM63	reviewed	Self-sufficient cytochrome P450 monooxygenase CYP505E5	5061	Aspergillus niger	1050	PF00067	8..450
+A0A101MN42	reviewed	Self-sufficient cytochrome P450 monooxygenase CYP505E4	48697	Penicillium freii	1049	PF00067	8..446
+A0A125QZE2	reviewed	11-hydroxysugiol 20-monooxygenase	226208	Salvia miltiorrhiza	503	PF00067	35..491
+A0A140IL90	reviewed	Noroxomaritidine synthase	1540222	Narcissus aff. pseudonarcissus MK-2014	513	PF00067	42..493
+A0A140IL91	reviewed	Noroxomaritidine synthase 2	1540222	Narcissus aff. pseudonarcissus MK-2014	513	PF00067	42..493
+A0A140IL92	reviewed	Noroxomaritidine synthase 3	1540222	Narcissus aff. pseudonarcissus MK-2014	513	PF00067	42..493
+A0A140JWM8	reviewed	Cytochrome P450 716A2	3702	Arabidopsis thaliana	473	PF00067	34..445
+A0A140JWT0	reviewed	Cytochrome P450 monooxygenase ptmQ	69488	Penicillium simplicissimum	514	PF00067	228..492
+A0A140JWT4	reviewed	Cytochrome P450 monooxygenase ptmP	69488	Penicillium simplicissimum	446	PF00067	111..421
+A0A140JWT6	reviewed	Cytochrome P450 monooxygenase ptmU	69488	Penicillium simplicissimum	507	PF00067	222..483
+A0A140JWT8	reviewed	Cytochrome P450 monooxygenase ptmJ	69488	Penicillium simplicissimum	515	PF00067	94..473
+A0A140JWT9	reviewed	Cytochrome P450 monooxygenase ptmK	69488	Penicillium simplicissimum	510	PF00067	80..482
+A0A140JWU1	reviewed	Cytochrome P450 monooxygenase ptmG	69488	Penicillium simplicissimum	540	PF00067	101..499
+A0A144KPK9	reviewed	Cytochrome P450 monooxygenase TES1	5599	Alternaria alternata	506	PF00067	137..467
+A0A159AKG3	reviewed	Cytochrome P450 71D182	49992	Thymus vulgaris	496	PF00067	34..483
+A0A161GJD5	reviewed	Cytochrome P450 726A27	212925	Euphorbia lathyris	500	PF00067	37..478
+A0A165U5Z9	reviewed	Cytochrome P450 71D445	212925	Euphorbia lathyris	513	PF00067	42..488
+A0A166YZR3	reviewed	Cytochrome P450 monooxygenase ppzG	1081105	Metarhizium rileyi (strain RCEF 4871)	251	PF00067	90..238
+A0A166YZU9	reviewed	Cytochrome P450 monooxygenase ppzE	1081105	Metarhizium rileyi (strain RCEF 4871)	392	PF00067	155..357
+A0A167LUR6	reviewed	Cytochrome P450 monooxygenase fumoB	1081104	Cordyceps fumosorosea (strain ARSEF 2679)	546	PF00067	185..537
+A0A167LUS5	reviewed	Cytochrome P450 monooxygenase fumoA	1081104	Cordyceps fumosorosea (strain ARSEF 2679)	509	PF00067	86..478
+A0A179H0I7	reviewed	Cytochrome P450 monooxygenase lcsI	33203	Purpureocillium lilacinum	516	PF00067	71..493
+A0A179HJU2	reviewed	Cytochrome P450 monooxygenase lcsK	33203	Purpureocillium lilacinum	548	PF00067	115..530
+A0A179HLW2	reviewed	Cytochrome P450 monooxygenase lcsN	33203	Purpureocillium lilacinum	336	PF00067	2..295
+A0A1B2CTB6	reviewed	Cytochrome P450 monooxygenase penB	293382	Penicillium thymicola	445	PF00067	18..417
+A0A1B4XBH0	reviewed	Cytochrome P450 monooxygenase sdnE	573841	Sordaria araneosa	517	PF00067	56..503
+A0A1B4XBH1	reviewed	Cytochrome P450 monooxygenase sdnF	573841	Sordaria araneosa	521	PF00067	57..491
+A0A1B4XBH8	reviewed	Cytochrome P450 monooxygenase sdnH	573841	Sordaria araneosa	542	PF00067	121..502
+A0A1B4XBI1	reviewed	Cytochrome P450 monooxygenase sdnQ	573841	Sordaria araneosa	551	PF00067	123..530
+A0A1B4XBI3	reviewed	Cytochrome P450 monooxygenase sdnT	573841	Sordaria araneosa	558	PF00067	80..531
+A0A1B4XBJ9	reviewed	Cytochrome P450 monooxygenase sdnB	573841	Sordaria araneosa	545	PF00067	169..535
+A0A1D6F9Y9	reviewed	Trimethyltridecatetraene synthase	4577	Zea mays	554	PF00067	33..506
+A0A1D6GQ67	reviewed	Dolabradiene monooxygenase	4577	Zea mays	506	PF00067	34..484
+A0A1D6HSP4	reviewed	Dimethylnonatriene synthase	4577	Zea mays	531	PF00067	39..505
+A0A1D8QMD1	reviewed	Carnosic acid synthase	268906	Salvia fruticosa	500	PF00067	33..487
+A0A1D8QMD2	reviewed	Carnosic acid synthase	39367	Rosmarinus officinalis	507	PF00067	37..493
+A0A1D8QMG4	reviewed	Carnosic acid synthase	39367	Rosmarinus officinalis	504	PF00067	36..490
+A0A1E1FFL4	reviewed	Cytochrome P450 monooxygenase prhD	104259	Penicillium brasilianum	511	PF00067	69..478
+A0A1E1FFM3	reviewed	Cytochrome P450 monooxygenase prhB	104259	Penicillium brasilianum	489	PF00067	44..478
+A0A1E1FFN3	reviewed	Cytochrome P450 monooxygenase prhN	104259	Penicillium brasilianum	502	PF00067	222..492
+A0A1E3B0R7	reviewed	Cytochrome P450 monooxygenase criE	573508	Aspergillus cristatus	532	PF00067	50..492
+A0A1I9Q5Z0	reviewed	Beta-amyrin 16-beta-monooxygenase	94286	Platycodon grandiflorus	481	PF00067	33..454
+A0A1L3HS58	reviewed	Epoxyalcohol synthase CYP5164B1	2880	Ectocarpus siliculosus	477	PF00067	280..395
+A0A1L7TV75	reviewed	Cytochrome P450 monooxygenase FPY7	192010	Fusarium mangiferae	519	PF00067	80..497
+A0A1L9URA0	reviewed	Cytochrome P450 monooxygenase bfoB	767769	Aspergillus brasiliensis (strain CBS 101740 / IMI 381727 / IBT 21946)	489	PF00067	41..457
+A0A1L9WLE2	reviewed	Cytochrome P450 monooxygenase AacuE	690307	Aspergillus aculeatus (strain ATCC 16872 / CBS 172.66 / WB 5094)	502	PF00067	37..473
+A0A1L9WN31	reviewed	Cytochrome P450 monooxygenase acuC	690307	Aspergillus aculeatus (strain ATCC 16872 / CBS 172.66 / WB 5094)	531	PF00067	33..485
+A0A1L9WN72	reviewed	Cytochrome P450 monooxygenase acuD	690307	Aspergillus aculeatus (strain ATCC 16872 / CBS 172.66 / WB 5094)	529	PF00067	39..491
+A0A1L9WQP6	reviewed	Cytochrome P450 monooxygenase acrD	690307	Aspergillus aculeatus (strain ATCC 16872 / CBS 172.66 / WB 5094)	500	PF00067	67..480
+A0A1L9WQW4	reviewed	Cytochrome P450 monooxygenase acrF	690307	Aspergillus aculeatus (strain ATCC 16872 / CBS 172.66 / WB 5094)	494	PF00067	12..445
+A0A1L9WUS5	reviewed	Cytochrome P450 monooxygenase aneD	690307	Aspergillus aculeatus (strain ATCC 16872 / CBS 172.66 / WB 5094)	514	PF00067	32..476
+A0A1L9WUV2	reviewed	Cytochrome P450 monooxygenase aneG	690307	Aspergillus aculeatus (strain ATCC 16872 / CBS 172.66 / WB 5094)	530	PF00067	90..519
+A0A1L9WVI3	reviewed	Cytochrome P450 monooxygenase aneF	690307	Aspergillus aculeatus (strain ATCC 16872 / CBS 172.66 / WB 5094)	495	PF00067	50..472
+A0A1R3RGJ7	reviewed	Cytochrome P450 monooxygenase otaC	602072	Aspergillus carbonarius (strain ITEM 5010)	516	PF00067	67..495
+A0A1U8QFC3	reviewed	Cytochrome P450 monooxygenase alnD	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	553	PF00067	79..537
+A0A1U9YHZ8	reviewed	Cytochrome P450 monooxygenase verL	122658	Clonostachys rogersoniana	544	PF00067	33..496
+A0A1U9YHZ9	reviewed	Cytochrome P450 monooxygenase verC	122658	Clonostachys rogersoniana	502	PF00067	83..474
+A0A1U9YI05	reviewed	Cytochrome P450 monooxygenase verB	122658	Clonostachys rogersoniana	514	PF00067	133..505
+A0A1V0QSB7	reviewed	Cytochrome P450 monooxyhenase eriC	91752	Hericium erinaceus	511	PF00067	36..495
+A0A1V0QSE7	reviewed	Cytochrome P450 monooxyhenase eriA	91752	Hericium erinaceus	527	PF00067	46..485
+A0A1V0QSE9	reviewed	Cytochrome P450 monooxyhenase eriI	91752	Hericium erinaceus	552	PF00067	40..523
+A0A1V1FNM9	reviewed	Cytochrome P450 monooxygenase oblB	1549217	Emericella variicolor	547	PF00067	91..508
+A0A1V1FNZ5	reviewed	Cytochrome P450 monooxygenase oblE	1549217	Emericella variicolor	529	PF00067	69..478
+A0A1V6NWJ0	reviewed	Cytochrome P450 monooxygenase verH	60169	Penicillium polonicum	538	PF00067	33..480
+A0A1V6PB34	reviewed	Cytochrome P450 monooxygenase calE	69771	Penicillium decumbens	517	PF00067	230..499
+A0A1V6PBE7	reviewed	Cytochrome P450 monooxygenase calL	69771	Penicillium decumbens	533	PF00067	240..497
+A0A1W5T1T6	reviewed	Cytochrome P450 monooxygenase poxD	69781	Penicillium oxalicum	484	PF00067	36..455
+A0A1W5T1U4	reviewed	Cytochrome P450 monooxygenase poxC	69781	Penicillium oxalicum	477	PF00067	63..182,203..450
+A0A1W5T1Y6	reviewed	Cytochrome P450 monooxygenase poxM	69781	Penicillium oxalicum	512	PF00067	47..491
+A0A1Y0BRF2	reviewed	Cytochrome P450 monooxygenase adrA	5082	Penicillium roqueforti	508	PF00067	140..480
+A0A1Y1C7S2	reviewed	Quiannulatic acid synthase	1549217	Emericella variicolor	513	PF00067	90..467
+A0A1Z3GBS4	reviewed	Ferruginol synthase	587669	Isodon rubescens	492	PF00067	28..476
+A0A286LF02	reviewed	Tryptamine 4-monooxygenase	93625	Psilocybe cyanescens	507	PF00067	29..492
+A0A2H3CNS9	reviewed	Cytochrome P450 monooxygenase ARMGADRAFT_1018417	47427	Armillaria gallica	518	PF00067	33..458
+A0A2H3CNY6	reviewed	Cytochrome P450 monooxygenase ARMGADRAFT_974139	47427	Armillaria gallica	509	PF00067	32..469
+A0A2H3CSA7	reviewed	Cytochrome P450 monooxygenase ARMGADRAFT_1018418	47427	Armillaria gallica	513	PF00067	32..491
+A0A2H3CZX2	reviewed	Cytochrome P450 monooxygenase ARMGADRAFT_1018420	47427	Armillaria gallica	521	PF00067	37..467
+A0A2H4DGV8	reviewed	Germacrene A acid 8-beta-hydroxylase	1805964	Inula hupehensis	495	PF00067	33..480
+A0A2H5AIX6	reviewed	p-coumarate 3-hydroxylase	39639	Narcissus pseudonarcissus	509	PF00067	30..481
+A0A2H5AIX7	reviewed	Trans-cinnamate 4-monooxygenase	39639	Narcissus pseudonarcissus	505	PF00067	34..496
+A0A2H5AIZ9	reviewed	Noroxomaritidine synthase 2	39639	Narcissus pseudonarcissus	513	PF00067	42..493
+A0A2H5AJ00	reviewed	Noroxomaritidine synthase 1	39639	Narcissus pseudonarcissus	513	PF00067	42..493
+A0A2I1C3T4	reviewed	Cytochrome P450 monooxygenase nsrP	1392255	Aspergillus novofumigatus (strain IBT 16806)	515	PF00067	85..487
+A0A2I6PIZ9	reviewed	Cytochrome P450 monooxygenase nodZ	1243767	Hypoxylon pulicicidum	507	PF00067	306..493
+A0A2I6PJ00	reviewed	Cytochrome P450 monooxygenase nodJ	1243767	Hypoxylon pulicicidum	514	PF00067	35..468
+A0A2I6PJ08	reviewed	Cytochrome P450 monooxygenase nodW	1243767	Hypoxylon pulicicidum	532	PF00067	158..499
+A0A2I6PJ12	reviewed	Cytochrome P450 monooxygenase nodR	1243767	Hypoxylon pulicicidum	511	PF00067	220..498
+A0A2K9RG08	reviewed	Labd-13Z-ene-9,15,16-triol synthase, chloroplastic	54477	Vitex agnus-castus	499	PF00067	34..487
+A0A2L0P0J8	reviewed	Cytochrome P450 monooxygenase TwmD	28567	Talaromyces wortmannii	512	PF00067	73..489
+A0A2P1DP94	reviewed	Cytochrome P450 monooxygenase macC	374132	Penicillium terrestre	536	PF00067	32..479
+A0A2P1DPA5	reviewed	Cytochrome P450 monooxygenase macH	374132	Penicillium terrestre	510	PF00067	55..488
+A0A2R4SBW0	reviewed	Ganoderic acid synthetase CYP5150L8	5315	Ganoderma lucidum	547	PF00067	35..514
+A0A2U8U2M8	reviewed	Cytochrome P450 monooxygenase asR2	2203296	Sarocladium schorii	516	PF00067	51..488
+A0A2V5GZ95	reviewed	Cytochrome P450 monooxygenase pyvB	1450538	Aspergillus violaceofuscus (strain CBS 115571)	487	PF00067	64..454
+A0A2Z4HPY0	reviewed	Cytochrome P450 monooxygenase efuG	284138	Hormonema carpetanum	563	PF00067	57..549
+A0A2Z4HPZ0	reviewed	Cytochrome P450 monooxygenase efuH	284138	Hormonema carpetanum	565	PF00067	154..504
+A0A2Z4HPZ7	reviewed	Cytochrome P450 monooxygenase efuB	284138	Hormonema carpetanum	505	PF00067	72..484
+A0A2Z5D850	reviewed	6,7,8-trihydroxycoumarin synthase	4041	Pastinaca sativa	504	PF00067	33..494
+A0A2Z5D852	reviewed	5-OH-xanthotoxin synthase	4041	Pastinaca sativa	506	PF00067	33..496
+A0A2Z5D854	reviewed	Xanthotoxol synthase	4041	Pastinaca sativa	504	PF00067	33..493
+A0A2Z5TMB8	reviewed	Cytochrome P450 monooxygenase himC	34381	Aspergillus japonicus	554	PF00067	113..537
+A0A2Z6FZ19	reviewed	Cytochrome P450 monooxygenase btcB	1979465	Neocamarosporium betae	528	PF00067	74..510
+A0A2Z6FZ20	reviewed	Cytochrome P450 monooxygenase btcC	1979465	Neocamarosporium betae	510	PF00067	46..496
+A0A343URW6	reviewed	Tabersonine 6,7-epoxidase isoform 1	4058	Catharanthus roseus	506	PF00067	36..479
+A0A343URW7	reviewed	Tabersonine 6,7-epoxidase isoform 2	4058	Catharanthus roseus	515	PF00067	36..487
+A0A346B546	reviewed	Cytochrome P450 monooxygenase CYP512U6	5315	Ganoderma lucidum	509	PF00067	65..493
+A0A384JQG4	reviewed	Cytochrome P450 monooxygenase aba1	332648	Botryotinia fuckeliana (strain B05.10)	509	PF00067	48..487
+A0A384JQH2	reviewed	Cytochrome P450 monooxygenase aba2	332648	Botryotinia fuckeliana (strain B05.10)	527	PF00067	69..489
+A0A386KZI3	reviewed	N-geranyl-L-glutamate oxidase	37319	Pseudo-nitzschia multiseries	559	PF00067	133..541
+A0A3G9GNK2	reviewed	Cytochrome P450 monooxygenase cdmJ	198730	Talaromyces verruculosus	517	PF00067	227..487
+A0A3G9HB50	reviewed	Cytochrome P450 monooxygenase ALT8	5599	Alternaria alternata	599	PF00067	108..580
+A0A3G9HRC2	reviewed	Bifunctional cytochrome P450/NADPH--P450 reductase ALT2	5599	Alternaria alternata	1103	PF00067	25..440
+A0A3Q7HBJ5	reviewed	Beta-amyrin 28-monooxygenase	4081	Solanum lycopersicum	476	PF00067	31..446
+A0A3Q7HS74	reviewed	Beta-amyrin 6-beta-monooxygenase	4081	Solanum lycopersicum	475	PF00067	35..449
+A0A3Q9FEJ4	reviewed	Cytochrome P450 monooxygenase astA	28567	Talaromyces wortmannii	493	PF00067	55..468
+A0A3Q9R4N5	reviewed	Geranylhydroquinone 3''-hydroxylase CYP76B74	373122	Arnebia euchroma	496	PF00067	28..479
+A0A3S5HYN5	reviewed	Cytochrome P450 monooxygenase pvhE	28576	Talaromyces variabilis	539	PF00067	91..497
+A0A3S9NM20	reviewed	Cytochrome P450 monooxygenase astB	28567	Talaromyces wortmannii	498	PF00067	59..449
+A0A411KUQ5	reviewed	Cytochrome P450 monooxygenase ucsK	2046025	Acremonium sp.	526	PF00067	59..501
+A0A411KZY9	reviewed	Cytochrome P450 monooxygenase buaD	2508778	Aspergillus burnettii	539	PF00067	106..512
+A0A411KZZ4	reviewed	Cytochrome P450 monooxygenase buaG	2508778	Aspergillus burnettii	503	PF00067	61..481
+A0A455LLV8	reviewed	Cytochrome P450 monooxygenase ntnM	1755444	Nectria sp.	516	PF00067	149..489
+A0A455LM27	reviewed	Cytochrome P450 monooxygenase atnM	1756131	Arthrinium sp.	480	PF00067	284..459
+A0A455R4X0	reviewed	Cytochrome P450 monooxygenase ascG	749675	Acremonium egyptiacum	534	PF00067	257..501
+A0A455R5H4	reviewed	Bifunctional cytochrome P450/NADPH--P450 reductase ascE	749675	Acremonium egyptiacum	1064	PF00067	6..454
+A0A455R624	reviewed	Cytochrome P450 monooxygenase ascH	749675	Acremonium egyptiacum	512	PF00067	69..489
+A0A481NR20	reviewed	Cytochrome P450 72A552	50459	Barbarea vulgaris	513	PF00067	87..487
+A0A481WNM6	reviewed	Cytochrome P450 monooxygenase traB	36656	Penicillium crustosum	509	PF00067	64..493
+A0A481WPJ6	reviewed	Cytochrome P450 monooxygenase claJ	36656	Penicillium crustosum	438	PF00067	38..410
+A0A482NAF7	reviewed	Cytochrome P450 monooxygenase iccC	28576	Talaromyces variabilis	504	PF00067	60..475
+A0A482NAL3	reviewed	Cytochrome P450 monooxygenase iccF	28576	Talaromyces variabilis	536	PF00067	182..527
+A0A484FVL2	reviewed	Cytochrome P450 monooxygenase btcC	1213857	Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422)	520	PF00067	60..475
+A0A484FXR4	reviewed	Cytochrome P450 monooxygenase btcB	1213857	Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422)	534	PF00067	88..511
+A0A4D6Q414	reviewed	Flavonoid 3',5'-hydroxylase CYP75B138	1053288	Crocosmia x crocosmiiflora	527	PF00067	38..501
+A0A4D6Q415	reviewed	Flavonoid 3'-monooxygenase CYP75B137	1053288	Crocosmia x crocosmiiflora	508	PF00067	34..486
+A0A4P8DJC8	reviewed	Cytochrome P450 monooxygenase dmxR5	2572248	Cryptosporiopsis sp. (strain 8999)	508	PF00067	59..500
+A0A4P8DJE5	reviewed	Cytochrome P450 monooxygenase dmxL3	2572248	Cryptosporiopsis sp. (strain 8999)	514	PF00067	66..484
+A0A4P8GEB4	reviewed	Cytochrome P450 monooxygenase eupD	1707701	Phoma sp.	285	PF00067	48..272
+A0A4P8W744	reviewed	Pyrichalasin C-18 hydroxylase	148305	Magnaporthe grisea	535	PF00067	250..523
+A0A4V1FW34	reviewed	Pyrichalasin C-7 hydroxylase	148305	Magnaporthe grisea	504	PF00067	231..481
+A0A517FNB9	reviewed	Cholesterol 22-monohydroxylase CYP90B52	49666	Paris polyphylla	473	PF00067	32..449
+A0A517FNC4	reviewed	Cytochrome P450 CYP72A616	49666	Paris polyphylla	517	PF00067	93..496
+A0A517FNC5	reviewed	Cholesterol 16,22-dihydroxylase CYP90G4	49666	Paris polyphylla	485	PF00067	39..462
+A0A517FNC6	reviewed	Cholesterol 22-monohydroxylase CYP90B51	78534	Trigonella foenum-graecum	491	PF00067	38..468
+A0A517FNC7	reviewed	Cytochrome P450 CYP94D108	49666	Paris polyphylla	497	PF00067	71..479
+A0A517FNC9	reviewed	Cytochrome P450 CYP72A613	78534	Trigonella foenum-graecum	525	PF00067	86..501
+A0A517FND0	reviewed	Cytochrome P450 CYP94D109	49666	Paris polyphylla	502	PF00067	65..469
+A0A517FND1	reviewed	Cytochrome P450 CYP82J17	78534	Trigonella foenum-graecum	523	PF00067	40..504
+A0A517FND3	reviewed	Cholesterol 16,22-dihydroxylase CYP90G4	78534	Trigonella foenum-graecum	481	PF00067	34..461
+A0A5A4DV62	reviewed	Cholesterol 22-hydroxylase CYP90B27	49666	Paris polyphylla	484	PF00067	36..459
+A0A5B8YU73	reviewed	Cytochrome P450 monooxygenase GME11363	85828	Pestalotiopsis microspora	573	PF00067	54..446,485..547
+A0A6F8RP03	reviewed	Cytochrome P450 monooxygenase grgG	5081	Penicillium sp.	558	PF00067	40..520
+A0A6J4BC30	reviewed	Cytochrome P450 monooxygenase LUC2	29916	Fusarium sp.	509	PF00067	79..491
+A0A6S6AA17	reviewed	Cytochrome P450 monooxygenase g430	29916	Fusarium sp.	571	PF00067	68..493
+A0A6S6QI82	reviewed	Cytochrome P450 monooxygenase ple1	693819	Rhodocybe pseudopiperita	523	PF00067	36..479
+A0A6S6QP77	reviewed	Cytochrome P450 monooxygenase ple6	693819	Rhodocybe pseudopiperita	525	PF00067	42..501
+A0A6S6QPY4	reviewed	Cytochrome P450 monooxygenase ple5B	693819	Rhodocybe pseudopiperita	523	PF00067	41..478
+A0A7L8UVC5	reviewed	Cytochrome P450 monooxygenase ffsD	41900	Aspergillus flavipes	531	PF00067	282..520
+A0A8F4SN83	reviewed	Cytochrome P450 monooxygenase atr2	350623	Stereocaulon alpinum	506	PF00067	69..500
+A0A8K1AW54	reviewed	Cytochrome P450 monooxygenase tndB	41900	Aspergillus flavipes	485	PF00067	73..484
+A0JJT8	reviewed	Cytochrome P450 monooxygenase tenA	176275	Beauveria bassiana	508	PF00067	76..486
+A0JJT9	reviewed	Cytochrome P450 monooxygenase tenB	176275	Beauveria bassiana	539	PF00067	161..529
+A0R4Q6	reviewed	Steroid C26-monooxygenase	246196	Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155)	401	PF00067	174..364
+A0R4Y3	reviewed	Steroid C26-monooxygenase	246196	Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155)	427	PF00067	218..377
+A1C8C2	reviewed	Cytochrome P450 monooxygenase oblB	344612	Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)	520	PF00067	66..481
+A1CFL5	reviewed	Cytochrome P450 monooxygenase patH	344612	Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)	524	PF00067	32..475
+A1CFL6	reviewed	Cytochrome P450 monooxygenase patI	344612	Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)	529	PF00067	39..486
+A1CLY9	reviewed	Cytochrome P450 monooxygenase ccsD	344612	Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)	494	PF00067	245..474
+A1CLZ3	reviewed	Cytochrome P450 monooxygenase ccsG	344612	Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)	501	PF00067	140..478
+A1DA60	reviewed	Tryprostatin B 6-hydroxylase	331117	Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181)	548	PF00067	110..521
+A1DA63	reviewed	Fumitremorgin C synthase	331117	Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181)	526	PF00067	40..476
+A1DA65	reviewed	Fumitremorgin C monooxygenase	331117	Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181)	504	PF00067	150..489
+A1DN29	reviewed	Sesterfisheric acid synthase	331117	Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181)	547	PF00067	155..521
+A1YJE2	reviewed	Nicotine N-demethylase CYP82E3	4098	Nicotiana tomentosiformis	518	PF00067	35..500
+A1YJE3	reviewed	Nicotine N-demethylase CYP82E4	4098	Nicotiana tomentosiformis	517	PF00067	35..499
+A2A974	reviewed	Cytochrome P450 4A12B	10090	Mus musculus	508	PF00067	52..500
+A2QBE8	reviewed	Cytochrome P450 monooxygenase aunB	425011	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	447	PF00067	253..415
+A2QK67	reviewed	Bicoumarin synthase ktnC	425011	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	420	PF00067	150..391
+A2QLV1	reviewed	Self-sufficient cytochrome P450 monooxygenase CYP505E1	425011	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	1091	PF00067	36..478
+A2QTE8	reviewed	Cytochrome P450 monooxygenase orf2	425011	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	488	PF00067	60..478
+A2QTW5	reviewed	Benzoate 4-monooxygenase bphA	425011	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	517	PF00067	39..507
+A2R6G9	reviewed	Cytochrome P450 monooxygenase otaC	425011	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	509	PF00067	58..480
+A2RRT9	reviewed	Cytochrome P450 4V2	10116	Rattus norvegicus	525	PF00067	51..509
+A2WLP4	reviewed	Cytochrome P450 90D2	39946	Oryza sativa subsp. indica	490	PF00067	50..466
+A2Z212	reviewed	Abscisic acid 8'-hydroxylase 3	39946	Oryza sativa subsp. indica	500	PF00067	45..456
+A2ZHX7	reviewed	Cytochrome P450 90A4	39946	Oryza sativa subsp. indica	501	PF00067	43..475
+A3A871	reviewed	Ent-isokaurene C2/C3-hydroxylase	39947	Oryza sativa subsp. japonica	515	PF00067	34..495
+A4D9R2	reviewed	Cytochrome P450 monooxygenase pyr3	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	518	PF00067	153..495
+A4D9R3	reviewed	Cytochrome P450 monooxygenase pyr9	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	502	PF00067	218..473
+A4F7P2	reviewed	Cytochrome P450 family protein EryCII	405948	Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338)	361	PF00067	236..303
+A5ABG2	reviewed	Cytochrome P450 monooxygenase pynD	425011	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	482	PF00067	30..452
+A5BFI4	reviewed	Beta-amyrin 28-monooxygenase	29760	Vitis vinifera	480	PF00067	37..452
+A6YIH8	reviewed	Premnaspirodiene oxygenase	35626	Hyoscyamus muticus	502	PF00067	33..481
+A7VMU4	reviewed	Cytochrome P450 monooxygenase AMT3	5599	Alternaria alternata	489	PF00067	34..472
+A8C7R4	reviewed	Inactive cytochrome P450 monooxygenase cloA	40602	Claviceps fusiformis	511	PF00067	84..476
+A8CDR5	reviewed	Corytuberine synthase	3442	Coptis japonica	486	PF00067	29..468
+A8NCK4	reviewed	Cytochrome P450 monooxygenase COX1	240176	Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003)	518	PF00067	37..487
+A8NCK6	reviewed	Cytochrome P450 monooxygenase COX2	240176	Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003)	526	PF00067	41..500
+A8WGA0	reviewed	Cytochrome P450 27C1	7955	Danio rerio	540	PF00067	74..528
+A9JPE0	reviewed	Cytochrome P450 monooxygenase AtmP	5059	Aspergillus flavus	519	PF00067	181..492
+A9JPE2	reviewed	Cytochrome P450 monooxygenase atmQ	5059	Aspergillus flavus	529	PF00067	80..516
+A9QNE7	reviewed	Abscisic acid 8'-hydroxylase CYP707A1	4081	Solanum lycopersicum	476	PF00067	41..448
+B0Y566	reviewed	Cytochrome P450 monooxygenase afumB	451804	Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10)	508	PF00067	43..493
+B0Y6R2	reviewed	Psi-producing oxygenase A	451804	Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10)	1079	PF00067	933..1021
+B1GVX2	reviewed	Cytochrome P450 monooxygenase BOA4	332648	Botryotinia fuckeliana (strain B05.10)	495	PF00067	137..487
+B1GVX3	reviewed	Cytochrome P450 monooxygenase BOA3	332648	Botryotinia fuckeliana (strain B05.10)	506	PF00067	66..480
+B1NF18	reviewed	Salutaridine synthase	3469	Papaver somniferum	505	PF00067	44..483
+B1NF19	reviewed	Trifunctional (S)-stylopine synthase/(S)-nandinine synthase/(S)-canadine synthase	54796	Argemone mexicana	504	PF00067	49..492
+B1NF20	reviewed	Cheilanthifoline synthase	54796	Argemone mexicana	494	PF00067	37..484
+B2RML6	reviewed	Cytochrome P450 monooxygenase BOT4	40559	Botryotinia fuckeliana	526	PF00067	83..494
+B2RXA7	reviewed	Cytochrome P450 26C1	10090	Mus musculus	518	PF00067	50..480
+B3FWR7	reviewed	Cytochrome P450 monooxygenase hmp1	193393	Hypomyces subiculosus	502	PF00067	58..475
+B3FWT9	reviewed	Cytochrome P450 monooxygenase rdc4	280754	Metacordyceps chlamydosporia	492	PF00067	52..471
+B3LF83	reviewed	Probable inactive linolenate hydroperoxide lyase	3702	Arabidopsis thaliana	384	PF00067	219..323
+B3RFJ6	reviewed	Cytochrome P450 86A22	4102	Petunia hybrida	553	PF00067	30..498
+B4FVP3	reviewed	Zealexin A1 synthase	4577	Zea mays	505	PF00067	33..487
+B4XY99	reviewed	5-methyl-1-naphthoate 3-hydroxylase	285525	Streptomyces sahachiroi	401	PF00067	179..362
+B5BSX1	reviewed	Beta-amyrin 11-oxidase	74613	Glycyrrhiza uralensis	493	PF00067	44..466
+B5UAQ8	reviewed	Cheilanthifoline synthase	3467	Eschscholzia californica	490	PF00067	34..477
+B6H066	reviewed	Cytochrome P450 monooxygenase prx8	500485	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	540	PF00067	200..515
+B6H067	reviewed	Cytochrome P450 monooxygenase prx9	500485	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	579	PF00067	90..542
+B6HFX9	reviewed	Conidiogenone synthase PchP450	500485	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	491	PF00067	52..476
+B6HJU3	reviewed	Cytochrome P450 monooxygenase roqO	500485	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	503	PF00067	149..489
+B6HJU5	reviewed	Cytochrome P450 monooxygenase roqR	500485	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	511	PF00067	96..482
+B6HUQ4	reviewed	Cytochrome P450 monooxygenase adrA	500485	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	512	PF00067	140..484
+B6SSW8	reviewed	Cytochrome P450 714B3	4577	Zea mays	527	PF00067	97..507
+B8AJL3	reviewed	Steroid (22S)-hydroxylase	39946	Oryza sativa subsp. indica	506	PF00067	55..477
+B8AV52	reviewed	Cytochrome P450 724B1	39946	Oryza sativa subsp. indica	480	PF00067	36..460
+B8BJ22	reviewed	Cytochrome P450 90A3	39946	Oryza sativa subsp. indica	501	PF00067	43..475
+B8M9J6	reviewed	Cytochrome P450 monooxygenase tropD	441959	Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006)	514	PF00067	47..490
+B8MV61	reviewed	Cytochrome P450 monooxygenase tpeC	441959	Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006)	507	PF00067	64..496
+B8N0E9	reviewed	Cytochrome P450 monooxygenase asaD	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	513	PF00067	94..493
+B8N2C8	reviewed	Sterol 14-alpha demethylase	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	513	PF00067	44..502
+B8N8R3	reviewed	Cytochrome P450 monooxygenase afvE	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	471	PF00067	126..441
+B8NFL5	reviewed	Sterol 14-alpha demethylase	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	491	PF00067	164..471
+B8NHD8	reviewed	Cytochrome P450 monooxygenase flvC	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	538	PF00067	156..505
+B8NHD9	reviewed	Cytochrome P450 monooxygenase flvD	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	511	PF00067	65..480
+B8NHY4	reviewed	O-methylsterigmatocystin oxidoreductase	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	528	PF00067	32..485
+B8NJG8	reviewed	Cytochrome P450 monooxygenase lepD	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	508	PF00067	89..481
+B8NJH2	reviewed	Cytochrome P450 monooxygenase lepH	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	507	PF00067	127..483
+B8NM64	reviewed	Cytochrome P450 monooxygenase ustC	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	403	PF00067	170..329
+B8NR71	reviewed	Cytochrome P450 monooxygenase dtpC	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	181	PF00067	1..154
+B8NU01	reviewed	Cytochrome P450 monooxygenase lnaC	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	524	PF00067	153..501
+B8NU02	reviewed	Cytochrome P450 monooxygenase lnaD	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	511	PF00067	170..491
+B8NUK6	reviewed	Sterol 14-alpha demethylase	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	513	PF00067	39..498
+B8NWW3	reviewed	Cytochrome P450 monooxygenase lnbC	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	503	PF00067	63..483
+B8NYW9	reviewed	Cytochrome P450 monooxygenase AFLA_114810	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	510	PF00067	37..477
+B8QHP1	reviewed	Cytochrome P450 52-M1	75736	Starmerella bombicola	538	PF00067	101..508
+B8QHP3	reviewed	Cytochrome P450 52-E3	75736	Starmerella bombicola	519	PF00067	101..483
+B8QHP5	reviewed	Cytochrome P450 52-N1	75736	Starmerella bombicola	523	PF00067	60..506
+B9DFU2	reviewed	Cytochrome P450 711A1	3702	Arabidopsis thaliana	522	PF00067	47..492
+B9G934	reviewed	Cytochrome P450 714C3	39947	Oryza sativa subsp. japonica	511	PF00067	86..488
+B9GBJ9	reviewed	Cytochrome P450 714C1	39947	Oryza sativa subsp. japonica	503	PF00067	83..480
+B9WZX1	reviewed	Tryprostatin B 6-hydroxylase	746128	Aspergillus fumigatus	559	PF00067	121..532
+B9WZX4	reviewed	Fumitremorgin C synthase	746128	Aspergillus fumigatus	526	PF00067	40..479
+B9WZX6	reviewed	Fumitremorgin C monooxygenase	746128	Aspergillus fumigatus	504	PF00067	148..489
+B9X287	reviewed	Cytochrome P450 734A6	39947	Oryza sativa subsp. japonica	542	PF00067	84..499
+C0SJS2	reviewed	Psoralen synthase	4041	Pastinaca sativa	473	PF00067	26..469
+C0SJS3	reviewed	Angelicin synthase	4041	Pastinaca sativa	478	PF00067	26..468
+C0SJS4	reviewed	Psoralen synthase	4045	Apium graveolens	476	PF00067	27..471
+C0SPF7	reviewed	Farnesoate epoxidase	7091	Bombyx mori	493	PF00067	26..483
+C4B644	reviewed	Vitamin D(3) 25-hydroxylase	2074	Pseudonocardia autotrophica	403	PF00067	180..364
+C5H886	reviewed	Cytochrome P450 monooxygenase radP	2587399	Floropilus chiversii	501	PF00067	61..486
+C7J3A2	reviewed	Ent-kaurene oxidase-like protein 1	39947	Oryza sativa subsp. japonica	299	PF00067	52..289
+C8V0D4	reviewed	Cytochrome P450 monooxygenase cicH	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	497	PF00067	43..482
+C8V7P3	reviewed	N-acetyltryptophan 6-hydroxylase ivoC	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	512	PF00067	61..492
+C8VI81	reviewed	Cytochrome P450 monooxygenase pkfB	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	508	PF00067	55..479
+C8VJR0	reviewed	Cytochrome P450 monooxygenase alnH	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	546	PF00067	44..480
+C8VN91	reviewed	Cytochrome P450 monooxygenase AN1598	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	534	PF00067	86..500
+C9K1X6	reviewed	Cyclooctat-9-en-7-ol 5-monooxygenase	67327	Streptomyces melanosporofaciens	459	PF00067	29..444
+C9K1X7	reviewed	Cyclooctatin synthase	67327	Streptomyces melanosporofaciens	459	PF00067	25..445
+C9K202	reviewed	Cytochrome P450 monooxygenase cpaH	5062	Aspergillus oryzae	509	PF00067	66..503
+D1MI46	reviewed	Geraniol 8-hydroxylase	137888	Swertia mussotii	495	PF00067	33..480
+D1MX85	reviewed	Fusicoccadiene C-8 hydroxylase	29001	Alternaria brassicicola	527	PF00067	73..499
+D1MX86	reviewed	Cytochrome P450 monooxygenase bsc2	29001	Alternaria brassicicola	525	PF00067	155..494
+D1MX87	reviewed	Cytochrome P450 monooxygenase bsc5	29001	Alternaria brassicicola	523	PF00067	157..497
+D1MX88	reviewed	Fusicoccadiene 8-ol C-16 hydroxylase	29001	Alternaria brassicicola	495	PF00067	89..484
+D1MX89	reviewed	Cytochrome P450 monooxygenase bsc11	29001	Alternaria brassicicola	517	PF00067	130..480
+D2CGS0	reviewed	5-OH-xanthotoxin synthase	48026	Ammi majus	509	PF00067	35..499
+D4AY62	reviewed	Cytochrome P450 ARB_01131	663331	Arthroderma benhamiae (strain ATCC MYA-4681 / CBS 112371)	499	PF00067	96..466
+D5E3H2	reviewed	Cytochrome P450 CYP107DY1	545693	Priestia megaterium (strain ATCC 12872 / QMB1551)	410	PF00067	96..381
+D5J9U8	reviewed	Germacrene A hydroxylase	4236	Lactuca sativa	488	PF00067	35..473
+D5JBW8	reviewed	Germacrene A hydroxylase	13427	Cichorium intybus	488	PF00067	35..473
+D5JBW9	reviewed	Germacrene A hydroxylase	324593	Saussurea costus	488	PF00067	34..476
+D5JBX0	reviewed	Germacrene A hydroxylase	4232	Helianthus annuus	488	PF00067	34..470
+D5JBX1	reviewed	Germacrene A hydroxylase	171760	Barnadesia spinosa	496	PF00067	37..467
+D7PHY9	reviewed	Cytochrome P450 monooxygenase vrtK	36650	Penicillium aethiopicum	534	PF00067	64..495
+D7PHZ6	reviewed	Cytochrome P450 monooxygenase vrtE	36650	Penicillium aethiopicum	520	PF00067	91..476
+D7PI20	reviewed	Cytochrome P450 monooxygenase gsfF	36650	Penicillium aethiopicum	504	PF00067	46..498
+D7UQ39	reviewed	Cytochrome P450 monooxygenase sol6	48100	Alternaria solani	461	PF00067	59..447
+D8LQS7	reviewed	Hydroperoxide bicyclase CYP5164A3, mitochondrial	2880	Ectocarpus siliculosus	510	PF00067	315..437
+E1ACQ2	reviewed	Cytochrome P450 monooxygenase notG	877550	Aspergillus sp. (strain MF297-2)	543	PF00067	98..523
+E1ACQ3	reviewed	Cytochrome P450 monooxygenase notH	877550	Aspergillus sp. (strain MF297-2)	501	PF00067	151..481
+E1B2Z9	reviewed	Cytochrome P450 71AV8	13427	Cichorium intybus	496	PF00067	34..475
+E1BHJ4	reviewed	Cytochrome P450 26B1	9913	Bos taurus	512	PF00067	73..466
+E3VWI3	reviewed	Pentalenolactone synthase	29301	Streptomyces arenae	398	PF00067	266..367
+E3VWJ9	reviewed	Pentalenolactone synthase	1905	Streptomyces exfoliatus	398	PF00067	182..367
+E3W9C4	reviewed	Alpha-humulene 10-hydroxylase	311405	Zingiber zerumbet	513	PF00067	44..490
+E5A7D6	reviewed	Cytochrome P450 monooxygenase abl5	985895	Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8)	551	PF00067	88..540
+E5A7D8	reviewed	Cytochrome P450 monooxygenase abl2	985895	Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8)	555	PF00067	155..522
+E5A7E1	reviewed	Cytochrome P450 monooxygenase abl1	985895	Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8)	569	PF00067	63..493
+E5AE41	reviewed	Phomenoic acid biosynthesis cluster cytochrome P450 monooxygenase	985895	Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8)	588	PF00067	115..552
+E9FCP5	reviewed	Cytochrome P450 monooxygenase dtxS2	655844	Metarhizium robertsii (strain ARSEF 23 / ATCC MYA-3075)	516	PF00067	63..495
+E9KBR8	reviewed	Cytochrome P450 93B16	3847	Glycine max	527	PF00067	37..495
+E9KMQ3	reviewed	Grayanic acid biosynthesis cluster cytochrome P450 monooxygenase	27339	Cladonia grayi	570	PF00067	68..391,458..543
+E9Q5K4	reviewed	Cytochrome P450 2C44	10090	Mus musculus	494	PF00067	34..489
+E9Q816	reviewed	Cytochrome P450 2W1	10090	Mus musculus	493	PF00067	35..488
+E9QY26	reviewed	Sterol 14-alpha demethylase cyp51B	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	524	PF00067	56..500
+E9RCR4	reviewed	Cytochrome P450 monooxygenase gliC	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	512	PF00067	72..496
+E9RHV4	reviewed	Cytochrome P450 monooxygenase cyp1	5270	Ustilago maydis	435	PF00067	12..416
+F1B282	reviewed	Trans-cinnamate 4-monooxygenase C4H1	4102	Petunia hybrida	506	PF00067	34..496
+F1B283	reviewed	Trans-cinnamate 4-monooxygenase C4H2	4102	Petunia hybrida	505	PF00067	34..496
+F1Q8C3	reviewed	Cytochrome P450 2K6	7955	Danio rerio	505	PF00067	43..500
+F1RE08	reviewed	Prostacyclin synthase	7955	Danio rerio	480	PF00067	33..466
+F1SY49	reviewed	Cytochrome P450 monooxygenase 41	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	568	PF00067	73..559
+F1SY52	reviewed	Cytochrome P450 monooxygenase 45	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	529	PF00067	50..479
+F1SY62	reviewed	Cytochrome P450 monooxygenase 58	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	526	PF00067	46..488
+F1SY66	reviewed	Cytochrome P450 monooxygenase 64	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	495	PF00067	33..476
+F1SY68	reviewed	Cytochrome P450 monooxygenase 67	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	515	PF00067	38..500
+F1SY70	reviewed	Cytochrome P450 monooxygenase 69	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	567	PF00067	33..500
+F1SY71	reviewed	Cytochrome P450 monooxygenase 71	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	498	PF00067	34..472
+F1SY73	reviewed	Cytochrome P450 monooxygenase 74	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	508	PF00067	43..485
+F1SY74	reviewed	Cytochrome P450 monooxygenase 75	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	613	PF00067	92..561
+F1SY75	reviewed	Cytochrome P450 monooxygenase 79	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	567	PF00067	33..500
+F1SY77	reviewed	Cytochrome P450 monooxygenase 81	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	547	PF00067	36..510
+F1SY82	reviewed	Cytochrome P450 monooxygenase 88	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	495	PF00067	33..475
+F1SY83	reviewed	Cytochrome P450 monooxygenase 89	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	568	PF00067	73..559
+F1SY85	reviewed	Cytochrome P450 monooxygenase 91	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	542	PF00067	34..511
+F1SY91	reviewed	Cytochrome P450 monooxygenase 98	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	520	PF00067	37..464
+F1SY95	reviewed	Cytochrome P450 monooxygenase 103	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	500	PF00067	31..484
+F1SY96	reviewed	Cytochrome P450 monooxygenase 105	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	521	PF00067	45..474
+F1SY99	reviewed	Cytochrome P450 monooxygenase 110	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	498	PF00067	34..472
+F1SYA2	reviewed	Cytochrome P450 monooxygenase 113	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	495	PF00067	33..457
+F1SYB2	reviewed	Cytochrome P450 monooxygenase 124	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	517	PF00067	86..481
+F1SYB6	reviewed	Cytochrome P450 monooxygenase 128	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	547	PF00067	41..524
+F1SYC2	reviewed	Cytochrome P450 monooxygenase 136	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	529	PF00067	38..500
+F1SYD1	reviewed	Cytochrome P450 monooxygenase 151	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	497	PF00067	130..490
+F1SYE5	reviewed	Cytochrome P450 monooxygenase 169	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	543	PF00067	40..515
+F1SYF1	reviewed	Cytochrome P450 monooxygenase 176	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	520	PF00067	36..466
+F1SYG6	reviewed	Cytochrome P450 monooxygenase 197	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	545	PF00067	41..506
+F1SYH0	reviewed	Cytochrome P450 monooxygenase 205	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	543	PF00067	40..519
+F1SYH1	reviewed	Cytochrome P450 monooxygenase 208	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	512	PF00067	35..463
+F1SYH4	reviewed	Cytochrome P450 monooxygenase 212	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	545	PF00067	36..514
+F1SYH7	reviewed	Cytochrome P450 monooxygenase 215	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	547	PF00067	41..524
+F1SYI1	reviewed	Cytochrome P450 monooxygenase 219	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	546	PF00067	37..514
+F1SYI7	reviewed	Cytochrome P450 monooxygenase 226	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	526	PF00067	48..477
+F1SYI9	reviewed	Cytochrome P450 monooxygenase 231	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	567	PF00067	33..500
+F2Z9C1	reviewed	Protopine 6-monooxygenase	3467	Eschscholzia californica	524	PF00067	46..504
+F2ZAF9	reviewed	Cytochrome P450 monooxygenase 253	561896	Postia placenta (strain ATCC 44394 / Madison 698-R)	526	PF00067	46..486
+F4IK45	reviewed	Cytochrome P450 709B2	3702	Arabidopsis thaliana	572	PF00067	142..554
+F4JW83	reviewed	Cytochrome P450 84A4	3702	Arabidopsis thaliana	512	PF00067	33..485
+F5BHA2	reviewed	Tabersonine/lochnericine 19-hydroxylase	4058	Catharanthus roseus	507	PF00067	35..492
+F6H9N6	reviewed	Beta-amyrin 28-monooxygenase	29760	Vitis vinifera	480	PF00067	37..452
+F8S1H3	reviewed	Germacrene A acid 8-beta-hydroxylase	4232	Helianthus annuus	488	PF00067	29..473
+F8S1H8	reviewed	Eupatolide synthase	4232	Helianthus annuus	491	PF00067	40..477
+F8S1I0	reviewed	Costunolide synthase	4236	Lactuca sativa	490	PF00067	31..476
+F9FAJ9	reviewed	Bifunctional dioxygenase (DOX)-epoxy alcohol synthase (EAS)	660025	Fusarium oxysporum (strain Fo5176)	1283	PF00067	968..1052
+G0KYA9	reviewed	Trichothecene C-4 hydroxylase	490622	Trichoderma arundinaceum	499	PF00067	39..484
+G0KYB2	reviewed	Cytochrome P450 monooxygenase TRI4	490622	Trichoderma arundinaceum	517	PF00067	59..493
+G0LET5	reviewed	Cytochrome P450 monooxygenase BOA7	332648	Botryotinia fuckeliana (strain B05.10)	535	PF00067	209..527
+G0REX9	reviewed	Cytochrome P450 monooxygenase iliC	431241	Hypocrea jecorina (strain QM6a)	449	PF00067	11..423
+G1UB11	reviewed	C-22 sterol desaturase ERG5	237561	Candida albicans (strain SC5314 / ATCC MYA-2876)	517	PF00067	79..463
+G1XTZ9	reviewed	Cytochrome P450 monooxygenase AOL_s00215g278	756982	Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491)	585	PF00067	73..543
+G1XU01	reviewed	Cytochrome P450 monooxygenase AOL_s00215g280	756982	Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491)	501	PF00067	77..477
+G1XU03	reviewed	Cytochrome P450 monooxygenase AOL_s00215g282	756982	Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491)	537	PF00067	37..487
+G3GBK0	reviewed	Costunolide synthase	13427	Cichorium intybus	494	PF00067	31..476
+G3JUI6	reviewed	Cytochrome P450 monooxygenase milC	983644	Cordyceps militaris (strain CM01)	526	PF00067	92..511
+G3V7X8	reviewed	Cytochrome P450 26B1	10116	Rattus norvegicus	512	PF00067	73..466
+G3XMC3	reviewed	Cytochrome P450 monooxygenase azaI	380704	Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 / NCTC 3858a / NRRL 328 / USDA 3528.7)	467	PF00067	40..366,384..460
+G3XSI3	reviewed	Cytochrome P450 monooxygenase aunB	380704	Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 / NCTC 3858a / NRRL 328 / USDA 3528.7)	159	PF00067	6..158
+G3Y416	reviewed	Cytochrome P450 monooxygenase yanC	380704	Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 / NCTC 3858a / NRRL 328 / USDA 3528.7)	537	PF00067	33..487
+G3Y420	reviewed	Cytochrome P450 monooxygenase yanH	380704	Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 / NCTC 3858a / NRRL 328 / USDA 3528.7)	517	PF00067	72..494
+G4MVZ7	reviewed	Cytochrome P450 monooxygenase CYP1	242507	Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	543	PF00067	195..518
+G4MWA8	reviewed	Cytochrome P450 monooxygenase CYP2	242507	Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	453	PF00067	162..442
+G4MWB2	reviewed	Cytochrome P450 monooxygenase CYP3	242507	Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	513	PF00067	220..489
+G4MWB3	reviewed	Cytochrome P450 monooxygenase CYP4	242507	Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	534	PF00067	250..512
+G4N2X2	reviewed	Cytochrome P450 monooxygenase ABA2	242507	Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	521	PF00067	62..485
+G4N2X9	reviewed	Bifunctional dioxygenase (DOX)-epoxy alcohol synthase (EAS)	242507	Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	1153	PF00067	1034..1103
+G4N2Y3	reviewed	Cytochrome P450 monooxygenase ABA1	242507	Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	512	PF00067	50..496
+G4XV71	reviewed	2-hydroxyisoflavanone synthase	74613	Glycyrrhiza uralensis	523	PF00067	36..480
+G5EB19	reviewed	Psi-producing oxygenase A	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	1081	PF00067	925..1020
+G5EJN7	reviewed	Self-sufficient cytochrome P450 monooxygenase CYP505E3	2822231	Phanerodontia chrysosporium	1057	PF00067	6..445
+G7XMT1	reviewed	Self-sufficient cytochrome P450 monooxygenase CYP505E5	1033177	Aspergillus kawachii (strain NBRC 4308)	1050	PF00067	8..450
+G9MLG2	reviewed	Self-sufficient cytochrome P450 monooxygenase CYP505P1	413071	Hypocrea virens (strain Gv29-8 / FGSC 10586)	1076	PF00067	13..459
+G9N4A8	reviewed	Cytochrome P450 monooxygenase virE	413071	Hypocrea virens (strain Gv29-8 / FGSC 10586)	551	PF00067	31..465
+H1A981	reviewed	11-oxo-beta-amyrin 30-oxidase	3880	Medicago truncatula	524	PF00067	93..500
+H1A988	reviewed	11-oxo-beta-amyrin 30-oxidase	74613	Glycyrrhiza uralensis	523	PF00067	89..500
+H2DH16	reviewed	Dammarenediol 12-hydroxylase	4054	Panax ginseng	486	PF00067	43..459
+H2DH17	reviewed	Cytochrome P450 CYP749A22	4054	Panax ginseng	524	PF00067	103..499
+H2DH18	reviewed	Cytochrome P450 CYP736A12	4054	Panax ginseng	500	PF00067	34..492
+H2DH19	reviewed	Cytochrome P450 CYP71D312	4054	Panax ginseng	460	PF00067	10..444
+H2DH20	reviewed	Cytochrome P450 CYP71D313	4054	Panax ginseng	505	PF00067	32..482
+H2DH21	reviewed	Cytochrome P450 CYP72A219	4054	Panax ginseng	518	PF00067	90..492
+H2DH22	reviewed	Cytochrome P450 CYP73A100	4054	Panax ginseng	533	PF00067	61..500
+H2DH23	reviewed	Cytochrome P450 CYP82H23	4054	Panax ginseng	245	PF00067	2..240
+H2DH24	reviewed	Cytochrome P450 CYP82D47	4054	Panax ginseng	363	PF00067	9..363
+H2KYS3	reviewed	3-ketosteroid oxygenase	6239	Caenorhabditis elegans	572	PF00067	108..560
+I1GQE7	reviewed	Cytochrome P450 85A1	15368	Brachypodium distachyon	466	PF00067	215..448
+I1H7R8	reviewed	Steroid (22S)-hydroxylase	15368	Brachypodium distachyon	507	PF00067	50..472
+I1HL09	reviewed	Cytochrome P450 90D2	15368	Brachypodium distachyon	510	PF00067	49..473
+I1IUJ6	reviewed	3beta,22alpha-dihydroxysteroid 3-dehydrogenase	15368	Brachypodium distachyon	498	PF00067	44..477
+I1RBR4	reviewed	Sterol 14-alpha demethylase CYP51A	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	526	PF00067	56..497
+I1RE80	reviewed	C-22 sterol desaturase ERG5A	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	536	PF00067	91..497
+I1RJR2	reviewed	Sterol 14-alpha demethylase CYP51A	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	507	PF00067	38..497
+I1RL13	reviewed	Cytochrome P450 monooxygenase dpfgJ	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	481	PF00067	98..464
+I1RV19	reviewed	Cytochrome P450 monooxygenase FG08079	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	509	PF00067	54..490
+I1S163	reviewed	Cytochrome P450 monooxygenase FSL4	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	557	PF00067	108..524
+I1S2J5	reviewed	Cytochrome P450 monooxygenase FGM1	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	505	PF00067	60..467
+I1S2M5	reviewed	Sterol 14-alpha demethylase CYP51C	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	517	PF00067	51..507
+I1TEM0	reviewed	Geissoschizine oxidase	4058	Catharanthus roseus	501	PF00067	34..480
+I1TEM1	reviewed	Tabersonine 3-oxygenase	4058	Catharanthus roseus	506	PF00067	38..491
+I3DZK9	reviewed	Fatty-acid peroxygenase	796606	Bacillus methanolicus (strain MGA3 / ATCC 53907)	419	PF00067	276..394
+I3PFJ5	reviewed	Cytochrome P450 76AD1	161934	Beta vulgaris	497	PF00067	33..488
+I3PLR0	reviewed	(S)-1-hydroxy-N-methylcanadine 13-hydroxylase CYP82X2	3469	Papaver somniferum	554	PF00067	57..531
+I3PLR1	reviewed	(S)-N-methylcanadine 1-hydroxylase CYP82Y1	3469	Papaver somniferum	556	PF00067	62..533
+I3QBP4	reviewed	(S)-canadine synthase CYP719A21	3469	Papaver somniferum	488	PF00067	38..474
+I3V6B1	reviewed	(S)-N-methylcoclaurine 3'-hydroxylase-like protein	3469	Papaver somniferum	440	PF00067	30..432
+I3V6B7	reviewed	(13S,14R)-13-O-acetyl-1-hydroxy-N-methylcanadine 8-hydroxylase CYP82X1	3469	Papaver somniferum	540	PF00067	50..521
+I7C6E8	reviewed	Beta-amyrin 28-monooxygenase	4054	Panax ginseng	481	PF00067	38..453
+I7CT85	reviewed	Protopanaxadiol 6-hydroxylase	4054	Panax ginseng	469	PF00067	32..441
+I7LRH3	reviewed	Cytochrome P450 monooxygenase mpaDE	5074	Penicillium brevicompactum	853	PF00067	48..481
+I7ZK32	reviewed	Self-sufficient cytochrome P450 monooxygenase CYP505C3	1160506	Aspergillus oryzae (strain 3.042)	1054	PF00067	14..441
+J4UJ10	reviewed	Cytochrome P450 monooxygenase tenB	655819	Beauveria bassiana (strain ARSEF 2860)	544	PF00067	162..534
+J5JKC1	reviewed	Cytochrome P450 monooxygenase tenA	655819	Beauveria bassiana (strain ARSEF 2860)	529	PF00067	76..399,424..507
+J7FIP8	reviewed	Cytochrome P450 monooxygenase idtP	40601	Claviceps paspali	498	PF00067	103..468
+J7FJH1	reviewed	Cytochrome P450 monooxygenase idtQ	40601	Claviceps paspali	529	PF00067	143..502
+K0E684	reviewed	Cytochrome P450 monooxygenase ecdH	41736	Aspergillus rugulosus	503	PF00067	150..476
+K0E690	reviewed	Cytochrome P450 monooxygenase htyF	41736	Aspergillus rugulosus	683	PF00067	164..516
+K2RLM2	reviewed	Cytochrome P450 monooxygenase dpmpJ	1126212	Macrophomina phaseolina (strain MS6)	337	PF00067	100..285
+K2RQZ2	reviewed	Cytochrome P450 monooxygenase mpsF	1126212	Macrophomina phaseolina (strain MS6)	410	PF00067	2..389
+K4BV52	reviewed	Allene oxide synthase 1, chloroplastic	4081	Solanum lycopersicum	534	PF00067	362..467
+K4CEE8	reviewed	Beta-amyrin 28-monooxygenase	4081	Solanum lycopersicum	482	PF00067	38..453
+K4CF70	reviewed	Fatty acid hydroperoxide lyase, chloroplastic	4081	Solanum lycopersicum	476	PF00067	307..422
+K4CI52	reviewed	Abscisic acid 8'-hydroxylase CYP707A2	4081	Solanum lycopersicum	469	PF00067	37..440
+K7NBR2	reviewed	Cucurbitadienol 11-hydroxylase	190515	Siraitia grosvenorii	473	PF00067	33..447
+L0E2R0	reviewed	Cytochrome P450 monooxygenase phqM	70095	Penicillium fellutanum	536	PF00067	65..494
+L0E2V1	reviewed	Cytochrome P450 monooxygenase phqL	70095	Penicillium fellutanum	563	PF00067	129..546
+L0E307	reviewed	Cytochrome P450 monooxygenase phqO	70095	Penicillium fellutanum	436	PF00067	174..407
+L0MXJ1	reviewed	Fusicoccadiene 8-ol C-16-hydroxylase	1214568	Phomopsis amygdali	526	PF00067	81..514
+L0MYS5	reviewed	Fusicocca-1,10(14)-diene-8beta,16-diol C-9 hydroxylase	1214568	Phomopsis amygdali	511	PF00067	150..486
+L0MYS8	reviewed	Dideacetyl fusicoccin A C-19 hydroxylase	1214568	Phomopsis amygdali	519	PF00067	244..489
+L0N063	reviewed	Fusicoccadiene C-8 hydroxylase	1214568	Phomopsis amygdali	524	PF00067	73..482
+L0N065	reviewed	Fusicoccin H C-9 hydroxylase	1214568	Phomopsis amygdali	518	PF00067	111..486
+L7HT17	reviewed	Cytochrome P450 monooxygenase ABA2	1143189	Magnaporthe oryzae (strain Y34)	418	PF00067	27..382
+L7HYA8	reviewed	Cytochrome P450 monooxygenase ABA1	1143189	Magnaporthe oryzae (strain Y34)	512	PF00067	50..496
+L7T720	reviewed	Pluviatolide synthase	35933	Podophyllum peltatum	489	PF00067	37..473
+L7T8H2	reviewed	Pluviatolide synthase	93608	Sinopodophyllum hexandrum	489	PF00067	37..474
+L7WME9	reviewed	Cytochrome P450 monooxygenase notG'	46472	Aspergillus versicolor	544	PF00067	99..520
+L7WRY5	reviewed	Cytochrome P450 monooxygenase notH'	46472	Aspergillus versicolor	499	PF00067	148..474
+L7X0L7	reviewed	Protopine 6-monooxygenase	3469	Papaver somniferum	541	PF00067	57..514
+L7X3S1	reviewed	Methyltetrahydroprotoberberine 14-monooxygenase	3469	Papaver somniferum	526	PF00067	51..508
+L8AXV5	reviewed	Cytochrome P450 monooxygenase ACRTS1	5599	Alternaria alternata	375	PF00067	10..361
+M1KVN4	reviewed	Flavonoid-6-hydroxylase	34256	Mentha piperita	516	PF00067	37..492
+M1KXD0	reviewed	Flavonoid-6-hydroxylase	39350	Ocimum basilicum	534	PF00067	42..504
+M1W080	reviewed	Cytochrome P450 monooxygenase tcpC	1111077	Claviceps purpurea (strain 20.1)	505	PF00067	82..477
+M1W266	reviewed	Cytochrome P450 monooxygenase CPUR_05419	1111077	Claviceps purpurea (strain 20.1)	534	PF00067	64..501
+M1WEN7	reviewed	Cytochrome P450 monooxygenase cloA	1111077	Claviceps purpurea (strain 20.1)	507	PF00067	156..475
+M2UJ60	reviewed	Cytochrome P450 monooxygenase tpcC	701091	Cochliobolus heterostrophus (strain C5 / ATCC 48332 / race O)	525	PF00067	45..485
+M2V0Z8	reviewed	Cytochrome P450 monooxygenase tpcB	701091	Cochliobolus heterostrophus (strain C5 / ATCC 48332 / race O)	506	PF00067	53..477
+M2V933	reviewed	Cytochrome P450 monooxygenase oblB	701091	Cochliobolus heterostrophus (strain C5 / ATCC 48332 / race O)	524	PF00067	66..485
+M2XHZ0	reviewed	Versicolorin B desaturase	675120	Dothistroma septosporum (strain NZE10 / CBS 128990)	520	PF00067	61..492
+M2XJ44	reviewed	Hps1-dma1 cluster cytochrome P450 monooxygenase cyp3.1	675120	Dothistroma septosporum (strain NZE10 / CBS 128990)	317	PF00067	26..175,218..306
+M2YIZ5	reviewed	Cytochrome P450 monooxygenase cypX	675120	Dothistroma septosporum (strain NZE10 / CBS 128990)	511	PF00067	74..476
+M2YJD1	reviewed	Averantin hydroxylase	675120	Dothistroma septosporum (strain NZE10 / CBS 128990)	525	PF00067	70..489
+M3A333	reviewed	Cytochrome P450 monooxygenase MYCFIDRAFT_204672	383855	Pseudocercospora fijiensis (strain CIRAD86)	492	PF00067	24..465
+O00061	reviewed	Cytochrome P450 67	55588	Uromyces fabae	541	PF00067	99..531
+O02766	reviewed	7-alpha-hydroxycholest-4-en-3-one 12-alpha-hydroxylase	9986	Oryctolagus cuniculus	500	PF00067	36..488
+O04164	reviewed	Cytochrome P450 71A6	54731	Nepeta racemosa	511	PF00067	28..496
+O04773	reviewed	Flavonoid 3',5'-hydroxylase	56154	Campanula medium	523	PF00067	39..505
+O04790	reviewed	Flavonoid 3',5'-hydroxylase	52518	Eustoma exaltatum subsp. russellianum	510	PF00067	38..490
+O08336	reviewed	Bifunctional cytochrome P450/NADPH--P450 reductase 2	224308	Bacillus subtilis (strain 168)	1054	PF00067	17..449
+O08394	reviewed	Bifunctional cytochrome P450/NADPH--P450 reductase 1	224308	Bacillus subtilis (strain 168)	1061	PF00067	12..447
+O08469	reviewed	Cytochrome P450	224308	Bacillus subtilis (strain 168)	410	PF00067	76..400
+O09158	reviewed	Cytochrome P450 3A25	10090	Mus musculus	503	PF00067	39..493
+O13317	reviewed	Trichothecene C-15 hydroxylase	5514	Fusarium sporotrichioides	492	PF00067	57..484
+O13345	reviewed	O-methylsterigmatocystin oxidoreductase	1403190	Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1)	528	PF00067	32..489
+O13820	reviewed	C-22 sterol desaturase ERG5	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	543	PF00067	55..499
+O14442	reviewed	Eburicol 14-alpha-demethylase	52586	Uncinula necator	524	PF00067	56..504
+O15528	reviewed	25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial	9606	Homo sapiens	508	PF00067	57..504
+O16805	reviewed	Cytochrome P450 4d1	7240	Drosophila simulans	512	PF00067	35..506
+O17624	reviewed	Putative cytochrome P450 cyp-13B1	6239	Caenorhabditis elegans	510	PF00067	31..486
+O18596	reviewed	Cytochrome P450 4d10	7228	Drosophila mettleri	513	PF00067	44..507
+O18635	reviewed	Cytochrome P450 CYP12A2	7370	Musca domestica	537	PF00067	75..530
+O18809	reviewed	Cytochrome P450 2F3	9925	Capra hircus	491	PF00067	31..488
+O18963	reviewed	Cytochrome P450 2E1	9913	Bos taurus	495	PF00067	33..489
+O18992	reviewed	Cytochrome P450 2D19	9483	Callithrix jacchus	497	PF00067	34..493
+O18993	reviewed	Cytochrome P450 3A21	9483	Callithrix jacchus	503	PF00067	39..493
+O22203	reviewed	Cytochrome P450 98A3	3702	Arabidopsis thaliana	508	PF00067	28..481
+O22307	reviewed	Cytochrome P450 71D11	34305	Lotus japonicus	490	PF00067	20..469
+O23051	reviewed	Ent-kaurenoic acid oxidase 1	3702	Arabidopsis thaliana	490	PF00067	46..466
+O23066	reviewed	Cytochrome P450 86A2	3702	Arabidopsis thaliana	553	PF00067	28..500
+O23365	reviewed	Cytochrome P450 97B3, chloroplastic	3702	Arabidopsis thaliana	580	PF00067	103..572
+O23976	reviewed	7-ethoxycoumarin O-deethylase	4233	Helianthus tuberosus	490	PF00067	29..462
+O24312	reviewed	Trans-cinnamate 4-monooxygenase	3693	Populus tremuloides	505	PF00067	34..496
+O31440	reviewed	Fatty-acid peroxygenase	224308	Bacillus subtilis (strain 168)	417	PF00067	277..392
+O31785	reviewed	Polyketide biosynthesis cytochrome P450 PksS	224308	Bacillus subtilis (strain 168)	405	PF00067	84..373
+O34374	reviewed	Putative cytochrome P450 YjiB	224308	Bacillus subtilis (strain 168)	396	PF00067	47..373
+O34926	reviewed	Pulcherriminic acid synthase	224308	Bacillus subtilis (strain 168)	405	PF00067	16..372
+O35074	reviewed	Prostacyclin synthase	10090	Mus musculus	501	PF00067	37..489
+O35084	reviewed	25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial	10090	Mus musculus	507	PF00067	41..503
+O35132	reviewed	25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial	10116	Rattus norvegicus	501	PF00067	51..497
+O35293	reviewed	Cytochrome P450 2F2	10116	Rattus norvegicus	491	PF00067	31..488
+O35728	reviewed	Cytochrome P450 4A14	10090	Mus musculus	507	PF00067	53..500
+O42145	reviewed	Aromatase	7955	Danio rerio	509	PF00067	68..500
+O42231	reviewed	Cytochrome P450 1A1	48191	Chelon auratus	521	PF00067	46..508
+O42430	reviewed	Cytochrome P450 1A1	27771	Limanda limanda	521	PF00067	46..511
+O42457	reviewed	Cytochrome P450 1A1	8175	Sparus aurata	521	PF00067	46..508
+O42563	reviewed	Cytochrome P450 3A27	8022	Oncorhynchus mykiss	518	PF00067	40..496
+O43174	reviewed	Cytochrome P450 26A1	9606	Homo sapiens	497	PF00067	45..472
+O44220	reviewed	Cytochrome P450 12b1, mitochondrial	51166	Drosophila acanthoptera	532	PF00067	63..525
+O44221	reviewed	Cytochrome P450 4e5, mitochondrial	7228	Drosophila mettleri	522	PF00067	37..473
+O45364	reviewed	Probable cytochrome P450 cyp-35D1	6239	Caenorhabditis elegans	499	PF00067	26..478
+O46051	reviewed	Probable cytochrome P450 4d14	7227	Drosophila melanogaster	507	PF00067	34..487
+O46054	reviewed	Cytochrome P450 4ae1	7227	Drosophila melanogaster	496	PF00067	37..478
+O46420	reviewed	Lanosterol 14-alpha demethylase	9823	Sus scrofa	503	PF00067	65..492
+O46491	reviewed	Cytochrome P450 7A1	9823	Sus scrofa	501	PF00067	33..493
+O46512	reviewed	Aromatase	9796	Equus caballus	503	PF00067	49..483
+O46515	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	9796	Equus caballus	520	PF00067	52..510
+O46658	reviewed	Vitamin D(3) 25-hydroxylase	9823	Sus scrofa	500	PF00067	37..496
+O48786	reviewed	Cytochrome P450 734A1	3702	Arabidopsis thaliana	520	PF00067	85..496
+O48921	reviewed	Cytochrome P450 97B2, chloroplastic	3847	Glycine max	576	PF00067	101..567
+O48922	reviewed	Cytochrome P450 98A2	3847	Glycine max	509	PF00067	29..482
+O48923	reviewed	Cytochrome P450 71D10	3847	Glycine max	510	PF00067	44..496
+O48927	reviewed	Cytochrome P450 78A3	3847	Glycine max	523	PF00067	64..499
+O48928	reviewed	Cytochrome P450 77A3	3847	Glycine max	513	PF00067	38..497
+O48956	reviewed	Cytochrome P450 98A1	4558	Sorghum bicolor	512	PF00067	32..479
+O48957	reviewed	Cytochrome P450 CYP99A1	4558	Sorghum bicolor	519	PF00067	28..494
+O48958	reviewed	4-hydroxyphenylacetaldehyde oxime monooxygenase	4558	Sorghum bicolor	531	PF00067	56..512
+O49340	reviewed	Cytochrome P450 71A12	3702	Arabidopsis thaliana	497	PF00067	34..465
+O49342	reviewed	Indoleacetaldoxime dehydratase	3702	Arabidopsis thaliana	497	PF00067	34..466
+O49394	reviewed	Xanthotoxin 5-hydroxylase CYP82C2	3702	Arabidopsis thaliana	523	PF00067	33..505
+O49396	reviewed	Cytochrome P450 82C3	3702	Arabidopsis thaliana	512	PF00067	33..493
+O49858	reviewed	Cytochrome P450 82A3	3847	Glycine max	527	PF00067	44..505
+O49859	reviewed	Cytochrome P450 82A4	3847	Glycine max	525	PF00067	43..503
+O54749	reviewed	Cytochrome P450 2J5	10090	Mus musculus	501	PF00067	44..496
+O54750	reviewed	Cytochrome P450 2J6	10090	Mus musculus	501	PF00067	44..496
+O55071	reviewed	Cytochrome P450 2B19	10090	Mus musculus	492	PF00067	32..488
+O55127	reviewed	Cytochrome P450 26A1	10090	Mus musculus	497	PF00067	45..472
+O57525	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	71582	Rana dybowskii	519	PF00067	42..505
+O61387	reviewed	Cytochrome P450 6B7	29058	Helicoverpa armigera	504	PF00067	34..490
+O62671	reviewed	Cytochrome P450 2C41	9615	Canis lupus familiaris	489	PF00067	30..486
+O64635	reviewed	Cytochrome P450 76C4	3702	Arabidopsis thaliana	511	PF00067	39..497
+O64636	reviewed	Cytochrome P450 76C1	3702	Arabidopsis thaliana	512	PF00067	39..497
+O64637	reviewed	Cytochrome P450 76C2	3702	Arabidopsis thaliana	512	PF00067	39..499
+O64638	reviewed	Cytochrome P450 76C3	3702	Arabidopsis thaliana	515	PF00067	39..497
+O64697	reviewed	Cytochrome P450 710A1	3702	Arabidopsis thaliana	495	PF00067	77..451
+O64698	reviewed	Cytochrome P450 710A2	3702	Arabidopsis thaliana	499	PF00067	45..466
+O64718	reviewed	Cytochrome P450 71B9	3702	Arabidopsis thaliana	500	PF00067	32..490
+O64899	reviewed	(S)-N-methylcoclaurine 3'-hydroxylase isozyme 1	3467	Eschscholzia californica	487	PF00067	29..477
+O64900	reviewed	(S)-N-methylcoclaurine 3'-hydroxylase isozyme 2	3467	Eschscholzia californica	488	PF00067	30..478
+O64989	reviewed	Steroid (22S)-hydroxylase	3702	Arabidopsis thaliana	513	PF00067	40..493
+O65012	reviewed	Cytochrome P450 78A4	3347	Pinus radiata	553	PF00067	80..524
+O65438	reviewed	Cytochrome P450 71A27	3702	Arabidopsis thaliana	499	PF00067	34..463
+O65782	reviewed	Cytochrome P450 83B1	3702	Arabidopsis thaliana	499	PF00067	30..492
+O65784	reviewed	Cytochrome P450 71B5	3702	Arabidopsis thaliana	498	PF00067	29..486
+O65785	reviewed	Cytochrome P450 71B3	3702	Arabidopsis thaliana	501	PF00067	30..486
+O65786	reviewed	Cytochrome P450 71B4	3702	Arabidopsis thaliana	504	PF00067	33..483
+O65787	reviewed	Cytochrome P450 71B6	3702	Arabidopsis thaliana	503	PF00067	37..480
+O65788	reviewed	Cytochrome P450 71B2	3702	Arabidopsis thaliana	502	PF00067	32..487
+O65790	reviewed	Cytochrome P450 81F1	3702	Arabidopsis thaliana	500	PF00067	29..479
+O70537	reviewed	Cytochrome P450 3A31	10036	Mesocricetus auratus	501	PF00067	39..491
+O73686	reviewed	Ovarian aromatase	7957	Carassius auratus	518	PF00067	68..501
+O73853	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	7998	Ictalurus punctatus	514	PF00067	33..495
+O75881	reviewed	Cytochrome P450 7B1	9606	Homo sapiens	506	PF00067	50..484
+O77809	reviewed	Cytochrome P450 1A2	9541	Macaca fascicularis	516	PF00067	42..493
+O77810	reviewed	Cytochrome P450 1A2	9483	Callithrix jacchus	516	PF00067	42..494
+O80823	reviewed	Cytochrome P450 86A8	3702	Arabidopsis thaliana	537	PF00067	28..496
+O81077	reviewed	Abscisic acid 8'-hydroxylase 2	3702	Arabidopsis thaliana	482	PF00067	50..459
+O81117	reviewed	Cytochrome P450 94A1	3908	Vicia sativa	514	PF00067	48..484
+O81345	reviewed	Cytochrome P450 79B1	3728	Sinapis alba	542	PF00067	58..522
+O81346	reviewed	Tryptophan N-monooxygenase 1	3702	Arabidopsis thaliana	541	PF00067	57..521
+O81928	reviewed	Trans-cinnamate 4-monooxygenase	3827	Cicer arietinum	505	PF00067	34..495
+O81970	reviewed	Cytochrome P450 71A9	3847	Glycine max	499	PF00067	34..487
+O81971	reviewed	Cytochrome P450 71D9	3847	Glycine max	496	PF00067	36..475
+O81972	reviewed	Cytochrome P450 82A2	3847	Glycine max	522	PF00067	42..494
+O81973	reviewed	Cytochrome P450 93A3	3847	Glycine max	510	PF00067	32..498
+O81974	reviewed	Cytochrome P450 71D8	3847	Glycine max	504	PF00067	34..486
+O87605	reviewed	Cytochrome P450 monooxygenase PikC	54571	Streptomyces venezuelae	416	PF00067	208..375
+O88833	reviewed	Cytochrome P450 4A10	10090	Mus musculus	509	PF00067	52..501
+O88962	reviewed	7-alpha-hydroxycholest-4-en-3-one 12-alpha-hydroxylase	10090	Mus musculus	500	PF00067	38..490
+O93297	reviewed	Cytochrome P450 2K4	8022	Oncorhynchus mykiss	504	PF00067	42..499
+O93299	reviewed	Cytochrome P450 2K3	8022	Oncorhynchus mykiss	491	PF00067	42..486
+O93323	reviewed	Cytochrome P450 26A1	8355	Xenopus laevis	492	PF00067	45..466
+O94142	reviewed	Ent-kaurene oxidase	5127	Gibberella fujikuroi	525	PF00067	91..514
+P00176	reviewed	Cytochrome P450 2B1	10116	Rattus norvegicus	491	PF00067	31..488
+P00178	reviewed	Cytochrome P450 2B4	9986	Oryctolagus cuniculus	491	PF00067	31..487
+P00179	reviewed	Cytochrome P450 2C5	9986	Oryctolagus cuniculus	487	PF00067	30..484
+P00180	reviewed	Cytochrome P450 2C1	9986	Oryctolagus cuniculus	490	PF00067	30..487
+P00181	reviewed	Cytochrome P450 2C2	9986	Oryctolagus cuniculus	490	PF00067	30..487
+P00182	reviewed	Cytochrome P450 2C3	9986	Oryctolagus cuniculus	489	PF00067	30..486
+P00183	reviewed	Camphor 5-monooxygenase	303	Pseudomonas putida	415	PF00067	284..377
+P00184	reviewed	Cytochrome P450 1A1	10090	Mus musculus	524	PF00067	44..497
+P00185	reviewed	Cytochrome P450 1A1	10116	Rattus norvegicus	524	PF00067	44..497
+P00186	reviewed	Cytochrome P450 1A2	10090	Mus musculus	513	PF00067	41..500
+P00187	reviewed	Cytochrome P450 1A2	9986	Oryctolagus cuniculus	516	PF00067	43..494
+P00189	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	9913	Bos taurus	520	PF00067	52..509
+P00191	reviewed	Steroid 21-hydroxylase	9913	Bos taurus	496	PF00067	31..478
+P03940	reviewed	Steroid 21-hydroxylase	10090	Mus musculus	487	PF00067	49..471
+P04167	reviewed	Cytochrome P450 2B2	10116	Rattus norvegicus	491	PF00067	31..488
+P04798	reviewed	Cytochrome P450 1A1	9606	Homo sapiens	512	PF00067	40..491
+P04799	reviewed	Cytochrome P450 1A2	10116	Rattus norvegicus	513	PF00067	41..500
+P04800	reviewed	Cytochrome P450 3A1	10116	Rattus norvegicus	504	PF00067	39..494
+P05093	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9606	Homo sapiens	508	PF00067	28..492
+P05108	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	9606	Homo sapiens	521	PF00067	52..511
+P05176	reviewed	Cytochrome P450 1A1	9986	Oryctolagus cuniculus	518	PF00067	45..497
+P05177	reviewed	Cytochrome P450 1A2	9606	Homo sapiens	516	PF00067	42..493
+P05178	reviewed	Cytochrome P450 2C6	10116	Rattus norvegicus	490	PF00067	30..487
+P05179	reviewed	Cytochrome P450 2C7	10116	Rattus norvegicus	490	PF00067	30..487
+P05180	reviewed	Cytochrome P450 2H1	9031	Gallus gallus	491	PF00067	33..488
+P05181	reviewed	Cytochrome P450 2E1	9606	Homo sapiens	493	PF00067	33..489
+P05182	reviewed	Cytochrome P450 2E1	10116	Rattus norvegicus	493	PF00067	33..489
+P05183	reviewed	Cytochrome P450 3A2	10116	Rattus norvegicus	504	PF00067	39..494
+P05185	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9913	Bos taurus	509	PF00067	28..492
+P08516	reviewed	Cytochrome P450 4A10	10116	Rattus norvegicus	509	PF00067	52..501
+P08682	reviewed	Cytochrome P450 2E1	9986	Oryctolagus cuniculus	493	PF00067	33..489
+P08683	reviewed	Cytochrome P450 2C11	10116	Rattus norvegicus	500	PF00067	30..486
+P08684	reviewed	Cytochrome P450 3A4	9606	Homo sapiens	503	PF00067	39..493
+P08686	reviewed	Steroid 21-hydroxylase	9606	Homo sapiens	494	PF00067	48..478
+P0A513	reviewed	Sterol 14alpha-demethylase	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	451	PF00067	17..440
+P0A515	reviewed	Cytochrome P450 121	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	396	PF00067	216..364
+P0A517	reviewed	Methyl-branched lipid omega-hydroxylase	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	428	PF00067	73..291,303..393
+P0CT93	reviewed	O-methylsterigmatocystin oxidoreductase	5059	Aspergillus flavus	528	PF00067	32..485
+P0CU31	reviewed	Cytochrome P450 monooxygenase cheE	306901	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970)	512	PF00067	116..489
+P0CU70	reviewed	Cytochrome P450 monooxygenase claM	5499	Passalora fulva	538	PF00067	71..506
+P0DKI2	reviewed	Inactive cytochrome P450 76AD1	161934	Beta vulgaris	417	PF00067	33..395
+P0DKI7	reviewed	Bifunctional protein STORR	3469	Papaver somniferum	901	PF00067	65..546
+P0DO13	reviewed	Sarpagan bridge enzyme	4060	Rauvolfia serpentina	503	PF00067	35..478
+P0DO14	reviewed	Sarpagan bridge enzyme	28542	Gelsemium sempervirens	501	PF00067	34..484
+P0DO22	reviewed	(+)-vincadifformine 19-hydroxylase	4058	Catharanthus roseus	506	PF00067	37..489
+P0DO32	reviewed	Cytochrome P450 monooxygenase iliC	1735992	Neonectria sp. (strain DH2)	505	PF00067	77..473
+P0DO35	reviewed	Cytochrome P450 71D178	39352	Origanum vulgare	496	PF00067	34..483
+P0DO36	reviewed	Cytochrome P450 71D179	49992	Thymus vulgaris	496	PF00067	34..483
+P0DO37	reviewed	Cytochrome P450 71D179	39352	Origanum vulgare	496	PF00067	34..483
+P0DO38	reviewed	Cytochrome P450 71D180	49992	Thymus vulgaris	496	PF00067	34..477
+P0DO39	reviewed	Cytochrome P450 71D180	39352	Origanum vulgare	496	PF00067	34..477
+P0DO40	reviewed	Cytochrome P450 71D180	268884	Origanum majorana	496	PF00067	34..477
+P0DO41	reviewed	Cytochrome P450 71D181	39352	Origanum vulgare	496	PF00067	34..482
+P0DO42	reviewed	Cytochrome P450 71D181	49992	Thymus vulgaris	496	PF00067	34..482
+P0DOX0	reviewed	Cytochrome P450 27C1	8400	Lithobates catesbeianus	537	PF00067	70..527
+P0DPA4	reviewed	Cytochrome P450 monooxygenase FCK2	1028729	Fusarium pseudograminearum (strain CS3096)	551	PF00067	120..530
+P0DPA7	reviewed	Tryptamine 4-monooxygenase	181762	Psilocybe cubensis	508	PF00067	29..492
+P0DPQ7	reviewed	Aromatic O-demethylase, cytochrome P450 subunit	385957	Amycolatopsis sp. (strain ATCC 39116 / 75iv2)	407	PF00067	277..374
+P0DUK3	reviewed	Cytochrome P450 monooxygenase pspC	69789	Penicillium soppii	504	PF00067	65..478
+P0DUL3	reviewed	Cytochrome P450 monooxygenase hkm5	1873369	Aspergillus hancockii	512	PF00067	72..500
+P10610	reviewed	Cytochrome P450 2G1	10116	Rattus norvegicus	494	PF00067	34..491
+P10611	reviewed	Cytochrome P450 4A4	9986	Oryctolagus cuniculus	510	PF00067	52..502
+P10612	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	9823	Sus scrofa	520	PF00067	52..509
+P10613	reviewed	Lanosterol 14-alpha demethylase	237561	Candida albicans (strain SC5314 / ATCC MYA-2876)	528	PF00067	51..519
+P10614	reviewed	Lanosterol 14-alpha demethylase CYP51	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	530	PF00067	59..520
+P10615	reviewed	Cytochrome P450 52A1	5482	Candida tropicalis	543	PF00067	109..526
+P10632	reviewed	Cytochrome P450 2C8	9606	Homo sapiens	490	PF00067	30..487
+P10633	reviewed	Cytochrome P450 2D1	10116	Rattus norvegicus	504	PF00067	37..496
+P10634	reviewed	Cytochrome P450 2D26	10116	Rattus norvegicus	500	PF00067	37..496
+P10635	reviewed	Cytochrome P450 2D6	9606	Homo sapiens	497	PF00067	34..493
+P11371	reviewed	Cytochrome P450 2C4	9986	Oryctolagus cuniculus	487	PF00067	30..484
+P11372	reviewed	Cytochrome P450 2C15	9986	Oryctolagus cuniculus	378	PF00067	2..375
+P11509	reviewed	Cytochrome P450 2A6	9606	Homo sapiens	494	PF00067	34..490
+P11510	reviewed	Cytochrome P450 2C12, female-specific	10116	Rattus norvegicus	490	PF00067	30..487
+P11511	reviewed	Aromatase	9606	Homo sapiens	503	PF00067	49..484
+P11707	reviewed	Cytochrome P450 3A6	9986	Oryctolagus cuniculus	501	PF00067	37..491
+P11711	reviewed	Cytochrome P450 2A1	10116	Rattus norvegicus	492	PF00067	33..488
+P11712	reviewed	Cytochrome P450 2C9	9606	Homo sapiens	490	PF00067	30..487
+P11714	reviewed	Cytochrome P450 2D9	10090	Mus musculus	504	PF00067	37..496
+P11715	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	10116	Rattus norvegicus	507	PF00067	28..491
+P12394	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9031	Gallus gallus	508	PF00067	33..495
+P12789	reviewed	Cytochrome P450 2B5	9986	Oryctolagus cuniculus	491	PF00067	31..487
+P12790	reviewed	Cytochrome P450 2B9	10090	Mus musculus	491	PF00067	31..486
+P12791	reviewed	Cytochrome P450 2B10	10090	Mus musculus	500	PF00067	31..497
+P12938	reviewed	Cytochrome P450 2D3	10116	Rattus norvegicus	500	PF00067	37..496
+P12939	reviewed	Cytochrome P450 2D10	10116	Rattus norvegicus	504	PF00067	37..496
+P13107	reviewed	Cytochrome P450 2B3	10116	Rattus norvegicus	491	PF00067	31..488
+P13527	reviewed	Cytochrome P450 6A1	7370	Musca domestica	509	PF00067	36..498
+P13584	reviewed	Cytochrome P450 4B1	9606	Homo sapiens	511	PF00067	47..497
+P14137	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	10116	Rattus norvegicus	526	PF00067	50..508
+P14263	reviewed	Lanosterol 14-alpha demethylase	5482	Candida tropicalis	528	PF00067	51..518
+P14579	reviewed	Cytochrome P450 4A5	9986	Oryctolagus cuniculus	511	PF00067	52..501
+P14580	reviewed	Cytochrome P450 4A6	9986	Oryctolagus cuniculus	510	PF00067	52..501
+P14581	reviewed	Cytochrome P450 4A7	9986	Oryctolagus cuniculus	511	PF00067	52..503
+P14762	reviewed	Cytochrome P450(BM-1)	1348623	Priestia megaterium (strain ATCC 14581 / DSM 32 / CCUG 1817 / JCM 2506 / NBRC 15308 / NCIMB 9376 / NCTC 10342 / NRRL B-14308 / VKM B-512 / Ford 19)	410	PF00067	12..393
+P14779	reviewed	Bifunctional cytochrome P450/NADPH--P450 reductase	1348623	Priestia megaterium (strain ATCC 14581 / DSM 32 / CCUG 1817 / JCM 2506 / NBRC 15308 / NCIMB 9376 / NCTC 10342 / NRRL B-14308 / VKM B-512 / Ford 19)	1049	PF00067	11..448
+P15123	reviewed	Cytochrome P450 2C16	9986	Oryctolagus cuniculus	487	PF00067	30..484
+P15128	reviewed	Cytochrome P450 4B1	9986	Oryctolagus cuniculus	506	PF00067	42..492
+P15129	reviewed	Cytochrome P450 4B1	10116	Rattus norvegicus	511	PF00067	47..496
+P15149	reviewed	Cytochrome P450 2A2	10116	Rattus norvegicus	492	PF00067	33..488
+P15150	reviewed	Cytochrome P450 11B1, mitochondrial	9913	Bos taurus	503	PF00067	42..494
+P15392	reviewed	Cytochrome P450 2A4	10090	Mus musculus	494	PF00067	34..490
+P15393	reviewed	Cytochrome P450 11B1, mitochondrial	10116	Rattus norvegicus	499	PF00067	42..494
+P15538	reviewed	Cytochrome P450 11B1, mitochondrial	9606	Homo sapiens	503	PF00067	42..489
+P15539	reviewed	Cytochrome P450 11B2, mitochondrial	10090	Mus musculus	500	PF00067	42..494
+P15540	reviewed	Steroid 21-hydroxylase	9823	Sus scrofa	492	PF00067	32..477
+P16141	reviewed	Cytochrome P450 52A4	5479	Candida maltosa	538	PF00067	106..517
+P16496	reviewed	Cytochrome P450 52A3-A	5479	Candida maltosa	523	PF00067	58..506
+P17177	reviewed	Sterol 26-hydroxylase, mitochondrial	9986	Oryctolagus cuniculus	535	PF00067	81..525
+P17178	reviewed	Sterol 26-hydroxylase, mitochondrial	10116	Rattus norvegicus	533	PF00067	63..527
+P17549	reviewed	Benzoate 4-monooxygenase bphA	5061	Aspergillus niger	517	PF00067	39..507
+P17666	reviewed	Cytochrome P450 2C14	9986	Oryctolagus cuniculus	490	PF00067	30..471
+P18125	reviewed	Cytochrome P450 7A1	10116	Rattus norvegicus	503	PF00067	32..495
+P18326	reviewed	Vitamin D3 dihydroxylase	1909	Streptomyces griseolus	406	PF00067	219..374
+P18327	reviewed	Cytochrome P450-SU2	1909	Streptomyces griseolus	403	PF00067	53..372
+P19098	reviewed	Aromatase	9031	Gallus gallus	507	PF00067	48..483
+P19099	reviewed	Cytochrome P450 11B2, mitochondrial	9606	Homo sapiens	503	PF00067	42..491
+P19100	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9823	Sus scrofa	509	PF00067	28..492
+P19225	reviewed	Cytochrome P450 2C70	10116	Rattus norvegicus	489	PF00067	30..486
+P20678	reviewed	Cytochrome P450 2H2	9031	Gallus gallus	491	PF00067	33..487
+P20812	reviewed	Cytochrome P450 2A3	10116	Rattus norvegicus	494	PF00067	34..490
+P20813	reviewed	Cytochrome P450 2B6	9606	Homo sapiens	491	PF00067	31..487
+P20814	reviewed	Cytochrome P450 2C13, male-specific	10116	Rattus norvegicus	490	PF00067	30..485
+P20815	reviewed	Cytochrome P450 3A5	9606	Homo sapiens	502	PF00067	39..492
+P20816	reviewed	Cytochrome P450 4A2	10116	Rattus norvegicus	504	PF00067	53..496
+P20817	reviewed	Cytochrome P450 4A14	10116	Rattus norvegicus	507	PF00067	54..499
+P20852	reviewed	Cytochrome P450 2A5	10090	Mus musculus	494	PF00067	34..490
+P20853	reviewed	Cytochrome P450 2A7	9606	Homo sapiens	494	PF00067	34..489
+P21595	reviewed	Cytochrome P450-DIT2	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	489	PF00067	48..472
+P22443	reviewed	Aromatase	10116	Rattus norvegicus	508	PF00067	50..480
+P22680	reviewed	Cytochrome P450 7A1	9606	Homo sapiens	504	PF00067	32..495
+P23295	reviewed	NADP nitrous oxide-forming nitric oxide reductase	5507	Fusarium oxysporum	403	PF00067	45..167,175..373
+P23296	reviewed	Cytochrome P450 105C1	1931	Streptomyces sp.	381	PF00067	192..352
+P24453	reviewed	Cytochrome P450 1A2	10036	Mesocricetus auratus	513	PF00067	41..503
+P24454	reviewed	Cytochrome P450 2A8	10036	Mesocricetus auratus	494	PF00067	34..489
+P24455	reviewed	Cytochrome P450 2A9	10036	Mesocricetus auratus	493	PF00067	33..489
+P24456	reviewed	Cytochrome P450 2D10	10090	Mus musculus	504	PF00067	37..496
+P24457	reviewed	Cytochrome P450 2D11	10090	Mus musculus	504	PF00067	37..496
+P24458	reviewed	Cytochrome P450 52A3-B	5479	Candida maltosa	523	PF00067	65..506
+P24460	reviewed	Cytochrome P450 2B11	9615	Canis lupus familiaris	494	PF00067	31..487
+P24461	reviewed	Cytochrome P450 2G1	9986	Oryctolagus cuniculus	494	PF00067	34..491
+P24462	reviewed	Cytochrome P450 3A7	9606	Homo sapiens	503	PF00067	39..492
+P24463	reviewed	Cytochrome P450 3A12	9615	Canis lupus familiaris	503	PF00067	39..493
+P24464	reviewed	Cytochrome P450 4A12	10116	Rattus norvegicus	508	PF00067	52..500
+P24465	reviewed	Cytochrome P450 71A1	3435	Persea americana	502	PF00067	32..481
+P24466	reviewed	Cytochrome P450-pinF1, plant-inducible	358	Rhizobium radiobacter	422	PF00067	223..389
+P24467	reviewed	Cytochrome P450-pinF2, plant-inducible	358	Rhizobium radiobacter	407	PF00067	282..374
+P24470	reviewed	Cytochrome P450 2C23	10116	Rattus norvegicus	494	PF00067	34..491
+P24557	reviewed	Thromboxane-A synthase	9606	Homo sapiens	533	PF00067	46..297,325..525
+P24903	reviewed	Cytochrome P450 2F1	9606	Homo sapiens	491	PF00067	31..488
+P26911	reviewed	Cytochrome P450-SOY	1911	Streptomyces griseus	412	PF00067	188..278,286..381
+P27632	reviewed	Cytochrome P450 109	655816	Bacillus spizizenii (strain ATCC 23059 / NRRL B-14472 / W23)	405	PF00067	62..370
+P27786	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	10090	Mus musculus	507	PF00067	28..491
+P28649	reviewed	Aromatase	10090	Mus musculus	503	PF00067	50..486
+P29980	reviewed	Probable cytochrome P450 110	103690	Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576)	459	PF00067	14..435
+P29981	reviewed	Cytochrome P450 4C1	6981	Blaberus discoidalis	511	PF00067	38..501
+P30099	reviewed	Cytochrome P450 11B2, mitochondrial	10116	Rattus norvegicus	510	PF00067	52..504
+P30100	reviewed	Cytochrome P450 11B3, mitochondrial	10116	Rattus norvegicus	500	PF00067	42..494
+P30437	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	8022	Oncorhynchus mykiss	514	PF00067	34..499
+P30607	reviewed	Cytochrome P450 52A2	5482	Candida tropicalis	522	PF00067	95..498
+P30608	reviewed	Cytochrome P450 52A6	5482	Candida tropicalis	524	PF00067	92..499
+P30609	reviewed	Cytochrome P450 52A7	5482	Candida tropicalis	507	PF00067	80..485
+P30610	reviewed	Cytochrome P450 52A8	5482	Candida tropicalis	517	PF00067	104..488
+P30611	reviewed	Cytochrome P450 52B1	5482	Candida tropicalis	506	PF00067	91..484
+P30612	reviewed	Cytochrome P450 52C1	5482	Candida tropicalis	505	PF00067	84..477
+P33006	reviewed	Cytochrome P450-terp	306	Pseudomonas sp.	428	PF00067	302..399
+P33260	reviewed	Cytochrome P450 2C18	9606	Homo sapiens	490	PF00067	30..487
+P33261	reviewed	Cytochrome P450 2C19	9606	Homo sapiens	490	PF00067	30..487
+P33262	reviewed	Cytochrome P450 2C20	9541	Macaca fascicularis	490	PF00067	30..487
+P33263	reviewed	Cytochrome P450 2C26	10036	Mesocricetus auratus	490	PF00067	30..487
+P33264	reviewed	Cytochrome P450 2C27	10036	Mesocricetus auratus	490	PF00067	30..487
+P33265	reviewed	Cytochrome P450 2C28	10036	Mesocricetus auratus	490	PF00067	30..485
+P33266	reviewed	Cytochrome P450 2E1	9541	Macaca fascicularis	449	PF00067	1..445
+P33267	reviewed	Cytochrome P450 2F2	10090	Mus musculus	491	PF00067	31..488
+P33268	reviewed	Cytochrome P450 3A8	9541	Macaca fascicularis	503	PF00067	39..492
+P33269	reviewed	Cytochrome P450 4d1	7227	Drosophila melanogaster	512	PF00067	35..506
+P33270	reviewed	Cytochrome P450 6a2	7227	Drosophila melanogaster	506	PF00067	35..497
+P33271	reviewed	Cytochrome P450 107B1	405948	Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338)	405	PF00067	193..373
+P33272	reviewed	Cytochrome P450 2B12	10116	Rattus norvegicus	492	PF00067	32..489
+P33273	reviewed	Cytochrome P450 2C55	10116	Rattus norvegicus	490	PF00067	30..487
+P33274	reviewed	Cytochrome P450 4F1	10116	Rattus norvegicus	524	PF00067	52..503
+P33616	reviewed	Cytochrome P450 1A1	9541	Macaca fascicularis	512	PF00067	40..492
+P36423	reviewed	Thromboxane-A synthase	10090	Mus musculus	533	PF00067	46..290,324..525
+P37114	reviewed	Trans-cinnamate 4-monooxygenase	3879	Medicago sativa	506	PF00067	34..497
+P37115	reviewed	Trans-cinnamate 4-monooxygenase	3916	Vigna radiata var. radiata	505	PF00067	34..495
+P37117	reviewed	Cytochrome P450 71A4	4111	Solanum melongena	507	PF00067	37..495
+P37118	reviewed	Cytochrome P450 71A2	4111	Solanum melongena	505	PF00067	39..494
+P37119	reviewed	Cytochrome P450 71A3	4111	Solanum melongena	365	PF00067	26..365
+P37120	reviewed	Flavonoid 3',5'-hydroxylase	4111	Solanum melongena	513	PF00067	37..489
+P37121	reviewed	Cytochrome P450 76A1	4111	Solanum melongena	467	PF00067	1..453
+P37122	reviewed	Cytochrome P450 76A2	4111	Solanum melongena	505	PF00067	36..499
+P37123	reviewed	Cytochrome P450 77A1	4111	Solanum melongena	499	PF00067	28..496
+P37124	reviewed	Cytochrome P450 77A2	4111	Solanum melongena	511	PF00067	43..502
+P38364	reviewed	Pisatin demethylase	2747968	Fusarium vanettenii	506	PF00067	57..502
+P43083	reviewed	Cytochrome P450 52E1	29830	Candida apicola	519	PF00067	91..483
+P43492	reviewed	Cytochrome P450 116	1833	Rhodococcus erythropolis	437	PF00067	296..392
+P46194	reviewed	Aromatase	9913	Bos taurus	503	PF00067	50..483
+P46373	reviewed	Cytochrome P450 FAS1	1828	Rhodococcus fascians	399	PF00067	272..370
+P46634	reviewed	Cholesterol 7-alpha-monooxygenase	10029	Cricetulus griseus	504	PF00067	32..495
+P47195	reviewed	Berbamunine synthase	33814	Berberis stolonifera	487	PF00067	29..467
+P47787	reviewed	Thromboxane-A synthase	9823	Sus scrofa	534	PF00067	46..286,326..527
+P48416	reviewed	Cytochrome P450 10	6523	Lymnaea stagnalis	545	PF00067	81..540
+P48417	reviewed	Allene oxide synthase, chloroplastic	4006	Linum usitatissimum	536	PF00067	361..511
+P48418	reviewed	Flavonoid 3',5'-hydroxylase 1	4102	Petunia hybrida	506	PF00067	34..486
+P48419	reviewed	Flavonoid 3',5'-hydroxylase 2	4102	Petunia hybrida	508	PF00067	34..486
+P48420	reviewed	Cytochrome P450 78A1	4577	Zea mays	547	PF00067	109..518
+P48421	reviewed	Cytochrome P450 83A1	3702	Arabidopsis thaliana	502	PF00067	31..489
+P48422	reviewed	Cytochrome P450 86A1	3702	Arabidopsis thaliana	513	PF00067	33..498
+P48522	reviewed	Trans-cinnamate 4-monooxygenase	4058	Catharanthus roseus	505	PF00067	34..496
+P48635	reviewed	Erythromycin C-12 hydroxylase	405948	Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338)	397	PF00067	262..380
+P49264	reviewed	Cytochrome P450 71B1	13288	Thlaspi arvense	496	PF00067	30..469
+P49430	reviewed	Thromboxane-A synthase	10116	Rattus norvegicus	533	PF00067	46..290,325..529
+P49602	reviewed	Lanosterol 14-alpha demethylase	237631	Ustilago maydis (strain 521 / FGSC 9021)	561	PF00067	65..546
+P50859	reviewed	Lanosterol 14-alpha demethylase	284593	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)	533	PF00067	60..522
+P51538	reviewed	Cytochrome P450 3A9	10116	Rattus norvegicus	503	PF00067	39..493
+P51542	reviewed	Cytochrome P450 7A1	9986	Oryctolagus cuniculus	501	PF00067	32..492
+P51581	reviewed	Cytochrome P450 2E1	10036	Mesocricetus auratus	493	PF00067	33..489
+P51589	reviewed	Cytochrome P450 2J2	9606	Homo sapiens	502	PF00067	44..497
+P51590	reviewed	Cytochrome P450 2J3	10116	Rattus norvegicus	502	PF00067	44..497
+P51663	reviewed	Cytochrome P450 11B1, mitochondrial	9940	Ovis aries	503	PF00067	42..494
+P51869	reviewed	Cytochrome P450 4F4	10116	Rattus norvegicus	522	PF00067	52..503
+P51870	reviewed	Cytochrome P450 4F5	10116	Rattus norvegicus	526	PF00067	52..504
+P51871	reviewed	Cytochrome P450 4F6	10116	Rattus norvegicus	537	PF00067	52..503
+P52786	reviewed	Cytochrome P450 2J1	9986	Oryctolagus cuniculus	501	PF00067	44..496
+P53554	reviewed	Biotin biosynthesis cytochrome P450	224308	Bacillus subtilis (strain 168)	395	PF00067	14..365
+P54781	reviewed	C-22 sterol desaturase ERG5	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	538	PF00067	77..481
+P55540	reviewed	Cytochrome P450 BJ-4 homolog	394	Sinorhizobium fredii (strain NBRC 101917 / NGR234)	447	PF00067	21..403
+P55543	reviewed	Cytochrome P450 BJ-3 homolog	394	Sinorhizobium fredii (strain NBRC 101917 / NGR234)	467	PF00067	287..401
+P55544	reviewed	Cytochrome P450 BJ-1 homolog	394	Sinorhizobium fredii (strain NBRC 101917 / NGR234)	400	PF00067	41..370
+P56590	reviewed	Cytochrome P450 1A1	9615	Canis lupus familiaris	524	PF00067	44..497
+P56591	reviewed	Cytochrome P450 1A1	9940	Ovis aries	519	PF00067	47..499
+P56592	reviewed	Cytochrome P450 1A2	9615	Canis lupus familiaris	512	PF00067	38..488
+P56593	reviewed	Cytochrome P450 2A12	10090	Mus musculus	492	PF00067	33..488
+P56594	reviewed	Cytochrome P450 2C21	9615	Canis lupus familiaris	487	PF00067	27..484
+P56654	reviewed	Cytochrome P450 2C37	10090	Mus musculus	490	PF00067	30..487
+P56655	reviewed	Cytochrome P450 2C38	10090	Mus musculus	490	PF00067	30..487
+P56656	reviewed	Cytochrome P450 2C39	10090	Mus musculus	490	PF00067	30..486
+P56657	reviewed	Cytochrome P450 2C40	10090	Mus musculus	491	PF00067	30..487
+P58045	reviewed	Cytochrome P450 71A14	3702	Arabidopsis thaliana	497	PF00067	34..466
+P58046	reviewed	Cytochrome P450 71A15	3702	Arabidopsis thaliana	496	PF00067	33..465
+P58047	reviewed	Putative cytochrome P450 71A28	3702	Arabidopsis thaliana	503	PF00067	32..469
+P58048	reviewed	Cytochrome P450 71B8	3702	Arabidopsis thaliana	506	PF00067	31..490
+P58049	reviewed	Cytochrome P450 71B11	3702	Arabidopsis thaliana	496	PF00067	30..483
+P58050	reviewed	Cytochrome P450 71B13	3702	Arabidopsis thaliana	496	PF00067	30..483
+P58051	reviewed	Cytochrome P450 71B14	3702	Arabidopsis thaliana	496	PF00067	30..483
+P59954	reviewed	Putative cytochrome P450 132	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	461	PF00067	45..443
+P63708	reviewed	Putative cytochrome P450 123	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	402	PF00067	205..372
+P63710	reviewed	Steroid C26-monooxygenase	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	433	PF00067	304..393
+P63712	reviewed	Putative cytochrome P450 126	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	414	PF00067	220..384
+P63714	reviewed	Beta-dihydromenaquinone-9 omega-hydroxylase	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	489	PF00067	304..455
+P63716	reviewed	Putative cytochrome P450 135B1	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	472	PF00067	10..432
+P63718	reviewed	Putative cytochrome P450 138	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	441	PF00067	41..416
+P63720	reviewed	Putative cytochrome P450 139	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	430	PF00067	16..405
+P63722	reviewed	Putative cytochrome P450 140	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	438	PF00067	224..402
+P63724	reviewed	Putative cytochrome P450 143	233413	Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97)	393	PF00067	206..313,328..390
+P70085	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	8090	Oryzias latipes	517	PF00067	35..501
+P70091	reviewed	Aromatase	8128	Oreochromis niloticus	522	PF00067	63..493
+P70687	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	10036	Mesocricetus auratus	511	PF00067	28..492
+P78329	reviewed	Cytochrome P450 4F2	9606	Homo sapiens	520	PF00067	52..504
+P79102	reviewed	Cytochrome P450 3A28	9913	Bos taurus	507	PF00067	39..493
+P79152	reviewed	Cytochrome P450 3A19	9923	Capra hircus aegagrus	218	PF00067	5..204
+P79153	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	9925	Capra hircus	520	PF00067	52..509
+P79202	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	9940	Ovis aries	520	PF00067	52..509
+P79304	reviewed	Aromatase 3	9823	Sus scrofa	501	PF00067	47..481
+P79383	reviewed	Cytochrome P450 2E1	9823	Sus scrofa	495	PF00067	33..489
+P79401	reviewed	Cytochrome P450 3A29	9823	Sus scrofa	503	PF00067	39..492
+P79402	reviewed	Cytochrome P450 2C42	9823	Sus scrofa	327	PF00067	1..324
+P79430	reviewed	Aromatase 2	9823	Sus scrofa	503	PF00067	48..483
+P79690	reviewed	Brain aromatase	7957	Carassius auratus	510	PF00067	47..480
+P79699	reviewed	Aromatase	93934	Coturnix japonica	327	PF00067	100..326
+P79716	reviewed	Cytochrome P450 1A1	13489	Dicentrarchus labrax	520	PF00067	46..509
+P79739	reviewed	Cytochrome P450 26A1	7955	Danio rerio	492	PF00067	45..468
+P79760	reviewed	Cytochrome P450 1A4	9031	Gallus gallus	530	PF00067	51..510
+P79761	reviewed	Cytochrome P450 1A5	9031	Gallus gallus	528	PF00067	49..511
+P82711	reviewed	Probable cytochrome P450 6a19	7227	Drosophila melanogaster	503	PF00067	50..491
+P82712	reviewed	Probable cytochrome P450 12d1 proximal, mitochondrial	7227	Drosophila melanogaster	521	PF00067	65..506
+P82713	reviewed	Probable cytochrome P450 309a2	7227	Drosophila melanogaster	538	PF00067	71..512
+P85191	reviewed	Cytochrome P450	4232	Helianthus annuus	155	PF00067	3..129
+P90771	reviewed	Probable cytochrome P450 CYP36A1	6239	Caenorhabditis elegans	493	PF00067	28..487
+P92994	reviewed	Trans-cinnamate 4-monooxygenase	3702	Arabidopsis thaliana	505	PF00067	34..497
+P93147	reviewed	Isoflavone 2'-hydroxylase	46348	Glycyrrhiza echinata	499	PF00067	33..477
+P93149	reviewed	Licodione synthase	46348	Glycyrrhiza echinata	523	PF00067	34..474
+P93530	reviewed	Cytochrome P450 71D6	4108	Solanum chacoense	501	PF00067	32..480
+P93531	reviewed	Cytochrome P450 71D7	4108	Solanum chacoense	500	PF00067	32..482
+P93596	reviewed	Obtusifoliol 14-alpha demethylase	4565	Triticum aestivum	453	PF00067	3..427
+P93703	reviewed	Cytochrome P450 71C3	4577	Zea mays	535	PF00067	58..505
+P93846	reviewed	Obtusifoliol 14-alpha demethylase	4558	Sorghum bicolor	492	PF00067	42..466
+P97720	reviewed	Cytochrome P450 11B1, mitochondrial	10036	Mesocricetus auratus	499	PF00067	42..489
+P98181	reviewed	Cytochrome P450 1A1	143350	Pagrus major	515	PF00067	46..502
+P98183	reviewed	Tabersonine 16-hydroxylase 1	4058	Catharanthus roseus	506	PF00067	38..487
+P98187	reviewed	Cytochrome P450 4F8	9606	Homo sapiens	520	PF00067	52..502
+P98188	reviewed	Cytochrome P450 94A2	3908	Vicia sativa	513	PF00067	41..493
+P9WEP1	reviewed	Aspergilol synthase AuAP450	40382	Aspergillus ustus	548	PF00067	173..532
+P9WEQ1	reviewed	Cytochrome P450 monooxygenase olcB	5083	Penicillium canescens	491	PF00067	52..481
+P9WEQ6	reviewed	Cytochrome P450 monooxygenase olcG	5083	Penicillium canescens	493	PF00067	158..463
+P9WEQ9	reviewed	Cytochrome P450 monooxygenase olcJ	5083	Penicillium canescens	527	PF00067	82..514
+P9WER2	reviewed	Cytochrome P450 monooxygenase braC	327061	Annulohypoxylon truncatum	504	PF00067	165..481
+P9WES3	reviewed	Cytochrome P450 monooxygenase MO6277	139061	Ascocoryne sarcoides	514	PF00067	53..504
+P9WEV3	reviewed	Cytochrome P450 monooxygenase sttB	33178	Aspergillus terreus	530	PF00067	207..511
+P9WEY9	reviewed	Cytochrome P450 monooxygenase oryQ	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	170	PF00067	1..118
+P9WPL0	reviewed	Cytochrome P450 144	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	434	PF00067	243..408
+P9WPL1	reviewed	Cytochrome P450 144	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	434	PF00067	243..408
+P9WPL2	reviewed	Putative cytochrome P450 143	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	393	PF00067	206..313,328..390
+P9WPL3	reviewed	Cytochrome P450 143	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	393	PF00067	206..313,328..390
+P9WPL4	reviewed	Steroid C26-monooxygenase	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	372	PF00067	137..334
+P9WPL5	reviewed	Steroid C26-monooxygenase	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	398	PF00067	163..360
+P9WPL6	reviewed	Putative cytochrome P450 141	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	400	PF00067	207..367
+P9WPL7	reviewed	Putative cytochrome P450 141	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	400	PF00067	207..367
+P9WPL8	reviewed	Putative cytochrome P450 140	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	438	PF00067	224..402
+P9WPL9	reviewed	Putative cytochrome P450 140	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	438	PF00067	224..402
+P9WPM0	reviewed	Putative cytochrome P450 139	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	430	PF00067	16..405
+P9WPM1	reviewed	Putative cytochrome P450 139	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	430	PF00067	16..405
+P9WPM2	reviewed	Putative cytochrome P450 138	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	441	PF00067	41..416
+P9WPM3	reviewed	Putative cytochrome P450 138	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	441	PF00067	41..416
+P9WPM4	reviewed	Putative cytochrome P450 137	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	476	PF00067	70..465
+P9WPM5	reviewed	Putative cytochrome P450 137	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	476	PF00067	70..465
+P9WPM6	reviewed	Putative cytochrome P450 136	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	492	PF00067	62..466
+P9WPM7	reviewed	Putative cytochrome P450 136	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	492	PF00067	62..466
+P9WPM8	reviewed	Putative cytochrome P450 135B1	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	472	PF00067	10..432
+P9WPM9	reviewed	Putative cytochrome P450 135B1	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	472	PF00067	10..432
+P9WPN0	reviewed	Putative cytochrome P450 135A1	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	449	PF00067	10..419
+P9WPN1	reviewed	Putative cytochrome P450 135A1	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	449	PF00067	10..419
+P9WPN2	reviewed	Putative cytochrome P450 132	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	461	PF00067	45..443
+P9WPN3	reviewed	Putative cytochrome P450 132	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	461	PF00067	45..443
+P9WPN4	reviewed	Cytochrome P450 130	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	405	PF00067	279..375
+P9WPN5	reviewed	Cytochrome P450 130	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	405	PF00067	279..375
+P9WPN6	reviewed	Beta-dihydromenaquinone-9 omega-hydroxylase	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	489	PF00067	304..455
+P9WPN7	reviewed	Beta-dihydromenaquinone-9 omega-hydroxylase	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	489	PF00067	304..455
+P9WPN8	reviewed	Putative cytochrome P450 126	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	414	PF00067	220..384
+P9WPN9	reviewed	Putative cytochrome P450 126	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	414	PF00067	220..384
+P9WPP0	reviewed	Steroid C26-monooxygenase	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	433	PF00067	304..393
+P9WPP1	reviewed	Steroid C26-monooxygenase	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	433	PF00067	304..393
+P9WPP2	reviewed	Methyl-branched lipid omega-hydroxylase	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	428	PF00067	109..291,303..393
+P9WPP3	reviewed	Methyl-branched lipid omega-hydroxylase	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	428	PF00067	73..291,303..393
+P9WPP4	reviewed	Putative cytochrome P450 123	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	402	PF00067	205..372
+P9WPP5	reviewed	Putative cytochrome P450 123	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	402	PF00067	205..372
+P9WPP6	reviewed	Mycocyclosin synthase	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	396	PF00067	216..364
+P9WPP7	reviewed	Mycocyclosin synthase	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	396	PF00067	216..364
+P9WPP8	reviewed	Sterol 14alpha-demethylase	83331	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	451	PF00067	17..440
+P9WPP9	reviewed	Sterol 14alpha-demethylase	83332	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	451	PF00067	17..440
+Q00441	reviewed	6-deoxyerythronolide B hydroxylase	405948	Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338)	404	PF00067	175..372
+Q00557	reviewed	Cytochrome P450 1A1	10036	Mesocricetus auratus	524	PF00067	44..497
+Q00616	reviewed	Cytochrome P450 55A2	42744	Fusarium lichenicola	403	PF00067	177..373
+Q00707	reviewed	Versicolorin B desaturase stcL	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	496	PF00067	38..472
+Q00714	reviewed	Cytochrome P450 monooxygenase stcS	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	488	PF00067	24..442
+Q01361	reviewed	Cytochrome P450 2D14	9913	Bos taurus	500	PF00067	37..496
+Q01741	reviewed	Cytochrome P450 1A2	9031	Gallus gallus	258	PF00067	2..175
+Q02315	reviewed	Lanosterol 14-alpha demethylase	4909	Pichia kudriavzevii	414	PF00067	2..413
+Q02318	reviewed	Sterol 26-hydroxylase, mitochondrial	9606	Homo sapiens	531	PF00067	66..524
+Q02928	reviewed	Cytochrome P450 4A11	9606	Homo sapiens	519	PF00067	52..502
+Q04468	reviewed	Trans-cinnamate 4-monooxygenase	4233	Helianthus tuberosus	505	PF00067	34..496
+Q04552	reviewed	Cytochrome P450 6B1	7146	Papilio polyxenes	498	PF00067	32..493
+Q05047	reviewed	Secologanin synthase 1	4058	Catharanthus roseus	524	PF00067	93..497
+Q05421	reviewed	Cytochrome P450 2E1	10090	Mus musculus	493	PF00067	33..489
+Q05555	reviewed	Cytochrome P450 2A10	9986	Oryctolagus cuniculus	494	PF00067	34..490
+Q05556	reviewed	Cytochrome P450 2A11	9986	Oryctolagus cuniculus	494	PF00067	34..490
+Q05JG2	reviewed	Abscisic acid 8'-hydroxylase 1	39947	Oryza sativa subsp. japonica	471	PF00067	40..443
+Q06069	reviewed	Cytochrome P450(MEG)	1404	Priestia megaterium	410	PF00067	35..379
+Q06367	reviewed	Cytochrome P450 1A1	10141	Cavia porcellus	516	PF00067	36..489
+Q07217	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	8022	Oncorhynchus mykiss	514	PF00067	63..506
+Q078T0	reviewed	3-hydroxyphenylacetate 6-hydroxylase	162425	Emericella nidulans	517	PF00067	50..503
+Q07973	reviewed	1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial	9606	Homo sapiens	514	PF00067	59..503
+Q08078	reviewed	Cytochrome P450 2C25	10036	Mesocricetus auratus	490	PF00067	30..487
+Q08477	reviewed	Cytochrome P450 4F3	9606	Homo sapiens	520	PF00067	52..504
+Q08D50	reviewed	Cytochrome P450 26B1	8364	Xenopus tropicalis	511	PF00067	50..472
+Q09128	reviewed	1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial	10116	Rattus norvegicus	514	PF00067	59..505
+Q09653	reviewed	Putative cytochrome P450 CYP13A10	6239	Caenorhabditis elegans	519	PF00067	32..502
+Q09660	reviewed	Probable cytochrome P450 CYP44	6239	Caenorhabditis elegans	489	PF00067	34..478
+Q09736	reviewed	Lanosterol 14-alpha demethylase erg11	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	495	PF00067	37..488
+Q09J78	reviewed	Abscisic acid 8'-hydroxylase 2	39946	Oryza sativa subsp. indica	506	PF00067	52..466
+Q09J79	reviewed	Abscisic acid 8'-hydroxylase 1	39946	Oryza sativa subsp. indica	471	PF00067	40..443
+Q0C8A1	reviewed	Cytochrome P450 monooxygenase trt6	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	489	PF00067	189..468
+Q0C8M4	reviewed	Dihydromonacolin L monooxygenase LovA	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	528	PF00067	150..498
+Q0CJ54	reviewed	Cytochrome P450 monooxygenase atG	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	129	PF00067	20..106
+Q0CJ57	reviewed	Cytochrome P450 monooxygenase atE	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	467	PF00067	1..423
+Q0CJD0	reviewed	Cytochrome P450 monooxygenase pgmC	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	532	PF00067	42..212,277..463
+Q0CRQ3	reviewed	Cytochrome P450 monooxygenase ATEG_03631	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	492	PF00067	49..481
+Q0CRW7	reviewed	Cytochrome P450 monooxygenase sttB	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	530	PF00067	207..509
+Q0CS60	reviewed	Bimodular acetylaranotin synthesis protein ataTC	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	718	PF00067	291..695
+Q0CS63	reviewed	Cytochrome P450 monooxygenase ataF	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	489	PF00067	164..478
+Q0CS66	reviewed	Cytochrome P450 monooxygenase ataY	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	228	PF00067	10..209
+Q0CS90	reviewed	Cytochrome P450 monooxygenase tazI	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	489	PF00067	38..459
+Q0CZG8	reviewed	Cytochrome P450 monooxygenase pytD	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	378	PF00067	34..349
+Q0D1W9	reviewed	Self-sufficient cytochrome P450 monooxygenase CYP505E3	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	1050	PF00067	9..452
+Q0DBF4	reviewed	Ent-sandaracopimaradiene 3-hydroxylase	39947	Oryza sativa subsp. japonica	510	PF00067	44..491
+Q0DS59	reviewed	Cytochrome P450 714B2	39947	Oryza sativa subsp. japonica	532	PF00067	107..510
+Q0IIF9	reviewed	Cytochrome P450 2U1	9913	Bos taurus	543	PF00067	102..538
+Q0J185	reviewed	Abscisic acid 8'-hydroxylase 3	39947	Oryza sativa subsp. japonica	500	PF00067	45..456
+Q0JF01	reviewed	9-beta-pimara-7,15-diene oxidase	39947	Oryza sativa subsp. japonica	502	PF00067	36..476
+Q0JFI2	reviewed	Cytochrome P450 93G1	39947	Oryza sativa subsp. japonica	516	PF00067	44..499
+Q0PHS9	reviewed	9-divinyl ether synthase	4072	Capsicum annuum	478	PF00067	303..405
+Q0S7M1	reviewed	Steroid C26-monooxygenase	101510	Rhodococcus jostii (strain RHA1)	471	PF00067	339..429
+Q0UK49	reviewed	Cytochrome P450 monooxygenase sthF	321614	Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173)	513	PF00067	67..498
+Q0UK51	reviewed	Cytochrome P450 monooxygenase sthD	321614	Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173)	475	PF00067	37..446
+Q0V6Q8	reviewed	Cytochrome P450 monooxygenase phmB	321614	Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173)	598	PF00067	325..592
+Q0WQ07	reviewed	Cytochrome P450 705A1	3702	Arabidopsis thaliana	513	PF00067	40..489
+Q0WTF4	reviewed	Cytochrome P450 81F3	3702	Arabidopsis thaliana	501	PF00067	32..478
+Q12573	reviewed	Cytochrome P450 52E2	29830	Candida apicola	519	PF00067	99..483
+Q12581	reviewed	Cytochrome P450 52A5	5479	Candida maltosa	526	PF00067	92..499
+Q12585	reviewed	Cytochrome P450 52D1	5479	Candida maltosa	505	PF00067	77..468
+Q12586	reviewed	Cytochrome P450 52A9	5479	Candida maltosa	521	PF00067	89..497
+Q12587	reviewed	Cytochrome P450 52C2	5479	Candida maltosa	510	PF00067	112..480
+Q12588	reviewed	Cytochrome P450 52A10	5479	Candida maltosa	519	PF00067	95..490
+Q12589	reviewed	Cytochrome P450 52A11	5479	Candida maltosa	519	PF00067	85..495
+Q12599	reviewed	Cytochrome P450 55A3	42744	Fusarium lichenicola	408	PF00067	196..376
+Q12608	reviewed	Cytochrome P450 monooxygenase stcB	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	517	PF00067	82..481
+Q12609	reviewed	Cytochrome P450 monooxygenase stcF	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	483	PF00067	29..455
+Q12612	reviewed	Cytochrome P450 monooxygenase TRI4	5514	Fusarium sporotrichioides	520	PF00067	62..497
+Q12645	reviewed	Pisatin demethylase	2747968	Fusarium vanettenii	515	PF00067	57..502
+Q12664	reviewed	Eburicol 14-alpha-demethylase	40296	Penicillium italicum	515	PF00067	46..505
+Q12732	reviewed	Averantin hydroxylase	1403190	Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1)	495	PF00067	40..469
+Q14T82	reviewed	Lauric acid 10-hydroxylase	4102	Petunia hybrida	573	PF00067	33..281,456..558
+Q15FB4	reviewed	Cytochrome P450 monooxygenase ltmQ	73839	Epichloe festucae var. lolii	537	PF00067	97..523
+Q15FB5	reviewed	Cytochrome P450 monooxygenase ltmP	73839	Epichloe festucae var. lolii	498	PF00067	158..463
+Q15FB6	reviewed	Cytochrome P450 monooxygenase ltmJ	73839	Epichloe festucae var. lolii	525	PF00067	170..512
+Q16647	reviewed	Prostacyclin synthase	9606	Homo sapiens	500	PF00067	269..491
+Q16678	reviewed	Cytochrome P450 1B1	9606	Homo sapiens	543	PF00067	51..519
+Q16696	reviewed	Cytochrome P450 2A13	9606	Homo sapiens	494	PF00067	34..490
+Q16850	reviewed	Lanosterol 14-alpha demethylase	9606	Homo sapiens	509	PF00067	71..498
+Q1JPY5	reviewed	Lanosterol 14-alpha demethylase	7955	Danio rerio	499	PF00067	54..486
+Q1PS23	reviewed	Amorpha-4,11-diene 12-monooxygenase	35608	Artemisia annua	495	PF00067	41..487
+Q1T7C2	reviewed	Cytochrome P450 710A11	4081	Solanum lycopersicum	501	PF00067	38..462
+Q1ZXA1	reviewed	Cytochrome P450 monooxygenase 521A1	44689	Dictyostelium discoideum	491	PF00067	34..484
+Q1ZXA4	reviewed	Probable cytochrome P450 508D1	44689	Dictyostelium discoideum	482	PF00067	33..479
+Q1ZXC4	reviewed	Probable cytochrome P450 514A2	44689	Dictyostelium discoideum	500	PF00067	37..494
+Q1ZXF3	reviewed	Probable cytochrome P450 517A2	44689	Dictyostelium discoideum	510	PF00067	31..496
+Q1ZXF5	reviewed	Probable cytochrome P450 508A4	44689	Dictyostelium discoideum	501	PF00067	33..490
+Q1ZXG3	reviewed	Probable cytochrome P450 522A1	44689	Dictyostelium discoideum	489	PF00067	32..466
+Q1ZXG6	reviewed	Probable cytochrome P450 513A1	44689	Dictyostelium discoideum	509	PF00067	30..493
+Q1ZXH9	reviewed	Probable lanosterol 14-alpha demethylase	44689	Dictyostelium discoideum	466	PF00067	26..454
+Q1ZXI7	reviewed	Probable cytochrome P450 513F1	44689	Dictyostelium discoideum	504	PF00067	29..496
+Q1ZXL2	reviewed	Probable cytochrome P450 518B1	44689	Dictyostelium discoideum	490	PF00067	30..485
+Q1ZXL7	reviewed	Probable cytochrome P450 508A3	44689	Dictyostelium discoideum	479	PF00067	32..458
+Q1ZXN4	reviewed	Probable cytochrome P450 519C1	44689	Dictyostelium discoideum	524	PF00067	33..519
+Q27513	reviewed	Putative cytochrome P450 CYP13A4	6239	Caenorhabditis elegans	520	PF00067	32..510
+Q27514	reviewed	Putative cytochrome P450 CYP13A5	6239	Caenorhabditis elegans	520	PF00067	32..509
+Q27515	reviewed	Putative cytochrome P450 CYP13A6	6239	Caenorhabditis elegans	518	PF00067	30..510
+Q27516	reviewed	Putative cytochrome P450 CYP13A8	6239	Caenorhabditis elegans	509	PF00067	27..492
+Q27517	reviewed	Putative cytochrome P450 CYP13A3	6239	Caenorhabditis elegans	520	PF00067	32..502
+Q27518	reviewed	Putative cytochrome P450 CYP13A2	6239	Caenorhabditis elegans	515	PF00067	35..497
+Q27519	reviewed	Putative cytochrome P450 CYP13A7	6239	Caenorhabditis elegans	518	PF00067	32..501
+Q27520	reviewed	Putative cytochrome P450 CYP13A1	6239	Caenorhabditis elegans	519	PF00067	36..503
+Q27589	reviewed	Cytochrome P450 4d2	7227	Drosophila melanogaster	501	PF00067	32..480
+Q27593	reviewed	Cytochrome P450 6a8	7227	Drosophila melanogaster	506	PF00067	38..496
+Q27594	reviewed	Cytochrome P450 6a9	7227	Drosophila melanogaster	504	PF00067	35..495
+Q27606	reviewed	Cytochrome P450 4e2	7227	Drosophila melanogaster	526	PF00067	35..469
+Q27664	reviewed	Cytochrome P450 6B2	29058	Helicoverpa armigera	504	PF00067	34..490
+Q27698	reviewed	Cytochrome P450 6d1	7370	Musca domestica	516	PF00067	59..503
+Q27712	reviewed	Cytochrome P450 2L1	6737	Panulirus argus	492	PF00067	26..487
+Q27756	reviewed	Cytochrome P450 6B3	7146	Papilio polyxenes	498	PF00067	32..493
+Q27902	reviewed	Cytochrome P450 6B4	45779	Papilio glaucus	500	PF00067	33..491
+Q28827	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	9986	Oryctolagus cuniculus	445	PF00067	49..440
+Q29473	reviewed	Cytochrome P450 2D15	9615	Canis lupus familiaris	500	PF00067	37..497
+Q29478	reviewed	Cytochrome P450 2C31	9923	Capra hircus aegagrus	284	PF00067	2..274
+Q29488	reviewed	Cytochrome P450 2D17	9541	Macaca fascicularis	497	PF00067	34..493
+Q29496	reviewed	Cytochrome P450 3A24	9940	Ovis aries	503	PF00067	39..493
+Q29497	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9940	Ovis aries	509	PF00067	28..492
+Q29510	reviewed	Cytochrome P450 2C30	9986	Oryctolagus cuniculus	489	PF00067	30..486
+Q29527	reviewed	Cytochrome P450 11B1, mitochondrial	36229	Papio hamadryas ursinus	503	PF00067	42..491
+Q29552	reviewed	Cytochrome P450 11B1, mitochondrial	9823	Sus scrofa	503	PF00067	42..494
+Q29605	reviewed	Aromatase	9986	Oryctolagus cuniculus	503	PF00067	53..483
+Q29624	reviewed	Aromatase 1	9823	Sus scrofa	503	PF00067	51..483
+Q29626	reviewed	Prostacyclin synthase	9913	Bos taurus	500	PF00067	269..491
+Q2HEW1	reviewed	Cytochrome P450 monooxygenase cheG	306901	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970)	340	PF00067	129..335
+Q2KIG5	reviewed	Thromboxane-A synthase	9913	Bos taurus	533	PF00067	46..286,325..524
+Q2LA59	reviewed	Steroid 21-hydroxylase	13125	Lynx lynx	492	PF00067	48..476
+Q2LA60	reviewed	Steroid 21-hydroxylase	9685	Felis catus	492	PF00067	48..475
+Q2LCM1	reviewed	Steroid 21-hydroxylase	9612	Canis lupus	492	PF00067	48..469
+Q2MJ19	reviewed	Cytochrome P450 72A68	3880	Medicago truncatula	520	PF00067	88..493
+Q2MJ20	reviewed	Beta-amyrin 28-monooxygenase	3880	Medicago truncatula	479	PF00067	35..451
+Q2MJ21	reviewed	Cytochrome P450 716A67	3880	Medicago truncatula	520	PF00067	87..499
+Q2PBY6	reviewed	Cytochrome P450 monooxygenase cloA	5111	Claviceps purpurea	507	PF00067	160..475
+Q2PG45	reviewed	Thromboxane-A synthase	9541	Macaca fascicularis	533	PF00067	46..525
+Q2QUC5	reviewed	Tryptamine 5-hydroxylase	39947	Oryza sativa subsp. japonica	523	PF00067	39..499
+Q2QYH7	reviewed	Cytochrome P450 714C2	39947	Oryza sativa subsp. japonica	522	PF00067	93..498
+Q2RAP4	reviewed	Cytochrome P450 90A3	39947	Oryza sativa subsp. japonica	501	PF00067	43..475
+Q2U0J6	reviewed	Cytochrome P450 monooxygenase hepH	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	521	PF00067	58..484
+Q2U0J9	reviewed	Cytochrome P450 monooxygenase hepE	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	548	PF00067	171..519
+Q2U0K0	reviewed	Cytochrome P450 monooxygenase hepD	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	500	PF00067	59..489
+Q2U0K1	reviewed	Cytochrome P450 monooxygenase hepC	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	509	PF00067	56..498
+Q2UAZ8	reviewed	Cytochrome P450 monooxygenase ppsD	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	528	PF00067	31..493
+Q2UEK3	reviewed	Cytochrome P450 monooxygenase astB	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	512	PF00067	30..447
+Q2UEK5	reviewed	Cytochrome P450 monooxygenase astD	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	512	PF00067	65..494
+Q2UEK7	reviewed	Cytochrome P450 monooxygenase astF	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	521	PF00067	43..464
+Q2UEL1	reviewed	Cytochrome P450 monooxygenase astJ	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	500	PF00067	41..480
+Q2UNA2	reviewed	Bifunctional cytochrome P450/NADPH--P450 reductase	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	1103	PF00067	12..457
+Q2UPB1	reviewed	Cytochrome P450 monooxygenase aclC	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	486	PF00067	65..452
+Q2UPB7	reviewed	Cytochrome P450 monooxygenase aclB	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	527	PF00067	165..503
+Q2UPC4	reviewed	Cytochrome P450 monooxygenase aclL	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	490	PF00067	58..471
+Q2UPC5	reviewed	Cytochrome P450 monooxygenase aclO	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	306	PF00067	184..270
+Q2XNC8	reviewed	Cytochrome P450 2D6	9598	Pan troglodytes	497	PF00067	34..493
+Q2XNC9	reviewed	Cytochrome P450 2D6	9597	Pan paniscus	497	PF00067	34..493
+Q2XV99	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	9541	Macaca fascicularis	521	PF00067	52..511
+Q2XVA1	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9541	Macaca fascicularis	508	PF00067	28..492
+Q30DW6	reviewed	Cytochrome P450 monooxygenase cypX	64363	Dothistroma septosporum	511	PF00067	74..476
+Q33DX9	reviewed	(+)-piperitol/(+)-sesamin synthase CYP81Q2	300843	Sesamum radiatum	506	PF00067	37..483
+Q33DY0	reviewed	(+)-piperitol/(+)-sesamin synthase CYP81Q1	4182	Sesamum indicum	506	PF00067	37..483
+Q38Q84	reviewed	Cytochrome P450 82E3	4097	Nicotiana tabacum	518	PF00067	35..500
+Q38Q87	reviewed	Nicotine N-demethylase CYP82E4	4097	Nicotiana tabacum	517	PF00067	35..499
+Q3LFT9	reviewed	Cytochrome P450 1A2	9767	Balaenoptera acutorostrata	516	PF00067	42..503
+Q3LFU0	reviewed	Cytochrome P450 1A1	9767	Balaenoptera acutorostrata	516	PF00067	44..495
+Q3MID2	reviewed	Cytochrome P450 4F3	10116	Rattus norvegicus	524	PF00067	52..503
+Q3S2T8	reviewed	Dihydromonacolin L monooxygenase mokC	89488	Monascus pilosus	524	PF00067	152..498
+Q40778	reviewed	Allene oxide synthase	35935	Parthenium argentatum	473	PF00067	301..401
+Q42569	reviewed	3beta,22alpha-dihydroxysteroid 3-dehydrogenase	3702	Arabidopsis thaliana	472	PF00067	206..449
+Q42600	reviewed	Cytochrome P450 84A1	3702	Arabidopsis thaliana	520	PF00067	41..504
+Q42602	reviewed	Cytochrome P450 89A2	3702	Arabidopsis thaliana	506	PF00067	32..495
+Q42716	reviewed	Cytochrome P450 71A8	34256	Mentha piperita	502	PF00067	50..489
+Q42797	reviewed	Trans-cinnamate 4-monooxygenase	3847	Glycine max	506	PF00067	34..497
+Q42798	reviewed	3,9-dihydroxypterocarpan 6A-monooxygenase	3847	Glycine max	509	PF00067	30..498
+Q42799	reviewed	Cytochrome P450 93A2	3847	Glycine max	502	PF00067	30..490
+Q43033	reviewed	Trans-cinnamate 4-monooxygenase	4043	Petroselinum crispum	506	PF00067	35..496
+Q43054	reviewed	Trans-cinnamate 4-monooxygenase	34292	Populus kitakamiensis	505	PF00067	34..496
+Q43067	reviewed	Trans-cinnamate 4-monooxygenase	3888	Pisum sativum	505	PF00067	34..496
+Q43068	reviewed	Cytochrome P450 82A1	3888	Pisum sativum	544	PF00067	41..515
+Q43078	reviewed	Cytochrome P450 97B1, chloroplastic	3888	Pisum sativum	552	PF00067	110..544
+Q43135	reviewed	Tyrosine N-monooxygenase	4558	Sorghum bicolor	558	PF00067	69..531
+Q43147	reviewed	Cytochrome P450 85A1	4081	Solanum lycopersicum	464	PF00067	35..447
+Q43240	reviewed	Trans-cinnamate 4-monooxygenase	34245	Zinnia violacea	505	PF00067	34..496
+Q43246	reviewed	Cytochrome P450 88A1	4577	Zea mays	519	PF00067	73..490
+Q43250	reviewed	3-hydroxyindolin-2-one monooxygenase	4577	Zea mays	535	PF00067	57..499
+Q43255	reviewed	indolin-2-one monooxygenase	4577	Zea mays	536	PF00067	62..528
+Q43257	reviewed	indole-2-monooxygenase	4577	Zea mays	538	PF00067	69..527
+Q4G0S4	reviewed	Cytochrome P450 27C1	9606	Homo sapiens	542	PF00067	75..535
+Q4H4C3	reviewed	Cytochrome P450 1A2	9543	Macaca fuscata fuscata	516	PF00067	42..493
+Q4PJW3	reviewed	Lanosterol 14-alpha demethylase	9913	Bos taurus	502	PF00067	65..494
+Q4R8S6	reviewed	Lanosterol 14-alpha demethylase	9541	Macaca fascicularis	509	PF00067	71..498
+Q4V8D1	reviewed	Cytochrome P450 2U1	10116	Rattus norvegicus	530	PF00067	69..526
+Q4WAW5	reviewed	Tryprostatin B 6-hydroxylase	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	559	PF00067	121..532
+Q4WAW8	reviewed	Fumitremorgin C synthase	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	526	PF00067	40..479
+Q4WAX0	reviewed	Fumitremorgin C monooxygenase	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	490	PF00067	148..474
+Q4WAZ6	reviewed	Multifunctional cytochrome P450 monooxygenase af510	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	536	PF00067	36..502
+Q4WB01	reviewed	Cytochrome P450 monooxygenase psoD	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	518	PF00067	34..458
+Q4WED5	reviewed	Cytochrome P450 monooxygenase xanG	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	538	PF00067	77..522
+Q4WK25	reviewed	C-22 sterol desaturase erg5	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	521	PF00067	67..497
+Q4WMJ0	reviewed	Cytochrome P450 monooxygenase gliF	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	504	PF00067	194..485
+Q4WNT5	reviewed	Sterol 14-alpha demethylase cyp51A	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	515	PF00067	41..485
+Q4WPX2	reviewed	Psi-producing oxygenase A	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	1079	PF00067	933..1021
+Q4WR17	reviewed	Cytochrome P450 monooxygenase helB1	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	580	PF00067	130..525
+Q4WR18	reviewed	Cytochrome P450 monooxygenase helB2	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	507	PF00067	67..464
+Q4WR20	reviewed	Cytochrome P450 monooxygenase helB3	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	507	PF00067	61..465
+Q4WR22	reviewed	Cytochrome P450 monooxygenase helB4	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	504	PF00067	63..463
+Q4WZ65	reviewed	Cytochrome P450 monooxygenase easM	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	519	PF00067	236..491
+Q4WZ68	reviewed	Cytochrome P450 monooxygenase easK	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	338	PF00067	72..327
+Q501D8	reviewed	Tryptophan N-monooxygenase 2	3702	Arabidopsis thaliana	543	PF00067	59..524
+Q50EK0	reviewed	Cytochrome P450 716B2	3332	Picea sitchensis	497	PF00067	52..473
+Q50EK1	reviewed	Cytochrome P450 716B1	3332	Picea sitchensis	493	PF00067	52..467
+Q50EK3	reviewed	Cytochrome P450 704C1	3352	Pinus taeda	518	PF00067	38..494
+Q50EK4	reviewed	Cytochrome P450 750A1	3352	Pinus taeda	525	PF00067	43..500
+Q50EK5	reviewed	Cytochrome P450 720B2	3352	Pinus taeda	487	PF00067	45..467
+Q50EK6	reviewed	Abietadienol/abietadienal oxidase	3352	Pinus taeda	481	PF00067	46..460
+Q50LE0	reviewed	Cytochrome P450 85A3	4081	Solanum lycopersicum	467	PF00067	35..450
+Q50LG1	reviewed	Cytochrome P450 monooxygenase AFT11-1	5599	Alternaria alternata	509	PF00067	41..464
+Q50LH3	reviewed	(S)-stylopine synthase 1	3467	Eschscholzia californica	495	PF00067	40..483
+Q50LH4	reviewed	Trifunctional (S)-stylopine synthase 2/(S)-nandinine synthase/(S)-canadine synthase	3467	Eschscholzia californica	495	PF00067	40..483
+Q53215	reviewed	Probable cytochrome P450 127A1	394	Sinorhizobium fredii (strain NBRC 101917 / NGR234)	414	PF00067	167..382
+Q54823	reviewed	Anthracycline biosynthesis protein DnrQ	1950	Streptomyces peucetius	438	PF00067	311..371
+Q54CS3	reviewed	Probable cytochrome P450 508C1	44689	Dictyostelium discoideum	495	PF00067	33..490
+Q54D38	reviewed	Probable cytochrome P450 520A1	44689	Dictyostelium discoideum	536	PF00067	36..530
+Q54DT2	reviewed	Probable cytochrome P450 516A1	44689	Dictyostelium discoideum	487	PF00067	32..483
+Q54E98	reviewed	Putative cytochrome P450 520B1	44689	Dictyostelium discoideum	481	PF00067	14..475
+Q54EM5	reviewed	Probable cytochrome P450 519D1	44689	Dictyostelium discoideum	566	PF00067	30..430,499..559
+Q54F47	reviewed	Probable cytochrome P450 513C1	44689	Dictyostelium discoideum	495	PF00067	34..485
+Q54FM9	reviewed	Probable cytochrome P450 514A1	44689	Dictyostelium discoideum	575	PF00067	37..496
+Q54FP9	reviewed	Probable cytochrome P450 514A4	44689	Dictyostelium discoideum	502	PF00067	37..496
+Q54KV0	reviewed	Probable cytochrome P450 513B1	44689	Dictyostelium discoideum	487	PF00067	34..476
+Q54LA8	reviewed	Probable cytochrome P450 555A1	44689	Dictyostelium discoideum	484	PF00067	27..452
+Q54LT7	reviewed	Probable cytochrome P450 519E1	44689	Dictyostelium discoideum	506	PF00067	31..501
+Q54NY3	reviewed	Probable cytochrome P450 554A1	44689	Dictyostelium discoideum	502	PF00067	31..497
+Q54PT3	reviewed	Probable cytochrome P450 556A1	44689	Dictyostelium discoideum	657	PF00067	64..404
+Q54Q53	reviewed	Probable cytochrome P450 519B1	44689	Dictyostelium discoideum	509	PF00067	31..505
+Q54QD0	reviewed	Probable cytochrome P450 517A4	44689	Dictyostelium discoideum	483	PF00067	31..478
+Q54QD2	reviewed	Probable cytochrome P450 517A1	44689	Dictyostelium discoideum	483	PF00067	31..478
+Q54SK0	reviewed	Probable cytochrome P450 508B1	44689	Dictyostelium discoideum	484	PF00067	31..479
+Q54SN0	reviewed	Probable cytochrome P450 513E1	44689	Dictyostelium discoideum	504	PF00067	32..481
+Q54SV9	reviewed	Probable cytochrome P450 515B1	44689	Dictyostelium discoideum	493	PF00067	29..488
+Q54WB9	reviewed	Probable cytochrome P450 513D1	44689	Dictyostelium discoideum	519	PF00067	34..511
+Q54ZM4	reviewed	Probable cytochrome P450 518A1	44689	Dictyostelium discoideum	494	PF00067	30..488
+Q55080	reviewed	Cytochrome P450 119	330779	Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)	368	PF00067	221..350
+Q554S4	reviewed	Probable cytochrome P450 519A1	44689	Dictyostelium discoideum	530	PF00067	33..415,465..511
+Q556M4	reviewed	Probable cytochrome P450 508A2	44689	Dictyostelium discoideum	493	PF00067	31..488
+Q556M5	reviewed	Probable cytochrome P450 508A1	44689	Dictyostelium discoideum	484	PF00067	33..473
+Q55AJ4	reviewed	Probable cytochrome P450 516B1	44689	Dictyostelium discoideum	492	PF00067	25..486
+Q55BU9	reviewed	Probable cytochrome P450 513A3	44689	Dictyostelium discoideum	492	PF00067	30..477
+Q55EK2	reviewed	Probable cytochrome P450 524A1	44689	Dictyostelium discoideum	532	PF00067	92..495
+Q56RZ1	reviewed	Cytochrome P450 monooxygenase ltmK	877507	Epichloe festucae (strain Fl1)	533	PF00067	219..505
+Q56RZ5	reviewed	Cytochrome P450 monooxygenase ltmK	73839	Epichloe festucae var. lolii	533	PF00067	219..505
+Q59203	reviewed	Cytochrome P450 BJ-1	224911	Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110)	401	PF00067	31..370
+Q59204	reviewed	Cytochrome P450 BJ-3	224911	Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110)	429	PF00067	218..397
+Q59205	reviewed	Cytochrome P450 BJ-4	224911	Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110)	447	PF00067	21..408
+Q59523	reviewed	Mycinamicin IV hydroxylase/epoxidase	28040	Micromonospora griseorubida	397	PF00067	39..139,178..366
+Q59723	reviewed	Linalool 8-monooxygenase	303	Pseudomonas putida	406	PF00067	276..381
+Q59831	reviewed	Cytochrome P450 105A3	44059	Streptomyces carbophilus	410	PF00067	230..377
+Q59971	reviewed	Cytochrome P-450 monooxygenase DoxA	45212	Streptomyces sp. (strain C5)	422	PF00067	294..389
+Q59990	reviewed	Putative cytochrome P450 120	1111708	Synechocystis sp. (strain PCC 6803 / Kazusa)	444	PF00067	14..424
+Q5AR27	reviewed	Cytochrome P450 monooxygenase ausI	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	499	PF00067	227..469
+Q5AR29	reviewed	Cytochrome P450 monooxygenase ausR	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	535	PF00067	165..520
+Q5AR32	reviewed	Cytochrome P450 monooxygenase ausG	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	529	PF00067	244..519
+Q5AR55	reviewed	Cytochrome P450 monooxygenase asqL	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	478	PF00067	64..442
+Q5ATG9	reviewed	Cytochrome P450 monooxygenase apdE	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	519	PF00067	74..488
+Q5ATH2	reviewed	Cytochrome P450 monooxygenase apdB	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	498	PF00067	119..486
+Q5AUZ9	reviewed	Cytochrome P450 monooxygenase atnE	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	518	PF00067	42..492
+Q5CCK1	reviewed	Cytochrome P450 90A4	39947	Oryza sativa subsp. japonica	501	PF00067	43..475
+Q5CCK3	reviewed	Steroid (22S)-hydroxylase	39947	Oryza sativa subsp. japonica	506	PF00067	55..477
+Q5E980	reviewed	Cytochrome P450 20A1	9913	Bos taurus	462	PF00067	43..446
+Q5IZM4	reviewed	Sterol 14alpha-demethylase	350058	Mycolicibacterium vanbaalenii (strain DSM 7251 / JCM 13017 / BCRC 16820 / KCTC 9966 / NRRL B-24157 / PYR-1)	452	PF00067	19..444
+Q5J1R4	reviewed	Nocardicin C N-oxygenase	96045	Nocardia uniformis subsp. tsuyamanensis	398	PF00067	170..368
+Q5K0D9	reviewed	Cytochrome P450 monooxygenase abl2	40559	Botryotinia fuckeliana	527	PF00067	69..489
+Q5KQH7	reviewed	Cytochrome P450 714D1	39947	Oryza sativa subsp. japonica	577	PF00067	107..534
+Q5KQT6	reviewed	Cytochrome P450 1A2	9685	Felis catus	512	PF00067	38..487
+Q5KQT7	reviewed	Cytochrome P450 1A1	9685	Felis catus	517	PF00067	45..498
+Q5KTN1	reviewed	Cytochrome P450 monooxygenase alt3	48100	Alternaria solani	509	PF00067	55..500
+Q5KTN2	reviewed	Cytochrome P450 monooxygenase alt2	48100	Alternaria solani	537	PF00067	82..498
+Q5KTN3	reviewed	Cytochrome P450 monooxygenase alt1	48100	Alternaria solani	524	PF00067	139..450
+Q5MNI1	reviewed	Cytochrome P450 monooxygenase lolP1	5050	Epichloe uncinata	496	PF00067	46..478
+Q5QQX7	reviewed	Aromatase	9615	Canis lupus familiaris	503	PF00067	48..483
+Q5RBQ1	reviewed	Cytochrome P450 1A2	9601	Pongo abelii	516	PF00067	42..493
+Q5RCN6	reviewed	Cytochrome P450 4V2	9601	Pongo abelii	525	PF00067	52..513
+Q5RE72	reviewed	Lanosterol 14-alpha demethylase	9601	Pongo abelii	509	PF00067	71..498
+Q5TCH4	reviewed	Cytochrome P450 4A22	9606	Homo sapiens	519	PF00067	52..502
+Q5UQ90	reviewed	Cytochrome P450-like protein L532	212035	Acanthamoeba polyphaga mimivirus	468	PF00067	67..448
+Q5UQI3	reviewed	Probable lanosterol 14-alpha demethylase	212035	Acanthamoeba polyphaga mimivirus	709	PF00067	43..461
+Q5VRI5	reviewed	Cytochrome P450 93G2	39947	Oryza sativa subsp. japonica	518	PF00067	40..499
+Q5VRM7	reviewed	Ent-kaurenoic acid oxidase	39947	Oryza sativa subsp. japonica	506	PF00067	56..475
+Q5W6F1	reviewed	Trans-cinnamate 4-monooxygenase	39947	Oryza sativa subsp. japonica	500	PF00067	34..487
+Q5Z5R4	reviewed	Ent-kaurene oxidase 2	39947	Oryza sativa subsp. japonica	505	PF00067	41..483
+Q5Z5R7	reviewed	Ent-kaurene oxidase-like 3	39947	Oryza sativa subsp. japonica	504	PF00067	40..482
+Q5Z5S6	reviewed	Ent-kaurene oxidase-like 5	39947	Oryza sativa subsp. japonica	503	PF00067	38..492
+Q60991	reviewed	Cytochrome P450 7B1	10090	Mus musculus	507	PF00067	48..479
+Q62969	reviewed	Prostacyclin synthase	10116	Rattus norvegicus	501	PF00067	276..489
+Q63688	reviewed	25-hydroxycholesterol 7-alpha-hydroxylase	10116	Rattus norvegicus	414	PF00067	62..386
+Q64148	reviewed	Lithocholate 6-beta-hydroxylase	10036	Mesocricetus auratus	503	PF00067	39..492
+Q64391	reviewed	Cytochrome P450 1A2	10141	Cavia porcellus	515	PF00067	42..503
+Q64403	reviewed	Cytochrome P450 2D16	10141	Cavia porcellus	500	PF00067	37..496
+Q64406	reviewed	Cytochrome P450 3A15	10141	Cavia porcellus	503	PF00067	39..493
+Q64408	reviewed	Cytochrome P450 11B1, mitochondrial	10141	Cavia porcellus	500	PF00067	56..492
+Q64409	reviewed	Cytochrome P450 3A17	10141	Cavia porcellus	503	PF00067	39..493
+Q64410	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	10141	Cavia porcellus	508	PF00067	28..492
+Q64417	reviewed	Cytochrome P450 3A14	10141	Cavia porcellus	503	PF00067	39..493
+Q64429	reviewed	Cytochrome P450 1B1	10090	Mus musculus	543	PF00067	51..518
+Q64441	reviewed	1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial	10090	Mus musculus	514	PF00067	59..505
+Q64458	reviewed	Cytochrome P450 2C29	10090	Mus musculus	490	PF00067	30..487
+Q64459	reviewed	Cytochrome P450 3A11	10090	Mus musculus	504	PF00067	39..494
+Q64462	reviewed	Cytochrome P450 4B1	10090	Mus musculus	511	PF00067	47..497
+Q64464	reviewed	Cytochrome P450 3A13	10090	Mus musculus	503	PF00067	39..493
+Q64481	reviewed	Cytochrome P450 3A16	10090	Mus musculus	504	PF00067	39..493
+Q64505	reviewed	Cytochrome P450 7A1	10090	Mus musculus	503	PF00067	38..495
+Q64562	reviewed	Steroid 21-hydroxylase	10116	Rattus norvegicus	493	PF00067	36..474
+Q64581	reviewed	Cytochrome P450 3A18	10116	Rattus norvegicus	497	PF00067	39..492
+Q64583	reviewed	Cytochrome P450 2B15	10116	Rattus norvegicus	495	PF00067	32..489
+Q64654	reviewed	Lanosterol 14-alpha demethylase	10116	Rattus norvegicus	503	PF00067	66..480
+Q64658	reviewed	Cytochrome P450 11B2, mitochondrial	10036	Mesocricetus auratus	500	PF00067	42..490
+Q64678	reviewed	Cytochrome P450 1B1	10116	Rattus norvegicus	543	PF00067	51..519
+Q64680	reviewed	Cytochrome P450 2D4	10116	Rattus norvegicus	500	PF00067	37..496
+Q69F95	reviewed	Cytochrome P450 85A	3885	Phaseolus vulgaris	466	PF00067	35..450
+Q69FB6	reviewed	Aromatase	90246	Lagenorhynchus acutus	503	PF00067	49..483
+Q69X58	reviewed	Ent-cassadiene C11-alpha-hydroxylase 1	39947	Oryza sativa subsp. japonica	500	PF00067	35..476
+Q69XM6	reviewed	Cytochrome P450 734A4	39947	Oryza sativa subsp. japonica	538	PF00067	83..507
+Q6A152	reviewed	Cytochrome P450 4X1	10090	Mus musculus	507	PF00067	47..499
+Q6CSN2	reviewed	Cytochrome P450 monooxygenase PUL2	284590	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	511	PF00067	79..508
+Q6EIG3	reviewed	Cytochrome P450 26B1	7955	Danio rerio	511	PF00067	72..457
+Q6F4F5	reviewed	Cytochrome P450 724B1	39947	Oryza sativa subsp. japonica	480	PF00067	36..460
+Q6F5E2	reviewed	Cytochrome P450 monooxygenase 2	1979465	Neocamarosporium betae	541	PF00067	72..506
+Q6F5E4	reviewed	Cytochrome P450 monooxygenase 1	1979465	Neocamarosporium betae	486	PF00067	54..460
+Q6GUQ4	reviewed	Cytochrome P450 2E1	9544	Macaca mulatta	493	PF00067	33..489
+Q6GUR1	reviewed	Cytochrome P450 1A1	9544	Macaca mulatta	512	PF00067	40..492
+Q6H9H9	reviewed	Cytochrome P450 monooxygenase aba1	40559	Botryotinia fuckeliana	509	PF00067	48..487
+Q6IV13	reviewed	Cytochrome P450 71D95	29719	Mentha spicata	496	PF00067	35..479
+Q6J540	reviewed	Isoleucine N-monooxygenase 2	34305	Lotus japonicus	536	PF00067	46..510
+Q6J541	reviewed	Isoleucine N-monooxygenase 1	34305	Lotus japonicus	535	PF00067	46..510
+Q6JD68	reviewed	Taxoid 2-alpha-hydroxylase	88032	Taxus canadensis	495	PF00067	49..466
+Q6JTJ0	reviewed	Taxoid 7-beta-hydroxylase	99806	Taxus cuspidata	500	PF00067	54..471
+Q6JZS3	reviewed	Cytochrome P450 1A1	8090	Oryzias latipes	521	PF00067	46..508
+Q6N8N2	reviewed	Cytochrome p450 CYP199A2	258594	Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009)	412	PF00067	235..378
+Q6NKZ8	reviewed	Cytochrome P450 714A2	3702	Arabidopsis thaliana	525	PF00067	85..514
+Q6NT55	reviewed	Ultra-long-chain fatty acid omega-hydroxylase	9606	Homo sapiens	531	PF00067	60..519
+Q6P7D4	reviewed	Cytochrome P450 20A1	10116	Rattus norvegicus	462	PF00067	43..445
+Q6Q879	reviewed	Cytochrome P450 monooxygenase sirE	5022	Leptosphaeria maculans	411	PF00067	15..287,339..384
+Q6Q881	reviewed	Cytochrome P450 monooxygenase sirC	5022	Leptosphaeria maculans	470	PF00067	79..397,401..438
+Q6Q884	reviewed	Cytochrome P450 monooxygenase sirB	5022	Leptosphaeria maculans	522	PF00067	180..514
+Q6QHT9	reviewed	Aromatase	7937	Anguilla japonica	511	PF00067	62..488
+Q6QNI4	reviewed	Psoralen synthase	48026	Ammi majus	494	PF00067	38..484
+Q6R7M4	reviewed	Methyl farnesoate epoxidase	6984	Diploptera punctata	493	PF00067	24..488
+Q6RET3	reviewed	Psi-producing oxygenase A	162425	Emericella nidulans	1081	PF00067	925..1020
+Q6TBX7	reviewed	Carotene epsilon-monooxygenase, chloroplastic	3702	Arabidopsis thaliana	539	PF00067	102..522
+Q6UEF4	reviewed	Cytochrome P450 monooxygenase aflV	1403190	Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1)	508	PF00067	69..474
+Q6UEG2	reviewed	Cytochrome P450 monooxygenase aflN	1403190	Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1)	492	PF00067	24..453
+Q6UEH4	reviewed	Cytochrome P450 monooxygenase aflU	1403190	Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1)	498	PF00067	56..485
+Q6UW02	reviewed	Cytochrome P450 20A1	9606	Homo sapiens	462	PF00067	43..446
+Q6V0L0	reviewed	Cytochrome P450 26C1	9606	Homo sapiens	522	PF00067	50..484
+Q6VVW9	reviewed	Vitamin D 25-hydroxylase	10090	Mus musculus	501	PF00067	40..497
+Q6VVX0	reviewed	Vitamin D 25-hydroxylase	9606	Homo sapiens	501	PF00067	40..497
+Q6WG30	reviewed	Taxadiene 5-alpha hydroxylase	99806	Taxus cuspidata	499	PF00067	53..489
+Q6WKY9	reviewed	Cytochrome P450 71D95	241069	Mentha gracilis	497	PF00067	35..479
+Q6WKZ0	reviewed	Cytochrome P450 71D94	241069	Mentha gracilis	494	PF00067	35..465
+Q6WKZ1	reviewed	Cytochrome P450 71D18	241069	Mentha gracilis	496	PF00067	35..484
+Q6WNQ8	reviewed	Cytochrome P450 81E8	3880	Medicago truncatula	499	PF00067	33..475
+Q6WNQ9	reviewed	Isoflavone 3'-hydroxylase	3880	Medicago truncatula	501	PF00067	31..482
+Q6WNR0	reviewed	Isoflavone 2'-hydroxylase	3880	Medicago truncatula	498	PF00067	33..479
+Q6WP49	reviewed	Cytochrome P450 monooxygenase BOT1	40559	Botryotinia fuckeliana	510	PF00067	69..487
+Q6WP51	reviewed	Cytochrome P450 monooxygenase BOT3	40559	Botryotinia fuckeliana	567	PF00067	121..527
+Q6XQ14	reviewed	2-methylbutanal oxime monooxygenase	3983	Manihot esculenta	511	PF00067	44..487
+Q6XVG2	reviewed	Cytochrome P450 2C54	10090	Mus musculus	490	PF00067	30..487
+Q6YI21	reviewed	Aromatase	9925	Capra hircus	503	PF00067	50..483
+Q6YTF1	reviewed	Oryzalexin D synthase	39947	Oryza sativa subsp. japonica	500	PF00067	35..471
+Q6YTF5	reviewed	Cytochrome P450 76M5	39947	Oryza sativa subsp. japonica	501	PF00067	41..478
+Q6YV88	reviewed	Ent-cassadiene hydroxylase	39947	Oryza sativa subsp. japonica	518	PF00067	34..494
+Q6Z5I7	reviewed	Oryzalexin E synthase	39947	Oryza sativa subsp. japonica	512	PF00067	40..495
+Q6Z6D6	reviewed	Cytochrome P450 734A2	39947	Oryza sativa subsp. japonica	557	PF00067	99..522
+Q6Z6K9	reviewed	Allene oxide synthase 4	39947	Oryza sativa subsp. japonica	510	PF00067	321..475
+Q6Z6L1	reviewed	Allene oxide synthase 3	39947	Oryza sativa subsp. japonica	500	PF00067	319..474
+Q6ZDE3	reviewed	Abscisic acid 8'-hydroxylase 2	39947	Oryza sativa subsp. japonica	510	PF00067	52..470
+Q6ZSU1	reviewed	Putative inactive cytochrome P450 2G1	9606	Homo sapiens	146	PF00067	1..143
+Q6ZWL3	reviewed	Cytochrome P450 4V2	9606	Homo sapiens	525	PF00067	52..513
+Q701P2	reviewed	Ent-kaurene oxidase	948311	Gibberella intermedia	525	PF00067	91..514
+Q759W0	reviewed	Lanosterol 14-alpha demethylase	284811	Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056)	529	PF00067	57..516
+Q7EZR4	reviewed	Cytochrome P450 703A2	39947	Oryza sativa subsp. japonica	525	PF00067	31..503
+Q7G602	reviewed	Flavonoid 3'-monooxygenase CYP75B3	39947	Oryza sativa subsp. japonica	526	PF00067	42..502
+Q7KR10	reviewed	Probable cytochrome P450 12d1 distal, mitochondrial	7227	Drosophila melanogaster	521	PF00067	65..506
+Q7KWN2	reviewed	Probable cytochrome P450 525A1	44689	Dictyostelium discoideum	601	PF00067	258..594
+Q7X7X4	reviewed	Cytochrome P450 99A2	39947	Oryza sativa subsp. japonica	532	PF00067	60..508
+Q7XHW5	reviewed	Cytochrome P450 714B1	39947	Oryza sativa subsp. japonica	534	PF00067	86..500
+Q7XU38	reviewed	Cytochrome P450 87A3	39947	Oryza sativa subsp. japonica	514	PF00067	72..495
+Q7XYS3	reviewed	Allene oxide synthase 2	39947	Oryza sativa subsp. japonica	478	PF00067	301..451
+Q7Y0C8	reviewed	Allene oxide synthase 1, chloroplastic	39947	Oryza sativa subsp. japonica	512	PF00067	339..442
+Q7Y1V5	reviewed	Cytochrome P450 78A11	39947	Oryza sativa subsp. japonica	555	PF00067	76..533
+Q7YRB2	reviewed	5-beta-cholestane-3-alpha,7-alpha-diol 12-alpha-hydroxylase	9823	Sus scrofa	501	PF00067	37..492
+Q7Z1V1	reviewed	Sterol 14-alpha demethylase	353153	Trypanosoma cruzi (strain CL Brener)	481	PF00067	35..464
+Q7Z449	reviewed	Cytochrome P450 2U1	9606	Homo sapiens	544	PF00067	105..540
+Q811W2	reviewed	Cytochrome P450 26B1	10090	Mus musculus	512	PF00067	73..466
+Q81BF4	reviewed	Bifunctional cytochrome P450/NADPH--P450 reductase	226900	Bacillus cereus (strain ATCC 14579 / DSM 31 / CCUG 7414 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NCTC 2599 / NRRL B-3711)	1065	PF00067	16..447
+Q825I8	reviewed	Pentalenic acid synthase	227882	Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NBRC 14893 / NCIMB 12804 / NRRL 8165 / MA-4680)	402	PF00067	180..371
+Q82IY3	reviewed	Pentalenene oxygenase	227882	Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NBRC 14893 / NCIMB 12804 / NRRL 8165 / MA-4680)	449	PF00067	12..427
+Q83WF5	reviewed	Mycinamicin VIII C21 methyl hydroxylase	28040	Micromonospora griseorubida	388	PF00067	210..357
+Q84HB6	reviewed	2-hydroxy-5-methyl-1-naphthoate 7-hydroxylase	1897	Streptomyces carzinostaticus	410	PF00067	274..371
+Q84KI1	reviewed	Taxoid 14-beta-hydroxylase	99806	Taxus cuspidata	509	PF00067	51..485
+Q86A22	reviewed	Probable cytochrome P450 515A1	44689	Dictyostelium discoideum	494	PF00067	41..474
+Q86W10	reviewed	Cytochrome P450 4Z1	9606	Homo sapiens	505	PF00067	48..498
+Q87AV9	reviewed	Putative cytochrome P450 133B2	183190	Xylella fastidiosa (strain Temecula1 / ATCC 700964)	399	PF00067	79..368
+Q87AX5	reviewed	Putative cytochrome P450 133B1	183190	Xylella fastidiosa (strain Temecula1 / ATCC 700964)	402	PF00067	83..368
+Q8AXY5	reviewed	Cytochrome P450 3A56	8078	Fundulus heteroclitus	496	PF00067	38..491
+Q8BKE6	reviewed	Cytochrome P450 20A1	10090	Mus musculus	462	PF00067	43..446
+Q8CIM7	reviewed	Cytochrome P450 2D26	10090	Mus musculus	500	PF00067	37..496
+Q8GSQ1	reviewed	Cytochrome P450 85A1	39947	Oryza sativa subsp. japonica	469	PF00067	35..449
+Q8GZP5	reviewed	Allene oxide synthase 3	4081	Solanum lycopersicum	491	PF00067	317..417
+Q8HYM9	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9544	Macaca mulatta	508	PF00067	28..492
+Q8HYN0	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9556	Papio cynocephalus	508	PF00067	28..492
+Q8HYN1	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9598	Pan troglodytes	508	PF00067	28..492
+Q8J0F6	reviewed	Dihydro-ML-236C monooxygenase mlcC	5077	Penicillium citrinum	518	PF00067	188..496
+Q8J127	reviewed	Cytochrome P450 monooxygenase TRI1	5514	Fusarium sporotrichioides	542	PF00067	167..502
+Q8K0C4	reviewed	Lanosterol 14-alpha demethylase	10090	Mus musculus	503	PF00067	62..492
+Q8K4D6	reviewed	Cytochrome P450 4X1	10116	Rattus norvegicus	507	PF00067	47..498
+Q8L7D5	reviewed	Cytochrome P450 708A2	3702	Arabidopsis thaliana	477	PF00067	36..456
+Q8LIF2	reviewed	Cytochrome P450 734A5	39947	Oryza sativa subsp. japonica	537	PF00067	98..507
+Q8LM92	reviewed	Flavonoid 3'-monooxygenase CYP75B4	39947	Oryza sativa subsp. japonica	535	PF00067	42..510
+Q8N118	reviewed	Cytochrome P450 4X1	9606	Homo sapiens	509	PF00067	47..500
+Q8N1L4	reviewed	Putative inactive cytochrome P450 family member 4Z2	9606	Homo sapiens	340	PF00067	48..340
+Q8RN03	reviewed	Cytochrome P450 165C4	31958	Amycolatopsis orientalis	406	PF00067	279..377
+Q8RN04	reviewed	Cytochrome P450 165B3	31958	Amycolatopsis orientalis	398	PF00067	218..369
+Q8RN05	reviewed	Cytochrome P450 165A3	31958	Amycolatopsis orientalis	391	PF00067	269..363
+Q8SPK0	reviewed	Cytochrome P450 4A25	9823	Sus scrofa	504	PF00067	46..496
+Q8SPK1	reviewed	Cytochrome P450 4A24	9823	Sus scrofa	504	PF00067	46..495
+Q8TAV3	reviewed	Cytochrome P450 2W1	9606	Homo sapiens	490	PF00067	32..484
+Q8VQF6	reviewed	1,8-cineole 2-endo-monooxygenase	57706	Citrobacter braakii	404	PF00067	207..374
+Q8VWZ7	reviewed	Geraniol 8-hydroxylase	4058	Catharanthus roseus	493	PF00067	31..479
+Q8W2N5	reviewed	9-divinyl ether synthase	4097	Nicotiana tabacum	478	PF00067	304..408
+Q8W4T9	reviewed	Taxane 13-alpha-hydroxylase	99806	Taxus cuspidata	485	PF00067	39..453
+Q8WNE1	reviewed	Cytochrome P450 2F5	9595	Gorilla gorilla gorilla	491	PF00067	31..488
+Q8WNW0	reviewed	Steroid 21-hydroxylase	9615	Canis lupus familiaris	492	PF00067	48..469
+Q91W64	reviewed	Cytochrome P450 2C70	10090	Mus musculus	489	PF00067	30..486
+Q91WL5	reviewed	Cytochrome P450 4A12A	10090	Mus musculus	508	PF00067	52..500
+Q91X77	reviewed	Cytochrome P450 2C50	10090	Mus musculus	490	PF00067	30..487
+Q91Z85	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	10041	Peromyscus leucopus	509	PF00067	28..491
+Q92039	reviewed	Cytochrome P450 1A1	37949	Chaetodon capistratus	521	PF00067	46..507
+Q92045	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	2484686	Hypanus americanus	514	PF00067	53..510
+Q92087	reviewed	Aromatase	8090	Oryzias latipes	518	PF00067	71..488
+Q92088	reviewed	Cytochrome P450 2M1	8022	Oncorhynchus mykiss	499	PF00067	37..484
+Q92090	reviewed	Cytochrome P450 2K1	8022	Oncorhynchus mykiss	504	PF00067	42..499
+Q92095	reviewed	Cytochrome P450 1A1	8068	Opsanus tau	521	PF00067	46..511
+Q92100	reviewed	Cytochrome P450 1A1	8262	Pleuronectes platessa	521	PF00067	46..511
+Q92104	reviewed	Cytochrome P450 11B, mitochondrial	8400	Lithobates catesbeianus	517	PF00067	61..514
+Q92109	reviewed	Cytochrome P450 1A3	8022	Oncorhynchus mykiss	522	PF00067	46..512
+Q92110	reviewed	Cytochrome P450 1A1	8022	Oncorhynchus mykiss	522	PF00067	46..512
+Q92111	reviewed	Aromatase	7998	Ictalurus punctatus	524	PF00067	70..507
+Q92112	reviewed	Aromatase	59729	Taeniopygia guttata	509	PF00067	49..484
+Q92113	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	7797	Squalus acanthias	509	PF00067	33..495
+Q92116	reviewed	Cytochrome P450 1A1	35579	Stenotomus chrysops	521	PF00067	46..511
+Q92148	reviewed	Cytochrome P450 1A1	34823	Microgadus tomcod	515	PF00067	45..128,179..504
+Q93MI2	reviewed	Cytochrome P-450 monooxygenase DoxA	55158	Streptomyces peucetius subsp. caesius	420	PF00067	291..385
+Q93VK5	reviewed	Protein LUTEIN DEFICIENT 5, chloroplastic	3702	Arabidopsis thaliana	595	PF00067	127..553
+Q93Z79	reviewed	Cytochrome P450 714A1	3702	Arabidopsis thaliana	532	PF00067	90..516
+Q93ZB2	reviewed	Ent-kaurene oxidase, chloroplastic	3702	Arabidopsis thaliana	509	PF00067	47..488
+Q940V4	reviewed	Cytochrome P450 85A2	3702	Arabidopsis thaliana	465	PF00067	35..459
+Q947B7	reviewed	(+)-menthofuran synthase	34256	Mentha piperita	493	PF00067	33..483
+Q948Y1	reviewed	(S)-canadine synthase	3442	Coptis japonica	491	PF00067	37..477
+Q949P1	reviewed	Abscisic acid 8'-hydroxylase 1	3702	Arabidopsis thaliana	467	PF00067	37..437
+Q949U1	reviewed	Dihomomethionine N-hydroxylase	3702	Arabidopsis thaliana	538	PF00067	46..520
+Q94FM7	reviewed	5-epiaristolochene 1,3-dihydroxylase	4097	Nicotiana tabacum	504	PF00067	33..485
+Q94IA6	reviewed	3-epi-6-deoxocathasterone 23-monooxygenase CYP90D1	3702	Arabidopsis thaliana	491	PF00067	52..472
+Q94IP1	reviewed	Trans-cinnamate 4-monooxygenase	4558	Sorghum bicolor	501	PF00067	34..489
+Q94IW5	reviewed	Cytochrome P450 90D2	39947	Oryza sativa subsp. japonica	490	PF00067	50..466
+Q95031	reviewed	Cytochrome P450 6B6	29058	Helicoverpa armigera	504	PF00067	34..493
+Q95036	reviewed	Cytochrome P450 6B5	45779	Papilio glaucus	476	PF00067	33..472
+Q95078	reviewed	Cytochrome P450 18a1	7227	Drosophila melanogaster	538	PF00067	54..517
+Q95328	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9796	Equus caballus	508	PF00067	28..491
+Q95M61	reviewed	Aromatase	9483	Callithrix jacchus	503	PF00067	49..483
+Q96242	reviewed	Allene oxide synthase, chloroplastic	3702	Arabidopsis thaliana	518	PF00067	343..493
+Q96418	reviewed	Flavonoid 3',5'-hydroxylase	52518	Eustoma exaltatum subsp. russellianum	510	PF00067	38..490
+Q96423	reviewed	Trans-cinnamate 4-monooxygenase	46348	Glycyrrhiza echinata	505	PF00067	34..496
+Q964Q7	reviewed	Cytochrome P450 6d3	7370	Musca domestica	520	PF00067	44..503
+Q964R0	reviewed	Cytochrome P450 6k1	6973	Blattella germanica	524	PF00067	42..511
+Q964R1	reviewed	Cytochrome P450 6j1	6973	Blattella germanica	501	PF00067	42..481
+Q964T1	reviewed	Cytochrome P450 4c21	6973	Blattella germanica	501	PF00067	35..496
+Q964T2	reviewed	Cytochrome P450 9e2	6973	Blattella germanica	533	PF00067	42..518
+Q96514	reviewed	Cytochrome P450 71B7	3702	Arabidopsis thaliana	504	PF00067	33..495
+Q96581	reviewed	Flavonoid 3',5'-hydroxylase	55190	Gentiana triflora	516	PF00067	42..496
+Q96SQ9	reviewed	Cytochrome P450 2S1	9606	Homo sapiens	504	PF00067	33..490
+Q972I2	reviewed	Cytochrome P450 119	273063	Sulfurisphaera tokodaii (strain DSM 16993 / JCM 10545 / NBRC 100140 / 7)	367	PF00067	243..352
+Q98T91	reviewed	Cytochrome P450 3A40	8090	Oryzias latipes	502	PF00067	39..493
+Q99N16	reviewed	Cytochrome P450 4F3	10090	Mus musculus	524	PF00067	52..507
+Q9AR74	reviewed	Trans-cinnamate 4-monooxygenase	37565	Ruta graveolens	506	PF00067	34..490
+Q9ASR3	reviewed	Cytochrome P450 709B1	3702	Arabidopsis thaliana	519	PF00067	85..491
+Q9AVQ1	reviewed	9-divinyl ether synthase	4113	Solanum tuberosum	478	PF00067	306..407
+Q9AXH9	reviewed	Ent-kaurenoic acid oxidase 1	4513	Hordeum vulgare	499	PF00067	46..467
+Q9AXM6	reviewed	Taxane 10-beta-hydroxylase	99806	Taxus cuspidata	497	PF00067	51..471
+Q9C1I4	reviewed	Cytochrome P450 monooxygenase TRI13	5514	Fusarium sporotrichioides	589	PF00067	43..446,484..560
+Q9C449	reviewed	Cytochrome P450 monooxygenase paxP	70109	Penicillium paxilli	515	PF00067	176..490
+Q9C450	reviewed	Cytochrome P450 monooxygenase paxQ	70109	Penicillium paxilli	512	PF00067	157..496
+Q9C5Y2	reviewed	Ent-kaurenoic acid oxidase 2	3702	Arabidopsis thaliana	489	PF00067	45..465
+Q9C788	reviewed	Cytochrome P450 704B1	3702	Arabidopsis thaliana	524	PF00067	27..512
+Q9CA60	reviewed	Cytochrome P450 98A9	3702	Arabidopsis thaliana	487	PF00067	28..467
+Q9CA61	reviewed	Cytochrome P450 98A8	3702	Arabidopsis thaliana	497	PF00067	28..473
+Q9CAD6	reviewed	Cytochrome P450 86A7	3702	Arabidopsis thaliana	523	PF00067	28..493
+Q9CX98	reviewed	Cytochrome P450 2U1	10090	Mus musculus	530	PF00067	69..526
+Q9D816	reviewed	Cytochrome P450 2C55	10090	Mus musculus	490	PF00067	30..485
+Q9DBG1	reviewed	Sterol 26-hydroxylase, mitochondrial	10090	Mus musculus	533	PF00067	79..527
+Q9DBW0	reviewed	Cytochrome P450 4V2	10090	Mus musculus	525	PF00067	51..509
+Q9DBX6	reviewed	Cytochrome P450 2S1	10090	Mus musculus	501	PF00067	34..467
+Q9EP75	reviewed	Leukotriene-B4 omega-hydroxylase 3	10090	Mus musculus	524	PF00067	52..503
+Q9EPT4	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	10036	Mesocricetus auratus	520	PF00067	49..505
+Q9FCA6	reviewed	Biflaviolin synthase CYP158A2	100226	Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145)	404	PF00067	277..373
+Q9FF18	reviewed	Cytokinin hydroxylase	3702	Arabidopsis thaliana	518	PF00067	86..491
+Q9FG65	reviewed	Cytochrome P450 81D1	3702	Arabidopsis thaliana	502	PF00067	35..472
+Q9FH66	reviewed	Cytochrome P450 71A16	3702	Arabidopsis thaliana	497	PF00067	33..466
+Q9FH67	reviewed	Cytochrome P450 705A12	3702	Arabidopsis thaliana	499	PF00067	39..474
+Q9FH76	reviewed	Abscisic acid 8'-hydroxylase 3	3702	Arabidopsis thaliana	463	PF00067	37..436
+Q9FI39	reviewed	Cytochrome P450 705A5	3702	Arabidopsis thaliana	511	PF00067	43..499
+Q9FIB0	reviewed	Cytochrome P450 78A7	3702	Arabidopsis thaliana	536	PF00067	71..512
+Q9FLC8	reviewed	Phenylalanine N-monooxygenase	3702	Arabidopsis thaliana	529	PF00067	41..515
+Q9FMA5	reviewed	Cytochrome P450 85A1	3702	Arabidopsis thaliana	465	PF00067	35..448
+Q9FMV7	reviewed	Cytochrome P450 94B1	3702	Arabidopsis thaliana	510	PF00067	35..475
+Q9FMY1	reviewed	Cytochrome P450 86B1	3702	Arabidopsis thaliana	559	PF00067	61..526
+Q9FPM6	reviewed	9-divinyl ether synthase	4081	Solanum lycopersicum	478	PF00067	307..407
+Q9FUY7	reviewed	Hexahomomethionine N-hydroxylase	3702	Arabidopsis thaliana	537	PF00067	45..519
+Q9FVS9	reviewed	Alkane hydroxylase MAH1	3702	Arabidopsis thaliana	497	PF00067	73..487
+Q9FXW4	reviewed	Probable (S)-N-methylcoclaurine 3'-hydroxylase isozyme 2	3442	Coptis japonica	488	PF00067	30..477
+Q9GJX5	reviewed	Taurochenodeoxycholic 6 alpha-hydroxylase	9823	Sus scrofa	504	PF00067	46..496
+Q9GLD2	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	36229	Papio hamadryas ursinus	508	PF00067	28..492
+Q9GLL1	reviewed	Prostaglandin E2 omega-hydroxylase CYP4F21	9940	Ovis aries	528	PF00067	52..507
+Q9GMC7	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9901	Bison bison	509	PF00067	28..492
+Q9GMC8	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9685	Felis catus	508	PF00067	28..493
+Q9GQM9	reviewed	Cytochrome P450 6l1	6973	Blattella germanica	503	PF00067	39..475
+Q9HB55	reviewed	Cytochrome P450 3A43	9606	Homo sapiens	503	PF00067	39..493
+Q9HBI6	reviewed	Cytochrome P450 4F11	9606	Homo sapiens	524	PF00067	52..504
+Q9HCS2	reviewed	Cytochrome P450 4F12	9606	Homo sapiens	524	PF00067	52..504
+Q9HGE0	reviewed	Bifunctional cytochrome P450/NADPH--P450 reductase	334819	Gibberella moniliformis (strain M3125 / FGSC 7600)	1115	PF00067	23..447
+Q9JKJ9	reviewed	24-hydroxycholesterol 7-alpha-hydroxylase	10090	Mus musculus	470	PF00067	35..457
+Q9JMA7	reviewed	Cytochrome P450 3A41	10090	Mus musculus	504	PF00067	39..494
+Q9K498	reviewed	Bifunctional albaflavenone monooxygenase/terpene synthase	100226	Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145)	461	PF00067	30..435
+Q9KIZ4	reviewed	Epothilone C/D epoxidase	56	Sorangium cellulosum	419	PF00067	49..386
+Q9KZF5	reviewed	Biflaviolin synthase CYP158A1	100226	Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145)	407	PF00067	281..376
+Q9L4U5	reviewed	Protein AknT	33899	Streptomyces galilaeus	443	PF00067	317..379
+Q9L9F9	reviewed	Cytochrome P450 NovI	193462	Streptomyces niveus	407	PF00067	281..371
+Q9LHA1	reviewed	Cytochrome P450 81D11	3702	Arabidopsis thaliana	509	PF00067	41..480
+Q9LIP3	reviewed	Cytochrome P450 71B37	3702	Arabidopsis thaliana	500	PF00067	32..484
+Q9LIP4	reviewed	Cytochrome P450 71B36	3702	Arabidopsis thaliana	500	PF00067	32..478
+Q9LIP5	reviewed	Cytochrome P450 71B35	3702	Arabidopsis thaliana	500	PF00067	32..489
+Q9LIP6	reviewed	Cytochrome P450 71B34	3702	Arabidopsis thaliana	500	PF00067	32..489
+Q9LJK2	reviewed	Abscisic acid 8'-hydroxylase 4	3702	Arabidopsis thaliana	468	PF00067	35..445
+Q9LJY5	reviewed	Cytochrome P450 705A22	3702	Arabidopsis thaliana	515	PF00067	43..503
+Q9LJY7	reviewed	Cytochrome P450 705A20	3702	Arabidopsis thaliana	510	PF00067	42..479
+Q9LLB0	reviewed	Allene oxide synthase 2, chloroplastic	4081	Solanum lycopersicum	510	PF00067	337..486
+Q9LMM1	reviewed	Cytochrome P450 86A4	3702	Arabidopsis thaliana	554	PF00067	28..502
+Q9LMX7	reviewed	Cytochrome P450 78A5	3702	Arabidopsis thaliana	517	PF00067	66..483
+Q9LNJ4	reviewed	Cytochrome P450 703A2	3702	Arabidopsis thaliana	510	PF00067	33..477
+Q9LSF8	reviewed	Dimethylnonatriene synthase	3702	Arabidopsis thaliana	515	PF00067	40..495
+Q9LTL0	reviewed	Cytochrome P450 71B26	3702	Arabidopsis thaliana	500	PF00067	33..487
+Q9LTL2	reviewed	Cytochrome P450 71B25	3702	Arabidopsis thaliana	501	PF00067	33..485
+Q9LTL8	reviewed	Cytochrome P450 71B24	3702	Arabidopsis thaliana	498	PF00067	27..483
+Q9LTM0	reviewed	Cytochrome P450 71B23	3702	Arabidopsis thaliana	501	PF00067	32..487
+Q9LTM1	reviewed	Cytochrome P450 71B22	3702	Arabidopsis thaliana	500	PF00067	29..486
+Q9LTM2	reviewed	Cytochrome P450 71B21	3702	Arabidopsis thaliana	499	PF00067	29..485
+Q9LTM3	reviewed	Cytochrome P450 71B20	3702	Arabidopsis thaliana	502	PF00067	31..489
+Q9LTM4	reviewed	Cytochrome P450 71B19	3702	Arabidopsis thaliana	502	PF00067	31..491
+Q9LTM6	reviewed	Cytochrome P450 71B17	3702	Arabidopsis thaliana	502	PF00067	31..494
+Q9LTM7	reviewed	Cytochrome P450 71B16	3702	Arabidopsis thaliana	502	PF00067	31..492
+Q9LUC5	reviewed	Cytochrome P450 72A15	3702	Arabidopsis thaliana	512	PF00067	87..487
+Q9LUC6	reviewed	Cytochrome P450 72A14	3702	Arabidopsis thaliana	512	PF00067	88..487
+Q9LUC8	reviewed	Cytochrome P450 72A13	3702	Arabidopsis thaliana	512	PF00067	88..487
+Q9LUC9	reviewed	Cytochrome P450 72A11	3702	Arabidopsis thaliana	512	PF00067	88..487
+Q9LVD2	reviewed	Cytochrome P450 71B10	3702	Arabidopsis thaliana	502	PF00067	31..492
+Q9LVD6	reviewed	Cytochrome P450 81F2	3702	Arabidopsis thaliana	491	PF00067	31..469
+Q9LVY7	reviewed	Cytochrome P450 716A1	3702	Arabidopsis thaliana	477	PF00067	35..449
+Q9LW27	reviewed	Bifunctional dihydrocamalexate synthase/camalexin synthase	3702	Arabidopsis thaliana	490	PF00067	29..478
+Q9LXM3	reviewed	Cytochrome P450 71B38	3702	Arabidopsis thaliana	500	PF00067	29..488
+Q9LZ31	reviewed	Cytochrome P450 77A4	3702	Arabidopsis thaliana	512	PF00067	42..503
+Q9M066	reviewed	3-epi-6-deoxocathasterone 23-monooxygenase CYP90C1	3702	Arabidopsis thaliana	524	PF00067	70..492
+Q9M7B7	reviewed	Valine N-monooxygenase 2	3983	Manihot esculenta	541	PF00067	59..514
+Q9M7B8	reviewed	Valine N-monooxygenase 1	3983	Manihot esculenta	542	PF00067	60..517
+Q9MZY0	reviewed	Cytochrome P450 2E1	9615	Canis lupus familiaris	494	PF00067	33..489
+Q9N0U7	reviewed	Steroid 17-alpha-hydroxylase/17,20 lyase	9925	Capra hircus	509	PF00067	28..492
+Q9NGX9	reviewed	Cytochrome P450 302a1, mitochondrial	7227	Drosophila melanogaster	489	PF00067	43..470
+Q9NR63	reviewed	Cytochrome P450 26B1	9606	Homo sapiens	512	PF00067	73..466
+Q9NYL5	reviewed	24-hydroxycholesterol 7-alpha-hydroxylase	9606	Homo sapiens	469	PF00067	30..444
+Q9PGC5	reviewed	Putative cytochrome P450 133B1	160492	Xylella fastidiosa (strain 9a5c)	402	PF00067	82..368
+Q9PGE6	reviewed	Putative cytochrome P450 133B2	160492	Xylella fastidiosa (strain 9a5c)	400	PF00067	79..368
+Q9PUB4	reviewed	Cytochrome P450 26A1	9031	Gallus gallus	492	PF00067	45..469
+Q9PVE8	reviewed	Cytochrome P450 3A30	8078	Fundulus heteroclitus	496	PF00067	38..491
+Q9QUJ1	reviewed	Cytochrome P450 2D28	10036	Mesocricetus auratus	500	PF00067	37..496
+Q9QXF7	reviewed	Cytochrome P450 2J4	10116	Rattus norvegicus	501	PF00067	44..496
+Q9QYG5	reviewed	Cytochrome P450 2D20	10036	Mesocricetus auratus	500	PF00067	37..496
+Q9QYG6	reviewed	Cytochrome P450 2D27	10036	Mesocricetus auratus	500	PF00067	37..496
+Q9QZ82	reviewed	Cholesterol side-chain cleavage enzyme, mitochondrial	10090	Mus musculus	526	PF00067	49..506
+Q9SAA9	reviewed	Sterol 14-demethylase	3702	Arabidopsis thaliana	488	PF00067	46..459
+Q9SAB6	reviewed	Cytochrome P450 71A18	3702	Arabidopsis thaliana	497	PF00067	34..471
+Q9SAE3	reviewed	Cytochrome P450 71B28	3702	Arabidopsis thaliana	490	PF00067	29..478
+Q9SAE4	reviewed	Cytochrome P450 71B29	3702	Arabidopsis thaliana	490	PF00067	29..479
+Q9SBQ9	reviewed	Flavonoid 3'-monooxygenase	4102	Petunia hybrida	512	PF00067	34..489
+Q9SCN2	reviewed	Cytochrome P450 71B31	3702	Arabidopsis thaliana	498	PF00067	29..488
+Q9SD85	reviewed	Flavonoid 3'-monooxygenase	3702	Arabidopsis thaliana	513	PF00067	34..487
+Q9SHG5	reviewed	Cytochrome P450 72C1	3702	Arabidopsis thaliana	519	PF00067	93..495
+Q9SLP1	reviewed	Cytochrome P450 78A9	3702	Arabidopsis thaliana	534	PF00067	68..511
+Q9SMP5	reviewed	Cytochrome P450 94B3	3702	Arabidopsis thaliana	506	PF00067	35..478
+Q9SP06	reviewed	(S)-N-methylcoclaurine 3'-hydroxylase isozyme 1	3469	Papaver somniferum	481	PF00067	24..472
+Q9SRQ1	reviewed	Cytochrome P450 89A9	3702	Arabidopsis thaliana	511	PF00067	32..500
+Q9STK7	reviewed	Cytochrome P450 71A26	3702	Arabidopsis thaliana	489	PF00067	33..464
+Q9STK8	reviewed	Cytochrome P450 71A25	3702	Arabidopsis thaliana	490	PF00067	31..466
+Q9STK9	reviewed	Cytochrome P450 71A24	3702	Arabidopsis thaliana	488	PF00067	34..465
+Q9STL0	reviewed	Cytochrome P450 71A23	3702	Arabidopsis thaliana	483	PF00067	31..460
+Q9STL1	reviewed	Cytochrome P450 71A22	3702	Arabidopsis thaliana	490	PF00067	33..466
+Q9STL2	reviewed	Cytochrome P450 71A21	3702	Arabidopsis thaliana	490	PF00067	33..466
+Q9SWR5	reviewed	2-hydroxyisoflavanone synthase	3847	Glycine max	521	PF00067	36..475
+Q9SXS3	reviewed	2-hydroxyisoflavanone synthase	46348	Glycyrrhiza echinata	523	PF00067	36..479
+Q9SZ46	reviewed	Xanthotoxin 5-hydroxylase CYP82C4	3702	Arabidopsis thaliana	524	PF00067	33..506
+Q9SZU1	reviewed	Cytochrome P450 81F4	3702	Arabidopsis thaliana	501	PF00067	32..473
+Q9T093	reviewed	Cytochrome P450 709B3	3702	Arabidopsis thaliana	518	PF00067	87..502
+Q9T0K0	reviewed	Cytochrome P450 71A19	3702	Arabidopsis thaliana	490	PF00067	34..466
+Q9T0K2	reviewed	Cytochrome P450 71A20	3702	Arabidopsis thaliana	497	PF00067	33..473
+Q9UNU6	reviewed	7-alpha-hydroxycholest-4-en-3-one 12-alpha-hydroxylase	9606	Homo sapiens	501	PF00067	37..491
+Q9UUS2	reviewed	Linoleate diol synthase	29850	Gaeumannomyces graminis	1165	PF00067	1035..1099
+Q9UVC3	reviewed	Lanosterol 14-alpha demethylase	4853	Cunninghamella elegans	512	PF00067	47..506
+Q9UW95	reviewed	Versicolorin B desaturase	1403190	Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1)	500	PF00067	38..468
+Q9V399	reviewed	Probable cytochrome P450 303a1	7227	Drosophila melanogaster	503	PF00067	28..485
+Q9V3S0	reviewed	Cytochrome P450 4g1	7227	Drosophila melanogaster	556	PF00067	58..538
+Q9V419	reviewed	Probable cytochrome P450 28a5	7227	Drosophila melanogaster	505	PF00067	33..487
+Q9V4I0	reviewed	Cytochrome P450 9b1	7227	Drosophila melanogaster	505	PF00067	37..485
+Q9V4I1	reviewed	Cytochrome P450 9b2	7227	Drosophila melanogaster	505	PF00067	36..478
+Q9V4T3	reviewed	Probable cytochrome P450 4ad1	7227	Drosophila melanogaster	516	PF00067	36..471
+Q9V4T5	reviewed	Probable cytochrome P450 4e1	7227	Drosophila melanogaster	531	PF00067	34..469
+Q9V4U7	reviewed	Probable cytochrome P450 6a14	7227	Drosophila melanogaster	509	PF00067	32..500
+Q9V4U9	reviewed	Probable cytochrome P450 6a13	7227	Drosophila melanogaster	493	PF00067	33..481
+Q9V557	reviewed	Probable cytochrome P450 4p2	7227	Drosophila melanogaster	520	PF00067	63..501
+Q9V558	reviewed	Cytochrome P450 4p1	7227	Drosophila melanogaster	513	PF00067	51..504
+Q9V559	reviewed	Probable cytochrome P450 4p3	7227	Drosophila melanogaster	515	PF00067	56..506
+Q9V5L3	reviewed	Probable cytochrome P450 49a1	7227	Drosophila melanogaster	589	PF00067	104..565
+Q9V674	reviewed	Cytochrome P450 6g1	7227	Drosophila melanogaster	524	PF00067	37..505
+Q9V675	reviewed	Probable cytochrome P450 6g2	7227	Drosophila melanogaster	519	PF00067	36..508
+Q9V676	reviewed	Probable cytochrome P450 6t3	7227	Drosophila melanogaster	501	PF00067	37..490
+Q9V6D6	reviewed	Probable cytochrome P450 301a1, mitochondrial	7227	Drosophila melanogaster	553	PF00067	76..529
+Q9V6H1	reviewed	Probable cytochrome P450 9h1	7227	Drosophila melanogaster	518	PF00067	37..509
+Q9V769	reviewed	Cytochrome P450 6a22	7227	Drosophila melanogaster	499	PF00067	40..490
+Q9V770	reviewed	Probable cytochrome P450 6a17	7227	Drosophila melanogaster	501	PF00067	34..482
+Q9V771	reviewed	Probable cytochrome P450 6a23	7227	Drosophila melanogaster	502	PF00067	35..491
+Q9V773	reviewed	Probable cytochrome P450 6a20	7227	Drosophila melanogaster	501	PF00067	52..493
+Q9V774	reviewed	Probable cytochrome P450 6a21	7227	Drosophila melanogaster	504	PF00067	35..495
+Q9V776	reviewed	Probable cytochrome P450 317a1	7227	Drosophila melanogaster	518	PF00067	59..501
+Q9V7G5	reviewed	Probable cytochrome P450 4aa1	7227	Drosophila melanogaster	510	PF00067	50..481
+Q9V8M2	reviewed	Probable cytochrome P450 12b2, mitochondrial	7227	Drosophila melanogaster	535	PF00067	62..511
+Q9V979	reviewed	Probable cytochrome P450 6u1	7227	Drosophila melanogaster	488	PF00067	39..480
+Q9V9L1	reviewed	Probable cytochrome P450 6w1	7227	Drosophila melanogaster	514	PF00067	34..484
+Q9VA27	reviewed	Cytochrome P450 4c3	7227	Drosophila melanogaster	535	PF00067	59..527
+Q9VB31	reviewed	Probable cytochrome P450 6a18	7227	Drosophila melanogaster	507	PF00067	36..498
+Q9VCW1	reviewed	Probable cytochrome P450 6d4	7227	Drosophila melanogaster	515	PF00067	60..500
+Q9VE00	reviewed	Probable cytochrome P450 12a4, mitochondrial	7227	Drosophila melanogaster	536	PF00067	71..509
+Q9VE01	reviewed	Probable cytochrome P450 12a5, mitochondrial	7227	Drosophila melanogaster	536	PF00067	73..528
+Q9VFJ0	reviewed	Probable cytochrome P450 313a1	7227	Drosophila melanogaster	492	PF00067	33..464
+Q9VFP1	reviewed	Probable cytochrome P450 6d5	7227	Drosophila melanogaster	508	PF00067	57..485
+Q9VG17	reviewed	Probable cytochrome P450 304a1	7227	Drosophila melanogaster	510	PF00067	30..500
+Q9VG40	reviewed	Probable cytochrome P450 313a4	7227	Drosophila melanogaster	494	PF00067	33..465
+Q9VG82	reviewed	Probable cytochrome P450 9f2	7227	Drosophila melanogaster	516	PF00067	36..507
+Q9VGB3	reviewed	Probable cytochrome P450 313a3	7227	Drosophila melanogaster	492	PF00067	33..463
+Q9VGB4	reviewed	Probable cytochrome P450 313a2	7227	Drosophila melanogaster	493	PF00067	34..463
+Q9VGB5	reviewed	Probable cytochrome P450 313a5	7227	Drosophila melanogaster	487	PF00067	33..458
+Q9VGH1	reviewed	Cytochrome P450 315a1, mitochondrial	7227	Drosophila melanogaster	520	PF00067	63..500
+Q9VGZ0	reviewed	Probable cytochrome P450 12e1, mitochondrial	7227	Drosophila melanogaster	522	PF00067	61..517
+Q9VHP4	reviewed	Probable cytochrome P450 313b1	7227	Drosophila melanogaster	502	PF00067	33..475
+Q9VJ71	reviewed	Probable cytochrome P450 310a1	7227	Drosophila melanogaster	492	PF00067	120..460
+Q9VL92	reviewed	Cytochrome P450 4e3	7227	Drosophila melanogaster	526	PF00067	35..471
+Q9VLZ7	reviewed	Probable cytochrome P450 4d21	7227	Drosophila melanogaster	511	PF00067	35..481
+Q9VMS7	reviewed	Probable cytochrome P450 4ac3	7227	Drosophila melanogaster	509	PF00067	56..504
+Q9VMS8	reviewed	Probable cytochrome P450 4ac2	7227	Drosophila melanogaster	511	PF00067	56..504
+Q9VMS9	reviewed	Probable cytochrome P450 4ac1	7227	Drosophila melanogaster	509	PF00067	70..503
+Q9VMT5	reviewed	Probable cytochrome P450 28d1	7227	Drosophila melanogaster	502	PF00067	36..482
+Q9VMT6	reviewed	Probable cytochrome P450 28d2	7227	Drosophila melanogaster	501	PF00067	38..484
+Q9VQD2	reviewed	Probable cytochrome P450 309a1	7227	Drosophila melanogaster	506	PF00067	62..483
+Q9VRB3	reviewed	Probable cytochrome P450 6v1	7227	Drosophila melanogaster	520	PF00067	69..516
+Q9VRI9	reviewed	Probable cytochrome P450 6t1	7227	Drosophila melanogaster	529	PF00067	55..519
+Q9VRM7	reviewed	Cytochrome P450 307a1	7227	Drosophila melanogaster	543	PF00067	56..525
+Q9VS78	reviewed	Probable cytochrome P450 316a1	7227	Drosophila melanogaster	484	PF00067	32..462
+Q9VS79	reviewed	Cytochrome P450 4d8	7227	Drosophila melanogaster	463	PF00067	16..444
+Q9VUF8	reviewed	Ecdysone 20-monooxygenase	7227	Drosophila melanogaster	540	PF00067	73..528
+Q9VVN6	reviewed	Probable cytochrome P450 312a1	7227	Drosophila melanogaster	510	PF00067	36..504
+Q9VVR9	reviewed	Probable cytochrome P450 12c1, mitochondrial	7227	Drosophila melanogaster	524	PF00067	45..516
+Q9VW43	reviewed	Probable cytochrome P450 305a1	7227	Drosophila melanogaster	504	PF00067	30..500
+Q9VWR2	reviewed	Probable cytochrome P450 308a1	7227	Drosophila melanogaster	490	PF00067	32..476
+Q9VWR5	reviewed	Cytochrome P450 306a1	7227	Drosophila melanogaster	574	PF00067	49..554
+Q9VXY0	reviewed	Probable cytochrome P450 4s3	7227	Drosophila melanogaster	495	PF00067	36..472
+Q9VYQ5	reviewed	Probable cytochrome P450 318a1	7227	Drosophila melanogaster	536	PF00067	42..503
+Q9VYQ7	reviewed	Probable cytochrome P450 311a1	7227	Drosophila melanogaster	483	PF00067	30..478
+Q9VYT8	reviewed	Probable cytochrome P450 28c1	7227	Drosophila melanogaster	505	PF00067	35..473
+Q9VYY4	reviewed	Cytochrome P450 4g15	7227	Drosophila melanogaster	574	PF00067	47..288,341..563
+Q9W011	reviewed	Probable cytochrome P450 4d20	7227	Drosophila melanogaster	510	PF00067	34..490
+Q9W130	reviewed	Cytochrome P450 9c1	7227	Drosophila melanogaster	522	PF00067	36..511
+Q9W223	reviewed	Probable cytochrome P450 6d2	7227	Drosophila melanogaster	512	PF00067	61..505
+Q9W683	reviewed	Cytochrome P450 1A1	48192	Chelon saliens	521	PF00067	46..511
+Q9WVK8	reviewed	Cholesterol 24-hydroxylase	10090	Mus musculus	500	PF00067	34..469
+Q9XGT9	reviewed	Cytochrome P450 93B2	18101	Gerbera hybrida	511	PF00067	34..489
+Q9XHC6	reviewed	Beta-amyrin 24-hydroxylase	3847	Glycine max	513	PF00067	34..492
+Q9XHE6	reviewed	Cytochrome P450 71D15	34256	Mentha piperita	498	PF00067	36..477
+Q9XHE7	reviewed	Cytochrome P450 71D13	34256	Mentha piperita	500	PF00067	36..482
+Q9XHE8	reviewed	Cytochrome P450 71D18	29719	Mentha spicata	496	PF00067	35..484
+Q9XS28	reviewed	Aromatase	9940	Ovis aries	503	PF00067	50..483
+Q9Y6A2	reviewed	Cholesterol 24-hydroxylase	9606	Homo sapiens	500	PF00067	34..469
+Q9Y757	reviewed	Cytochrome P450 52A12	4959	Debaryomyces hansenii	519	PF00067	62..515
+Q9Y758	reviewed	Cytochrome P450 52A13	4959	Debaryomyces hansenii	519	PF00067	57..503
+Q9Y7C8	reviewed	Dihydromonacolin L monooxygenase LovA	33178	Aspergillus terreus	528	PF00067	150..497
+Q9Y7G5	reviewed	Phenylacetate 2-hydroxylase	162425	Emericella nidulans	518	PF00067	35..475
+Q9Y8G7	reviewed	Bifunctional cytochrome P450/NADPH--P450 reductase	5507	Fusarium oxysporum	1066	PF00067	8..450
+Q9YH64	reviewed	Cytochrome P450 1A1	8260	Platichthys flesus	521	PF00067	46..511
+Q9ZAU3	reviewed	Cytochrome P-450 monooxygenase DoxA	1950	Streptomyces peucetius	415	PF00067	286..380
+Q9ZGH8	reviewed	Protein DesVIII	54571	Streptomyces venezuelae	402	PF00067	274..340
+Q9ZHQ1	reviewed	20-oxo-5-O-mycaminosyltylactone 23-monooxygenase	1906	Streptomyces fradiae	420	PF00067	292..390
+Q9ZNR0	reviewed	Cytochrome P450 78A6	3702	Arabidopsis thaliana	530	PF00067	72..509
+Q9ZSY9	reviewed	Linolenate hydroperoxide lyase, chloroplastic	3702	Arabidopsis thaliana	492	PF00067	327..431
+Q9ZU07	reviewed	Cytochrome P450 71B12	3702	Arabidopsis thaliana	496	PF00067	30..483
+Q9ZUX1	reviewed	Cytochrome P450 94C1	3702	Arabidopsis thaliana	495	PF00067	64..471
+Q9ZV28	reviewed	Cytochrome P450 710A4	3702	Arabidopsis thaliana	493	PF00067	38..462
+Q9ZV29	reviewed	Cytochrome P450 710A3	3702	Arabidopsis thaliana	493	PF00067	38..460
+Q9ZW95	reviewed	Cytokinin hydroxylase	3702	Arabidopsis thaliana	512	PF00067	88..485
+R0IGL9	reviewed	Self-sufficient cytochrome P450 monooxygenase CYP505U2	671987	Exserohilum turcicum (strain 28A)	1068	PF00067	12..454
+S0ARX1	reviewed	Cytochrome P450 monooxygenase fsdH	42747	Fusarium heterosporum	564	PF00067	82..506
+S0DPM1	reviewed	Cytochrome P450 monooxygenase apf7	1279085	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)	530	PF00067	183..488
+S0DS17	reviewed	Cytochrome P450 monooxygenase apf8	1279085	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)	369	PF00067	3..330
+S0E2U7	reviewed	Cytochrome P450 monooygenase 1	1279085	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)	440	PF00067	110..418
+S0E2Y2	reviewed	Cytochrome P450 monooygenase 3	1279085	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)	527	PF00067	217..507
+S0E3D0	reviewed	Ent-kaurene oxidase P450-4	1279085	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)	500	PF00067	66..489
+S0E9M0	reviewed	Cytochrome P450 monooygenase 2	1279085	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)	481	PF00067	170..457
+S0EE84	reviewed	Cytochrome P450 monooxygenase FUS8	1279085	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)	514	PF00067	76..494
+S0ENB0	reviewed	Cytochrome P450 monooxygenase FFUJ_09176	1279085	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)	550	PF00067	44..499
+S3D775	reviewed	Cytochrome P450 monooxygenase gloO	1116229	Glarea lozoyensis (strain ATCC 20868 / MF5171)	521	PF00067	141..491
+S3DQN8	reviewed	Cytochrome P450 monooxygenase gloP	1116229	Glarea lozoyensis (strain ATCC 20868 / MF5171)	546	PF00067	172..526
+S4UX02	reviewed	Ferruginol synthase	226208	Salvia miltiorrhiza	495	PF00067	29..467
+S4W283	reviewed	Cytochrome P450 monooxygenase eqxH	42747	Fusarium heterosporum	513	PF00067	167..498
+S7Z6X4	reviewed	Cytochrome P450 monooxygenase opdE	933388	Penicillium oxalicum (strain 114-2 / CGMCC 5302)	475	PF00067	129..469
+S7ZC70	reviewed	Cytochrome P450 monooxygenase opdB	933388	Penicillium oxalicum (strain 114-2 / CGMCC 5302)	497	PF00067	92..486
+S7ZK63	reviewed	Cytochrome P450 monooxygenase poxM	933388	Penicillium oxalicum (strain 114-2 / CGMCC 5302)	512	PF00067	47..491
+S8ASK3	reviewed	Cytochrome P450 monooxygenase poxD	933388	Penicillium oxalicum (strain 114-2 / CGMCC 5302)	484	PF00067	36..455
+S8B3I0	reviewed	Cytochrome P450 monooxygenase poxC	933388	Penicillium oxalicum (strain 114-2 / CGMCC 5302)	477	PF00067	63..182,203..450
+U5HKE8	reviewed	Tabersonine 16-hydroxylase 2	4058	Catharanthus roseus	512	PF00067	33..483
+U5NDT8	reviewed	Secologanin synthase 2	4058	Catharanthus roseus	527	PF00067	89..497
+U5NE19	reviewed	7-deoxyloganic acid hydroxylase	4058	Catharanthus roseus	521	PF00067	91..496
+V5XZS6	reviewed	Cytochrome P450 monooxygenase AKT7	5599	Alternaria alternata	522	PF00067	57..477
+W0FKI0	reviewed	Drimenol monooxygenase	46901	Persicaria hydropiper	503	PF00067	28..475
+W6Q3Z9	reviewed	Cytochrome P450 monooxygenase ORF5	1365484	Penicillium roqueforti (strain FM164)	540	PF00067	202..515
+W6Q403	reviewed	Cytochrome P450 monooxygenase ORF9	1365484	Penicillium roqueforti (strain FM164)	509	PF00067	60..481
+W6Q4S4	reviewed	Cytochrome P450 monooxygenase ORF11	1365484	Penicillium roqueforti (strain FM164)	480	PF00067	60..475
+W6Q9B3	reviewed	Conidiogenone synthase PrP450	1365484	Penicillium roqueforti (strain FM164)	461	PF00067	251..447
+W6QB15	reviewed	Cytochrome P450 monooxygenase ORF6	1365484	Penicillium roqueforti (strain FM164)	579	PF00067	90..541
+W6QJR1	reviewed	Cytochrome P450 monooxygenase anuE	1365484	Penicillium roqueforti (strain FM164)	490	PF00067	10..431
+W6QRN8	reviewed	Cytochrome P450 monooxygenase mpaDE	1365484	Penicillium roqueforti (strain FM164)	852	PF00067	46..483
+W7L9E5	reviewed	Cytochrome P450 monooxygenase FUM2	334819	Gibberella moniliformis (strain M3125 / FGSC 7600)	470	PF00067	32..465
+W7LC91	reviewed	Cytochrome P450 monooxygenase FUM15	334819	Gibberella moniliformis (strain M3125 / FGSC 7600)	596	PF00067	112..565
+W7MLD1	reviewed	Cytochrome P450 monooxygenase FUS8	334819	Gibberella moniliformis (strain M3125 / FGSC 7600)	514	PF00067	76..494
+W8JCE8	reviewed	Cytochrome P450 71BT1	4058	Catharanthus roseus	512	PF00067	31..477
+W8JDE2	reviewed	Alstonine synthase	4058	Catharanthus roseus	516	PF00067	42..489
+W8JIS5	reviewed	Iridoid oxidase	4058	Catharanthus roseus	515	PF00067	39..502
+W8JIS9	reviewed	Cytochrome P450 81C13	4058	Catharanthus roseus	507	PF00067	31..478
+W8JIT4	reviewed	Cytochrome P450 71D2	4058	Catharanthus roseus	507	PF00067	39..495
+W8JMU7	reviewed	Cytochrome P450 81Q32	4058	Catharanthus roseus	499	PF00067	34..477
+W8JMV1	reviewed	Cytochrome P450 76T24	4058	Catharanthus roseus	499	PF00067	35..484
+W8JWW3	reviewed	Cytochrome P450 72A225	4058	Catharanthus roseus	538	PF00067	100..514
+X2ESR4	reviewed	Cytochrome P450 Tp4149	127999	Tanacetum parthenium	495	PF00067	39..485
+X2EVQ5	reviewed	Cytochrome P450 Tp9025	127999	Tanacetum parthenium	493	PF00067	30..474
+X2EVV9	reviewed	Parthenolide synthase	127999	Tanacetum parthenium	506	PF00067	42..495
+X2EW55	reviewed	3-beta-hydroxylase	127999	Tanacetum parthenium	499	PF00067	38..479
+X2JE85	reviewed	Costunolide synthase	127999	Tanacetum parthenium	496	PF00067	32..475
+X2JI34	reviewed	Germacrene A hydroxylase	127999	Tanacetum parthenium	488	PF00067	34..474
