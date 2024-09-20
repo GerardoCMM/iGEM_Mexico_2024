@@ -1,0 +1,8 @@
+receptor = best.pdbqt
+ligand = piperideine_minimized.pdbqt
+center_x = 26.946
+center_y = 62.679
+center_z = 41.39
+size_x = 20.25
+size_y = 22.5
+size_z = 16.5

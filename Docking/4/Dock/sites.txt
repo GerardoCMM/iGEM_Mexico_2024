@@ -1,0 +1,17 @@
+Phe 160
+Phe 173
+Met 177
+Ser 181
+Gly 205
+Gly 207
+Asp 228
+Leu 229
+Val 232
+Asp 248
+Met 249
+Phe 250
+Lys 262
+Trp 263
+Ile 264
+Asp 267
+Trp 268

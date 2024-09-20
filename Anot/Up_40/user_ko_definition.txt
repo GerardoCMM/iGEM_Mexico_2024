@@ -1,0 +1,219 @@
+Pn1.30			33	K20411	1
+Pn1.360			8	K23533	1
+Pn1.361			8	K23533	1
+Pn1.362			10	K02154	1
+Pn1.363			8	K06942	1
+Pn1.364			10	K07561	1
+Pn1.365	K14293	KPNB1, IPO1; importin subunit beta-1	34		
+Pn1.517	K08235	E2.4.1.207; xyloglucan:xyloglucosyl transferase [EC:2.4.1.207]	301		
+Pn1.706	K22133	AAE3; oxalate---CoA ligase [EC:6.2.1.8]	489		
+Pn1.835	K22133	AAE3; oxalate---CoA ligase [EC:6.2.1.8]	495		
+Pn1.1568					
+Pn1.1953			95		
+Pn1.2045			7	K19692	1
+Pn1.2300			5	K22267	1
+Pn1.2338			250		
+Pn1.2375					
+Pn1.2823	K05349	bglX; beta-glucosidase [EC:3.2.1.21]	84	K01188	5
+Pn1.3162			121		
+Pn1.3610			68		
+Pn10.270					
+Pn10.271	K01214	ISA, treX; isoamylase [EC:3.2.1.68]	21		
+Pn10.1663	K03671	trxA; thioredoxin 1	52		
+Pn10.1427	K01674	cah; carbonic anhydrase [EC:4.2.1.1]	185		
+Pn10.1374			89		
+Pn12.1813	K19861	BEBT, AMAT; benzyl alcohol O-benzoyltransferase [EC:2.3.1.196 2.3.1.232]	221		
+Pn12.1773			186		
+Pn12.1522			56		
+Pn12.1520			52		
+Pn12.1518			1	K17543	1
+Pn12.1515			56		
+Pn12.1282			68		
+Pn12.524			67		
+Pn12.444			337		
+Pn12.1970			1	K23970	1
+Pn13.2009	K09422	MYBP; transcription factor MYB, plant	63		
+Pn13.887	K01051	E3.1.1.11; pectinesterase [EC:3.1.1.11]	310		
+Pn13.96					
+Pn2.2219			1	K08150	1
+Pn2.2323			47		
+Pn2.2363			2	K05752	2
+Pn2.2373	K15803	GERD; (-)-germacrene D synthase [EC:4.2.3.75]	106	K14183	13
+Pn2.2377	K15803	GERD; (-)-germacrene D synthase [EC:4.2.3.75]	108	K14183	13
+Pn2.2887	K21483	SAMT; salicylate 1-O-methyltransferase [EC:2.1.1.274]	81		
+Pn3.2202			148		
+Pn3.2282	K01581	E4.1.1.17, ODC1, speC, speF; ornithine decarboxylase [EC:4.1.1.17]	197		
+Pn14.976	K00021	HMGCR; hydroxymethylglutaryl-CoA reductase (NADPH) [EC:1.1.1.34]	424		
+Pn14.664			21		
+Pn14.313	K10206	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]	350		
+Pn14.249	K18693	DPP1, DPPL, PLPP4_5; diacylglycerol diphosphate phosphatase / phosphatidate phosphatase [EC:3.1.3.81 3.1.3.4]	214		
+Pn20.726			61		
+Pn20.401	K23050	PCBER1; phenylcoumaran benzylic ether reductase [EC:1.3.1.-]	237		
+Pn31.55	K03327	TC.MATE, SLC47A, norM, mdtK, dinF; multidrug resistance protein, MATE family	406		
+Pn31.329			190	K01773	21
+Pn18.1179			79		
+Pn18.1213	K00232	E1.3.3.6, ACOX1, ACOX3; acyl-CoA oxidase [EC:1.3.3.6]	284		
+Pn18.1215	K00232	E1.3.3.6, ACOX1, ACOX3; acyl-CoA oxidase [EC:1.3.3.6]	230		
+Pn18.1376					
+Pn11.2401			86		
+Pn11.2197	K13993	HSP20; HSP20 family protein	36		
+Pn18.48			123		
+Pn18.411	K00700	GBE1, glgB; 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]	405		
+Pn18.412			1	K19827	
+Pn5.1964			2	K00700	2
+Pn5.1653			53		
+Pn5.1594	K09874	NIP; aquaporin NIP	111		
+Pn5.1584			130	K20617	52
+Pn5.1580			120	K20617	51
+Pn5.1444			122	K20617	49
+Pn5.431			53		
+Pn9.1540			2	K00649	1
+Pn9.1972			4	K00743	1
+Pn2.1142					
+Pn2.1098	K02083	allC; allantoate deiminase [EC:3.5.3.9]	247		
+Pn9.865					
+Pn4.458			1	K17807	1
+Pn4.499	K15402	CYP86B1; fatty acid omega-hydroxylase [EC:1.14.-.-]	445		
+Pn4.648	K15402	CYP86B1; fatty acid omega-hydroxylase [EC:1.14.-.-]	445		
+Pn4.1186			163		
+Pn4.1643	K00547	mmuM, BHMT2; homocysteine S-methyltransferase [EC:2.1.1.10]	311		
+Pn6.2842			3		
+Pn6.2605	K00276	AOC3, AOC2, tynA; primary-amine oxidase [EC:1.4.3.21]	523		
+Pn6.2477	K19861	BEBT, AMAT; benzyl alcohol O-benzoyltransferase [EC:2.3.1.196 2.3.1.232]	191		
+Pn6.1951			1	K16493	1
+Pn6.1261					
+Pn6.1254					
+Pn6.601	K14455	GOT2; aspartate aminotransferase, mitochondrial [EC:2.6.1.1]	244		
+Pn22.966	K03549	kup; KUP system potassium uptake protein	56		
+Pn22.856			32	K07213	1
+Pn22.833			75		
+Pn22.813	K00700	GBE1, glgB; 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]	518		
+Pn22.747					
+Pn22.496	K00083	CAD; cinnamyl-alcohol dehydrogenase [EC:1.1.1.195]	180		
+Pn22.492	K00276	AOC3, AOC2, tynA; primary-amine oxidase [EC:1.4.3.21]	30		
+Pn22.424	K23618	AAE11_12; acyl-activating enzyme 11/12 [EC:6.2.1.2 6.2.1.-]	532		
+Pn17.1121	K13679	WAXY; granule-bound starch synthase [EC:2.4.1.242]	370		
+Pn17.1004	K14496	PYL; abscisic acid receptor PYR/PYL family	86		
+Pn17.999			143		
+Pn17.758			366		
+Pn17.308			23	K22547	11
+Pn17.517	K24028	DMR6, DLO; salicylic acid 3-hydroxylase [EC:1.14.11.-]	59		
+Pn17.571			97		
+Pn5.3310			3	K12598	2
+Pn5.1883	K01051	E3.1.1.11; pectinesterase [EC:3.1.1.11]	369		
+Pn55.41	K00430	E1.11.1.7; peroxidase [EC:1.11.1.7]	260		
+Pn5.2814	K00430	E1.11.1.7; peroxidase [EC:1.11.1.7]	258		
+Pn5.2847	K00975	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]	376		
+Pn2.555			155		
+Pn2.1301	K09422	MYBP; transcription factor MYB, plant	122		
+Pn2.1240			157		
+Pn4.2743	K05909	E1.10.3.2; laccase [EC:1.10.3.2]	359		
+Pn4.2253	K09458	fabF, OXSM, CEM1; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	320		
+Pn36.35			152		
+Pn3.198					
+Pn3.207					
+Pn3.222					
+Pn3.257	K01051	E3.1.1.11; pectinesterase [EC:3.1.1.11]	212		
+Pn3.259			6	K04710	1
+Pn3.529			13	K02183	1
+Pn3.903			150		
+Pn3.1257			87		
+Pn3.1419			257		
+Pn9.195			325		
+Pn9.267	K03921	FAB2, SSI2, desA1; acyl-[acyl-carrier-protein] desaturase [EC:1.14.19.2 1.14.19.11 1.14.19.26]	229		
+Pn30.208			57		
+Pn30.196			30		
+Pn30.11	K03921	FAB2, SSI2, desA1; acyl-[acyl-carrier-protein] desaturase [EC:1.14.19.2 1.14.19.11 1.14.19.26]	229		
+Pn21.1344	K00660	CHS; chalcone synthase [EC:2.3.1.74]	311		
+Pn21.1229	K00928	lysC; aspartate kinase [EC:2.7.2.4]	473		
+Pn21.860					
+Pn21.630	K00134	GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]	224		
+Pn21.518	K08176	PHO84; MFS transporter, PHS family, inorganic phosphate transporter	372		
+Pn21.461			13		
+Pn21.428	K05658	ABCB1, CD243; ATP-binding cassette, subfamily B (MDR/TAP), member 1 [EC:7.6.2.2]	56		
+Pn16.1933	K15803	GERD; (-)-germacrene D synthase [EC:4.2.3.75]	30		
+Pn16.1198	K01904	4CL; 4-coumarate--CoA ligase [EC:6.2.1.12]	504		
+Pn16.1236	K01904	4CL; 4-coumarate--CoA ligase [EC:6.2.1.12]	514		
+Pn16.1237	K01904	4CL; 4-coumarate--CoA ligase [EC:6.2.1.12]	137		
+Pn16.1351			6	K13457	1
+Pn16.934	K09458	fabF, OXSM, CEM1; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	117		
+Pn16.933	K09458	fabF, OXSM, CEM1; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	288		
+Pn16.847			13	K06133	1
+Pn17.207			32		
+Pn17.144	K13457	RPM1, RPS3; disease resistance protein RPM1	210		
+Pn17.16	K21867	AKT, KAT, GORK, SKOR; potassium channel	547		
+Pn11.498					
+Pn11.536			165		
+Pn11.747			21	K12742	6
+Pn11.754			128	K18108	15
+Pn11.349	K00759	APRT, apt; adenine phosphoribosyltransferase [EC:2.4.2.7]	65		
+Pn11.266			16	K12742	8
+Pn11.251			177	K20979	8
+Pn11.247			68	K12742	8
+Pn11.42	K18693	DPP1, DPPL, PLPP4_5; diacylglycerol diphosphate phosphatase / phosphatidate phosphatase [EC:3.1.3.81 3.1.3.4]	26		
+Pn11.26	K00487	CYP73A; trans-cinnamate 4-monooxygenase [EC:1.14.14.91]	467		
+Pn29.117					
+Pn29.319			4	K13457	1
+Pn11.1027			51		
+Pn11.1029			51		
+Pn11.1122					
+Pn11.1123	K13679	WAXY; granule-bound starch synthase [EC:2.4.1.242]	280		
+Pn11.1187	K00232	E1.3.3.6, ACOX1, ACOX3; acyl-CoA oxidase [EC:1.3.3.6]	260		
+Pn11.1242			107		
+Pn11.1453			28		
+Pn28.510			27		
+Pn28.256			58		
+Pn28.76			155		
+Pn45.43			23		
+Pn45.30			54	K20718	5
+Pn33.337			270		
+Pn33.249	K07517	ECI1_2; Delta3-Delta2-enoyl-CoA isomerase [EC:5.3.3.8]	135	K18880	17
+Pn33.246			11	K14410	1
+Pn33.245			45		
+Pn26.260			64		
+Pn26.121			64		
+Pn26.37	K24028	DMR6, DLO; salicylic acid 3-hydroxylase [EC:1.14.11.-]	151		
+Pn26.34			132		
+Pn19.1046	K09419	HSFF; heat shock transcription factor, other eukaryote	191		
+Pn19.958	K16297	SCPL-II; serine carboxypeptidase-like clade II [EC:3.4.16.-]	264		
+Pn19.263			114	K13384	11
+Pn7.865			311		
+Pn7.1478	K00815	TAT; tyrosine aminotransferase [EC:2.6.1.5]	104		
+Pn7.1358			15	K08794	1
+Pn7.1285	K13447	RBOH; respiratory burst oxidase [EC:1.6.3.- 1.11.1.-]	466		
+Pn7.1284					
+Pn38.121	K09286	EREBP; EREBP-like factor	115		
+Pn44.3	K16302	CNNM; metal transporter CNNM	292		
+Pn44.11			259		
+Pn44.44			252		
+Pn44.68			18		
+Pn54.61	K16302	CNNM; metal transporter CNNM	293		
+Pn15.1789			9	K11214	1
+Pn15.2585			10	K10686	1
+Pn15.800			37		
+Pn15.1052	K00208	fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]	250		
+Pn15.1074	K00208	fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]	251		
+Pn15.1114	K09422	MYBP; transcription factor MYB, plant	44		
+Pn8.2794	K15283	SLC35E1; solute carrier family 35, member E1	219		
+Pn8.2666			311		
+Pn8.563			57		
+Pn8.615			40		
+Pn8.796			1	K20371	1
+Pn3.3195	K17098	ANNAT; annexin D	212		
+Pn3.3296			323		
+Pn3.3529	K00799	GST, gst; glutathione S-transferase [EC:2.5.1.18]	138		
+Pn3.3541	K00799	GST, gst; glutathione S-transferase [EC:2.5.1.18]	127		
+Pn3.3558	K00799	GST, gst; glutathione S-transferase [EC:2.5.1.18]	127		
+Pn3.3988			29		
+Pn3.4001	K08711	PDR, CDR1; ATP-binding cassette, subfamily G (WHITE), member 2, PDR	867		
+Pn3.4013			6	K00546	1
+Pn3.4306	K10526	OPCL1; OPC-8:0 CoA ligase 1 [EC:6.2.1.-]	309		
+Pn3.4320			13	K14354	1
+Pn23.54			61		
+Pn23.257	K15803	GERD; (-)-germacrene D synthase [EC:4.2.3.75]	12		
+Pn23.267	K15803	GERD; (-)-germacrene D synthase [EC:4.2.3.75]	18	K14183	6
+Pn23.268	K15803	GERD; (-)-germacrene D synthase [EC:4.2.3.75]	52	K14183	13
+Pn23.272	K15803	GERD; (-)-germacrene D synthase [EC:4.2.3.75]	17		
+Pn23.281	K15803	GERD; (-)-germacrene D synthase [EC:4.2.3.75]	18	K14183	5
+Pn23.303	K13356	FAR; alcohol-forming fatty acyl-CoA reductase [EC:1.2.1.84]	251		
+Pn23.339	K13356	FAR; alcohol-forming fatty acyl-CoA reductase [EC:1.2.1.84]	209		

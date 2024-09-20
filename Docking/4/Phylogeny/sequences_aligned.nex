@@ -1,0 +1,106 @@
+#NEXUS
+[ Title fasta file]
+begin taxa;
+   dimensions ntax= 12;
+   taxlabels
+      3P9C_A_Lolium_perenne 
+      4PGG_A_Sorghum_bicolor 
+      4PGH_A_Sorghum_bicolor 
+      Pn1.1317                        
+      5XOH_A_Peucedanum_praeruptorum 
+      5CVV_A_Clarkia_breweri 
+      3REO_A_Clarkia_breweri 
+      5CVJ_A_Clarkia_breweri 
+      6IWT_A_Peucedanum_praeruptorum 
+      7V6J_A_Ligusticum_chuanxiong 
+      1KYW_A_Medicago_sativa 
+      6I70_A_Fragaria_ananassa 
+;
+end;
+begin characters;
+   dimensions nchar= 377;
+   format missing=? gap=- matchchar=. datatype=protein interleave=yes;
+   matrix
+
+[!Domain=Data;]
+3P9C_A_Lolium_perenne  ----GSHGMGSTAADMAASADED-ACMFALQLASSSVLPMTLKNAIELGLLEILVAA--GGKSLTPTEVAAKLPSA-ANPEAPDMVDRILRLLASYNVVT
+4PGG_A_Sorghum_bicolor  ------ATAEDV..V----...E-...Y.M......I........L......V.QKD--A..A.AAE..V.R..V.PT..A.A.....M.......D..K
+4PGH_A_Sorghum_bicolor  --------AEDV..V----...E-...Y.M......I........L......V.QKD--A..A.AAE..V.R..V.PT..A.A.....M.......D..K
+Pn1.1317                         ---------MD.PLNQQEGS..NT.A.Y.MH.T.L........A.T..DVF..IAR.-GP.AY.SSG.I..Q..T--N..N..A.L..M......HS.LS
+5XOH_A_Peucedanum_praeruptorum  -----MA..KTSPS-----Q..E-..VL.I...T.T....I..S....DI.NTISK.-GP.NY.S.SDL.S..LM--S..H..I.LE....V..T.K.LG
+5CVV_A_Clarkia_breweri  MGST.NAEIQIIPTHS---S..E-.NL..H...RAAS...A..A....DV...MAKSVPPSGYIS.A.I..Q..T--T.....V.L..V.......S...
+3REO_A_Clarkia_breweri  MGST.NAEIQIIPTHS---S..E-.NL..M....AA....A..A....DV...MAKSVPPSGYIS.A.I..Q..T--T.....V.L..V.......S...
+5CVJ_A_Clarkia_breweri  MGST.NAEIQIIPTHS---S..E-.NL..M....AA....A..A....DV...MAKSVPPSGYIS.A.I..Q..T--T.....V.L..V.......S...
+6IWT_A_Peucedanum_praeruptorum  ----MTTTELIPPTIQVDEEE.E-.....M....A.....V..S....D...SIAK.-GP.AYVS.S.L......--SQ.DT.V.L..........S.LK
+7V6J_A_Ligusticum_chuanxiong  ------MNTELIPPTFLEDEE.E-.....M....A.....V..S....N...SIAK.-GP.VYVS.SQL..G...--SQ.DT.V.L..........S.LN
+1KYW_A_Medicago_sativa  --MGSTGETQI.PTHI---S..E-.NL..M....A.....I..S.L..D....IAK.-GP.AQIS.I.I.SQ..T--T..D..V.L..M.....C.IIL.
+6I70_A_Fragaria_ananassa  ----MK.HHHHHG.V----S..E-.NL..M....A.....V..A....D....MAK.-GP.SF.S.SDL.SQ..T--K.....V.L..M.......SIL.
+
+3P9C_A_Lolium_perenne  CLVEEGKDGRLSRSYGAAPVCKFLTPNEDGVSMAALALMNQDKVLMESWYYLKDAVLDGGIPFNKAYGMSAFEYHGTDPRFNRVFNEGMKNHSIIITKKL
+4PGG_A_Sorghum_bicolor  .QM.D-...KYE.R.S....G.W..............................................T.......................V......
+4PGH_A_Sorghum_bicolor  .QM.D-...KYE.R.S....G.W..............................................T.......................V......
+Pn1.1317                         .SLATLD...VE.R..L.......VK..........G...H.........H......E...........T............K...R..SD..ALVM..I
+5XOH_A_Peucedanum_praeruptorum  .KPS.LS..EVEWL.CWT......SN....A.I.P.L.VH..Q.P.K...H.T..I....TA.......NI.D.ASQ..Q..K...RS.AG..T.TM..I
+5CVV_A_Clarkia_breweri  YTLR.LPS.KVE.L..L........K......L.PFL.LAT....L.P.F.....I.E...........NIWD.F...H.I.K...K..SSN.T.TM..I
+3REO_A_Clarkia_breweri  YTLR.LPS.KVE.L..L........K......L.PFL.LAT....L.P.F.....I.E...........NI.D.....H.I.K...K..SSN.T.TM..I
+5CVJ_A_Clarkia_breweri  YTLR.LPS.KVE.L..L........K......L.PFL.LAT....L.P.F.....I.E...........NIWD.F...H.I.K...K..SSN.T.TM..I
+6IWT_A_Peucedanum_praeruptorum  .K.QDLPQ.GVE.L.AL........K.S......P.L......I......H..................T......K.....K...L..S...T.TM..I
+7V6J_A_Ligusticum_chuanxiong  .QLRDLPQ..VE.L..L........K.S......P.L......I......H..................T......K.....K...Q..S...T.TM..I
+1KYW_A_Medicago_sativa  .S.RTQQ..KVQ.L..L.T.A.Y.VK......IS..N.............H..................T............K...K..SD..T.TM..I
+6I70_A_Fragaria_ananassa  .SLRTLP..KVE.L.CLG.......K......I...C........V....H..................T..D.........K...K..AD..T.TM..I
+
+3P9C_A_Lolium_perenne  LELYHGF-EGLGTLVDVGGGVGATVAAIAAHYPTIKGVNFDLPHVISEAPQFPGVTHVGGDMFKEVPSGDTILMKWILHDWSDQHCATLLKNCYDALPAH
+4PGG_A_Sorghum_bicolor  ..F.T..D.SVS........I...LH..TS.HSH.R..............P....Q........S..A..A............A..............EK
+4PGH_A_Sorghum_bicolor  ..F.T..D.SVS........I...LH..TS.HSH.R..............P....Q........S..A..A............A..............EK
+Pn1.1317                         ..T.N..-GSI.S.........VATNL.VSQ..H..AI....E...DV..AY...QQ......ES...A.A.F..........E..LK......K...ES
+5XOH_A_Peucedanum_praeruptorum  ..T.N..-...KSI......S...LNM.ISK......I.......VGDS.IH...E.......AS..K..A.FL...F.S...ED.LRI.....E..ADN
+5CVV_A_Clarkia_breweri  ..M.N..-...T.I......T..VASM.V.K..S.NAI........QD..A.S..E.L.....DG..K..A.FI...C.....E..LK......A...D.
+3REO_A_Clarkia_breweri  ..M.N..-...T.I......T..VASM.V.K..S.NAI........QD..A.S..E.L.....DG..K..A.FI...C.....E..LK......A...D.
+5CVJ_A_Clarkia_breweri  ..M.N..-...T.I......T..VASM.V.K..S.NAI........QD..A.S..E.L.....DG..K..A.FI...C.....E..LK......A...D.
+6IWT_A_Peucedanum_praeruptorum  .QT.N..-A..K.V......T...LNM.ISK..N...I.......VED..SY...E.......VS..E..A.F....C.....A..LSF.....K...QN
+7V6J_A_Ligusticum_chuanxiong  .QT.D..-G..K.V......T...LNM.ISK..NL..I.......VED..SY...E.......VS..K..A.F....C.....A..L.F.....K...KD
+1KYW_A_Medicago_sativa  ..T.T..-...KS.......T..VINT.VSK......I........ED..SY...E.......VSI.KA.AVF....C.....E..LKF.....E...DN
+6I70_A_Fragaria_ananassa  ..T.K..-...KSI......T..V.NM.VSK..S...I........ED...Y...Q.......VS..K.NA.F....C.....E..IKF.....A...DD
+
+3P9C_A_Lolium_perenne  -GKVVLVQCILPVNP-EANPSSQGVFHVDMIMLAHNPGGRERYEREFQALARGAGFTGVKSTYIYANAWAIEFTK--
+4PGG_A_Sorghum_bicolor  G...IV.E.V...TT-D.V.KA.........................RD..KA...S.F.A............I.--
+4PGH_A_Sorghum_bicolor  G...IV.E.V...TT-D.V.KA.........................RD..KA...S.F.A............I.--
+Pn1.1317                         -....IAEML.SDA.-KPTLEASS...............K..TR..YEN..KA...SQL.AVCSAY.V.VM.LY.--
+5XOH_A_Peucedanum_praeruptorum  -K..IVAEF.I.EV.GGSDDATKS.V.L.AV...YV...K..T.K..E...TS...KSFRKVCCAF.T.IM..S.--
+5CVV_A_Clarkia_breweri  -...IVAEY...PS.-DPSIATKV.I.M.AL...Y....K..T.K......MAS..R.F.VASCAF.TYVM..L.TA
+3REO_A_Clarkia_breweri  -...IVAEY...PS.-DPSIATKV.I.T.AL...Y....K..T.K......MAS..R.F.VASCAF.TYVM..L.TA
+5CVJ_A_Clarkia_breweri  -...IVAEY...PS.-DPSIATKV.I.T.AL...Y....K..T.K......MAS..R.F.VASCAF.TYVM..L.TA
+6IWT_A_Peucedanum_praeruptorum  -...I.AE....EA.-DSKLTTKN.I.I.V.........K..T.K..E..GKM...KSFNKVCCAH.T.IM..L.--
+7V6J_A_Ligusticum_chuanxiong  -...I.AE....EA.-DSKLTTKN.I.I.V.........K..T.KD.E..GKE...KSFNKACCAY.T.V..YY.--
+1KYW_A_Medicago_sativa  -...IVAE.....A.-DSSLATK..V.I.V.........K..TQK..ED..K....Q.F.VHCNAF.TYIM..L.KV
+6I70_A_Fragaria_ananassa  -...I.AE.....A.-DTSLATK..V.M.V.........K..T.Q..E...K.S..Q.IRVCCDAF.TYV...L.KI
+;
+end;
+
+begin trees;
+
+  tree ML = ((((5CVV_A_Clarkia_breweri:0.01134944,5CVJ_A_Clarkia_breweri:0.00006316):0.00552461,3REO_A_Clarkia_breweri:0.00006316):0.30232974,(1KYW_A_Medicago_sativa:0.11331298,6I70_A_Fragaria_ananassa:0.14312386):0.02970312):0.03386764,(5XOH_A_Peucedanum_praeruptorum:0.41835318,(6IWT_A_Peucedanum_praeruptorum:0.05513116,7V6J_A_Ligusticum_chuanxiong:0.07902629):0.11319919):0.05637102,(Pn1.1317:0.28592293,(3P9C_A_Lolium_perenne:0.16640452,(4PGG_A_Sorghum_bicolor:0.00006316,4PGH_A_Sorghum_bicolor:0.00012631):0.18638812):0.32457243):0.11704824);
+
+end;
+
+begin mrbayes;
+
+   set autoclose=yes nowarn=yes;
+
+   prset aamodelpr=mixed;
+
+   mcmcp nrun = 2 nchain = 4 ngen = 1000000 samplefr = 1000;
+
+   mcmcp printfr = 1000 diagnfr = 5000 temp=0.08;
+
+   mcmcp startp = reset;
+
+   startvals tau = ML;
+
+   mcmc;
+
+   sump relburnin=yes burninfrac=0.25;
+
+   sumt relburnin=yes burninfrac=0.25;
+
+end;

@@ -1,0 +1,8 @@
+receptor = model_minimized.pdbqt
+ligand = phenylalanine_minimized.pdbqt
+center_x = 21.0
+center_y = 5.712
+center_z = 28.333
+size_x = 22.5
+size_y = 27.75
+size_z = 28.5

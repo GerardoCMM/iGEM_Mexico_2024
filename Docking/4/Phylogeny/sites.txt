@@ -1,0 +1,14 @@
+Asp 267
+Leu 133
+Met 177
+
+Met 127
+Leu 133
+Ala 159
+Phe 173
+Met 177
+Val 313
+Ile 316
+Met 317
+His 320
+Asn 321

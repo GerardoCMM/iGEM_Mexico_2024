@@ -1,0 +1,1 @@
+blastn -query mRNA.fas -subject exons.fas -outfmt 6 -out mRNA.tsv

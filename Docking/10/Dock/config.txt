@@ -1,0 +1,8 @@
+receptor = model_minimized.pdbqt
+ligand = nadph_minimized.pdbqt
+center_x = 27.048
+center_y = 54.736
+center_z = 36.301
+size_x = 18.75
+size_y = 31.5
+size_z = 26.25

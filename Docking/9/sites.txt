@@ -1,0 +1,129 @@
+substrate binding pocket [chemical binding site]
+
+Feature 1                       #                                                             
+query     242 VMELATLDFNLVQSLHQNELaahsrwdms--------------------------------------------------- 270
+5EAT      225 LLRFAKLDFNLLQMLHKQELaqvsrwwkdldfvttlpyardrvvecyfwalgvyfepqysqarvmlvktismisivddtf 304 common tobacco
+AAC39432  224 LLKFAKLDFNMLQKFHQRELsdltrwwkdldfankypyardrlvecyfwilgvyfepkysrarkmmtkvlnltsiiddtf 303 tomato
+AAD34294  453 YLRLAVEDFYTCQSIYREELkglerwvvqnkldqlkfarqktaycyfsvaatlsspelsdariswakngilttvvddffd 532 stevia
+BAB03594  531 YLELAKLDYNNCQASHQQEWksiqkwysrcnfgeygmserslllayyiaaasi------------------------fep 586 Scoparia dulcis
+AAK58723  262 VLEFAKLDFNILQAVHQEDMkkasrwwketcwekfgfardrlvenfmwtvaenylphfqtgrgvl-tkvnamittiddvy 340 sweet wormwood
+O24475    304 LLELAKLEFNIFQSLQKRELeslvrwwkesgfpemtfcrhrhveyytlasciafepqhsgfrlgf-aktchlitvlddmy 382 white fir
+AAM11626  236 LVKLAKLHFNYLQLQQKEELrivskwwkdmrfqettpyirdrvpeiylwilglyfepryslariiatkitlflvvlddty 315 garden lettuce
+AAM53943  277 LLELAKVDYNIVQAVHQEDLkyvsrwwkktglgeklnfardrvvenffwtvgdifepqfgycrrmsamvnclltsiddvy 356 lemon
+Feature 1                                              # ###                          #       
+query     271 ----------------------avhqlpeyMKSTYTALLRTVSEIEkqmvveg-rgysvyYLKQAMKNLIKNYFNEAKWl 327
+5EAT      305 daygtvkeleaytdaiqrwdineidrlpdyMKISYKAILDLYKDYEkelssag-rshivcHAIERMKEVVRNYNVESTWf 383 common tobacco
+AAC39432  304 dayatfdelvtfndaiqrwdanaidsiqpyMRPAYQALLDIYSEMEqvlskeg-kldrvyYAKNEMKKLVRAYFKETQWl 382 tomato
+AAD34294  533 iggtideltnliqcvekwnvdvdkdccsehVRILFLALKDAICWIGdeafkwq-ardvtsHVIQTWLELMNSMLREAIWt 611 stevia
+BAB03594  587 eralerlawaktailmetietilkdnssqeSGNVLSSMNPNLMAAAcmqteqvagitkqeRLTETLVRASKPLLIGTRCw 666 Scoparia dulcis
+AAK58723  341 dvygtlpelelftnivnswdinaidelpdyLKICFLACYNATNELSyntltnk-gffvhpYLKKAWQDLCNSYIIEAKWf 419 sweet wormwood
+O24475    383 dtfgtvdelelftatmkrwdpssidclpeyMKGVYIAVYDTVNEMAreaeeaq-grdtltYAREAWEAYIDSYMQEARWi 461 white fir
+AAM11626  316 dayatieeirlltdainrwdisaieqipeyIRPFYKILLDEYAELEkqlakeg-raksviALKEAFQDIARGYLEEAEWt 394 garden lettuce
+AAM53943  357 dvygtldelelftdaverwdattteqlpyyMKLCFHALYNSVNEMGfialrdqevgmiipYLKKAWADQCKSYLVEAKWy 436 lemon
+Feature 1                                                                  ## ##  #   #       
+query     328 hsgy-vpnyEEYMKVAEWtsgyPMLTAVSYVgmsesakEADFEWAMKm--PKLIKAAATIARLENDIVGHKKEq-ERGHv 403
+5EAT      384 iegy-tppvSEYLSNALAtttyYYLATTSYLgmk-satEQDFEWLSKn--PKILEASVIICRVIDDTATYEVEk-SRGQi 458 common tobacco
+AAC39432  383 ndcdhipkyEEQVENAIVsagyMMISTTCLVgieefisHETFEWLMNe--SVIVRASALIARAMNDIVGHEDEq-ERGHv 459 tomato
+AAD34294  612 rday-vptlNEYMENAYVsfalGPIVKPAIYfvgpklsEEIVESSEY---HNLFKLMSTQGRLLNDIHSFKREf-KEGK- 685 stevia
+BAB03594  667 ht-----agTSISNCIMGr---KSGLRTCEErdv-hsgQGDAELLVRtlnLCGGGGRWVSEELLLSHPKYQHLleVTNRv 737 Scoparia dulcis
+AAK58723  420 ndgy-tptfNEFIENAYMsigiAPIIRHAYLltltsvtEEALQHIERa--ESMIRNACLIVRLTNDMGTSSDEl-ERGDi 495 sweet wormwood
+O24475    462 atgy-lpsfDEYYENGKVscghRISALQPILtmdipfpDHILKEVDFp--SKLNDLACAILRLRGDTRCYKADr-ARGEe 537 white fir
+AAM11626  395 nsgy-vasfPEYMKNGLVtsayNVISKSALVgmgemvsEDALAWYESh--PKTLQASELISRLQDDVMTYQFEr-ERGQs 470 garden lettuce
+AAM53943  437 nsgy-iptlQEYMENAWIsvtaPVMLLHAYAftanpitKEALEFLQDs--PDIIRISSMIVRLEDDLGTSSDEl-KRGDv 512 lemon
+Feature 1                                                                          #    # #   
+query     404 ASSVECYLKehge----cseVEACARLRKIVDKSWKELNQESLrp---kpVAAPLMARVFNLARFTHIIYnehGDDYshp 476
+5EAT      459 ATGIECCMRdyg-----istKEAMAKFQNMAETAWKDINEGLLrp---tpVSTEFLTPILNLARIVEVTYihnLDGYthp 530 common tobacco
+AAC39432  460 ASLIECYMKdyg-----askQETYIKFLKEVTNAWKDINKQFSrp---teVPMFVLERVLNLTRVADTLYk-eKDTYsta 530 tomato
+AAD34294  686 LNAVALHLSnges---gkveEEVVEEMMMMIKNKRKELMKLIFeen-gsiVPRACKDAFWNMCHVLNFFYa-nDDGFtgn 760 stevia
+BAB03594  738 CHQLRLFQRrqacdvnggcmTDVGGILSAQIESNMQELAKLVPtksssgdLDSDTKQNFLTVARSFYYAVy--CNPGs-- 813 Scoparia dulcis
+AAK58723  496 PKSIQCYMHesg-----ateMEARAYIKQFIVETWKKLNKERQeig--seFPQEFVDCVINLPRMGHFMYt-dGDKHgkp 567 sweet wormwood
+O24475    538 ASSISCYMKdnpg----vseEDALDHINAMISDVIKGLNWELLkpd--inVPISAKKHAFDIARAFHYGYk-yRDGYsva 610 white fir
+AAM11626  471 ATGVDSYIKtyg-----vseKEAIDELNKMIENAWKDINEGCLkp---reVSMDLLAPILNLARMIDVVYr-yDDGFtfp 541 garden lettuce
+AAM53943  513 PKSIQCYMHetg-----vseDEAREHIRDLIAETWMKMNSARFgnp--pyLPDVFIGIAMNLVRMSQCMYl-yGDGHgvq 584 lemon
+Feature 1                    
+query     477 rdetKTRIASVLVEP 491
+5EAT      531 eevlKPHIINLLVDS 545 common tobacco
+AAC39432  531 kgklKNMINPILIES 545 tomato
+AAD34294  761 --tiLDTVKDIIYNP 773 stevia
+BAB03594  814 ---iNFHIAKVLFER 825 Scoparia dulcis
+AAK58723  568 -dmfKPYVFSLFVNP 581 sweet wormwood
+O24475    611 nvetKSLVTRTLLES 625 white fir
+AAM11626  542 -gktMKEYITLLFVG 555 garden lettuce
+AAM53943  585 -entKDRVLSLFIDP 598 lemon
+
+substrate-Mg2+ binding site
+
+Feature 2                                                                     #   #   #       
+query     328 hsgy-vpnyEEYMKVAEWtsgyPMLTAVSYVgmsesakEADFEWAMKm--PKLIKAAATIARLENDIVGHKKEq-ERGHv 403
+5EAT      384 iegy-tppvSEYLSNALAtttyYYLATTSYLgmk-satEQDFEWLSKn--PKILEASVIICRVIDDTATYEVEk-SRGQi 458 common tobacco
+AAC39432  383 ndcdhipkyEEQVENAIVsagyMMISTTCLVgieefisHETFEWLMNe--SVIVRASALIARAMNDIVGHEDEq-ERGHv 459 tomato
+AAD34294  612 rday-vptlNEYMENAYVsfalGPIVKPAIYfvgpklsEEIVESSEY---HNLFKLMSTQGRLLNDIHSFKREf-KEGK- 685 stevia
+BAB03594  667 ht-----agTSISNCIMGr---KSGLRTCEErdv-hsgQGDAELLVRtlnLCGGGGRWVSEELLLSHPKYQHLleVTNRv 737 Scoparia dulcis
+AAK58723  420 ndgy-tptfNEFIENAYMsigiAPIIRHAYLltltsvtEEALQHIERa--ESMIRNACLIVRLTNDMGTSSDEl-ERGDi 495 sweet wormwood
+O24475    462 atgy-lpsfDEYYENGKVscghRISALQPILtmdipfpDHILKEVDFp--SKLNDLACAILRLRGDTRCYKADr-ARGEe 537 white fir
+AAM11626  395 nsgy-vasfPEYMKNGLVtsayNVISKSALVgmgemvsEDALAWYESh--PKTLQASELISRLQDDVMTYQFEr-ERGQs 470 garden lettuce
+AAM53943  437 nsgy-iptlQEYMENAWIsvtaPVMLLHAYAftanpitKEALEFLQDs--PDIIRISSMIVRLEDDLGTSSDEl-KRGDv 512 lemon
+Feature 2                                                                                     
+query     404 ASSVECYLKehge----cseVEACARLRKIVDKSWKELNQESLrp---kpVAAPLMARVFNLARFTHIIYnehGDDYshp 476
+5EAT      459 ATGIECCMRdyg-----istKEAMAKFQNMAETAWKDINEGLLrp---tpVSTEFLTPILNLARIVEVTYihnLDGYthp 530 common tobacco
+AAC39432  460 ASLIECYMKdyg-----askQETYIKFLKEVTNAWKDINKQFSrp---teVPMFVLERVLNLTRVADTLYk-eKDTYsta 530 tomato
+AAD34294  686 LNAVALHLSnges---gkveEEVVEEMMMMIKNKRKELMKLIFeen-gsiVPRACKDAFWNMCHVLNFFYa-nDDGFtgn 760 stevia
+BAB03594  738 CHQLRLFQRrqacdvnggcmTDVGGILSAQIESNMQELAKLVPtksssgdLDSDTKQNFLTVARSFYYAVy--CNPGs-- 813 Scoparia dulcis
+AAK58723  496 PKSIQCYMHesg-----ateMEARAYIKQFIVETWKKLNKERQeig--seFPQEFVDCVINLPRMGHFMYt-dGDKHgkp 567 sweet wormwood
+O24475    538 ASSISCYMKdnpg----vseEDALDHINAMISDVIKGLNWELLkpd--inVPISAKKHAFDIARAFHYGYk-yRDGYsva 610 white fir
+AAM11626  471 ATGVDSYIKtyg-----vseKEAIDELNKMIENAWKDINEGCLkp---reVSMDLLAPILNLARMIDVVYr-yDDGFtfp 541 garden lettuce
+AAM53943  513 PKSIQCYMHetg-----vseDEAREHIRDLIAETWMKMNSARFgnp--pyLPDVFIGIAMNLVRMSQCMYl-yGDGHgvq 584 lemon
+Feature 2                    
+query     477 rdetKTRIASVLVEP 491
+5EAT      531 eevlKPHIINLLVDS 545 common tobacco
+AAC39432  531 kgklKNMINPILIES 545 tomato
+AAD34294  761 --tiLDTVKDIIYNP 773 stevia
+BAB03594  814 ---iNFHIAKVLFER 825 Scoparia dulcis
+AAK58723  568 -dmfKPYVFSLFVNP 581 sweet wormwood
+O24475    611 nvetKSLVTRTLLES 625 white fir
+AAM11626  542 -gktMKEYITLLFVG 555 garden lettuce
+AAM53943  585 -entKDRVLSLFIDP 598 lemon
+
+active site lid residues [active site]
+
+Feature 3     ########                                                                        
+query      22 RRAAGFQPSMWdd--------ffIkLSLQKSavdns----ssleRVEQLKASVKNMLQns-------------------- 69 
+5EAT       15 RPVADFSPSLWgd---------qF-LSFSIDnqvae----kyaqEIEALKEQTRSMLLat-------------------- 60  common tobacco
+AAC39432   10 RPLANFHPSVWgy---------hF-LSYTHEitnq------ekvEVDEYKETIRKMLVet-------------------- 53  tomato
+AAD34294   12 LTKSSRPTALSa-----------I-HTASTShggqtnptnliidTTKERIQKLFKNVEisvssydtawvamvpspnspks 79  stevia
+BAB03594   68 IRNGFPTINYWheiveddtqleiT-HRETAIssn-------kiwEMVKTIRGMLRSMEdgeitvsaydtawvalvedigg 139 Scoparia dulcis
+AAK58723   48 RRSANYAPSLWsy--------dfV-QSLSSKykgd-----nymaRSRALKGVVRTMILean------------------- 94  sweet wormwood
+O24475     64 RRMGDFHSNLWdd--------dvI-QSLPTAyeeksy--leraeKLIGEVKNMFNSMSledgel---------------- 116 white fir
+AAM11626   22 RPLANFPPSVWgd---------rF-LSFSLDntele----gyakAMEEPKEEVRRLIVdp-------------------- 67  garden lettuce
+AAM53943   56 RRSADYGPTIWsf--------dyI-QSLDSKykge-----syarQLEKLKEQVSAMLQqdnk------------------ 103 lemon
+
+Feature 3                                                                            ##  #### 
+query     328 hsgy-vpnyEEYMKVAEWtsgyPMLTAVSYVgmsesakEADFEWAMKm--PKLIKAAATIARLENDIVGHKKEq-ERGHv 403
+5EAT      384 iegy-tppvSEYLSNALAtttyYYLATTSYLgmk-satEQDFEWLSKn--PKILEASVIICRVIDDTATYEVEk-SRGQi 458 common tobacco
+AAC39432  383 ndcdhipkyEEQVENAIVsagyMMISTTCLVgieefisHETFEWLMNe--SVIVRASALIARAMNDIVGHEDEq-ERGHv 459 tomato
+AAD34294  612 rday-vptlNEYMENAYVsfalGPIVKPAIYfvgpklsEEIVESSEY---HNLFKLMSTQGRLLNDIHSFKREf-KEGK- 685 stevia
+BAB03594  667 ht-----agTSISNCIMGr---KSGLRTCEErdv-hsgQGDAELLVRtlnLCGGGGRWVSEELLLSHPKYQHLleVTNRv 737 Scoparia dulcis
+AAK58723  420 ndgy-tptfNEFIENAYMsigiAPIIRHAYLltltsvtEEALQHIERa--ESMIRNACLIVRLTNDMGTSSDEl-ERGDi 495 sweet wormwood
+O24475    462 atgy-lpsfDEYYENGKVscghRISALQPILtmdipfpDHILKEVDFp--SKLNDLACAILRLRGDTRCYKADr-ARGEe 537 white fir
+AAM11626  395 nsgy-vasfPEYMKNGLVtsayNVISKSALVgmgemvsEDALAWYESh--PKTLQASELISRLQDDVMTYQFEr-ERGQs 470 garden lettuce
+AAM53943  437 nsgy-iptlQEYMENAWIsvtaPVMLLHAYAftanpitKEALEFLQDs--PDIIRISSMIVRLEDDLGTSSDEl-KRGDv 512 lemon
+Feature 3     ####                                                                     ####   
+query     404 ASSVECYLKehge----cseVEACARLRKIVDKSWKELNQESLrp---kpVAAPLMARVFNLARFTHIIYnehGDDYshp 476
+5EAT      459 ATGIECCMRdyg-----istKEAMAKFQNMAETAWKDINEGLLrp---tpVSTEFLTPILNLARIVEVTYihnLDGYthp 530 common tobacco
+AAC39432  460 ASLIECYMKdyg-----askQETYIKFLKEVTNAWKDINKQFSrp---teVPMFVLERVLNLTRVADTLYk-eKDTYsta 530 tomato
+AAD34294  686 LNAVALHLSnges---gkveEEVVEEMMMMIKNKRKELMKLIFeen-gsiVPRACKDAFWNMCHVLNFFYa-nDDGFtgn 760 stevia
+BAB03594  738 CHQLRLFQRrqacdvnggcmTDVGGILSAQIESNMQELAKLVPtksssgdLDSDTKQNFLTVARSFYYAVy--CNPGs-- 813 Scoparia dulcis
+AAK58723  496 PKSIQCYMHesg-----ateMEARAYIKQFIVETWKKLNKERQeig--seFPQEFVDCVINLPRMGHFMYt-dGDKHgkp 567 sweet wormwood
+O24475    538 ASSISCYMKdnpg----vseEDALDHINAMISDVIKGLNWELLkpd--inVPISAKKHAFDIARAFHYGYk-yRDGYsva 610 white fir
+AAM11626  471 ATGVDSYIKtyg-----vseKEAIDELNKMIENAWKDINEGCLkp---reVSMDLLAPILNLARMIDVVYr-yDDGFtfp 541 garden lettuce
+AAM53943  513 PKSIQCYMHetg-----vseDEAREHIRDLIAETWMKMNSARFgnp--pyLPDVFIGIAMNLVRMSQCMYl-yGDGHgvq 584 lemon
+Feature 3                    
+query     477 rdetKTRIASVLVEP 491
+5EAT      531 eevlKPHIINLLVDS 545 common tobacco
+AAC39432  531 kgklKNMINPILIES 545 tomato
+AAD34294  761 --tiLDTVKDIIYNP 773 stevia
+BAB03594  814 ---iNFHIAKVLFER 825 Scoparia dulcis
+AAK58723  568 -dmfKPYVFSLFVNP 581 sweet wormwood
+O24475    611 nvetKSLVTRTLLES 625 white fir
+AAM11626  542 -gktMKEYITLLFVG 555 garden lettuce
+AAM53943  585 -entKDRVLSLFIDP 598 lemon

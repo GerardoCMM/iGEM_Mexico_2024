@@ -1,0 +1,14 @@
+Task\ label=Pn1.1317
+Task\ ID=2759693
+Tool=MRBAYES_XSEDE
+created\ on=2022-07-14 16:53:05.0
+JobHandle=NGBW-JOB-MRBAYES_XSEDE-F7661EDF01B2402A85B6A19A1D11A22B
+RunNumber=1
+resource=expanse
+User\ ID=153710
+User\ Name=gera2
+email=gerardo_cendejas_mendoza@ciencias.unam.mx
+Output=(ALL_FILES,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=8
+JOBID=14599700

@@ -1,0 +1,324 @@
+MODEL 1
+REMARK VINA RESULT:    -6.660      0.000      0.000
+REMARK INTER + INTRA:          -7.777
+REMARK INTER:                  -7.635
+REMARK INTRA:                  -0.141
+REMARK UNBOUND:                -0.143
+REMARK  Name = cinnamic_minimized.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_11
+REMARK    2  A    between atoms: C_3  and  C_6
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -63.663  13.046  30.874  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1     -62.282  13.055  31.110  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -64.128  12.650  29.612  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -61.385  12.702  30.097  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -63.231  12.299  28.601  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -61.860  12.326  28.843  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   UNL     1     -64.642  13.381  31.916  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1     -64.321  13.944  33.092  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM      9  O   UNL     1     -66.505  14.101  34.020  0.00  0.00    +0.000 OA
+ATOM     10  C   UNL     1     -65.305  14.287  34.126  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -64.775  14.839  35.227  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -64.751  15.795  35.020  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -6.359      2.652      3.093
+REMARK INTER + INTRA:          -7.432
+REMARK INTER:                  -7.292
+REMARK INTRA:                  -0.139
+REMARK UNBOUND:                -0.143
+REMARK  Name = cinnamic_minimized.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_11
+REMARK    2  A    between atoms: C_3  and  C_6
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -63.631  11.327  32.862  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1     -62.256  11.562  33.000  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -64.067  10.022  32.595  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -61.337  10.519  32.847  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -63.148   8.981  32.441  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -61.784   9.230  32.565  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   UNL     1     -64.633  12.385  33.043  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1     -64.753  13.119  34.161  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM      9  O   UNL     1     -65.612  15.138  35.077  0.00  0.00    +0.000 OA
+ATOM     10  C   UNL     1     -65.750  14.183  34.332  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -66.855  14.025  33.591  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -66.753  14.687  32.876  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -6.147      1.105      1.982
+REMARK INTER + INTRA:          -7.188
+REMARK INTER:                  -7.049
+REMARK INTRA:                  -0.140
+REMARK UNBOUND:                -0.143
+REMARK  Name = cinnamic_minimized.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_11
+REMARK    2  A    between atoms: C_3  and  C_6
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -63.378  12.581  31.824  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1     -63.103  13.094  30.549  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -62.467  11.685  32.400  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -61.955  12.697  29.855  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -61.322  11.288  31.706  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -61.067  11.793  30.433  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   UNL     1     -64.555  12.990  32.601  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1     -64.552  13.997  33.489  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM      9  O   UNL     1     -65.725  15.271  35.118  0.00  0.00    +0.000 OA
+ATOM     10  C   UNL     1     -65.734  14.411  34.255  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -66.857  13.754  33.929  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -66.627  12.814  34.075  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -5.586      2.381      2.985
+REMARK INTER + INTRA:          -6.546
+REMARK INTER:                  -6.396
+REMARK INTRA:                  -0.150
+REMARK UNBOUND:                -0.143
+REMARK  Name = cinnamic_minimized.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_11
+REMARK    2  A    between atoms: C_3  and  C_6
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -62.147  12.944  30.704  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1     -61.498  12.604  29.509  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -63.548  12.933  30.737  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -62.237  12.286  28.365  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -64.285  12.617  29.593  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -63.629  12.296  28.407  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   UNL     1     -61.413  13.256  31.937  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1     -61.983  13.776  33.036  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM      9  O   UNL     1     -60.571  13.266  34.880  0.00  0.00    +0.000 OA
+ATOM     10  C   UNL     1     -61.247  14.076  34.271  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -61.376  15.342  34.693  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -60.729  15.411  35.424  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -5.577      3.276      5.403
+REMARK INTER + INTRA:          -6.535
+REMARK INTER:                  -6.383
+REMARK INTRA:                  -0.152
+REMARK UNBOUND:                -0.143
+REMARK  Name = cinnamic_minimized.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_11
+REMARK    2  A    between atoms: C_3  and  C_6
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -64.582  13.134  32.249  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1     -65.793  13.724  32.634  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -63.841  12.430  33.209  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -66.240  13.635  33.956  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -64.288  12.342  34.530  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -65.486  12.946  34.903  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   UNL     1     -64.087  13.178  30.867  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1     -63.086  12.412  30.406  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM      9  O   UNL     1     -61.457  12.719  28.701  0.00  0.00    +0.000 OA
+ATOM     10  C   UNL     1     -62.602  12.451  29.020  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -63.538  12.165  28.104  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -63.235  11.317  27.719  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -5.570      3.049      3.496
+REMARK INTER + INTRA:          -6.528
+REMARK INTER:                  -6.384
+REMARK INTRA:                  -0.143
+REMARK UNBOUND:                -0.143
+REMARK  Name = cinnamic_minimized.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_11
+REMARK    2  A    between atoms: C_3  and  C_6
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -63.230  11.463  33.377  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1     -64.154  10.503  32.940  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -61.863  11.215  33.190  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -63.717   9.311  32.355  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -61.428  10.023  32.607  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -62.355   9.070  32.191  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   UNL     1     -63.643  12.741  33.970  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1     -63.197  13.937  33.555  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM      9  O   UNL     1     -64.715  15.407  34.647  0.00  0.00    +0.000 OA
+ATOM     10  C   UNL     1     -63.622  15.214  34.144  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -62.694  16.180  34.086  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -62.130  15.917  33.331  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -5.414      5.377      5.865
+REMARK INTER + INTRA:          -6.349
+REMARK INTER:                  -6.206
+REMARK INTRA:                  -0.143
+REMARK UNBOUND:                -0.143
+REMARK  Name = cinnamic_minimized.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_11
+REMARK    2  A    between atoms: C_3  and  C_6
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -64.014   8.983  32.670  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1     -64.017  10.309  32.216  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -62.790   8.389  33.008  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -62.819  11.016  32.078  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -61.593   9.096  32.868  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -61.608  10.408  32.402  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   UNL     1     -65.250   8.212  32.858  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1     -65.709   7.813  34.055  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM      9  O   UNL     1     -67.550   6.963  35.296  0.00  0.00    +0.000 OA
+ATOM     10  C   UNL     1     -66.950   7.052  34.239  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -67.391   6.443  33.129  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -66.569   6.176  32.668  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -5.291      2.987      3.666
+REMARK INTER + INTRA:          -6.207
+REMARK INTER:                  -6.064
+REMARK INTRA:                  -0.143
+REMARK UNBOUND:                -0.143
+REMARK  Name = cinnamic_minimized.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_11
+REMARK    2  A    between atoms: C_3  and  C_6
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -62.200  12.910  32.859  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1     -61.823  11.595  33.163  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -63.287  13.116  31.998  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -62.500  10.511  32.596  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -63.962  12.033  31.430  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -63.568  10.731  31.728  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   UNL     1     -61.537  14.077  33.453  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1     -62.193  15.102  34.022  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM      9  O   UNL     1     -61.390  16.429  35.824  0.00  0.00    +0.000 OA
+ATOM     10  C   UNL     1     -61.524  16.262  34.625  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -61.060  17.151  33.735  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -60.280  17.541  34.181  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -5.271      4.219      5.511
+REMARK INTER + INTRA:          -6.185
+REMARK INTER:                  -6.035
+REMARK INTRA:                  -0.150
+REMARK UNBOUND:                -0.143
+REMARK  Name = cinnamic_minimized.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_11
+REMARK    2  A    between atoms: C_3  and  C_6
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -64.236  12.335  33.592  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1     -65.495  12.492  34.186  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1     -63.397  13.453  33.489  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1     -65.916  13.745  34.643  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1     -63.818  14.705  33.944  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1     -65.078  14.851  34.519  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   UNL     1     -63.742  11.034  33.125  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1     -62.444  10.690  33.104  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM      9  O   UNL     1     -62.675   8.482  32.252  0.00  0.00    +0.000 OA
+ATOM     10  C   UNL     1     -61.955   9.383  32.647  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  O   UNL     1     -60.622   9.248  32.696  0.00  0.00    +0.000 OA
+ATOM     12  H   UNL     1     -60.407   9.409  33.637  0.00  0.00    +0.000 HD
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL

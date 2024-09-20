@@ -1,0 +1,1829 @@
+# gene name           KO     thrshld  score   E-value KO definition
+#-------------------- ------ ------- ------ --------- ---------------------
+* Pn22.689            K17338  137.30  201.3   1.1e-59 receptor expression-enhancing protein 1/2/3/4
+* Pn22.687            K00993  391.17  503.1  4.3e-151 ethanolaminephosphotransferase [EC:2.7.8.1]
+* Pn22.681            K11827  222.63  301.7   1.4e-90 AP-2 complex subunit sigma-1
+* Pn22.675            K00475  448.80  555.8  1.3e-167 naringenin 3-dioxygenase [EC:1.14.11.9]
+* Pn22.669            K19045  129.70  280.4   1.2e-83 E3 ubiquitin-protein ligase BIG BROTHER and related proteins [EC:2.3.2.27]
+* Pn22.668            K25507  128.27  201.8   7.6e-60 high mobility group B protein, plant
+* Pn22.661            K03781   74.63  728.0  7.2e-219 catalase [EC:1.11.1.6]
+* Pn22.654            K00700  287.97  849.2  1.5e-255 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]
+* Pn22.650            K02936   66.93  476.0  5.6e-143 large subunit ribosomal protein L7Ae
+* Pn22.647            K03537   51.27   88.4   1.9e-25 ribonuclease P/MRP protein subunit POP5 [EC:3.1.26.5]
+* Pn22.644            K23280  343.57  418.6  1.6e-125 rhamnogalacturonan I rhamnosyltransferase [EC:2.4.1.351]
+* Pn22.644            K00981   47.63  275.4   3.9e-82 phosphatidate cytidylyltransferase [EC:2.7.7.41]
+* Pn22.643            K22522   75.87  443.4  2.6e-133 cytokinin riboside 5'-monophosphate phosphoribohydrolase [EC:3.2.2.-]
+* Pn22.640            K19476  119.57  191.1   1.6e-56 vacuolar protein sorting-associated protein IST1
+* Pn22.637            K12349  152.83  237.7   9.2e-71 neutral ceramidase [EC:3.5.1.23]
+* Pn22.629            K15296  115.57  427.8  2.4e-128 alpha-soluble NSF attachment protein
+* Pn22.613            K05282  301.97  656.1  8.6e-198 gibberellin-44 dioxygenase [EC:1.14.11.12]
+* Pn22.608            K01373  406.17  490.4  1.5e-147 cathepsin F [EC:3.4.22.41]
+* Pn22.605            K23569   55.73  238.5   3.4e-71 ER membrane protein complex subunit 8/9
+* Pn22.600            K01695   86.47  430.7  2.3e-129 tryptophan synthase alpha chain [EC:4.2.1.20]
+* Pn22.599            K14327  165.43 1219.4         0 regulator of nonsense transcripts 2
+* Pn22.596            K09874  239.47  368.3  2.6e-110 aquaporin NIP
+* Pn22.583            K14516  204.43  281.2     5e-84 ethylene-responsive transcription factor 1
+* Pn22.583            K09286   88.90  149.8   4.9e-44 EREBP-like factor
+* Pn22.581            K09286   88.90  153.7   3.1e-45 EREBP-like factor
+* Pn22.576            K16278  809.17 1160.7         0 E3 ubiquitin-protein ligase HOS1 [EC:2.3.2.27]
+* Pn22.575            K22883  250.50  332.2   1.4e-99 L-ornithine N5-acetyltransferase [EC:2.3.1.-]
+* Pn22.575            K00657   65.37  101.4   3.4e-29 diamine N-acetyltransferase [EC:2.3.1.57]
+* Pn22.574            K02865  152.40  430.4  1.3e-129 large subunit ribosomal protein L10Ae
+* Pn22.573            K13681   90.17  790.5  1.1e-237 xyloglucan fucosyltransferase [EC:2.4.1.-]
+* Pn22.571            K04077  136.20  786.0  2.6e-236 chaperonin GroEL
+* Pn22.570            K16221  107.23  169.2   9.8e-50 transcription factor TCP21 (protein CCA1 HIKING EXPEDITION)
+* Pn22.565            K13525  825.10 1385.1         0 transitional endoplasmic reticulum ATPase
+* Pn22.563            K02066   45.60  250.1   1.3e-74 phospholipid/cholesterol/gamma-HCH transport system permease protein
+* Pn22.557            K13096  101.67  328.5   4.3e-98 splicing factor 4
+* Pn22.556            K04683  139.33  374.3  4.8e-112 transcription factor Dp-1
+* Pn22.554            K13034  638.10  671.0  1.7e-202 L-3-cyanoalanine synthase/ cysteine synthase [EC:2.5.1.47 4.4.1.9]
+* Pn22.554            K01738  426.60  460.7  2.4e-138 cysteine synthase [EC:2.5.1.47]
+* Pn22.554            K14563  307.10  339.8  1.1e-101 rRNA 2'-O-methyltransferase fibrillarin [EC:2.1.1.-]
+* Pn22.551            K03036  258.53  727.3  1.2e-218 26S proteasome regulatory subunit N6
+* Pn22.550            K08486  213.73  305.8     2e-91 syntaxin 1B/2/3
+* Pn22.548            K23960  181.47  628.3  4.1e-189 mRNA m6A methyltransferase non-catalytic subunit
+* Pn22.543            K15436  568.73  916.9  7.5e-276 transportin-3
+* Pn22.542            K20717  735.13 1163.8         0 mitogen-activated protein kinase kinase kinase YODA [EC:2.7.11.25]
+* Pn22.539            K02153   33.00   82.1     2e-23 V-type H+-transporting ATPase subunit e
+* Pn22.529            K03094   60.53   78.3   2.8e-22 S-phase kinase-associated protein 1
+* Pn22.528            K00432   50.63  309.2   2.4e-92 glutathione peroxidase [EC:1.11.1.9]
+* Pn22.527            K06934   42.20   56.7   8.9e-16 uncharacterized protein
+* Pn22.512            K20557  124.67  230.6   1.6e-68 transcription factor VIP1
+* Pn22.508            K09649  326.60  328.6   4.5e-98 thymus-specific serine protease [EC:3.4.-.-]
+* Pn22.504            K09755  652.20  754.8  1.5e-227 ferulate-5-hydroxylase [EC:1.14.-.-]
+* Pn22.500            K07574   36.83  151.1   1.2e-44 RNA-binding protein
+* Pn22.490            K08242  397.53  651.8  9.5e-197 24-methylenesterol C-methyltransferase [EC:2.1.1.143]
+* Pn22.487            K00472  165.33  328.6   3.8e-98 prolyl 4-hydroxylase [EC:1.14.11.2]
+* Pn22.485            K06228  387.57 1294.4         0 fused [EC:2.7.11.1]
+* Pn22.482            K18757  110.20  160.4   3.3e-47 la-related protein 1
+* Pn22.481            K14432   81.97  164.3   2.6e-48 ABA responsive element binding factor
+* Pn22.480            K10532  111.70  386.1  1.3e-115 heparan-alpha-glucosaminide N-acetyltransferase [EC:2.3.1.78]
+* Pn22.476            K15893  484.57  799.4    2e-241 glycerate dehydrogenase [EC:1.1.1.29]
+* Pn22.475            K10590  891.77 1690.0         0 E3 ubiquitin-protein ligase TRIP12 [EC:2.3.2.26]
+* Pn22.468            K13091  259.53  639.7  2.1e-192 RNA-binding protein 23/39
+* Pn22.467            K19366   91.33  400.6  5.7e-120 spartin
+* Pn22.458            K14771  111.93  621.5  8.3e-187 U3 small nucleolar RNA-associated protein 19
+* Pn22.451            K11000 1020.53 3021.4         0 callose synthase [EC:2.4.1.-]
+* Pn22.451            K00706  909.73  992.2  2.3e-298 1,3-beta-glucan synthase [EC:2.4.1.34]
+* Pn22.446            K00963   73.77  272.5   3.6e-81 UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+* Pn22.445            K00963   73.77  149.5   6.6e-44 UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+* Pn22.442            K00963   73.77  306.9   1.4e-91 UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+* Pn22.441            K00963   73.77  209.3   5.2e-62 UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+* Pn22.440            K00963   73.77  201.7     1e-59 UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+* Pn22.439            K00963   73.77   77.6   4.1e-22 UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+* Pn22.437            K11254   52.73  276.0   1.3e-82 histone H4
+* Pn22.427            K00799   55.17  140.9   2.7e-41 glutathione S-transferase [EC:2.5.1.18]
+* Pn22.424            K23618  885.13  957.4  9.2e-289 acyl-activating enzyme 11/12 [EC:6.2.1.2 6.2.1.-]
+* Pn22.420            K02897   39.33  203.2   2.5e-60 large subunit ribosomal protein L25
+* Pn22.416            K02897   39.33  227.8   8.3e-68 large subunit ribosomal protein L25
+* Pn22.415            K18881  399.57  711.7  1.3e-214 D-lactate dehydratase [EC:4.2.1.130]
+* Pn22.415            K05520  162.00  204.5   1.2e-60 protease I [EC:3.5.1.124]
+* Pn22.412            K14315   63.10  267.2   1.6e-79 nucleoporin NDC1
+* Pn22.410            K21407  259.87  265.8   3.4e-79 adipocyte plasma membrane-associated protein
+* Pn22.408            K21407  259.87  272.7   2.7e-81 adipocyte plasma membrane-associated protein
+* Pn22.407            K12864   88.30  707.2  7.1e-213 beta-catenin-like protein 1
+* Pn22.404            K01054  174.53  283.2   1.2e-84 acylglycerol lipase [EC:3.1.1.23]
+* Pn22.397            K01527   49.80  141.5   2.5e-41 nascent polypeptide-associated complex subunit beta
+* Pn22.394            K08901   43.13  110.6   5.6e-32 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.392            K08901   43.13  110.6   5.6e-32 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.386            K08901   43.13  110.6   5.9e-32 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.384            K08901   43.13  111.0   4.3e-32 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.381            K08901   43.13  109.2   1.5e-31 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.378            K08901   43.13  110.6   5.6e-32 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.376            K08901   43.13  108.8     2e-31 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.374            K08901   43.13  106.8   8.2e-31 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.369            K08901   43.13   84.5   5.2e-24 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.367            K08901   43.13   93.5   9.5e-27 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.365            K08901   43.13  110.6   5.9e-32 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.360            K08901   43.13  110.5   6.3e-32 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.358            K08901   43.13  105.0   2.9e-30 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.356            K08901   43.13  110.6   5.6e-32 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.355            K08901   43.13   81.5   4.4e-23 photosystem II oxygen-evolving enhancer protein 3
+* Pn22.343            K14492  115.67  241.1   5.2e-72 two-component response regulator ARR-A family
+* Pn22.328            K16297  480.00  713.4  9.6e-215 serine carboxypeptidase-like clade II [EC:3.4.16.-]
+* Pn22.327            K01899  548.50  614.9  3.1e-185 succinyl-CoA synthetase alpha subunit [EC:6.2.1.4 6.2.1.5]
+* Pn22.327            K01902  325.90  466.9  9.2e-141 succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]
+* Pn22.326            K02115  254.63  449.2  6.8e-135 F-type H+-transporting ATPase subunit gamma
+* Pn22.300            K02915   26.23  198.9   2.4e-59 large subunit ribosomal protein L34e
+* Pn22.295            K12581   70.30  335.4  1.5e-100 CCR4-NOT transcription complex subunit 7/8
+* Pn22.294            K00592  283.40  738.8  8.3e-223 [ribulose-bisphosphate carboxylase]/[fructose-bisphosphate aldolase]-lysine N-methyltransferase [EC:2.1.1.127 2.1.1.259]
+* Pn22.293            K01188  726.00  749.2  1.7e-225 beta-glucosidase [EC:3.2.1.21]
+* Pn22.293            K05350  579.93  585.2  7.6e-176 beta-glucosidase [EC:3.2.1.21]
+* Pn22.292            K23567   47.03  186.6   2.9e-55 ER membrane protein complex subunit 6
+* Pn22.290            K14948  583.13  652.2  4.9e-196 polypyrimidine tract-binding protein 2
+* Pn22.279            K01520   50.70  253.5   1.5e-75 dUTP pyrophosphatase [EC:3.6.1.23]
+* Pn22.278            K07052   32.93   95.1   1.6e-27 CAAX protease family protein
+* Pn22.275            K23398   47.23  251.1     1e-74 activating signal cointegrator 1
+* Pn22.269            K03869  844.87 1312.8         0 cullin 3
+* Pn22.258            K10664  222.20  363.4    1e-108 E3 ubiquitin-protein ligase ATL6/9/15/31/42/55 [EC:2.3.2.27]
+* Pn22.254            K23998  547.73  704.5  3.6e-212 pyridoxal 5'-phosphate synthase / NAD(P)H-hydrate epimerase [EC:1.4.3.5 5.1.99.6]
+* Pn22.254            K00275   31.50  283.1     2e-84 pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5]
+* Pn22.252            K14485  527.87  758.2  2.5e-228 transport inhibitor response 1
+* Pn22.247            K09338   75.40  158.4   1.3e-46 homeobox-leucine zipper protein
+* Pn22.245            K02267   49.53  165.8   2.2e-49 cytochrome c oxidase subunit 6b
+* Pn22.242            K06630  424.23  487.8  6.3e-147 14-3-3 protein epsilon
+* Pn22.233            K20367  297.07  396.2  1.4e-118 endoplasmic reticulum-Golgi intermediate compartment protein 3
+* Pn22.231            K01922  138.67  457.8  2.7e-137 phosphopantothenate---cysteine ligase (ATP) [EC:6.3.2.51]
+* Pn22.224            K03688  419.70  478.0  2.3e-143 ubiquinone biosynthesis protein
+* Pn22.224            K08869  333.00  379.1  1.4e-113 aarF domain-containing kinase
+* Pn22.220            K13418 1176.17 1194.4         0 somatic embryogenesis receptor kinase 1 [EC:2.7.10.1 2.7.11.1]
+* Pn22.219            K01166   76.80  215.4   6.4e-64 ribonuclease T2 [EC:4.6.1.19]
+* Pn22.216            K06944  294.83  738.8  2.9e-222 developmentally-regulated GTP-binding protein [EC:3.6.5.-]
+* Pn22.212            K02906  117.83  305.9   2.3e-91 large subunit ribosomal protein L3
+* Pn22.204            K07374  484.00 1012.9         0 tubulin alpha
+* Pn22.181            K12275   88.57  214.3   1.9e-63 translocation protein SEC62
+* Pn22.175            K17506  309.43  333.7    8e-100 protein phosphatase 1L [EC:3.1.3.16]
+* Pn22.174            K00981   47.63  273.0     2e-81 phosphatidate cytidylyltransferase [EC:2.7.7.41]
+* Pn22.173            K18810  299.57  421.2  1.8e-126 cyclin D1/2/4, plant
+* Pn22.169            K01051   76.27   79.4   8.6e-23 pectinesterase [EC:3.1.1.11]
+* Pn22.158            K03926   30.57  190.5   1.8e-56 periplasmic divalent cation tolerance protein
+* Pn22.156            K02717   67.70   99.0   1.5e-28 photosystem II oxygen-evolving enhancer protein 2
+* Pn22.153            K01810  177.00  394.8  3.5e-118 glucose-6-phosphate isomerase [EC:5.3.1.9]
+* Pn22.146            K17604  118.80  243.0   2.1e-72 zinc finger SWIM domain-containing protein 3
+* Pn22.137            K06972  228.23  284.7   6.3e-85 presequence protease [EC:3.4.24.-]
+* Pn22.130            K23870  615.57  947.7  2.7e-285 putative pectin methyltransferase [EC:2.1.1.-]
+* Pn22.124            K09422  126.07  275.8   2.6e-82 transcription factor MYB, plant
+* Pn22.122            K15448   42.50  180.4     1e-53 multifunctional methyltransferase subunit TRM112
+* Pn22.121            K21596  109.60  552.2  1.2e-165 calmodulin-binding transcription activator
+* Pn22.113            K09286   88.90  150.8   2.4e-44 EREBP-like factor
+* Pn22.110            K01087  171.47  429.4  5.5e-129 trehalose 6-phosphate phosphatase [EC:3.1.3.12]
+* Pn22.102            K09286   88.90  127.7   2.6e-37 EREBP-like factor
+* Pn22.100            K19055  102.20  109.7   7.7e-32 Ala-tRNA(Pro) deacylase [EC:3.1.1.-]
+* Pn22.97             K01495   59.27  372.2  6.9e-112 GTP cyclohydrolase IA [EC:3.5.4.16]
+* Pn22.89             K14432   81.97  163.1   5.9e-48 ABA responsive element binding factor
+* Pn22.88             K14432   81.97  183.1   5.1e-54 ABA responsive element binding factor
+* Pn22.82             K09286   88.90  156.3     5e-46 EREBP-like factor
+* Pn22.78             K20890  245.77  833.0  9.8e-251 xylan alpha-glucuronosyltransferase [EC:2.4.1.-]
+* Pn22.73             K13414  623.30  765.9  3.5e-230 mitogen-activated protein kinase kinase kinase 1 [EC:2.7.11.25]
+* Pn22.72             K16075   95.47  114.1   2.5e-33 magnesium transporter
+* Pn22.70             K22312  260.30  386.2  5.9e-116 hydroxyjasmonate sulfotransferase [EC:2.8.2.39]
+* Pn22.61             K01626   59.20  465.5  1.1e-139 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]
+* Pn22.57             K01626   59.20  404.9  2.7e-121 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]
+* Pn22.41             K10706  374.77  782.3  5.5e-235 senataxin [EC:5.6.2.-]
+* Pn22.40             K00847  199.73  418.8  1.6e-125 fructokinase [EC:2.7.1.4]
+* Pn22.38             K09561  114.83  357.8  2.9e-107 STIP1 homology and U-box containing protein 1 [EC:2.3.2.27]
+* Pn22.24             K12839   91.77  265.9   2.3e-79 survival of motor neuron-related-splicing factor 30
+* Pn22.19             K17263  175.63 1634.2         0 cullin-associated NEDD8-dissociated protein 1
+* Pn25.34             K09140   88.47  372.6  1.6e-111 pre-rRNA-processing protein TSR3
+* Pn25.20             K09422  126.07  262.7   2.5e-78 transcription factor MYB, plant
+* Pn25.41             K15382   59.63  305.0   2.9e-91 solute carrier family 50 (sugar transporter)
+* Pn25.42             K03495  395.77  983.9  2.8e-296 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* Pn25.60             K23877  183.47  231.3   9.2e-69 xyloglucan O-acetyltransferase
+* Pn25.69             K24917  225.83  747.3  5.1e-225 amino acid permease
+* Pn25.76             K17784   29.40   65.5   2.3e-18 MICOS complex subunit MIC10
+* Pn25.83             K03648   59.97  401.3    2e-120 uracil-DNA glycosylase [EC:3.2.2.27]
+* Pn25.89             K11498  542.63  687.2  2.1e-206 centromeric protein E
+* Pn25.102            K06934   42.20   47.5   5.6e-13 uncharacterized protein
+* Pn25.107            K13680  648.70  915.5  5.6e-276 beta-mannan synthase [EC:2.4.1.32]
+* Pn25.110            K14611  515.30  612.3    6e-184 solute carrier family 23 (nucleobase transporter), member 1
+* Pn25.112            K05359  350.00  677.4  3.8e-204 arogenate/prephenate dehydratase [EC:4.2.1.91 4.2.1.51]
+* Pn25.112            K04518  225.33  327.1   9.7e-98 prephenate dehydratase [EC:4.2.1.51]
+* Pn25.115            K14400  180.70  459.6  9.1e-138 pre-mRNA cleavage complex 2 protein Pcf11
+* Pn25.117            K14510  911.50 1278.7         0 serine/threonine-protein kinase CTR1 [EC:2.7.11.1]
+* Pn25.117            K14400  180.70  967.5  5.6e-291 pre-mRNA cleavage complex 2 protein Pcf11
+* Pn25.126            K05359  350.00  677.4  3.8e-204 arogenate/prephenate dehydratase [EC:4.2.1.91 4.2.1.51]
+* Pn25.126            K04518  225.33  327.1   9.7e-98 prephenate dehydratase [EC:4.2.1.51]
+* Pn25.129            K14400  180.70  459.1  1.2e-137 pre-mRNA cleavage complex 2 protein Pcf11
+* Pn25.132            K14510  911.50 1271.1         0 serine/threonine-protein kinase CTR1 [EC:2.7.11.1]
+* Pn25.132            K14400  180.70  957.2    7e-288 pre-mRNA cleavage complex 2 protein Pcf11
+* Pn25.145            K08286  386.33  389.4  7.9e-117 protein-serine/threonine kinase [EC:2.7.11.-]
+* Pn25.153            K08286  386.33  390.0  4.9e-117 protein-serine/threonine kinase [EC:2.7.11.-]
+* Pn25.155            K15688   84.80  182.0   9.3e-54 E3 ubiquitin-protein ligase MUL1 [EC:2.3.2.27]
+* Pn25.157            K08286  386.33  423.8  2.9e-127 protein-serine/threonine kinase [EC:2.7.11.-]
+* Pn25.159            K12736  441.03 1010.9  3.4e-304 peptidylprolyl isomerase domain and WD repeat-containing protein 1 [EC:5.2.1.8]
+* Pn25.159            K03768  223.00  227.5   8.9e-68 peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]
+* Pn25.159            K03767  188.17  216.5   1.9e-64 peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+* Pn25.160            K08232  283.40  789.5  8.8e-238 monodehydroascorbate reductase (NADH) [EC:1.6.5.4]
+* Pn25.176            K13356  142.73  336.9  8.9e-101 alcohol-forming fatty acyl-CoA reductase [EC:1.2.1.84]
+* Pn25.180            K11293  343.47  842.5  2.4e-253 protein HIRA/HIR1
+* Pn25.187            K14465  444.07  445.2  5.5e-134 succinate semialdehyde reductase (NADPH) [EC:1.1.1.-]
+* Pn25.190            K14432   81.97  294.7   6.7e-88 ABA responsive element binding factor
+* Pn25.193            K00799   55.17  142.7   7.5e-42 glutathione S-transferase [EC:2.5.1.18]
+* Pn25.195            K03531  143.07  568.0  5.4e-171 cell division protein FtsZ
+* Pn25.196            K02639  108.60  183.3     2e-54 ferredoxin
+* Pn25.197            K02021  487.40  522.4  9.5e-157 putative ABC transport system ATP-binding protein
+* Pn25.198            K22255   27.40   29.4   2.8e-07 ATPase inhibitor, mitochondrial
+* Pn25.201            K14553  117.43  661.6  6.1e-199 U3 small nucleolar RNA-associated protein 18
+* Pn25.202            K09540  331.13  484.5  2.3e-145 translocation protein SEC63
+* Pn25.204            K09540  331.13  600.1  2.6e-180 translocation protein SEC63
+* Pn25.213            K09287   85.60  171.8   9.6e-51 RAV-like factor
+* Pn25.219            K21483  563.37  565.1  9.1e-170 salicylate 1-O-methyltransferase [EC:2.1.1.274]
+* Pn25.221            K00876  136.37  230.2     2e-68 uridine kinase [EC:2.7.1.48]
+* Pn25.222            K12195  125.10  245.4   4.4e-73 charged multivesicular body protein 6
+* Pn25.223            K02885   65.43  290.8   9.7e-87 large subunit ribosomal protein L19e
+* Pn25.229            K07497   14.43   20.9   9.1e-05 putative transposase
+* Pn25.250            K16281  117.70  158.5   1.4e-46 RING-H2 zinc finger protein RHA1
+* Pn37.4              K16281  117.70  167.4   2.9e-49 RING-H2 zinc finger protein RHA1
+* Pn37.5              K16281  117.70  162.2   1.1e-47 RING-H2 zinc finger protein RHA1
+* Pn37.8              K13464   34.33  121.7   2.6e-35 jasmonate ZIM domain-containing protein
+* Pn37.10             K14488   34.97   79.7   1.6e-22 SAUR family protein
+* Pn37.11             K14488   34.97  109.0   1.8e-31 SAUR family protein
+* Pn37.13             K15201  173.97  669.9  3.4e-201 general transcription factor 3C polypeptide 3 (transcription factor C subunit 4)
+* Pn37.15             K03676   76.57  102.1   1.4e-29 glutaredoxin 3
+* Pn37.16             K03676   76.57   88.8   1.7e-25 glutaredoxin 3
+* Pn37.17             K13430  481.77  700.9  3.8e-211 serine/threonine-protein kinase PBS1 [EC:2.7.11.1]
+* Pn37.20             K11654  802.00  854.0    9e-257 SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5 [EC:5.6.2.-]
+* Pn37.23             K08819  497.77  593.2  2.1e-178 cyclin-dependent kinase 12/13 [EC:2.7.11.22 2.7.11.23]
+* Pn37.25             K14485  527.87  879.6  4.3e-265 transport inhibitor response 1
+* Pn37.27             K19600  127.33  381.2  3.9e-114 tubby and related proteins
+* Pn37.36             K01662  335.33 1053.8         0 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]
+* Pn37.47             K01611   16.80  328.7   2.4e-98 S-adenosylmethionine decarboxylase [EC:4.1.1.50]
+* Pn37.49             K15688   84.80  363.1    1e-108 E3 ubiquitin-protein ligase MUL1 [EC:2.3.2.27]
+* Pn37.61             K01866   86.50  380.3  7.6e-114 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* Pn37.64             K06998  113.33  137.8   2.2e-40 trans-2,3-dihydro-3-hydroxyanthranilate isomerase [EC:5.3.3.17]
+* Pn37.66             K06998  113.33  123.2   6.2e-36 trans-2,3-dihydro-3-hydroxyanthranilate isomerase [EC:5.3.3.17]
+* Pn37.79             K04708  220.77  399.8  4.8e-120 3-dehydrosphinganine reductase [EC:1.1.1.102]
+* Pn37.84             K09142   42.20  451.0  2.5e-135 methyltransferase [EC:2.1.1.-]
+* Pn37.89             K14964  215.37  458.7  1.3e-137 Set1/Ash2 histone methyltransferase complex subunit ASH2
+* Pn37.98             K11752  197.53  226.2   4.2e-67 diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]
+* Pn37.101            K21842   49.73  571.9  1.4e-171 protein EFR3
+* Pn37.103            K09419  215.40  225.2   6.1e-67 heat shock transcription factor, other eukaryote
+* Pn37.106            K14794  190.90  209.4     4e-62 ribosomal RNA-processing protein 12
+* Pn37.108            K09285  278.43  300.2   1.2e-89 AP2-like factor, ANT lineage
+* Pn37.110            K16279 1031.67 3096.5         0 E3 ubiquitin-protein ligase KEG [EC:2.7.11.1 2.3.2.27]
+* Pn37.118            K22438  119.80  165.7     9e-49 trans-aconitate 3-methyltransferase [EC:2.1.1.145]
+* Pn37.122            K13448  141.30  172.2   7.8e-51 calcium-binding protein CML
+* Pn37.136            K02987   93.37  156.2   5.3e-46 small subunit ribosomal protein S4e
+* Pn37.137            K23541   34.90  246.9   1.2e-73 Ca2+/H+ antiporter, TMEM165/GDT1 family
+* Pn37.139            K13947  238.33  880.6    2e-265 auxin efflux carrier family protein
+* Pn37.143            K14494  256.90  836.7  1.4e-251 DELLA protein
+* Pn37.144            K13081  351.47  573.9    4e-173 leucoanthocyanidin reductase [EC:1.17.1.3]
+* Pn37.151            K06695   57.50  270.9   6.6e-81 26S proteasome regulatory subunit, ATPase 3, interacting protein
+* Pn37.155            K06630  424.23  486.0  2.2e-146 14-3-3 protein epsilon
+* Pn37.157            K09313  111.63  129.1   9.5e-38 homeobox protein cut-like
+* Pn37.158            K02876   46.93   51.9     4e-14 large subunit ribosomal protein L15
+* Pn37.160            K14489  615.17 1572.9         0 arabidopsis histidine kinase 2/3/4 (cytokinin receptor) [EC:2.7.13.3]
+* Pn37.161            K08360  265.90  276.4   1.1e-82 transmembrane ascorbate-dependent reductase [EC:7.2.1.3]
+* Pn37.168            K01889  106.80  189.6     5e-56 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+* Pn37.170            K00863  529.77  706.6  1.9e-212 triose/dihydroxyacetone kinase / FAD-AMP lyase (cyclizing) [EC:2.7.1.28 2.7.1.29 4.6.1.15]
+* Pn37.170            K05878  451.57  499.4  8.1e-150 phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK [EC:2.7.1.121]
+* Pn37.171            K16732  123.33  326.4     2e-97 Ase1/PRC1/MAP65 family protein
+* Pn37.173            K02183  200.47  337.7  2.2e-101 calmodulin
+* Pn37.173            K13448  141.30  199.7   3.2e-59 calcium-binding protein CML
+* Pn37.177            K14638  384.90  903.6  5.2e-272 solute carrier family 15 (peptide/histidine transporter), member 3/4
+* Pn37.178            K01580  397.80  556.9  2.8e-167 glutamate decarboxylase [EC:4.1.1.15]
+* Pn37.179            K05391  229.50  789.7  1.7e-237 cyclic nucleotide gated channel, plant
+* Pn37.185            K14964  215.37  458.7  1.3e-137 Set1/Ash2 histone methyltransferase complex subunit ASH2
+* Pn37.190            K09142   42.20  475.7  7.8e-143 methyltransferase [EC:2.1.1.-]
+* Pn37.197            K04708  220.77  402.8    6e-121 3-dehydrosphinganine reductase [EC:1.1.1.102]
+* Pn39.1              K01580  397.80  556.9  2.8e-167 glutamate decarboxylase [EC:4.1.1.15]
+* Pn39.2              K05391  229.50  785.7  2.8e-236 cyclic nucleotide gated channel, plant
+* Pn39.10             K21891   89.77  250.5   1.8e-74 calcium load-activated calcium channel
+* Pn39.15             K08064   52.57  205.9   4.9e-61 nuclear transcription factor Y, alpha
+* Pn39.20             K00279  240.23  666.6  1.7e-200 cytokinin dehydrogenase [EC:1.5.99.12]
+* Pn39.23             K06685   39.07  411.8  7.1e-124 MOB kinase activator 1
+* Pn39.26             K15082  223.53  608.1  8.7e-183 DNA repair protein RAD7
+* Pn39.35             K13464   34.33  154.9   1.9e-45 jasmonate ZIM domain-containing protein
+* Pn39.36             K15340  429.57  587.1  1.7e-176 DNA cross-link repair 1A protein
+* Pn39.38             K13201  210.27  452.6  9.2e-136 nucleolysin TIA-1/TIAR
+* Pn39.42             K04078   24.43  131.4   1.4e-38 chaperonin GroES
+* Pn39.43             K04078   24.43   90.2   5.9e-26 chaperonin GroES
+* Pn39.47             K14488   34.97  114.6   3.5e-33 SAUR family protein
+* Pn39.48             K14488   34.97   37.3   1.3e-09 SAUR family protein
+* Pn39.50             K07052   32.93   47.3   6.1e-13 CAAX protease family protein
+* Pn39.52             K22913  408.93  864.3  8.7e-260 phosphatidylinositol 3,5-bisphosphate 5-phosphatase [EC:3.1.3.-]
+* Pn39.55             K15028   77.97  238.2   5.4e-71 translation initiation factor 3 subunit K
+* Pn39.56             K00695  635.93 1373.8         0 sucrose synthase [EC:2.4.1.13]
+* Pn39.58             K11975  154.17  179.5   3.3e-53 E3 ubiquitin-protein ligase RNF144 [EC:2.3.2.31]
+* Pn39.60             K03239  249.80  573.7  2.3e-172 translation initiation factor eIF-2B subunit alpha
+* Pn39.62             K00814  261.17  807.8  4.4e-243 alanine transaminase [EC:2.6.1.2]
+* Pn39.63             K01051   76.27  488.9  6.7e-147 pectinesterase [EC:3.1.1.11]
+* Pn39.65             K14157  559.53  889.5  1.2e-267 alpha-aminoadipic semialdehyde synthase [EC:1.5.1.8 1.5.1.9]
+* Pn39.66             K19038  161.53  163.3   3.6e-48 E3 ubiquitin-protein ligase ATL41 [EC:2.3.2.27]
+* Pn39.69             K14360   77.97  134.1     2e-39 organic solute transporter subunit alpha
+* Pn39.73             K02987   93.37  101.3   2.4e-29 small subunit ribosomal protein S4e
+* Pn39.75             K10994  270.63  343.6    8e-103 cell cycle checkpoint control protein RAD9A [EC:3.1.11.2]
+* Pn39.78             K24758  180.60  384.4  3.9e-115 WD repeat-containing protein 89
+* Pn39.82             K02735  133.07  251.2   4.5e-75 20S proteasome subunit beta 3 [EC:3.4.25.1]
+* Pn39.83             K02735  133.07  214.9   5.4e-64 20S proteasome subunit beta 3 [EC:3.4.25.1]
+* Pn39.92             K00695  635.93  907.6  2.8e-273 sucrose synthase [EC:2.4.1.13]
+* Pn39.93             K01179   21.90  327.6     1e-97 endoglucanase [EC:3.2.1.4]
+* Pn39.94             K01051   76.27  535.1  6.5e-161 pectinesterase [EC:3.1.1.11]
+* Pn39.100            K12849  128.00  474.0  2.1e-142 pre-mRNA-splicing factor 38A
+* Pn39.104            K01874  201.43  840.8  5.3e-253 methionyl-tRNA synthetase [EC:6.1.1.10]
+* Pn39.107            K02987   93.37   96.4   7.5e-28 small subunit ribosomal protein S4e
+* Pn39.108            K17491   96.37  872.4  1.9e-262 protein phosphatase 4 regulatory subunit 3
+* Pn39.110            K00787  146.13  523.6  1.2e-157 farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10]
+* Pn39.111            K02210  596.17 1129.1         0 DNA replication licensing factor MCM7 [EC:5.6.2.3]
+* Pn39.125            K02210  596.17  601.7  9.4e-181 DNA replication licensing factor MCM7 [EC:5.6.2.3]
+* Pn39.138            K08675 1152.33 1398.3         0 ATP-dependent Lon protease [EC:3.4.21.53]
+* Pn39.138            K01338  840.67  841.7  3.6e-253 ATP-dependent Lon protease [EC:3.4.21.53]
+* Pn39.140            K10578  213.47  363.3  8.1e-109 ubiquitin-conjugating enzyme E2 J1 [EC:2.3.2.23]
+* Pn39.142            K14685  136.03  247.4   9.9e-74 solute carrier family 40 (iron-regulated transporter), member 1
+* Pn39.145            K01051   76.27  326.8   9.1e-98 pectinesterase [EC:3.1.1.11]
+* Pn39.146            K03857  250.20  269.5   3.3e-80 phosphatidylinositol N-acetylglucosaminyltransferase subunit A [EC:2.4.1.198]
+* Pn39.162            K18674  496.17  508.5  1.1e-152 N-acetylgalactosamine kinase [EC:2.7.1.157]
+* Pn39.164            K03377   48.23  625.2  1.2e-187 N-acetylneuraminate 9-O-acetyltransferase [EC:2.3.1.45]
+* Pn39.166            K01897  433.90  488.4  1.7e-146 long-chain acyl-CoA synthetase [EC:6.2.1.3]
+* Pn39.167            K16297  480.00  691.4  4.4e-208 serine carboxypeptidase-like clade II [EC:3.4.16.-]
+* Pn39.169            K09422  126.07  238.9   4.4e-71 transcription factor MYB, plant
+* Pn32.333            K02210  596.17  846.8  7.2e-255 DNA replication licensing factor MCM7 [EC:5.6.2.3]
+* Pn32.332            K02210  596.17  723.9  1.1e-217 DNA replication licensing factor MCM7 [EC:5.6.2.3]
+* Pn32.331            K02210  596.17  872.0  1.7e-262 DNA replication licensing factor MCM7 [EC:5.6.2.3]
+* Pn32.330            K08675 1152.33 1398.4         0 ATP-dependent Lon protease [EC:3.4.21.53]
+* Pn32.330            K01338  840.67  840.8  6.8e-253 ATP-dependent Lon protease [EC:3.4.21.53]
+* Pn32.328            K10578  213.47  362.7  1.2e-108 ubiquitin-conjugating enzyme E2 J1 [EC:2.3.2.23]
+* Pn32.326            K14685  136.03  246.2   2.3e-73 solute carrier family 40 (iron-regulated transporter), member 1
+* Pn32.322            K03857  250.20  348.3  4.8e-104 phosphatidylinositol N-acetylglucosaminyltransferase subunit A [EC:2.4.1.198]
+* Pn32.321            K12345  122.97  240.2   2.2e-71 3-oxo-5-alpha-steroid 4-dehydrogenase 3 / polyprenol reductase [EC:1.3.1.22 1.3.1.94]
+* Pn32.306            K18674  496.17  566.5  2.8e-170 N-acetylgalactosamine kinase [EC:2.7.1.157]
+* Pn32.304            K03377   48.23  625.2  1.2e-187 N-acetylneuraminate 9-O-acetyltransferase [EC:2.3.1.45]
+* Pn32.303            K01897  433.90  486.5    6e-146 long-chain acyl-CoA synthetase [EC:6.2.1.3]
+* Pn32.302            K16297  480.00  693.2  1.2e-208 serine carboxypeptidase-like clade II [EC:3.4.16.-]
+* Pn32.300            K09422  126.07  236.7   2.1e-70 transcription factor MYB, plant
+* Pn32.290            K15446  120.53  150.9   2.3e-44 tRNA:m4X modification enzyme [EC:2.1.1.225]
+* Pn32.289            K11188  349.17  383.2    4e-115 peroxiredoxin 6 [EC:1.11.1.7 1.11.1.27 3.1.1.-]
+* Pn32.288            K01875   67.10  647.8    1e-194 seryl-tRNA synthetase [EC:6.1.1.11]
+* Pn32.287            K00789   17.40  699.9  1.2e-210 S-adenosylmethionine synthetase [EC:2.5.1.6]
+* Pn32.283            K07198  448.73  496.6  4.6e-149 5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11]
+* Pn32.280            K05658  913.93 1647.7         0 ATP-binding cassette, subfamily B (MDR/TAP), member 1 [EC:7.6.2.2]
+* Pn32.270            K09651  101.40  331.6   3.3e-99 rhomboid-related protein 4 [EC:3.4.21.105]
+* Pn32.250            K12483  837.90  916.2  1.1e-275 EH domain-containing protein 1
+* Pn17.1808           K03969   91.50  410.3  4.2e-123 phage shock protein A
+* Pn17.1804           K07198  448.73  496.1  6.4e-149 5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11]
+* Pn17.1803           K17471  991.53 1129.7         0 sulfate transporter 3
+* Pn17.1802           K23222   76.03  147.1   2.9e-43 nuclease HARBI1 [EC:3.1.-.-]
+* Pn17.1789           K08864  228.47  815.0  3.6e-245 tousled-like kinase [EC:2.7.11.1]
+* Pn17.1788           K00430  113.80  243.4   2.5e-72 peroxidase [EC:1.11.1.7]
+* Pn17.1787           K11838  333.10 1627.2         0 ubiquitin carboxyl-terminal hydrolase 7 [EC:3.4.19.12]
+* Pn17.1786           K22698  149.77 1232.9         0 protein SEY1 [EC:3.6.5.-]
+* Pn17.1779           K16275   85.80  409.1  9.9e-123 E3 ubiquitin-protein ligase BAH [EC:2.3.2.27]
+* Pn17.1777           K13459  422.57  702.8  4.3e-211 disease resistance protein RPS2
+* Pn17.1776           K13459  422.57  672.8  4.9e-202 disease resistance protein RPS2
+* Pn17.1774           K03665  178.17  639.3  3.7e-192 GTPase
+* Pn17.1772           K01535  576.63 1414.5         0 H+-transporting ATPase [EC:7.1.2.1]
+* Pn17.1769           K01090  362.47  473.3  5.2e-142 protein phosphatase [EC:3.1.3.16]
+* Pn17.1768           K17479   82.73  239.0   3.4e-71 glutaredoxin domain-containing cysteine-rich protein 1
+* Pn17.1765           K25550  101.97  169.8   1.9e-50 c-Myc-binding protein
+* Pn17.1763           K09014  383.50  755.7  1.6e-227 Fe-S cluster assembly protein SufB
+* Pn17.1753           K04082   68.47  190.6   2.2e-56 molecular chaperone HscB
+* Pn17.1750           K13412  534.20  817.4  3.1e-246 calcium-dependent protein kinase [EC:2.7.11.1]
+* Pn17.1749           K17604  118.80  249.5   2.3e-74 zinc finger SWIM domain-containing protein 3
+* Pn17.1747           K19043  115.90  550.7  9.9e-166 E3 ubiquitin-protein ligase RHF [EC:2.3.2.27]
+* Pn17.1744           K13343   70.30  118.1   2.2e-34 peroxin-14
+* Pn17.1743           K13800  268.63  364.4  2.6e-109 UMP-CMP kinase [EC:2.7.4.14]
+* Pn17.1731           K03022   92.23  258.4   3.1e-77 DNA-directed RNA polymerase III subunit RPC8
+* Pn17.1728           K05359  350.00  361.9    2e-108 arogenate/prephenate dehydratase [EC:4.2.1.91 4.2.1.51]
+* Pn17.1728           K04518  225.33  248.0   8.8e-74 prephenate dehydratase [EC:4.2.1.51]
+* Pn17.1722           K13459  422.57  722.9  3.8e-217 disease resistance protein RPS2
+* Pn17.1721           K06444  450.53  862.2  4.6e-260 lycopene epsilon-cyclase [EC:5.5.1.18]
+* Pn17.1721           K06443  131.20  355.9  1.7e-106 lycopene beta-cyclase [EC:5.5.1.19]
+* Pn17.1718           K20603  587.53  600.9  4.2e-181 mitogen-activated protein kinase kinase 2 [EC:2.7.12.2]
+* Pn17.1717           K01728  165.50  417.2  4.2e-125 pectate lyase [EC:4.2.2.2]
+* Pn17.1699           K15404  546.53 1066.4         0 aldehyde decarbonylase [EC:4.1.99.5]
+* Pn17.1697           K06062  172.00  689.1  5.8e-207 histone acetyltransferase [EC:2.3.1.48]
+* Pn17.1696           K25784  114.70  406.5  1.2e-121 bZIP transcription factor 9/10/25/63
+* Pn17.1695           K11251   45.87  228.6   4.4e-68 histone H2A
+* Pn17.1693           K08286  386.33  418.2  1.4e-125 protein-serine/threonine kinase [EC:2.7.11.-]
+* Pn17.1692           K15333  130.53  155.3   6.9e-46 tRNA guanosine-2'-O-methyltransferase [EC:2.1.1.34]
+* Pn17.1691           K10688  143.07  327.4   6.8e-98 ubiquitin-conjugating enzyme E2 W [EC:2.3.2.25]
+* Pn17.1688           K15333  130.53  153.5   2.3e-45 tRNA guanosine-2'-O-methyltransferase [EC:2.1.1.34]
+* Pn17.1684           K13104   49.07  158.7   9.1e-47 zinc finger protein 830
+* Pn17.1683           K20102  129.10  431.8  2.8e-129 YTH domain-containing family protein
+* Pn17.1680           K19893  437.63  678.3  1.8e-204 glucan endo-1,3-beta-glucosidase 5/6 [EC:3.2.1.39]
+* Pn17.1679           K20891  187.17  569.9  1.4e-171 beta-glucuronosyltransferase [EC:2.4.1.-]
+* Pn17.1678           K13356  142.73  421.5  2.3e-126 alcohol-forming fatty acyl-CoA reductase [EC:1.2.1.84]
+* Pn17.1675           K10523  143.13  380.7  5.5e-114 speckle-type POZ protein
+* Pn17.1674           K12862  237.23  721.1  5.7e-217 pleiotropic regulator 1
+* Pn17.1671           K13066  499.33  539.3  3.2e-162 caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase [EC:2.1.1.68 2.1.1.4]
+* Pn17.1670           K13066  499.33  512.3  4.8e-154 caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase [EC:2.1.1.68 2.1.1.4]
+* Pn17.1669           K13066  499.33  579.2  2.5e-174 caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase [EC:2.1.1.68 2.1.1.4]
+* Pn17.1667           K13066  499.33  563.7  1.2e-169 caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase [EC:2.1.1.68 2.1.1.4]
+* Pn17.1663           K13066  499.33  564.4  7.8e-170 caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase [EC:2.1.1.68 2.1.1.4]
+* Pn17.1662           K13066  499.33  577.5    8e-174 caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase [EC:2.1.1.68 2.1.1.4]
+* Pn17.1661           K13066  499.33  579.2  2.4e-174 caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase [EC:2.1.1.68 2.1.1.4]
+* Pn17.1658           K12862  237.23  744.7    4e-224 pleiotropic regulator 1
+* Pn17.1657           K10523  143.13  380.7  5.5e-114 speckle-type POZ protein
+* Pn17.1654           K13356  142.73  421.5  2.3e-126 alcohol-forming fatty acyl-CoA reductase [EC:1.2.1.84]
+* Pn17.1653           K20891  187.17  569.9  1.4e-171 beta-glucuronosyltransferase [EC:2.4.1.-]
+* Pn17.1652           K19893  437.63  681.6  1.8e-205 glucan endo-1,3-beta-glucosidase 5/6 [EC:3.2.1.39]
+* Pn17.1650           K20102  129.10  429.6  1.3e-128 YTH domain-containing family protein
+* Pn17.1649           K13104   49.07  200.4   2.2e-59 zinc finger protein 830
+* Pn17.1647           K15404  546.53  891.3  3.7e-268 aldehyde decarbonylase [EC:4.1.99.5]
+* Pn17.1645           K08597  100.07  123.6   5.6e-36 sentrin-specific protease 8 [EC:3.4.22.68]
+* Pn17.1640           K15333  130.53  151.8   7.6e-45 tRNA guanosine-2'-O-methyltransferase [EC:2.1.1.34]
+* Pn17.1635           K10688  143.07  325.6   2.4e-97 ubiquitin-conjugating enzyme E2 W [EC:2.3.2.25]
+* Pn17.1633           K15333  130.53  155.8   4.9e-46 tRNA guanosine-2'-O-methyltransferase [EC:2.1.1.34]
+* Pn17.1631           K11251   45.87  228.6   4.4e-68 histone H2A
+* Pn17.1630           K25784  114.70  406.1  1.6e-121 bZIP transcription factor 9/10/25/63
+* Pn17.1629           K06062  172.00  689.1    6e-207 histone acetyltransferase [EC:2.3.1.48]
+* Pn17.1628           K15404  546.53 1064.2         0 aldehyde decarbonylase [EC:4.1.99.5]
+* Pn17.1615           K00844   72.77   93.6   3.8e-27 hexokinase [EC:2.7.1.1]
+* Pn17.1605           K00844   72.77  105.2   1.2e-30 hexokinase [EC:2.7.1.1]
+* Pn17.1600           K00844   72.77   73.3   5.6e-21 hexokinase [EC:2.7.1.1]
+* Pn17.1593           K00844   72.77   79.1   9.7e-23 hexokinase [EC:2.7.1.1]
+* Pn17.1587           K00844   72.77   91.5   1.7e-26 hexokinase [EC:2.7.1.1]
+* Pn17.1556           K00844   72.77   84.1     3e-24 hexokinase [EC:2.7.1.1]
+* Pn17.1551           K00844   72.77   84.7   1.9e-24 hexokinase [EC:2.7.1.1]
+* Pn17.1541           K00224  280.77  626.0  6.5e-189 chloroplastic oxoene reductase [EC:1.3.1.-]
+* Pn17.1539           K11883  125.70  134.8   2.2e-39 RNA-binding protein NOB1
+* Pn17.1538           K11883  125.70  245.3   6.7e-73 RNA-binding protein NOB1
+* Pn17.1533           K14484   88.07  268.8   2.6e-80 auxin-responsive protein IAA
+* Pn17.1531           K03189  163.07  448.7  1.4e-134 urease accessory protein
+* Pn17.1523           K03189  163.07  371.4  3.7e-111 urease accessory protein
+* Pn17.1520           K20472   84.50   93.1   6.3e-27 coatomer subunit zeta
+* Pn17.1518           K00383  555.50  755.1  3.2e-227 glutathione reductase (NADPH) [EC:1.8.1.7]
+* Pn17.1502           K03189  163.07  447.4  3.3e-134 urease accessory protein
+* Pn17.1498           K20472   84.50   93.4   5.2e-27 coatomer subunit zeta
+* Pn17.1496           K00383  555.50  755.9  1.8e-227 glutathione reductase (NADPH) [EC:1.8.1.7]
+* Pn17.1487           K02492   72.20  113.5   4.7e-33 glutamyl-tRNA reductase [EC:1.2.1.70]
+* Pn17.1476           K18789  327.73  338.6  2.7e-101 xylogalacturonan beta-1,3-xylosyltransferase [EC:2.4.2.41]
+* Pn17.1465           K09286   88.90  152.2   8.7e-45 EREBP-like factor
+* Pn17.1459           K11275   70.47   88.6   2.8e-25 histone H1/5
+* Pn17.1448           K11275   70.47   88.0   4.1e-25 histone H1/5
+* Pn17.1441           K13065  314.33  352.4  1.4e-105 shikimate O-hydroxycinnamoyltransferase [EC:2.3.1.133]
+* Pn17.1435           K08495   82.90  262.4   2.8e-78 golgi SNAP receptor complex member 1
+* Pn17.1424           K04569  153.23  307.1   5.9e-92 copper chaperone for superoxide dismutase
+* Pn17.1422           K01206   66.47  342.1  3.2e-102 alpha-L-fucosidase [EC:3.2.1.51]
+* Pn17.1418           K09338   75.40  153.9   2.9e-45 homeobox-leucine zipper protein
+* Pn17.1408           K20102  129.10  366.2  2.2e-109 YTH domain-containing family protein
+* Pn17.1405           K16221  107.23  144.1   4.3e-42 transcription factor TCP21 (protein CCA1 HIKING EXPEDITION)
+* Pn17.1401           K13335  121.53  277.8   6.6e-83 peroxin-16
+* Pn17.1399           K01641  161.50  339.5  1.6e-101 hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]
+* Pn17.1390           K14295  118.40  190.1   3.9e-56 nuclear pore complex protein Nup50
+* Pn17.1388           K15277  241.47  511.3  1.1e-153 solute carrier family 35 (adenosine 3'-phospho 5'-phosphosulfate transporter), member B3
+* Pn17.1387           K09286   88.90  115.0   1.9e-33 EREBP-like factor
+* Pn17.1355           K12733  259.57  337.5    2e-101 peptidyl-prolyl cis-trans isomerase-like 1 [EC:5.2.1.8]
+* Pn17.1355           K03767  188.17  198.8   4.5e-59 peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+* Pn17.1370           K03327  104.53  547.8  2.4e-164 multidrug resistance protein, MATE family
+* Pn17.1337           K02703  294.40  511.6  1.5e-153 photosystem II P680 reaction center D1 protein [EC:1.10.3.9]
+* Pn17.1334           K02689  906.87 1222.4         0 photosystem I P700 chlorophyll a apoprotein A1
+* Pn17.1331           K05581  235.60  279.1   5.2e-84 NAD(P)H-quinone oxidoreductase subunit J [EC:7.1.1.2]
+* Pn17.1326           K02704  300.00  336.6  7.6e-101 photosystem II CP47 chlorophyll apoprotein
+* Pn17.1324           K14494  256.90  331.0   7.6e-99 DELLA protein
+* Pn17.1309           K09419  215.40  259.9   1.7e-77 heat shock transcription factor, other eukaryote
+* Pn17.1299           K08094  109.77  132.6   4.8e-39 6-phospho-3-hexuloisomerase [EC:5.3.1.27]
+* Pn17.1293           K08094  109.77  132.6   4.8e-39 6-phospho-3-hexuloisomerase [EC:5.3.1.27]
+* Pn17.1290           K01537  945.67  971.6  1.7e-292 P-type Ca2+ transporter type 2C [EC:7.2.2.10]
+* Pn17.1286           K24175  238.87  647.1  1.2e-194 MFS transporter, MFS domain-containing protein family, molybdate-anion transporter
+* Pn17.1263           K19861  448.70  630.8  7.3e-190 benzyl alcohol O-benzoyltransferase [EC:2.3.1.196 2.3.1.232]
+* Pn17.1256           K23490  123.60  178.2   9.7e-53 cytochrome b5
+* Pn17.1253           K01772   52.43  243.1   2.2e-72 protoporphyrin/coproporphyrin ferrochelatase [EC:4.98.1.1 4.99.1.9]
+* Pn17.1252           K01772   52.43   93.0   7.4e-27 protoporphyrin/coproporphyrin ferrochelatase [EC:4.98.1.1 4.99.1.9]
+* Pn17.1230           K01714  253.50  298.4   4.1e-89 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]
+* Pn17.1228           K06934   42.20   43.1   1.2e-11 uncharacterized protein
+* Pn17.1220           K14826  184.93  402.8  1.5e-120 FK506-binding nuclear protein [EC:5.2.1.8]
+* Pn17.1213           K14826  184.93  404.0  6.4e-121 FK506-binding nuclear protein [EC:5.2.1.8]
+* Pn17.1208           K00345   70.43  135.2   1.1e-39 NAD(P)H-quinone oxidoreductase subunit S, chloroplastic [EC:7.1.1.-]
+* Pn17.1201           K13337   60.43  236.6   2.4e-70 peroxin-19
+* Pn17.1200           K11438  307.80  768.2  6.2e-231 type III protein arginine methyltransferase [EC:2.1.1.321]
+* Pn17.1192           K07025  113.70  139.1   8.5e-41 putative hydrolase of the HAD superfamily
+* Pn17.1183           K10636  294.57  416.4    1e-124 E3 ubiquitin-protein ligase AMFR [EC:2.3.2.36]
+* Pn17.1178           K10636  294.57  416.4    1e-124 E3 ubiquitin-protein ligase AMFR [EC:2.3.2.36]
+* Pn17.1176           K08341  145.50  251.0   4.4e-75 GABA(A) receptor-associated protein
+* Pn17.1165           K00616  143.43  160.1   4.5e-47 transaldolase [EC:2.2.1.2]
+* Pn17.1158           K25796  119.97  278.1   3.2e-83 plant-specific transcription factor YABBY family protein
+* Pn17.1152           K25796  119.97  278.1   3.2e-83 plant-specific transcription factor YABBY family protein
+* Pn17.1149           K14488   34.97  106.3   1.2e-30 SAUR family protein
+* Pn17.1148           K01369  219.37  661.6  3.6e-199 legumain [EC:3.4.22.34]
+* Pn17.1146           K01369  219.37  595.6  3.7e-179 legumain [EC:3.4.22.34]
+* Pn17.1141           K01265  137.77  431.9  1.7e-129 methionyl aminopeptidase [EC:3.4.11.18]
+* Pn17.1121           K13679  602.30  995.4    3e-300 granule-bound starch synthase [EC:2.4.1.242]
+* Pn17.1121           K00703  137.50  500.2    4e-150 starch synthase [EC:2.4.1.21]
+* Pn17.1115           K15623   66.83   74.6   3.8e-21 protein SSXT
+* Pn17.1113           K02969  116.53  262.8   2.2e-78 small subunit ribosomal protein S20e
+* Pn17.1105           K01358   53.23  350.6  3.7e-105 ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+* Pn17.1094           K20069   51.93  117.1   4.8e-34 adaptin ear-binding coat-associated protein 1/2
+* Pn17.1093           K06013  123.70  661.9  7.6e-199 STE24 endopeptidase [EC:3.4.24.84]
+* Pn17.1086           K19600  127.33  366.0  1.7e-109 tubby and related proteins
+* Pn17.1083           K24935  236.03  588.8  8.2e-177 tetratricopeptide repeat protein 27
+* Pn17.1080           K20069   51.93  115.3   1.7e-33 adaptin ear-binding coat-associated protein 1/2
+* Pn17.1079           K06013  123.70  656.6    3e-197 STE24 endopeptidase [EC:3.4.24.84]
+* Pn17.1074           K02607  119.07  129.4   8.4e-38 origin recognition complex subunit 5
+* Pn17.1073           K19600  127.33  360.4  8.2e-108 tubby and related proteins
+* Pn17.1070           K24935  236.03  690.7  1.3e-207 tetratricopeptide repeat protein 27
+* Pn17.1065           K10355  790.97  822.2  2.6e-248 actin, other eukaryote
+* Pn17.1065           K16575  610.27  614.3  7.7e-185 centractin
+* Pn17.1062           K08486  213.73  242.3   3.8e-72 syntaxin 1B/2/3
+* Pn17.1052           K11592  391.30 1313.5         0 endoribonuclease Dicer [EC:3.1.26.-]
+* Pn17.1051           K13066  499.33  642.1    2e-193 caffeic acid 3-O-methyltransferase / acetylserotonin O-methyltransferase [EC:2.1.1.68 2.1.1.4]
+* Pn17.1049           K11805  137.10  238.1   7.6e-71 DDB1- and CUL4-associated factor 7
+* Pn17.1037           K09873  271.70  336.8  5.6e-101 aquaporin TIP
+* Pn17.1033           K14767  133.40  146.8   4.2e-43 U3 small nucleolar RNA-associated protein 3
+* Pn17.1030           K01046   63.77   68.9   2.1e-19 triacylglycerol lipase [EC:3.1.1.3]
+* Pn17.1029           K09286   88.90  142.2   9.7e-42 EREBP-like factor
+* Pn17.1028           K09503  592.17  607.5  9.8e-183 DnaJ homolog subfamily A member 2
+* Pn17.1027           K00344  279.97  429.7  8.2e-129 NADPH:quinone reductase [EC:1.6.5.5]
+* Pn17.1022           K02936   66.93  473.7  2.8e-142 large subunit ribosomal protein L7Ae
+* Pn17.1020           K09286   88.90  168.5   9.5e-50 EREBP-like factor
+* Pn17.1019           K09286   88.90  168.5   9.2e-50 EREBP-like factor
+* Pn17.1011           K20784  190.53  788.9  2.7e-237 arabinosyltransferase [EC:2.4.2.-]
+* Pn17.1008           K23541   34.90   36.2   1.3e-09 Ca2+/H+ antiporter, TMEM165/GDT1 family
+* Pn17.1004           K14496  127.87  297.6   6.6e-89 abscisic acid receptor PYR/PYL family
+* Pn17.1002           K07052   32.93   42.6   1.6e-11 CAAX protease family protein
+* Pn17.999            K06934   42.20   55.0   2.9e-15 uncharacterized protein
+* Pn17.983            K09008   48.07  182.0   5.7e-54 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 3
+* Pn17.975            K19042   70.00  234.5   1.1e-69 E3 ubiquitin-protein ligase BOI and related proteins [EC:2.3.2.27]
+* Pn17.972            K03260  113.87  662.9  3.7e-199 translation initiation factor 4G
+* Pn17.971            K22684   84.23  439.7  6.7e-132 metacaspase-1 [EC:3.4.22.-]
+* Pn17.970            K03115  108.33  320.8     1e-95 casein kinase II subunit beta
+* Pn17.967            K21444  226.80  316.3   1.9e-94 poly(rC)-binding protein 3/4
+* Pn17.963            K00261  530.97  604.2  8.2e-182 glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]
+* Pn17.961            K14977   81.50  447.9  9.5e-135 (S)-ureidoglycine aminohydrolase [EC:3.5.3.26]
+* Pn17.960            K22684   84.23  436.7  5.4e-131 metacaspase-1 [EC:3.4.22.-]
+* Pn17.959            K03260  113.87  211.7   7.9e-63 translation initiation factor 4G
+* Pn17.957            K03115  108.33  451.2  3.1e-135 casein kinase II subunit beta
+* Pn17.955            K14977   81.50  448.5  6.7e-135 (S)-ureidoglycine aminohydrolase [EC:3.5.3.26]
+* Pn17.954            K14977   81.50  287.4   6.2e-86 (S)-ureidoglycine aminohydrolase [EC:3.5.3.26]
+* Pn17.953            K00261  530.97  604.2  8.2e-182 glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]
+* Pn17.949            K21444  226.80  314.8   5.6e-94 poly(rC)-binding protein 3/4
+* Pn17.947            K22071  204.10  257.2   8.7e-77 ferredoxin-2, mitochondrial
+* Pn17.944            K21889  129.60  359.0  9.4e-108 Bax inhibitor 1
+* Pn17.943            K01114  133.97  457.3  5.6e-137 phospholipase C [EC:3.1.4.3]
+* Pn17.935            K12493  190.43  344.0  1.2e-102 ADP-ribosylation factor GTPase-activating protein 2/3
+* Pn17.934            K13422  169.07  720.7  7.7e-217 transcription factor MYC2
+* Pn17.934            K25801  116.93  139.4   5.8e-41 succinate dehydrogenase (ubiquinone) subunit 4
+* Pn17.926            K16055  763.23 1073.4         0 trehalose 6-phosphate synthase/phosphatase [EC:2.4.1.15 3.1.3.12]
+* Pn17.926            K00697  525.37  527.0  3.9e-158 trehalose 6-phosphate synthase [EC:2.4.1.15 2.4.1.347]
+* Pn17.914            K13422  169.07  717.3  8.6e-216 transcription factor MYC2
+* Pn17.914            K25801  116.93  139.4   5.8e-41 succinate dehydrogenase (ubiquinone) subunit 4
+* Pn17.907            K16055  763.23 1071.2         0 trehalose 6-phosphate synthase/phosphatase [EC:2.4.1.15 3.1.3.12]
+* Pn17.893            K18735  136.00  340.3  8.8e-102 protein SMG9
+* Pn17.878            K06685   39.07  426.9  1.8e-128 MOB kinase activator 1
+* Pn17.858            K08829  393.03  589.3  1.7e-177 male germ cell-associated kinase [EC:2.7.11.22]
+* Pn17.855            K22048  247.70  888.6  3.7e-267 mechanosensitive ion channel protein 4/5/6/7/8/9/10
+* Pn17.851            K08829  393.03  536.3    2e-161 male germ cell-associated kinase [EC:2.7.11.22]
+* Pn17.849            K22048  247.70  984.1  5.5e-296 mechanosensitive ion channel protein 4/5/6/7/8/9/10
+* Pn17.838            K23280  343.57  599.7  2.1e-180 rhamnogalacturonan I rhamnosyltransferase [EC:2.4.1.351]
+* Pn17.835            K00218  263.83  630.2  8.6e-190 protochlorophyllide reductase [EC:1.3.1.33]
+* Pn17.834            K12855  222.57  239.9   2.2e-71 pre-mRNA-processing factor 6
+* Pn17.828            K01934   93.27  219.1   3.7e-65 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]
+* Pn17.826            K20628  126.20  156.5   4.4e-46 expansin
+* Pn17.824            K03671  107.90  149.2   7.5e-44 thioredoxin 1
+* Pn17.823            K10666   78.37  149.3   5.2e-44 E3 ubiquitin-protein ligase RNF5 [EC:2.3.2.27]
+* Pn17.819            K08829  393.03  590.5  7.3e-178 male germ cell-associated kinase [EC:2.7.11.22]
+* Pn17.815            K22048  247.70  884.0  8.8e-266 mechanosensitive ion channel protein 4/5/6/7/8/9/10
+* Pn17.788            K08829  393.03  588.8  2.3e-177 male germ cell-associated kinase [EC:2.7.11.22]
+* Pn17.786            K22048  247.70  980.1  8.6e-295 mechanosensitive ion channel protein 4/5/6/7/8/9/10
+* Pn17.774            K00218  263.83  628.9  2.2e-189 protochlorophyllide reductase [EC:1.3.1.33]
+* Pn17.768            K01934   93.27  219.3   3.4e-65 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]
+* Pn17.766            K20628  126.20  143.2   4.7e-42 expansin
+* Pn17.763            K03671  107.90  141.9   1.3e-41 thioredoxin 1
+* Pn17.762            K10666   78.37  149.9   3.4e-44 E3 ubiquitin-protein ligase RNF5 [EC:2.3.2.27]
+* Pn17.758            K15333  130.53  190.0   2.3e-56 tRNA guanosine-2'-O-methyltransferase [EC:2.1.1.34]
+* Pn17.753            K15377  519.97  554.5  1.9e-166 solute carrier family 44 (choline transporter-like protein), member 2/4/5
+* Pn17.751            K03873   50.77  101.5   2.3e-29 elongin-B
+* Pn17.750            K08238  316.33  679.3  9.8e-205 xyloglucan 6-xylosyltransferase [EC:2.4.2.39]
+* Pn17.747            K09422  126.07  230.0   2.3e-68 transcription factor MYB, plant
+* Pn17.745            K00033  154.10  664.5  6.7e-200 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]
+* Pn17.743            K02960  159.17  318.7     8e-96 small subunit ribosomal protein S16e
+* Pn17.741            K09264  128.70  166.2   5.1e-49 MADS-box transcription factor, plant
+* Pn17.730            K09584  274.07  344.1  7.1e-103 protein disulfide-isomerase A6 [EC:5.3.4.1]
+* Pn17.729            K01754  257.33  329.0   2.5e-98 threonine dehydratase [EC:4.3.1.19]
+* Pn17.728            K17578   94.60  139.9   5.6e-41 zinc finger CCHC domain-containing protein 9
+* Pn17.726            K14500  247.53  500.6  2.6e-150 BR-signaling kinase [EC:2.7.11.1]
+* Pn17.724            K01919   79.00  592.1  6.7e-178 glutamate--cysteine ligase [EC:6.3.2.2]
+* Pn17.723            K08994   70.27  284.1   1.2e-84 ion channel-forming bestrophin family protein
+* Pn17.715            K01177  358.13  747.2  5.5e-225 beta-amylase [EC:3.2.1.2]
+* Pn17.714            K24725  390.60  538.2  1.1e-161 angio-associated migratory cell protein
+* Pn17.713            K01068   90.83  119.6   6.8e-35 acyl-coenzyme A thioesterase 1/2/4 [EC:3.1.2.2]
+* Pn17.705            K09872  227.30  544.6  4.1e-164 aquaporin PIP
+* Pn17.698            K14821   46.13   61.2   6.4e-17 bud site selection protein 20
+* Pn17.697            K01892  283.67  486.4  5.4e-146 histidyl-tRNA synthetase [EC:6.1.1.21]
+* Pn17.696            K00927   99.53  215.5   5.7e-64 phosphoglycerate kinase [EC:2.7.2.3]
+* Pn17.696            K03439   87.63  145.1   1.4e-42 tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]
+* Pn17.695            K07889  276.00  312.0   1.5e-93 Ras-related protein Rab-5C
+* Pn17.685            K05287   55.47   69.6   1.2e-19 GPI ethanolamine phosphate transferase 2/3 subunit F
+* Pn17.684            K09286   88.90  144.8   1.6e-42 EREBP-like factor
+* Pn17.680            K15397  182.80  206.7   2.7e-61 3-ketoacyl-CoA synthase [EC:2.3.1.199]
+* Pn17.677            K06934   42.20   45.5   2.4e-12 uncharacterized protein
+* Pn17.676            K12897  127.03  207.3   2.2e-61 transformer-2 protein
+* Pn17.226            K00806  342.13  359.1  1.2e-107 undecaprenyl diphosphate synthase [EC:2.5.1.31]
+* Pn17.226            K11778  325.37  333.7  5.2e-100 ditrans,polycis-polyprenyl diphosphate synthase [EC:2.5.1.87]
+* Pn17.228            K13153   50.47   74.7   3.8e-21 U11/U12 small nuclear ribonucleoprotein 25 kDa protein
+* Pn17.229            K13153   50.47   53.1   1.5e-14 U11/U12 small nuclear ribonucleoprotein 25 kDa protein
+* Pn17.231            K23877  183.47  228.5   6.6e-68 xyloglucan O-acetyltransferase
+* Pn17.232            K18643  208.37  403.9  7.4e-121 katanin p80 WD40 repeat-containing subunit B1
+* Pn17.234            K18643  208.37  931.2  2.5e-280 katanin p80 WD40 repeat-containing subunit B1
+* Pn17.235            K07407   68.33  473.4    6e-142 alpha-galactosidase [EC:3.2.1.22]
+* Pn17.242            K12486  195.73  261.6   9.2e-78 stromal membrane-associated protein
+* Pn17.243            K22066  143.37  156.6   4.5e-46 BolA-like protein 1
+* Pn17.243            K05527   69.00  122.7   6.4e-36 BolA family transcriptional regulator, general stress-responsive regulator
+* Pn17.255            K18195   96.83 1047.8         0 rhamnogalacturonan endolyase [EC:4.2.2.23]
+* Pn17.259            K14486  150.40  797.0  9.5e-240 auxin response factor
+* Pn17.260            K00430  113.80  489.9  5.6e-147 peroxidase [EC:1.11.1.7]
+* Pn17.264            K24350  186.93  407.7  4.9e-122 UBX domain-containing protein 7
+* Pn17.264            K07889  276.00  353.7  2.7e-106 Ras-related protein Rab-5C
+* Pn17.272            K11593  433.27 1389.1         0 eukaryotic translation initiation factor 2C
+* Pn17.279            K13412  534.20  821.5  1.8e-247 calcium-dependent protein kinase [EC:2.7.11.1]
+* Pn17.288            K19040  148.33  180.7   1.7e-53 E3 ubiquitin-protein ligase ATL10/75/76/77/78 [EC:2.3.2.27]
+* Pn17.290            K20027  153.87  364.3  6.7e-109 palmitoyltransferase ZDHHC1/11 [EC:2.3.1.225]
+* Pn17.291            K08472  160.90  439.8  5.4e-132 mlo protein
+* Pn17.293            K08852  208.57  622.5  4.9e-187 serine/threonine-protein kinase/endoribonuclease IRE1 [EC:2.7.11.1 3.1.26.-]
+* Pn17.294            K00872  244.00  345.4  2.6e-103 homoserine kinase [EC:2.7.1.39]
+* Pn17.295            K05359  350.00  515.4  5.5e-155 arogenate/prephenate dehydratase [EC:4.2.1.91 4.2.1.51]
+* Pn17.295            K04518  225.33  302.6   2.6e-90 prephenate dehydratase [EC:4.2.1.51]
+* Pn17.306            K09487 1100.87 1242.3         0 heat shock protein 90kDa beta
+* Pn17.306            K04079   60.10  803.4  1.2e-241 molecular chaperone HtpG
+* Pn17.308            K22547  187.13  213.7   8.6e-64 arsenate reductase [EC:1.20.4.1]
+* Pn17.311            K03029   61.77  562.3  3.7e-169 26S proteasome regulatory subunit N10
+* Pn17.312            K05765   78.07  218.5   3.1e-65 cofilin
+* Pn17.315            K05765   78.07  218.5   3.1e-65 cofilin
+* Pn17.323            K09422  126.07  275.8   2.7e-82 transcription factor MYB, plant
+* Pn17.327            K04392  348.03  381.1  1.1e-114 Ras-related C3 botulinum toxin substrate 1
+* Pn17.329            K10736  104.10  230.5   2.1e-68 minichromosome maintenance protein 10
+* Pn17.336            K25785  227.33  380.1  4.6e-114 bZIP transcription factor 19/23/24
+* Pn17.340            K03094   60.53  300.5   3.9e-90 S-phase kinase-associated protein 1
+* Pn17.344            K19042   70.00  218.5   7.9e-65 E3 ubiquitin-protein ligase BOI and related proteins [EC:2.3.2.27]
+* Pn17.347            K10752  286.37  620.7  1.3e-186 histone-binding protein RBBP4
+* Pn17.348            K18757  110.20  199.4   5.5e-59 la-related protein 1
+* Pn17.351            K09872  227.30  539.2  1.8e-162 aquaporin PIP
+* Pn17.353            K10581  296.67  583.2  3.8e-175 ubiquitin-conjugating enzyme E2 O [EC:2.3.2.24]
+* Pn17.355            K00430  113.80  453.0  8.1e-136 peroxidase [EC:1.11.1.7]
+* Pn17.357            K01102  188.10  406.9  4.9e-122 pyruvate dehydrogenase phosphatase [EC:3.1.3.43]
+* Pn17.364            K00472  165.33  338.3  4.6e-101 prolyl 4-hydroxylase [EC:1.14.11.2]
+* Pn17.365            K11584  256.60  515.6  1.3e-154 serine/threonine-protein phosphatase 2A regulatory subunit B'
+* Pn17.370            K02638   90.67  176.8   1.9e-52 plastocyanin
+* Pn17.372            K16585   67.27  261.4   4.4e-78 HAUS augmin-like complex subunit 2
+* Pn17.373            K13648  566.33  966.2  4.4e-291 alpha-1,4-galacturonosyltransferase [EC:2.4.1.43]
+* Pn17.378            K01179   21.90  315.0   6.8e-94 endoglucanase [EC:3.2.1.4]
+* Pn17.381            K01623   46.60  685.6  3.2e-206 fructose-bisphosphate aldolase, class I [EC:4.1.2.13]
+* Pn17.384            K07071  117.50  151.8   1.2e-44 uncharacterized protein
+* Pn17.391            K14486  150.40  723.0  2.3e-217 auxin response factor
+* Pn17.395            K08869  333.00  354.3  4.4e-106 aarF domain-containing kinase
+* Pn17.399            K14488   34.97  117.4   4.9e-34 SAUR family protein
+* Pn17.400            K14488   34.97  145.0     2e-42 SAUR family protein
+* Pn17.402            K03246  231.10  577.1  1.1e-173 translation initiation factor 3 subunit I
+* Pn17.405            K01179   21.90  103.1   8.6e-30 endoglucanase [EC:3.2.1.4]
+* Pn17.409            K01244  195.37  481.6  7.7e-145 5'-methylthioadenosine nucleosidase [EC:3.2.2.16]
+* Pn17.409            K01243  110.87  114.1   3.8e-33 adenosylhomocysteine nucleosidase [EC:3.2.2.9]
+* Pn17.410            K00215  131.33  227.1   2.1e-67 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]
+* Pn17.415            K10949   66.53  219.8   2.7e-65 ER lumen protein retaining receptor
+* Pn17.418            K15285  201.97  308.6   2.6e-92 solute carrier family 35, member E3
+* Pn17.421            K08739  376.47  757.8  8.1e-228 DNA mismatch repair protein MLH3
+* Pn17.425            K18443  607.53  937.1  7.4e-282 golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1
+* Pn17.426            K25507  128.27  219.8   2.5e-65 high mobility group B protein, plant
+* Pn17.427            K06928   66.10  227.9   4.9e-68 nucleoside-triphosphatase [EC:3.6.1.15]
+* Pn17.432            K21777  347.97  429.1    1e-128 G2/mitotic-specific cyclin-B, other
+* Pn17.450            K21777  347.97  496.6  3.4e-149 G2/mitotic-specific cyclin-B, other
+* Pn17.452            K02563  131.10  254.1   9.3e-76 UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+* Pn17.458            K01322  493.67 1069.5         0 prolyl oligopeptidase [EC:3.4.21.26]
+* Pn17.464            K14400  180.70  222.8   2.5e-66 pre-mRNA cleavage complex 2 protein Pcf11
+* Pn17.472            K05282  301.97  650.0  6.2e-196 gibberellin-44 dioxygenase [EC:1.14.11.12]
+* Pn17.474            K02639  108.60  236.7   8.8e-71 ferredoxin
+* Pn17.480            K03676   76.57  129.1   7.3e-38 glutaredoxin 3
+* Pn17.483            K11674  152.90  184.0   2.2e-54 microspherule protein 1
+* Pn17.487            K09486  642.83  966.2  1.1e-290 hypoxia up-regulated 1
+* Pn17.497            K13071  736.40  994.9  3.2e-300 pheophorbide a oxygenase [EC:1.14.15.17]
+* Pn17.500            K19033   26.93   79.8     1e-22 30S ribosomal protein S31
+* Pn17.503            K01876  308.87  843.5  8.6e-254 aspartyl-tRNA synthetase [EC:6.1.1.12]
+* Pn17.504            K18213  275.27  752.1  2.3e-226 proteinaceous RNase P [EC:3.1.26.5]
+* Pn17.505            K13102  113.23  580.8  9.5e-175 DNA/RNA-binding protein KIN17
+* Pn17.506            K14944  235.90  323.8     1e-96 RNA-binding protein Nova
+* Pn17.528            K14007  211.30 1115.3         0 protein transport protein SEC24
+* Pn17.530            K02730  251.53  499.0  5.2e-150 20S proteasome subunit alpha 1 [EC:3.4.25.1]
+* Pn17.533            K15304  126.07  286.5   2.6e-85 Ran-binding protein 3
+* Pn17.538            K09422  126.07  253.3   1.9e-75 transcription factor MYB, plant
+* Pn17.540            K23553   66.40  446.8  4.6e-134 post-GPI attachment to proteins factor 3
+* Pn17.542            K09250  103.00  184.7   1.6e-54 cellular nucleic acid-binding protein
+* Pn17.544            K16298  521.57  842.9  5.1e-254 serine carboxypeptidase-like clade IV [EC:3.4.16.-]
+* Pn17.547            K13496  706.90  726.7  6.4e-219 UDP-glucosyltransferase 73C [EC:2.4.1.-]
+* Pn17.548            K12193  153.57  347.3  5.4e-104 charged multivesicular body protein 3
+* Pn17.549            K14721   82.30  465.9  8.7e-140 DNA-directed RNA polymerase III subunit RPC5
+* Pn17.552            K14400  180.70  222.3   3.4e-66 pre-mRNA cleavage complex 2 protein Pcf11
+* Pn17.564            K05282  301.97  650.0  6.2e-196 gibberellin-44 dioxygenase [EC:1.14.11.12]
+* Pn17.565            K02639  108.60  235.4   2.3e-70 ferredoxin
+* Pn17.566            K02639  108.60  122.4   8.5e-36 ferredoxin
+* Pn17.574            K03676   76.57  128.9   8.2e-38 glutaredoxin 3
+* Pn17.577            K11674  152.90  181.6   1.2e-53 microspherule protein 1
+* Pn17.581            K09486  642.83  971.7  2.4e-292 hypoxia up-regulated 1
+* Pn17.587            K13071  736.40  993.2    1e-299 pheophorbide a oxygenase [EC:1.14.15.17]
+* Pn17.590            K19033   26.93   77.0   7.8e-22 30S ribosomal protein S31
+* Pn17.593            K01876  308.87  843.1  1.1e-253 aspartyl-tRNA synthetase [EC:6.1.1.12]
+* Pn17.594            K18213  275.27  752.6  1.7e-226 proteinaceous RNase P [EC:3.1.26.5]
+* Pn17.596            K14944  235.90  323.1   1.6e-96 RNA-binding protein Nova
+* Pn17.609            K14007  211.30 1087.2         0 protein transport protein SEC24
+* Pn17.611            K02730  251.53  499.0  5.2e-150 20S proteasome subunit alpha 1 [EC:3.4.25.1]
+* Pn17.614            K15304  126.07  289.2   4.2e-86 Ran-binding protein 3
+* Pn17.618            K09422  126.07  253.5   1.6e-75 transcription factor MYB, plant
+* Pn17.620            K23553   66.40  354.4  4.7e-106 post-GPI attachment to proteins factor 3
+* Pn17.621            K09250  103.00  185.9   6.7e-55 cellular nucleic acid-binding protein
+* Pn17.622            K16298  521.57  841.3  1.6e-253 serine carboxypeptidase-like clade IV [EC:3.4.16.-]
+* Pn17.626            K13496  706.90  724.6  2.7e-218 UDP-glucosyltransferase 73C [EC:2.4.1.-]
+* Pn17.627            K12193  153.57  349.5  1.2e-104 charged multivesicular body protein 3
+* Pn17.628            K14721   82.30  303.8   1.1e-90 DNA-directed RNA polymerase III subunit RPC5
+* Pn17.644            K20368   27.47  166.9   4.3e-49 protein cornichon
+* Pn17.645            K23222   76.03  125.2   1.2e-36 nuclease HARBI1 [EC:3.1.-.-]
+* Pn17.646            K15691  114.17  404.8  2.7e-121 E3 ubiquitin-protein ligase RFWD3 [EC:2.3.2.27]
+* Pn17.647            K08235  152.70  389.4  1.3e-116 xyloglucan:xyloglucosyl transferase [EC:2.4.1.207]
+* Pn17.650            K19202   30.60   46.7   1.3e-12 histone deacetylase complex subunit SAP30
+* Pn17.653            K20889  490.13  674.4  3.1e-203 probable glucuronoxylan glucuronosyltransferase IRX7 [EC:2.4.1.-]
+* Pn17.654            K18162  215.07  501.9  7.1e-151 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 5 [EC:2.1.1.-]
+* Pn17.658            K03457  185.27  427.5  4.1e-128 nucleobase:cation symporter-1, NCS1 family
+* Pn17.660            K24028  365.17  369.9  9.2e-111 salicylic acid 3-hydroxylase [EC:1.14.11.-]
+* Pn5.3297            K17868  121.03  173.9   2.5e-51 diphthine methyl ester acylhydrolase [EC:3.1.1.97]
+* Pn5.3302            K17868  121.03  257.7   9.5e-77 diphthine methyl ester acylhydrolase [EC:3.1.1.97]
+* Pn5.3313            K01231 1152.37 1339.6         0 alpha-mannosidase II [EC:3.2.1.114]
+* Pn5.3321            K25476  116.47  264.5   3.9e-79 protein CREG
+* Pn5.3323            K10773  136.27  160.5   2.5e-47 endonuclease III [EC:4.2.99.18]
+* Pn5.3327            K17892   82.90   83.4   7.4e-24 ferredoxin-thioredoxin reductase catalytic chain [EC:1.8.7.2]
+* Pn5.3331            K15040   73.10   87.6   4.4e-25 voltage-dependent anion channel protein 2
+* Pn5.3336            K02151   61.93   67.0   6.4e-19 V-type H+-transporting ATPase subunit F
+* Pn5.3339            K09286   88.90  139.3   7.7e-41 EREBP-like factor
+* Pn5.3340            K02924   27.43  122.0   1.3e-35 large subunit ribosomal protein L39e
+* Pn5.3345            K17086  588.07  829.9  1.1e-249 transmembrane 9 superfamily member 2/4
+* Pn5.3349            K17569   98.17  204.9   1.3e-60 G patch domain-containing protein 2
+* Pn5.3350            K22314  151.70  162.9   4.4e-48 glucosinolate gamma-glutamyl hydrolase [EC:3.4.19.16]
+* Pn5.3352            K23345   83.93  218.8   6.1e-65 glomulin
+* Pn5.3374            K12607  187.40  549.5  5.7e-165 CCR4-NOT transcription complex subunit 10
+* Pn5.3375            K11138  162.77  233.8   1.2e-69 telomere-associated protein RIF1
+* Pn5.3377            K01892  283.67  571.7    8e-172 histidyl-tRNA synthetase [EC:6.1.1.21]
+* Pn5.3385            K18810  299.57  361.3  2.9e-108 cyclin D1/2/4, plant
+* Pn5.3389            K03512  466.63  518.1  1.9e-155 DNA polymerase lambda [EC:2.7.7.7 4.2.99.-]
+* Pn5.3390            K09377  133.43  143.1   4.9e-42 cysteine and glycine-rich protein
+* Pn5.3391            K02151   61.93  224.6   2.5e-67 V-type H+-transporting ATPase subunit F
+* Pn5.3400            K17868  121.03  287.9   6.7e-86 diphthine methyl ester acylhydrolase [EC:3.1.1.97]
+* Pn5.3278            K13153   50.47  132.9   6.7e-39 U11/U12 small nuclear ribonucleoprotein 25 kDa protein
+* Pn5.3435            K00759   95.53  325.4   1.7e-97 adenine phosphoribosyltransferase [EC:2.4.2.7]
+* Pn5.3437            K20168  572.27  722.8  2.8e-217 TBC1 domain family member 15
+* Pn5.3444            K06990   86.03  408.5  1.6e-122 MEMO1 family protein
+* Pn5.3445            K11366  390.80  662.3  5.3e-199 ubiquitin carboxyl-terminal hydrolase 22/27/51 [EC:3.4.19.12]
+* Pn5.3446            K03715  298.53  793.9  3.2e-239 1,2-diacylglycerol 3-beta-galactosyltransferase [EC:2.4.1.46]
+* Pn5.3452            K06990   86.03  403.9    4e-121 MEMO1 family protein
+* Pn5.3453            K11366  390.80  659.0  5.1e-198 ubiquitin carboxyl-terminal hydrolase 22/27/51 [EC:3.4.19.12]
+* Pn5.3454            K23568   50.70  195.1     6e-58 ER membrane protein complex subunit 7
+* Pn5.3455            K03715  298.53  793.9  3.2e-239 1,2-diacylglycerol 3-beta-galactosyltransferase [EC:2.4.1.46]
+* Pn5.3458            K23025  975.30 1448.7         0 H+-translocating diphosphatase [EC:7.1.3.1]
+* Pn5.3460            K02265   28.90   52.0   4.2e-14 cytochrome c oxidase subunit 5b
+* Pn5.3461            K07964  502.30  586.1  3.2e-176 heparanase [EC:3.2.1.166]
+* Pn5.3462            K03255  238.03 1124.3         0 protein TIF31
+* Pn5.3464            K22390  139.30  427.0  5.2e-128 acid phosphatase type 7
+* Pn5.3469            K10406  571.77  894.5  8.2e-269 kinesin family member C2/C3
+* Pn5.3473            K03012   46.97  103.5   6.6e-30 DNA-directed RNA polymerase II subunit RPB4
+* Pn5.3483            K10691  595.50 3593.9         0 E3 ubiquitin-protein ligase UBR4 [EC:2.3.2.27]
+* Pn5.3484            K10691  595.50 1641.5         0 E3 ubiquitin-protein ligase UBR4 [EC:2.3.2.27]
+* Pn5.3485            K10691  595.50  805.4    5e-242 E3 ubiquitin-protein ligase UBR4 [EC:2.3.2.27]
+* Pn5.3493            K06910  175.00  179.1   5.4e-53 phosphatidylethanolamine-binding protein
+* Pn5.3494            K08360  265.90  316.5   6.4e-95 transmembrane ascorbate-dependent reductase [EC:7.2.1.3]
+* Pn5.3495            K18749   56.77  169.6   5.8e-50 protein LSM14
+* Pn5.3500            K13128   67.93  294.1   1.3e-87 zinc finger CCHC domain-containing protein 8
+* Pn5.3507            K24195  254.77  723.0  2.2e-217 xenotropic and polytropic retrovirus receptor 1
+* Pn5.3508            K11991  166.00  393.6  7.4e-118 tRNA(adenine34) deaminase [EC:3.5.4.33]
+* Pn5.3509            K01358   53.23  317.4   4.7e-95 ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+* Pn5.3511            K01530  705.07 1413.3         0 phospholipid-translocating ATPase [EC:7.6.2.1]
+* Pn5.3513            K22068  273.50  312.0   1.3e-93 iron-sulfur cluster assembly enzyme ISCU, mitochondrial
+* Pn5.3515            K18819  161.70  588.2  2.9e-177 inositol 3-alpha-galactosyltransferase [EC:2.4.1.123]
+* Pn5.3516            K09422  126.07  236.9   1.8e-70 transcription factor MYB, plant
+* Pn5.3517            K24265  723.93 1086.7         0 bifunctional damage-control phosphatase, subfamily II, fusion protein
+* Pn5.3517            K09680  124.20  874.1  3.8e-263 type II pantothenate kinase [EC:2.7.1.33]
+* Pn5.3519            K08232  283.40  813.4  4.9e-245 monodehydroascorbate reductase (NADH) [EC:1.6.5.4]
+* Pn5.3520            K02935   24.87  179.6   3.8e-53 large subunit ribosomal protein L7/L12
+* Pn5.3522            K08835  397.33  620.1  2.1e-186 serine/threonine-protein kinase OSR1/STK39 [EC:2.7.11.1]
+* Pn5.3525            K01673   19.33  262.7   2.2e-78 carbonic anhydrase [EC:4.2.1.1]
+* Pn5.3526            K00430  113.80  481.3  2.2e-144 peroxidase [EC:1.11.1.7]
+* Pn5.3527            K00430  113.80  478.5  1.5e-143 peroxidase [EC:1.11.1.7]
+* Pn5.3532            K00122  302.60  694.0  5.2e-209 formate dehydrogenase [EC:1.17.1.9]
+* Pn5.3537            K15382   59.63  266.6   1.4e-79 solute carrier family 50 (sugar transporter)
+* Pn5.3538            K18466  161.00  585.7  5.5e-176 vacuolar protein sorting-associated protein 26A/B
+* Pn5.3541            K01462   50.80  214.2   8.4e-64 peptide deformylase [EC:3.5.1.88]
+* Pn5.3542            K01184  446.20  462.9  5.2e-139 polygalacturonase [EC:3.2.1.15]
+* Pn5.3544            K01184  446.20  522.1  5.7e-157 polygalacturonase [EC:3.2.1.15]
+* Pn5.3545            K05236  511.23 1951.9         0 coatomer subunit alpha
+* Pn5.3546            K24194  398.97 1002.7  4.6e-302 boron transporter
+* Pn5.3548            K15271  696.47 1307.1         0 ATP-dependent DNA helicase HFM1/MER3 [EC:5.6.2.4]
+* Pn5.3552            K14137  121.90  286.2   2.6e-85 protein prenyltransferase alpha subunit repeat containing protein 1
+* Pn5.3557            K03794  140.63  287.0   8.2e-86 sirohydrochlorin ferrochelatase [EC:4.99.1.4]
+* Pn5.3558            K08244  732.90 1850.3         0 alpha-glucan, water dikinase [EC:2.7.9.4]
+* Pn5.3564            K13192  412.20  520.1  5.4e-156 RNA-binding protein 26
+* Pn5.3566            K14962  177.77  411.1  2.2e-123 COMPASS component SWD2
+* Pn5.3567            K16903  329.37  635.0  2.4e-191 L-tryptophan---pyruvate aminotransferase [EC:2.6.1.99]
+* Pn5.3570            K20607  442.77  715.4  3.4e-215 mitogen-activated protein kinase kinase 3 [EC:2.7.12.2]
+* Pn5.3571            K11790  174.30  468.1  2.7e-140 denticleless
+* Pn5.3580            K08272   75.63  567.5  1.3e-170 calcium binding protein 39
+* Pn5.3581            K01868  141.60  450.7    5e-135 threonyl-tRNA synthetase [EC:6.1.1.3]
+* Pn5.3594            K15423  545.27  645.7  8.5e-195 serine/threonine-protein phosphatase 4 catalytic subunit [EC:3.1.3.16]
+* Pn5.3599            K16732  123.33  365.4  3.3e-109 Ase1/PRC1/MAP65 family protein
+* Pn5.3601            K02970   28.13   54.4   5.8e-15 small subunit ribosomal protein S21
+* Pn5.3605            K09584  274.07  507.3  2.2e-152 protein disulfide-isomerase A6 [EC:5.3.4.1]
+* Pn57.5              K22069   42.50  100.4     4e-29 LYR motif-containing protein 4
+* Pn57.14             K11267  199.03  231.2   7.7e-69 sister chromatid cohesion protein PDS5
+* Pn5.3272            K23345   83.93  220.7   1.6e-65 glomulin
+* Pn5.3269            K22314  151.70  172.2   6.2e-51 glucosinolate gamma-glutamyl hydrolase [EC:3.4.19.16]
+* Pn5.3268            K17569   98.17  202.7   5.9e-60 G patch domain-containing protein 2
+* Pn5.3267            K17086  588.07  830.0  1.1e-249 transmembrane 9 superfamily member 2/4
+* Pn5.3260            K02924   27.43  121.5   1.8e-35 large subunit ribosomal protein L39e
+* Pn5.3259            K09286   88.90  138.4   1.4e-40 EREBP-like factor
+* Pn5.3246            K22069   42.50  100.4     4e-29 LYR motif-containing protein 4
+* Pn5.3232            K11267  199.03  230.8     1e-68 sister chromatid cohesion protein PDS5
+* Pn5.3229            K03263   43.97  305.7     7e-92 translation initiation factor 5A
+* Pn5.3227            K00550   73.70  283.5   3.9e-85 phosphatidyl-N-methylethanolamine N-methyltransferase [EC:2.1.1.71]
+* Pn5.3223            K17086  588.07 1102.0         0 transmembrane 9 superfamily member 2/4
+* Pn5.3219            K08503  146.10  401.5  4.5e-121 syntaxin of plants SYP5
+* Pn5.3217            K16297  480.00  710.2  8.9e-214 serine carboxypeptidase-like clade II [EC:3.4.16.-]
+* Pn5.3210            K01872  196.70 1241.0         0 alanyl-tRNA synthetase [EC:6.1.1.7]
+* Pn5.3209            K10999 1165.60 1983.6         0 cellulose synthase A [EC:2.4.1.12]
+* Pn5.3201            K01872  196.70 1242.3         0 alanyl-tRNA synthetase [EC:6.1.1.7]
+* Pn5.3200            K10999 1165.60 1985.8         0 cellulose synthase A [EC:2.4.1.12]
+* Pn5.3197            K03260  113.87  526.5  6.1e-158 translation initiation factor 4G
+* Pn5.3187            K00365  281.10  387.5  6.1e-116 urate oxidase [EC:1.7.3.3]
+* Pn5.3184            K10908  617.67 1133.0         0 DNA-directed RNA polymerase, mitochondrial [EC:2.7.7.6]
+* Pn5.3183            K16297  480.00  511.5  1.3e-153 serine carboxypeptidase-like clade II [EC:3.4.16.-]
+* Pn5.3182            K14851   38.47   88.3   3.1e-25 ribosomal RNA-processing protein 17
+* Pn5.3178            K09422  126.07  252.7   2.7e-75 transcription factor MYB, plant
+* Pn5.3170            K11855  415.83  417.5  5.9e-125 ubiquitin carboxyl-terminal hydrolase 36/42 [EC:3.4.19.12]
+* Pn5.2681            K14313   94.77  154.7   1.8e-45 nuclear pore complex protein Nup53
+* Pn5.2698            K17550  203.03  290.7   7.8e-87 protein phosphatase 1 regulatory subunit 7
+* Pn5.2708            K14137  121.90  267.2   1.5e-79 protein prenyltransferase alpha subunit repeat containing protein 1
+* Pn5.2712            K00327  571.60  920.0  6.1e-277 NADPH-ferrihemoprotein reductase [EC:1.6.2.4]
+* Pn5.1930            K06085   86.30  403.8  6.2e-121 synovial sarcoma, X breakpoint 2 interacting protein
+* Pn5.1924            K04077  136.20  211.1   1.4e-62 chaperonin GroEL
+* Pn5.1923            K12846   51.93  124.7   1.6e-36 U4/U6.U5 tri-snRNP-associated protein 3
+* Pn5.1916            K15404  546.53  587.3  2.8e-176 aldehyde decarbonylase [EC:4.1.99.5]
+* Pn5.1909            K00029  295.10 1005.2  5.7e-303 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+* Pn5.1905            K25112   99.53  235.9   3.2e-70 thioredoxin-related transmembrane protein 2
+* Pn5.1898            K00844   72.77  610.0  2.8e-183 hexokinase [EC:2.7.1.1]
+* Pn5.1894            K03327  104.53  380.2  1.1e-113 multidrug resistance protein, MATE family
+* Pn5.1892            K14376   98.97  839.2  1.2e-252 poly(A) polymerase [EC:2.7.7.19]
+* Pn5.1883            K01051   76.27  412.3  1.1e-123 pectinesterase [EC:3.1.1.11]
+* Pn5.1882            K05759   30.03   95.5   1.4e-27 profilin
+* Pn5.1877            K07042   61.37  147.8   2.1e-43 probable rRNA maturation factor
+* Pn5.1869            K00850  352.87  471.5  2.1e-141 6-phosphofructokinase 1 [EC:2.7.1.11]
+* Pn5.1860            K22763  101.87  219.1   4.7e-65 deubiquitinase DESI2 [EC:3.4.19.12]
+* Pn5.1854            K22763  101.87  218.4     8e-65 deubiquitinase DESI2 [EC:3.4.19.12]
+* Pn5.1853            K01412  414.83  630.5  1.5e-189 mitochondrial-processing peptidase subunit alpha [EC:3.4.24.64]
+* Pn5.1852            K01409  400.97  580.3  1.3e-174 N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+* Pn5.1848            K12194  132.50  293.7   8.3e-88 charged multivesicular body protein 4A/B
+* Pn5.1827            K09422  126.07  245.7   3.9e-73 transcription factor MYB, plant
+* Pn5.1822            K00469   97.50  560.7  7.3e-169 inositol oxygenase [EC:1.13.99.1]
+* Pn5.1821            K02732  154.67  342.5  7.2e-103 20S proteasome subunit beta 6 [EC:3.4.25.1]
+* Pn5.1819            K15275  310.47  410.5  3.3e-123 solute carrier family 35 (UDP-galactose transporter), member B1
+* Pn5.1815            K11434  470.40  624.0  1.4e-187 type I protein arginine methyltransferase [EC:2.1.1.319]
+* Pn5.1811            K03680  246.13  671.7    3e-202 translation initiation factor eIF-2B subunit delta
+* Pn5.1807            K01762  737.63  797.5  3.8e-240 1-aminocyclopropane-1-carboxylate synthase [EC:4.4.1.14]
+* Pn5.1799            K02903   40.90  152.0   1.1e-44 large subunit ribosomal protein L28e
+* Pn55.41             K00430  113.80  479.6  7.2e-144 peroxidase [EC:1.11.1.7]
+* Pn55.40             K00430  113.80  236.2   3.6e-70 peroxidase [EC:1.11.1.7]
+* Pn55.36             K18649  240.47  465.3  2.7e-140 inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase [EC:3.1.3.25 3.1.3.93 3.1.3.15]
+* Pn55.31             K25786  101.77  217.6   4.6e-65 bZIP transcription factor 1/2/11/44/53
+* Pn55.22             K05610  306.70  502.8  4.9e-151 ubiquitin carboxyl-terminal hydrolase L5 [EC:3.4.19.12]
+* Pn55.13             K00975  197.27  662.3  1.7e-199 glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]
+* Pn55.12             K19355   92.57  605.4  6.9e-182 mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]
+* Pn55.9              K13126  201.80  476.4  9.7e-143 polyadenylate-binding protein
+* Pn55.7              K14791  261.90  646.4    3e-194 periodic tryptophan protein 1
+* Pn5.2725            K02903   40.90  146.4   5.3e-43 large subunit ribosomal protein L28e
+* Pn5.2726            K19327  482.77  486.1  8.1e-146 anoctamin-10
+* Pn5.2727            K07263  242.40  245.9   4.9e-73 zinc protease [EC:3.4.24.-]
+* Pn5.2729            K01369  219.37  671.5  3.7e-202 legumain [EC:3.4.22.34]
+* Pn5.2733            K05539  242.87  509.5  4.9e-153 tRNA-dihydrouridine synthase A [EC:1.-.-.-]
+* Pn5.2741            K09481   28.47   96.5   1.2e-27 protein transport protein SEC61 subunit beta
+* Pn5.2755            K16290  532.57  679.0  3.5e-204 xylem cysteine proteinase [EC:3.4.22.-]
+* Pn5.2756            K24854  409.13  497.5  1.6e-149 damage-control phosphatase, subfamily II, stand-alone protein [EC:3.1.3.-]
+* Pn5.2761            K00021  212.10  763.5  8.5e-230 hydroxymethylglutaryl-CoA reductase (NADPH) [EC:1.1.1.34]
+* Pn5.2764            K06934   42.20   48.6   2.5e-13 uncharacterized protein
+* Pn5.2770            K15135   78.73  212.8   2.5e-63 mediator of RNA polymerase II transcription subunit 18
+* Pn5.2772            K12836  210.30  404.7  1.6e-121 splicing factor U2AF 35 kDa subunit
+* Pn5.2774            K22736   36.20   46.6   1.2e-12 vacuolar iron transporter family protein
+* Pn5.2775            K08867  273.07  443.0  8.7e-133 WNK lysine deficient protein kinase [EC:2.7.11.1]
+* Pn5.2779            K14494  256.90  333.8   1.1e-99 DELLA protein
+* Pn5.2781            K15032   75.30  104.8   1.7e-30 mTERF domain-containing protein, mitochondrial
+* Pn5.2789            K14494  256.90  333.8   1.1e-99 DELLA protein
+* Pn5.2791            K15032   75.30  104.9   1.6e-30 mTERF domain-containing protein, mitochondrial
+* Pn5.2800            K14172  348.00  563.3  5.9e-170 light-harvesting complex II chlorophyll a/b binding protein 7
+* Pn5.2801            K08867  273.07  397.5  5.1e-119 WNK lysine deficient protein kinase [EC:2.7.11.1]
+* Pn5.2803            K08867  273.07  456.1    1e-136 WNK lysine deficient protein kinase [EC:2.7.11.1]
+* Pn5.2804            K00857   68.83  236.4   2.3e-70 thymidine kinase [EC:2.7.1.21]
+* Pn5.2806            K14411  286.33  350.0  7.7e-105 RNA-binding protein Musashi
+* Pn5.2811            K09422  126.07  263.6   1.4e-78 transcription factor MYB, plant
+* Pn5.2813            K00430  113.80  506.8  4.2e-152 peroxidase [EC:1.11.1.7]
+* Pn5.2813            K01000  189.77  366.2  1.5e-109 phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]
+* Pn5.2814            K00430  113.80  478.0  2.1e-143 peroxidase [EC:1.11.1.7]
+* Pn5.2819            K00430  113.80  154.4   2.2e-45 peroxidase [EC:1.11.1.7]
+* Pn5.2823            K18649  240.47  464.5  4.9e-140 inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase / histidinol-phosphatase [EC:3.1.3.25 3.1.3.93 3.1.3.15]
+* Pn5.2827            K25786  101.77  217.7   4.3e-65 bZIP transcription factor 1/2/11/44/53
+* Pn5.2837            K05610  306.70  503.1  4.2e-151 ubiquitin carboxyl-terminal hydrolase L5 [EC:3.4.19.12]
+* Pn5.2847            K00975  197.27  663.2  9.2e-200 glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]
+* Pn5.2848            K19355   92.57  606.0  4.5e-182 mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]
+* Pn5.2851            K03595  163.20  166.1   4.9e-49 GTPase
+* Pn5.2853            K13126  201.80  658.3  9.6e-198 polyadenylate-binding protein
+* Pn5.2855            K14791  261.90  646.4  2.9e-194 periodic tryptophan protein 1
+* Pn5.2862            K15454  460.37  513.4  5.1e-154 tRNA pseudouridine32 synthase [EC:5.4.99.28]
+* Pn5.2871            K05929  210.13  238.0   9.2e-71 phosphoethanolamine N-methyltransferase [EC:2.1.1.103]
+* Pn5.2873            K20893  425.63  512.7  1.9e-154 probable galacturonosyltransferase-like 1 [EC:2.4.1.-]
+* Pn5.2891            K06184  732.90  953.7  3.9e-287 ATP-binding cassette, subfamily F, member 1
+* Pn5.2891            K06158  527.67  703.1  1.9e-211 ATP-binding cassette, subfamily F, member 3
+* Pn5.2892            K10781  413.07  582.7  3.8e-175 fatty acyl-ACP thioesterase B [EC:3.1.2.14 3.1.2.21]
+* Pn5.2893            K12850  119.57  316.8   8.9e-95 pre-mRNA-splicing factor 38B
+* Pn5.2894            K14484   88.07  205.2   6.4e-61 auxin-responsive protein IAA
+* Pn5.2895            K14484   88.07  188.1   1.1e-55 auxin-responsive protein IAA
+* Pn5.2897            K11584  256.60  628.0  1.4e-188 serine/threonine-protein phosphatase 2A regulatory subunit B'
+* Pn5.2898            K18404  112.87  212.3   6.8e-63 tudor domain-containing protein 3
+* Pn5.2905            K13464   34.33   41.4     8e-11 jasmonate ZIM domain-containing protein
+* Pn5.2906            K04124  292.87  572.1  4.2e-172 gibberellin 3beta-dioxygenase [EC:1.14.11.15]
+* Pn5.2910            K11816  313.27  514.9  1.3e-154 indole-3-pyruvate monooxygenase [EC:1.14.13.168]
+* Pn5.2911            K14803  366.73  380.6  3.5e-114 protein phosphatase PTC2/3 [EC:3.1.3.16]
+* Pn5.2925            K11593  433.27 1354.1         0 eukaryotic translation initiation factor 2C
+* Pn5.2929            K14494  256.90  745.0    7e-224 DELLA protein
+* Pn5.2936            K03066  513.67  879.4  2.6e-265 26S proteasome regulatory subunit T6
+* Pn5.2938            K24194  398.97 1038.6         0 boron transporter
+* Pn5.2939            K21867  380.03 1205.5         0 potassium channel
+* Pn5.2939            K06867  122.60  126.0   9.2e-37 uncharacterized protein
+* Pn5.2943            K07936  149.03  490.7  1.1e-147 GTP-binding nuclear protein Ran
+* Pn5.2949            K03320  155.20  344.0  6.1e-103 ammonium transporter, Amt family
+* Pn5.2950            K02265   28.90  192.0   6.3e-57 cytochrome c oxidase subunit 5b
+* Pn5.2952            K15104  341.47  444.4  1.2e-133 solute carrier family 25 (mitochondrial oxoglutarate transporter), member 11
+* Pn5.2971            K01530  705.07 1302.2         0 phospholipid-translocating ATPase [EC:7.6.2.1]
+* Pn5.2974            K03676   76.57   93.0   8.3e-27 glutaredoxin 3
+* Pn5.2975            K02914   24.17   48.0   7.2e-13 large subunit ribosomal protein L34
+* Pn5.2976            K09419  215.40  303.7   7.9e-91 heat shock transcription factor, other eukaryote
+* Pn5.2979            K02218  623.17  651.1  5.7e-196 casein kinase 1 [EC:2.7.11.1]
+* Pn5.2981            K04077  136.20  884.5  4.2e-266 chaperonin GroEL
+* Pn5.2991            K04424  625.70  819.3  2.2e-246 sterile alpha motif and leucine zipper containing kinase AZK [EC:2.7.11.25]
+* Pn5.2991            K14400  180.70  479.8  7.2e-144 pre-mRNA cleavage complex 2 protein Pcf11
+* Pn5.2992            K02891   40.57  227.6   9.4e-68 large subunit ribosomal protein L22e
+* Pn5.2997            K15178   96.37  272.2   4.8e-81 RNA polymerase-associated protein RTF1
+* Pn5.2998            K01535  576.63 1513.8         0 H+-transporting ATPase [EC:7.1.2.1]
+* Pn5.2999            K10808  634.07  661.0  3.4e-199 ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1]
+* Pn5.2999            K00526  153.67  308.3   3.9e-92 ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]
+* Pn5.3000            K03671  107.90  126.6   5.8e-37 thioredoxin 1
+* Pn5.3009            K00799   55.17  141.4   1.8e-41 glutathione S-transferase [EC:2.5.1.18]
+* Pn5.3011            K00799   55.17  134.6   2.1e-39 glutathione S-transferase [EC:2.5.1.18]
+* Pn5.3013            K20843  635.80  672.1  4.3e-202 hydroxyproline O-galactosyltransferase 2/3/4/5/6 [EC:2.4.1.-]
+* Pn5.3014            K09422  126.07  167.3   2.6e-49 transcription factor MYB, plant
+* Pn5.3018            K03845  211.57  505.5    8e-152 alpha-1,3-mannosyltransferase [EC:2.4.1.258]
+* Pn5.3020            K10418   84.23  132.4   5.3e-39 dynein light chain LC8-type
+* Pn5.3025            K12603  302.10  508.4  1.2e-152 CCR4-NOT transcription complex subunit 6 [EC:3.1.13.4]
+* Pn5.3028            K11594  716.27  903.5    4e-272 ATP-dependent RNA helicase DDX3X [EC:3.6.4.13]
+* Pn5.3030            K11594  716.27  916.7    4e-276 ATP-dependent RNA helicase DDX3X [EC:3.6.4.13]
+* Pn5.3033            K04382  559.33  687.0    3e-207 serine/threonine-protein phosphatase 2A catalytic subunit [EC:3.1.3.16]
+* Pn5.3037            K12900  198.20  257.1     1e-76 serine/arginine-rich splicing factor 10
+* Pn5.3037            K19707  156.10  254.5   4.2e-76 sigma-B regulation protein RsbQ
+* Pn5.3039            K11594  716.27  916.5  4.7e-276 ATP-dependent RNA helicase DDX3X [EC:3.6.4.13]
+* Pn5.3041            K04382  559.33  687.0    3e-207 serine/threonine-protein phosphatase 2A catalytic subunit [EC:3.1.3.16]
+* Pn5.3042            K02291  166.77  218.6   7.2e-65 15-cis-phytoene synthase [EC:2.5.1.32]
+* Pn5.3046            K12900  198.20  244.6   6.6e-73 serine/arginine-rich splicing factor 10
+* Pn5.3047            K19707  156.10  261.2   3.9e-78 sigma-B regulation protein RsbQ
+* Pn5.3056            K07374  484.00  992.8  2.2e-299 tubulin alpha
+* Pn5.3067            K08867  273.07  595.0    1e-178 WNK lysine deficient protein kinase [EC:2.7.11.1]
+* Pn5.3069            K03787  154.37  272.9     2e-81 5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]
+* Pn5.3075            K23877  183.47  487.6  2.1e-146 xyloglucan O-acetyltransferase
+* Pn5.3082            K01890  122.63  651.7    8e-196 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* Pn5.3084            K15382   59.63  115.3   1.4e-33 solute carrier family 50 (sugar transporter)
+* Pn5.3086            K00430  113.80  319.6     2e-95 peroxidase [EC:1.11.1.7]
+* Pn5.3087            K10536   98.53  484.1    2e-145 agmatine deiminase [EC:3.5.3.12]
+* Pn5.3089            K03539   43.10   47.0     1e-12 ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5]
+* Pn5.3093            K18266  178.77  349.2  1.1e-104 protein NDRG1
+* Pn5.3096            K16055  763.23 1025.1         0 trehalose 6-phosphate synthase/phosphatase [EC:2.4.1.15 3.1.3.12]
+* Pn5.3099            K00797  100.53  163.3   3.5e-48 spermidine synthase [EC:2.5.1.16]
+* Pn5.3106            K10881   22.53   98.2   2.1e-28 26 proteasome complex subunit DSS1
+* Pn5.3111            K01868  141.60 1091.3         0 threonyl-tRNA synthetase [EC:6.1.1.3]
+* Pn5.3113            K10846  299.53  862.5  3.1e-259 DNA excision repair protein ERCC-5
+* Pn5.3116            K00873   50.03  690.1  9.4e-208 pyruvate kinase [EC:2.7.1.40]
+* Pn5.3119            K19307   84.17  114.7   2.4e-33 25S rRNA (uracil2634-N3)-methyltransferase [EC:2.1.1.313]
+* Pn5.3120            K19307   84.17  293.0   1.5e-87 25S rRNA (uracil2634-N3)-methyltransferase [EC:2.1.1.313]
+* Pn5.3124            K12639  619.37  769.1  6.2e-232 steroid 22S-hydroxylase [EC:1.14.14.178]
+* Pn5.3125            K07877  355.57  457.4  1.4e-137 Ras-related protein Rab-2A
+* Pn5.3127            K08917  295.87  460.2  1.1e-138 light-harvesting complex II chlorophyll a/b binding protein 6
+* Pn5.3130            K13648  566.33  910.7  2.9e-274 alpha-1,4-galacturonosyltransferase [EC:2.4.1.43]
+* Pn5.3131            K06699  248.00 1492.2         0 proteasome activator subunit 4
+* Pn5.3143            K18835  498.17  665.8  5.7e-200 WRKY transcription factor 2
+* Pn5.2658            K18835  498.17  665.1  9.4e-200 WRKY transcription factor 2
+* Pn5.2656            K11322  108.13  213.7   2.4e-63 enhancer of polycomb-like protein
+* Pn5.2655            K22683  387.33  403.7  5.1e-121 aspartyl protease family protein [EC:3.4.23.-]
+* Pn5.2654            K04079   60.10 1119.0         0 molecular chaperone HtpG
+* Pn5.2653            K04079   60.10   66.2   9.8e-19 molecular chaperone HtpG
+* Pn5.2652            K04079   60.10  732.8  2.7e-220 molecular chaperone HtpG
+* Pn5.2651            K04079   60.10  129.2     9e-38 molecular chaperone HtpG
+* Pn5.2650            K08235  152.70  492.2    9e-148 xyloglucan:xyloglucosyl transferase [EC:2.4.1.207]
+* Pn5.2649            K08235  152.70  184.8   1.4e-54 xyloglucan:xyloglucosyl transferase [EC:2.4.1.207]
+* Pn5.2646            K09338   75.40  174.3   1.8e-51 homeobox-leucine zipper protein
+* Pn5.2640            K07195  162.93  404.2  4.7e-121 exocyst complex component 7
+* Pn5.2630            K02357   74.57  696.9  5.1e-210 elongation factor Ts
+* Pn5.2626            K09834   82.73  480.5  3.2e-144 tocopherol cyclase [EC:5.5.1.24]
+* Pn5.2625            K09834   82.73  104.6   2.7e-30 tocopherol cyclase [EC:5.5.1.24]
+* Pn5.2624            K01243  110.87  132.6     9e-39 adenosylhomocysteine nucleosidase [EC:3.2.2.9]
+* Pn5.2620            K10527  684.23 1233.9         0 enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35 1.1.1.211]
+* Pn5.2618            K09338   75.40  126.5   6.1e-37 homeobox-leucine zipper protein
+* Pn5.2616            K19307   84.17   95.7   1.4e-27 25S rRNA (uracil2634-N3)-methyltransferase [EC:2.1.1.313]
+* Pn5.2613            K15029  390.17  558.7    1e-167 translation initiation factor 3 subunit L
+* Pn5.2609            K10418   84.23  128.6   8.1e-38 dynein light chain LC8-type
+* Pn5.2608            K24193  401.27  578.7  9.9e-174 MFS transporter, SP family, sugar:H+ symporter
+* Pn5.2605            K03100  109.87  238.2   6.4e-71 signal peptidase I [EC:3.4.21.89]
+* Pn5.2599            K02922   50.47  195.7     2e-58 large subunit ribosomal protein L37e
+* Pn5.2598            K11273  541.43 1021.4         0 chromosome transmission fidelity protein 1 [EC:3.6.4.13]
+* Pn5.2591            K06215  110.37  333.4  6.2e-100 pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]
+* Pn5.2589            K13960  213.90  304.4   3.5e-91 ubiquitin-conjugating enzyme E2 T [EC:2.3.2.23]
+* Pn5.2583            K24260  256.27  525.2  1.6e-157 WD repeat-containing protein 11
+* Pn5.2582            K24260  256.27  371.2  4.9e-111 WD repeat-containing protein 11
+* Pn5.2577            K25796  119.97  242.2   2.9e-72 plant-specific transcription factor YABBY family protein
+* Pn5.2570            K00626  494.83  585.2  8.1e-176 acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
+* Pn5.2568            K02935   24.87  166.2   4.7e-49 large subunit ribosomal protein L7/L12
+* Pn5.2564            K08065   95.90  249.3   3.2e-74 nuclear transcription Y subunit beta
+* Pn5.2562            K20891  187.17  291.2   4.9e-87 beta-glucuronosyltransferase [EC:2.4.1.-]
+* Pn5.2558            K24139   83.60  213.2   2.4e-63 auxin efflux carrier family protein
+* Pn5.2555            K01052  123.20  342.6  2.6e-102 lysosomal acid lipase/cholesteryl ester hydrolase [EC:3.1.1.13]
+* Pn5.2549            K02112  508.03  769.3  1.1e-231 F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1]
+* Pn5.2548            K12261  709.23  809.9  9.6e-244 2-hydroxyacyl-CoA lyase [EC:4.1.2.63]
+* Pn5.2546            K03327  104.53  209.9   3.4e-62 multidrug resistance protein, MATE family
+* Pn5.2545            K10781  413.07  429.1  1.3e-128 fatty acyl-ACP thioesterase B [EC:3.1.2.14 3.1.2.21]
+* Pn5.2544            K08730  464.03  684.9  6.3e-206 phosphatidylserine synthase 2 [EC:2.7.8.29]
+* Pn5.2541            K20353   89.73  762.7  4.8e-229 COPII coat assembly protein SEC16
+* Pn5.2528            K10529  504.80 1138.8         0 fatty acid alpha-dioxygenase [EC:1.13.11.92]
+* Pn5.2527            K04506   75.67  158.5   1.3e-46 E3 ubiquitin-protein ligase SIAH1 [EC:2.3.2.27]
+* Pn5.2520            K09286   88.90  101.8   2.1e-29 EREBP-like factor
+* Pn5.2516            K01602   45.23  249.4   1.3e-74 ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39]
+* Pn5.2510            K07574   36.83   38.8   3.5e-10 RNA-binding protein
+* Pn5.2508            K24260  256.27 1220.8         0 WD repeat-containing protein 11
+* Pn5.2503            K25796  119.97  242.2   2.9e-72 plant-specific transcription factor YABBY family protein
+* Pn5.2497            K16329  369.40  566.5  1.6e-170 pseudouridylate synthase [EC:4.2.1.70]
+* Pn5.2495            K00626  494.83  585.7  5.8e-176 acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
+* Pn5.2493            K02935   24.87  166.4   4.1e-49 large subunit ribosomal protein L7/L12
+* Pn5.2490            K08065   95.90  249.3   3.2e-74 nuclear transcription Y subunit beta
+* Pn5.2488            K20891  187.17  481.3    1e-144 beta-glucuronosyltransferase [EC:2.4.1.-]
+* Pn5.2485            K01358   53.23   55.6   2.4e-15 ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+* Pn5.2483            K24139   83.60  400.3  4.4e-120 auxin efflux carrier family protein
+* Pn5.2480            K01052  123.20  340.3  1.2e-101 lysosomal acid lipase/cholesteryl ester hydrolase [EC:3.1.1.13]
+* Pn5.2474            K12261  709.23  805.3  2.3e-242 2-hydroxyacyl-CoA lyase [EC:4.1.2.63]
+* Pn5.2472            K03327  104.53  244.4   1.2e-72 multidrug resistance protein, MATE family
+* Pn5.2471            K10781  413.07  429.1  1.3e-128 fatty acyl-ACP thioesterase B [EC:3.1.2.14 3.1.2.21]
+* Pn5.2470            K08730  464.03  684.9  6.3e-206 phosphatidylserine synthase 2 [EC:2.7.8.29]
+* Pn5.2467            K20353   89.73  763.0  4.1e-229 COPII coat assembly protein SEC16
+* Pn5.2452            K10529  504.80 1142.2         0 fatty acid alpha-dioxygenase [EC:1.13.11.92]
+* Pn5.2451            K04506   75.67  158.5   1.3e-46 E3 ubiquitin-protein ligase SIAH1 [EC:2.3.2.27]
+* Pn5.2447            K09286   88.90  102.0   1.8e-29 EREBP-like factor
+* Pn5.2444            K01602   45.23  248.6   2.3e-74 ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39]
+* Pn5.2440            K07574   36.83   38.9   3.3e-10 RNA-binding protein
+* Pn5.2435            K20725   55.17  107.9   3.7e-31 MAP kinase substrate 1
+* Pn5.2427            K08235  152.70  385.7  1.7e-115 xyloglucan:xyloglucosyl transferase [EC:2.4.1.207]
+* Pn5.2420            K11507   82.93  299.1   1.9e-89 centromere protein O
+* Pn5.2414            K01535  576.63 1581.9         0 H+-transporting ATPase [EC:7.1.2.1]
+* Pn5.2409            K14816  103.10  377.7    4e-113 pre-60S factor REI1
+* Pn5.2408            K14816  103.10  362.6  1.5e-108 pre-60S factor REI1
+* Pn5.2406            K00784   91.90  638.7  5.8e-192 ribonuclease Z [EC:3.1.26.11]
+* Pn5.2405            K10664  222.20  254.3   1.1e-75 E3 ubiquitin-protein ligase ATL6/9/15/31/42/55 [EC:2.3.2.27]
+* Pn5.2403            K09873  271.70  339.3  9.7e-102 aquaporin TIP
+* Pn5.2402            K09873  271.70  389.1  7.1e-117 aquaporin TIP
+* Pn5.2401            K02937   99.10  457.1  1.5e-137 large subunit ribosomal protein L7e
+* Pn5.2397            K21444  226.80  271.1   9.7e-81 poly(rC)-binding protein 3/4
+* Pn5.2396            K14810  358.20  660.8  1.3e-198 ATP-dependent RNA helicase DDX56/DBP9 [EC:3.6.4.13]
+* Pn5.2393            K07195  162.93  595.2    8e-179 exocyst complex component 7
+* Pn5.2392            K07226   70.67  109.7   8.7e-32 heme oxygenase (biliverdin-IX-beta and delta-forming) [EC:1.14.99.58]
+* Pn5.2384            K18469  297.03  495.2  1.6e-148 TBC1 domain family member 5
+* Pn5.2381            K15333  130.53  277.8   7.5e-83 tRNA guanosine-2'-O-methyltransferase [EC:2.1.1.34]
+* Pn5.2374            K01534  720.23  953.5  4.4e-287 Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]
+* Pn5.2371            K23541   34.90   35.2   2.7e-09 Ca2+/H+ antiporter, TMEM165/GDT1 family
+* Pn5.2369            K17943  119.50  761.6  6.4e-229 pumilio RNA-binding family
+* Pn5.2364            K14488   34.97  107.1   7.1e-31 SAUR family protein
+* Pn5.2362            K14488   34.97   96.8   9.7e-28 SAUR family protein
+* Pn5.2361            K17771   27.73   65.2   2.9e-18 mitochondrial import receptor subunit TOM7
+* Pn5.2360            K10206  377.70  845.8  1.3e-254 LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+* Pn5.2359            K15032   75.30  169.7   3.8e-50 mTERF domain-containing protein, mitochondrial
+* Pn5.2356            K14486  150.40  858.7  2.2e-258 auxin response factor
+* Pn5.2355            K02738  329.97  395.8  5.3e-119 20S proteasome subunit beta 1 [EC:3.4.25.1]
+* Pn5.2354            K01961  743.73  870.6  3.5e-262 acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]
+* Pn5.2350            K15601  540.30 1011.6         0 [histone H3]-dimethyl-L-lysine9 demethylase [EC:1.14.11.65]
+* Pn5.2338            K19893  437.63  630.2  6.9e-190 glucan endo-1,3-beta-glucosidase 5/6 [EC:3.2.1.39]
+* Pn5.2327            K19893  437.63  841.4  6.1e-254 glucan endo-1,3-beta-glucosidase 5/6 [EC:3.2.1.39]
+* Pn5.2326            K02516  152.10  182.4   6.7e-54 type II protein arginine methyltransferase [EC:2.1.1.320]
+* Pn5.2325            K07300   83.23  591.5  6.1e-178 Ca2+:H+ antiporter
+* Pn5.2292            K05387  482.73  488.6  1.7e-146 glutamate receptor, ionotropic, plant
+* Pn5.2288            K19893  437.63  475.8  4.5e-143 glucan endo-1,3-beta-glucosidase 5/6 [EC:3.2.1.39]
+* Pn5.2287            K02516  152.10  194.1     2e-57 type II protein arginine methyltransferase [EC:2.1.1.320]
+* Pn5.2286            K07300   83.23  580.0    2e-174 Ca2+:H+ antiporter
+* Pn5.2275            K03264   72.03  529.0  1.3e-159 translation initiation factor 6
+* Pn5.2273            K03438  127.10  397.5  3.7e-119 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* Pn5.2272            K04498  372.43 1049.5         0 E1A/CREB-binding protein [EC:2.3.1.48]
+* Pn5.2271            K22314  151.70  274.0   6.9e-82 glucosinolate gamma-glutamyl hydrolase [EC:3.4.19.16]
+* Pn5.2269            K09422  126.07  219.2   4.3e-65 transcription factor MYB, plant
+* Pn5.2265            K02993   44.20  332.5     1e-99 small subunit ribosomal protein S7e
+* Pn5.2264            K11376   83.53  185.4   9.3e-55 elongator complex protein 5
+* Pn5.2248            K15115  300.03  407.8  1.7e-122 solute carrier family 25 (mitochondrial folate transporter), member 32
+* Pn5.2240            K06611  964.10 1552.1         0 stachyose synthetase [EC:2.4.1.67]
+* Pn5.2239            K11841  213.17  512.5  9.9e-154 ubiquitin carboxyl-terminal hydrolase 10 [EC:3.4.19.12]
+* Pn5.2229            K18693  197.67  439.9  6.9e-132 diacylglycerol diphosphate phosphatase / phosphatidate phosphatase [EC:3.1.3.81 3.1.3.4]
+* Pn5.2226            K18693  197.67  200.5   2.2e-59 diacylglycerol diphosphate phosphatase / phosphatidate phosphatase [EC:3.1.3.81 3.1.3.4]
+* Pn5.2222            K09287   85.60  445.8  5.6e-134 RAV-like factor
+* Pn5.2220            K00145  144.23  272.7   2.1e-81 N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]
+* Pn5.2219            K01265  137.77  427.3  4.3e-128 methionyl aminopeptidase [EC:3.4.11.18]
+* Pn5.2215            K00103  372.67  499.0  6.2e-150 L-gulonolactone oxidase [EC:1.1.3.8]
+* Pn5.2212            K01728  165.50  440.4  4.1e-132 pectate lyase [EC:4.2.2.2]
+* Pn5.2211            K01754  257.33  533.2  3.6e-160 threonine dehydratase [EC:4.3.1.19]
+* Pn5.2205            K09873  271.70  428.1  9.4e-129 aquaporin TIP
+* Pn5.2201            K10703   67.57  326.4   1.1e-97 very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase [EC:4.2.1.134]
+* Pn5.2198            K17471  991.53  997.7    1e-300 sulfate transporter 3
+* Pn5.2190            K09489 1109.30 1209.0         0 heat shock 70kDa protein 4
+* Pn5.2187            K08287  480.17  562.6    3e-169 dual-specificity kinase [EC:2.7.12.1]
+* Pn5.2183            K07157  136.17  155.2     1e-45 uncharacterized protein
+* Pn5.2181            K00279  240.23  845.7  1.1e-254 cytokinin dehydrogenase [EC:1.5.99.12]
+* Pn5.2177            K20726   95.67  243.7   1.2e-72 transmembrane protein 222
+* Pn5.2167            K01990  261.13  270.2   1.7e-80 ABC-2 type transport system ATP-binding protein
+* Pn5.2164            K02989  260.07  474.4  1.7e-142 small subunit ribosomal protein S5e
+* Pn5.2163            K11681 1032.97 1304.9         0 helicase SWR1 [EC:5.6.2.-]
+* Pn5.2160            K10581  296.67  535.4    1e-160 ubiquitin-conjugating enzyme E2 O [EC:2.3.2.24]
+* Pn5.2158            K00760   95.93  188.7   6.1e-56 hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+* Pn5.2146            K15397  182.80  535.4  8.2e-161 3-ketoacyl-CoA synthase [EC:2.3.1.199]
+* Pn5.2144            K14431  125.50  627.0  9.6e-189 transcription factor TGA
+* Pn5.2143            K14820   99.03  150.1     4e-44 ribosome biogenesis protein BRX1
+* Pn5.2142            K14820   99.03  105.0     2e-30 ribosome biogenesis protein BRX1
+* Pn5.2141            K16810  202.77  532.0  1.1e-159 TBCC domain-containing protein 1
+* Pn5.2136            K14509  429.20  469.8  6.2e-141 ethylene receptor [EC:2.7.13.-]
+* Pn5.2133            K19893  437.63  684.4  2.5e-206 glucan endo-1,3-beta-glucosidase 5/6 [EC:3.2.1.39]
+* Pn5.2123            K03426   89.57  278.3   4.8e-83 NAD+ diphosphatase [EC:3.6.1.22]
+* Pn5.2123            K00472  165.33  208.7   7.8e-62 prolyl 4-hydroxylase [EC:1.14.11.2]
+* Pn5.2117            K05666 1813.13 1953.3         0 ATP-binding cassette, subfamily C (CFTR/MRP), member 2
+* Pn5.2112            K05666 1813.13 1966.8         0 ATP-binding cassette, subfamily C (CFTR/MRP), member 2
+* Pn5.2110            K10999 1165.60 2053.1         0 cellulose synthase A [EC:2.4.1.12]
+* Pn5.2106            K15280  196.47  210.0   2.2e-62 solute carrier family 35, member C2
+* Pn5.2105            K01184  446.20  493.9    2e-148 polygalacturonase [EC:3.2.1.15]
+* Pn5.2100            K03025   71.77  181.1   1.7e-53 DNA-directed RNA polymerase III subunit RPC6
+* Pn5.2099            K09286   88.90  130.8     3e-38 EREBP-like factor
+* Pn5.2098            K01115  109.87  656.2  4.6e-197 phospholipase D1/2 [EC:3.1.4.4]
+* Pn5.2086            K23280  343.57  911.0  9.3e-275 rhamnogalacturonan I rhamnosyltransferase [EC:2.4.1.351]
+* Pn5.2073            K05387  482.73  791.4  6.6e-238 glutamate receptor, ionotropic, plant
+* Pn5.2071            K05387  482.73  642.0  8.1e-193 glutamate receptor, ionotropic, plant
+* Pn5.2070            K15440  295.83  317.0   1.1e-94 tRNA-specific adenosine deaminase 1 [EC:3.5.4.34]
+* Pn5.2069            K13120   53.13  137.5     2e-40 protein FAM32A
+* Pn5.2065            K22855   77.93   87.1   4.9e-25 EEF1A lysine methyltransferase 1 [EC:2.1.1.-]
+* Pn5.2064            K20347  182.73  214.3   1.5e-63 p24 family protein beta-1
+* Pn5.2060            K02692  124.53  337.9  1.1e-101 photosystem I subunit II
+* Pn5.2059            K17972  159.17  176.2   2.9e-52 N-terminal acetyltransferase B complex catalytic subunit [EC:2.3.1.254]
+* Pn5.2058            K04120 1016.13 1136.5         0 ent-copalyl diphosphate synthase [EC:5.5.1.13]
+* Pn5.2053            K21248  100.47  475.5  8.5e-143 vacuole membrane protein 1
+* Pn5.2047            K03164  325.53 2058.7         0 DNA topoisomerase II [EC:5.6.2.2]
+* Pn5.2027            K08081  276.83  286.7   1.6e-85 tropinone reductase I [EC:1.1.1.206]
+* Pn5.2024            K13201  210.27  228.6   7.2e-68 nucleolysin TIA-1/TIAR
+* Pn5.2024            K25102  160.53  220.8   1.1e-65 tRNA selenocysteine 1-associated protein 1
+* Pn68.11             K14396   92.27  100.7   4.4e-29 polyadenylate-binding protein 2
+* Pn2.636             K14018  219.63  321.5   4.7e-96 phospholipase A-2-activating protein
+* Pn2.626             K14018  219.63  325.7   2.5e-97 phospholipase A-2-activating protein
+* Pn2.624             K17261   87.83  235.2   4.9e-70 adenylyl cyclase-associated protein
+* Pn2.620             K07090   42.73   59.8   1.1e-16 uncharacterized protein
+* Pn2.614             K15449  206.33  280.0     2e-83 tRNA wybutosine-synthesizing protein 1 [EC:4.1.3.44]
+* Pn2.613             K16302  205.77  305.0   4.8e-91 metal transporter CNNM
+* Pn2.609             K03937   54.10  197.0   2.4e-58 NADH dehydrogenase (ubiquinone) Fe-S protein 4
+* Pn2.605             K15040   73.10  167.7   1.9e-49 voltage-dependent anion channel protein 2
+* Pn2.600             K18667   59.90  536.5  5.7e-161 activating signal cointegrator complex subunit 2
+* Pn2.598             K02180  351.33  600.1  1.2e-180 cell cycle arrest protein BUB3
+* Pn2.592             K24997  251.43  524.8  1.1e-157 ganglioside-induced differentiation-associated protein 2
+* Pn2.592             K20871  223.97  462.9  4.1e-139 putative beta-1,4-xylosyltransferase IRX14 [EC:2.4.2.-]
+* Pn2.587             K18801  154.07  273.1   1.5e-81 glucuronoxylan 4-O-methyltransferase [EC:2.1.1.112]
+* Pn2.585             K03515  431.17  784.5  8.7e-236 DNA repair protein REV1 [EC:2.7.7.-]
+* Pn2.581             K20178  203.00 1258.8         0 vacuolar protein sorting-associated protein 8
+* Pn2.573             K00058  332.70  574.4  1.2e-172 D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399]
+* Pn2.571             K13176   62.40  232.0   3.6e-69 THO complex subunit 7
+* Pn2.570             K14505  308.83  488.3  1.3e-146 cyclin D3, plant
+* Pn2.568             K06627  346.73  462.6  7.3e-139 cyclin-A
+* Pn2.567             K15923  135.43  460.2  6.7e-138 alpha-L-fucosidase 2 [EC:3.2.1.51]
+* Pn2.563             K13126  201.80  576.9  3.8e-173 polyadenylate-binding protein
+* Pn2.561             K22419  237.80  417.8  4.9e-125 Delta4-3-oxosteroid 5beta-reductase [EC:1.3.1.3]
+* Pn2.548             K22857  197.03  287.1   7.3e-86 EEF1A lysine methyltransferase 4 [EC:2.1.1.-]
+* Pn2.544             K18592  588.33  664.2  9.3e-200 gamma-glutamyltranspeptidase / glutathione hydrolase / leukotriene-C4 hydrolase [EC:2.3.2.2 3.4.19.13 3.4.19.14]
+* Pn2.540             K02716   93.27  373.8  2.5e-112 photosystem II oxygen-evolving enhancer protein 1
+* Pn2.539             K19983  145.53  777.9  6.5e-234 exocyst complex component 1
+* Pn2.533             K17783  160.60  222.6     3e-66 mitochondrial FAD-linked sulfhydryl oxidase [EC:1.8.3.2]
+* Pn2.528             K14503  159.77  486.9  1.9e-146 brassinosteroid resistant 1/2
+* Pn2.522             K07297  161.70  219.9   2.5e-65 adiponectin receptor
+* Pn2.516             K11599   42.13   44.5   5.7e-12 proteasome maturation protein
+* Pn2.510             K16296  435.03  539.3  5.8e-162 serine carboxypeptidase-like clade I [EC:3.4.16.-]
+* Pn2.506             K01952  630.80 1760.7         0 phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]
+* Pn2.504             K09761   59.30  250.7   7.4e-75 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]
+* Pn2.499             K09285  278.43  429.1  9.4e-129 AP2-like factor, ANT lineage
+* Pn2.496             K15032   75.30   99.9   5.5e-29 mTERF domain-containing protein, mitochondrial
+* Pn2.495             K02920   41.37  196.2   2.4e-58 large subunit ribosomal protein L36e
+* Pn2.494             K01285  587.63  708.1  6.4e-213 lysosomal Pro-X carboxypeptidase [EC:3.4.16.2]
+* Pn2.493             K09338   75.40  222.9     3e-66 homeobox-leucine zipper protein
+* Pn2.491             K01181   92.37  192.8   4.3e-57 endo-1,4-beta-xylanase [EC:3.2.1.8]
+* Pn2.489             K00924  377.63  377.8  4.9e-113 kinase [EC:2.7.1.-]
+* Pn2.480             K00924  377.63  420.3  6.5e-126 kinase [EC:2.7.1.-]
+* Pn2.474             K03327  104.53  246.1   3.9e-73 multidrug resistance protein, MATE family
+* Pn2.469             K03327  104.53  530.1    5e-159 multidrug resistance protein, MATE family
+* Pn2.465             K01507   20.63  322.8   1.6e-96 inorganic pyrophosphatase [EC:3.6.1.1]
+* Pn2.464             K17744  417.60  592.1  9.9e-179 L-galactose dehydrogenase [EC:1.1.1.316]
+* Pn2.463             K14859   73.00  175.8   6.5e-52 ribosome biogenesis protein SSF1/2
+* Pn2.462             K08657  246.33  400.6  4.2e-120 taspase, threonine aspartase, 1 [EC:3.4.25.-]
+* Pn2.460             K13449  155.07  300.3     5e-90 pathogenesis-related protein 1
+* Pn2.459             K13449  155.07  299.1   1.2e-89 pathogenesis-related protein 1
+* Pn2.458             K00703  137.50  308.9   3.1e-92 starch synthase [EC:2.4.1.21]
+* Pn2.433             K13449  155.07  298.9   1.4e-89 pathogenesis-related protein 1
+* Pn2.432             K00703  137.50  147.5   2.1e-43 starch synthase [EC:2.4.1.21]
+* Pn2.429             K18195   96.83  880.5  5.9e-265 rhamnogalacturonan endolyase [EC:4.2.2.23]
+* Pn2.425             K03004   56.13   78.4   2.5e-22 DNA-directed RNA polymerase I subunit RPA43
+* Pn2.424             K03038  205.97  491.7  1.3e-147 26S proteasome regulatory subunit N8
+* Pn2.419             K00088  282.97  652.3  6.3e-196 IMP dehydrogenase [EC:1.1.1.205]
+* Pn2.406             K15032   75.30   82.6   9.2e-24 mTERF domain-containing protein, mitochondrial
+* Pn2.405             K13464   34.33   45.0   6.1e-12 jasmonate ZIM domain-containing protein
+* Pn2.404             K01662  335.33 1028.0         0 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]
+* Pn2.396             K15601  540.30  970.8  3.6e-292 [histone H3]-dimethyl-L-lysine9 demethylase [EC:1.14.11.65]
+* Pn2.393             K01431  312.97  731.7  2.3e-220 beta-ureidopropionase [EC:3.5.1.6]
+* Pn2.391             K01431  312.97  359.7  1.3e-107 beta-ureidopropionase [EC:3.5.1.6]
+* Pn2.390             K01431  312.97  614.7    7e-185 beta-ureidopropionase [EC:3.5.1.6]
+* Pn2.386             K02920   41.37  199.7     2e-59 large subunit ribosomal protein L36e
+* Pn2.385             K01285  587.63  717.7  8.2e-216 lysosomal Pro-X carboxypeptidase [EC:3.4.16.2]
+* Pn2.384             K09338   75.40  222.8   3.2e-66 homeobox-leucine zipper protein
+* Pn2.382             K01181   92.37  192.7   4.7e-57 endo-1,4-beta-xylanase [EC:3.2.1.8]
+* Pn2.380             K02949  159.60  327.2   5.2e-98 small subunit ribosomal protein S11e
+* Pn2.379             K19035   31.67   87.6   4.2e-25 50S ribosomal protein 6
+* Pn2.377             K00873   50.03  505.5  7.2e-152 pyruvate kinase [EC:2.7.1.40]
+* Pn2.372             K00924  377.63  418.7    2e-125 kinase [EC:2.7.1.-]
+* Pn2.367             K03327  104.53  530.1    5e-159 multidrug resistance protein, MATE family
+* Pn2.363             K01507   20.63  322.4   2.1e-96 inorganic pyrophosphatase [EC:3.6.1.1]
+* Pn2.362             K17744  417.60  594.7  1.5e-179 L-galactose dehydrogenase [EC:1.1.1.316]
+* Pn2.359             K14859   73.00  175.9   5.9e-52 ribosome biogenesis protein SSF1/2
+* Pn2.358             K08657  246.33  397.8    3e-119 taspase, threonine aspartase, 1 [EC:3.4.25.-]
+* Pn2.357             K13449  155.07  257.8   4.7e-77 pathogenesis-related protein 1
+* Pn2.356             K00703  137.50  310.0   1.4e-92 starch synthase [EC:2.4.1.21]
+* Pn2.355             K01610  113.97  963.4  4.6e-290 phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+* Pn2.354             K05349  314.83  376.6  9.7e-113 beta-glucosidase [EC:3.2.1.21]
+* Pn2.352             K03946   63.30  175.0   6.4e-52 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 2
+* Pn2.340             K13449  155.07  296.2   9.2e-89 pathogenesis-related protein 1
+* Pn2.339             K00703  137.50  141.3   1.6e-41 starch synthase [EC:2.4.1.21]
+* Pn2.338             K18195   96.83  437.9  2.8e-131 rhamnogalacturonan endolyase [EC:4.2.2.23]
+* Pn2.337             K22450   88.63  214.7   7.2e-64 aralkylamine N-acetyltransferase [EC:2.3.1.87]
+* Pn2.331             K21456  153.37  482.9  5.9e-145 glutathione synthase [EC:6.3.2.3]
+* Pn2.326             K03004   56.13   78.4   2.5e-22 DNA-directed RNA polymerase I subunit RPA43
+* Pn2.323             K00088  282.97  463.5  6.7e-139 IMP dehydrogenase [EC:1.1.1.205]
+* Pn2.315             K15032   75.30   91.7   1.6e-26 mTERF domain-containing protein, mitochondrial
+* Pn2.314             K13464   34.33   45.0   6.5e-12 jasmonate ZIM domain-containing protein
+* Pn2.308             K15601  540.30  991.2  2.4e-298 [histone H3]-dimethyl-L-lysine9 demethylase [EC:1.14.11.65]
+* Pn2.303             K01431  312.97  728.3  2.5e-219 beta-ureidopropionase [EC:3.5.1.6]
+* Pn2.296             K17255  267.03  283.7   8.3e-85 Rab GDP dissociation inhibitor
+* Pn2.287             K14005  235.23  972.0  2.4e-292 protein transport protein SEC31
+* Pn2.285             K16572  289.20  645.4  8.6e-194 gamma-tubulin complex component 5
+* Pn2.283             K02897   39.33  144.7   1.7e-42 large subunit ribosomal protein L25
+* Pn2.274             K14498  406.07  557.0  3.4e-167 serine/threonine-protein kinase SRK2 [EC:2.7.11.1]
+* Pn2.273             K19985  196.17  235.3     6e-70 exocyst complex component 6
+* Pn2.271             K13963  425.80  427.3  4.5e-128 serpin B
+* Pn2.270             K10400  593.10 1681.4         0 kinesin family member 15
+* Pn2.257             K01469  943.83 2047.4         0 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+* Pn2.246             K13648  566.33  724.0  8.6e-218 alpha-1,4-galacturonosyltransferase [EC:2.4.1.43]
+* Pn2.245             K00891  127.20  233.1   3.2e-69 shikimate kinase [EC:2.7.1.71]
+* Pn2.228             K10400  593.10 1039.5         0 kinesin family member 15
+* Pn2.189             K05389  126.00  138.8   9.4e-41 potassium channel subfamily K, other eukaryote
+* Pn2.188             K10878  296.03  299.0   3.3e-89 meiotic recombination protein SPO11
+* Pn2.187             K00640   92.77  276.6   9.6e-83 serine O-acetyltransferase [EC:2.3.1.30]
+* Pn2.158             K11876  159.23  253.0   1.9e-75 proteasome assembly chaperone 2
+* Pn2.155             K01723  627.07  720.9  3.3e-217 hydroperoxide dehydratase [EC:4.2.1.92]
+* Pn2.149             K13356  142.73  211.0   1.1e-62 alcohol-forming fatty acyl-CoA reductase [EC:1.2.1.84]
+* Pn2.146             K23869  196.63  685.6  2.2e-206 galactan beta-1,4-galactosyltransferase [EC:2.4.1.-]
+* Pn2.145             K20715  711.20 1105.7         0 phototropin [EC:2.7.11.1]
+* Pn2.125             K01674  234.37  362.5  1.1e-108 carbonic anhydrase [EC:4.2.1.1]
+* Pn2.124             K01859   65.53  241.7   3.2e-72 chalcone isomerase [EC:5.5.1.6]
+* Pn2.123             K07146  201.73  378.8  1.7e-113 UPF0176 protein
+* Pn2.111             K20890  245.77  889.4  8.1e-268 xylan alpha-glucuronosyltransferase [EC:2.4.1.-]
+* Pn2.103             K23869  196.63  675.7  2.1e-203 galactan beta-1,4-galactosyltransferase [EC:2.4.1.-]
+* Pn2.101             K20715  711.20 1111.2         0 phototropin [EC:2.7.11.1]
+* Pn2.92              K20890  245.77  889.6  7.2e-268 xylan alpha-glucuronosyltransferase [EC:2.4.1.-]
+* Pn2.91              K24730  221.33  323.8   1.1e-96 cytosolic iron-sulfur protein assembly protein CIAO1
+* Pn2.84              K00487  555.20  985.2  2.5e-297 trans-cinnamate 4-monooxygenase [EC:1.14.14.91]
+* Pn2.2083            K14293  244.60  579.1  7.2e-174 importin subunit beta-1
+* Pn2.2069            K16547  155.77  478.3  2.1e-143 protein NEDD1
+* Pn2.2047            K09286   88.90  142.8   6.4e-42 EREBP-like factor
+* Pn2.2044            K01728  165.50  217.8   1.2e-64 pectate lyase [EC:4.2.2.2]
+* Pn2.2043            K20359   65.47  198.6   5.3e-59 PRA1 family protein 1
+* Pn2.2041            K07195  162.93  575.7  6.5e-173 exocyst complex component 7
+* Pn2.2022            K19996  113.70  393.7  5.8e-118 phosphatidylinositol transfer protein SFH5
+* Pn2.2007            K13424  521.10  553.4  4.3e-166 WRKY transcription factor 33
+* Pn2.2006            K06874   78.87  146.1   4.7e-43 zinc finger protein
+* Pn2.1995            K22377  175.63  302.1     5e-90 E3 ubiquitin-protein ligase listerin [EC:2.3.2.27]
+* Pn2.1993            K13457  619.10  907.7  5.2e-273 disease resistance protein RPM1
+* Pn2.1992            K22377  175.63  302.1     5e-90 E3 ubiquitin-protein ligase listerin [EC:2.3.2.27]
+* Pn2.1990            K13424  521.10  552.9    6e-166 WRKY transcription factor 33
+* Pn2.1979            K13457  619.10  918.1  3.9e-276 disease resistance protein RPM1
+* Pn2.1978            K22377  175.63  302.1     5e-90 E3 ubiquitin-protein ligase listerin [EC:2.3.2.27]
+* Pn2.1968            K03301   80.00  108.5   1.3e-31 ATP:ADP antiporter, AAA family
+* Pn2.1967            K06901   98.60  589.5  2.5e-177 adenine/guanine/hypoxanthine permease
+* Pn2.1956            K00430  113.80  450.1    6e-135 peroxidase [EC:1.11.1.7]
+* Pn2.1950            K01953   99.97  448.2  2.5e-134 asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]
+* Pn2.1948            K23877  183.47  239.6   2.8e-71 xyloglucan O-acetyltransferase
+* Pn2.1944            K17506  309.43  319.2     2e-95 protein phosphatase 1L [EC:3.1.3.16]
+* Pn2.1943            K01501  279.03  348.3  2.3e-104 nitrilase [EC:3.5.5.1]
+* Pn2.1942            K01501  279.03  410.1  4.3e-123 nitrilase [EC:3.5.5.1]
+* Pn2.1936            K01501  279.03  408.4  1.4e-122 nitrilase [EC:3.5.5.1]
+* Pn2.1932            K01501  279.03  402.5  8.7e-121 nitrilase [EC:3.5.5.1]
+* Pn2.1931            K15100  264.50  376.8  4.9e-113 solute carrier family 25 (mitochondrial citrate transporter), member 1
+* Pn2.1920            K03885  199.80  517.4  2.6e-155 NADH:quinone reductase (non-electrogenic) [EC:1.6.5.9]
+* Pn2.1918            K22366   62.77  223.3   2.4e-66 thioredoxin reductase-like selenoprotein T
+* Pn2.1917            K20557  124.67  268.3   5.5e-80 transcription factor VIP1
+* Pn2.1911            K13412  534.20  721.4  3.9e-217 calcium-dependent protein kinase [EC:2.7.11.1]
+* Pn2.1904            K10257  440.27  629.0  1.6e-189 acyl-lipid omega-3 desaturase [EC:1.14.19.25 1.14.19.35 1.14.19.36]
+* Pn2.1897            K11368   34.07  164.3   6.1e-49 enhancer of yellow 2 transcription factor
+* Pn2.1874            K01623   46.60  222.7   4.6e-66 fructose-bisphosphate aldolase, class I [EC:4.1.2.13]
+* Pn2.1862            K08472  160.90  820.4    3e-247 mlo protein
+* Pn2.1860            K09481   28.47  127.0   5.1e-37 protein transport protein SEC61 subunit beta
+* Pn2.1858            K15286  215.77  231.0   7.5e-69 solute carrier family 35, member E4
+* Pn2.1852            K02154  431.53 1039.9         0 V-type H+-transporting ATPase subunit a
+* Pn2.1848            K00434  324.33  419.6  3.4e-126 L-ascorbate peroxidase [EC:1.11.1.11]
+* Pn2.1843            K17428   48.03  173.0   5.3e-51 large subunit ribosomal protein L47
+* Pn2.1839            K25006  141.00  203.4   3.8e-60 RNA-binding protein 24/38
+* Pn2.1838            K09284  280.03  326.9   1.5e-97 AP2-like factor, euAP2 lineage
+* Pn2.1813            K02864   55.00  207.2   1.8e-61 large subunit ribosomal protein L10
+* Pn2.1812            K12825   85.13  852.9  1.2e-256 splicing factor 3A subunit 1
+* Pn2.1810            K13430  481.77  649.3  1.7e-195 serine/threonine-protein kinase PBS1 [EC:2.7.11.1]
+* Pn2.1808            K11377   62.73   68.4   2.4e-19 elongator complex protein 6
+* Pn2.1807            K18732   53.77  111.4   3.6e-32 SAP domain-containing ribonucleoprotein
+* Pn2.1806            K01102  188.10  225.8   3.9e-67 pyruvate dehydrogenase phosphatase [EC:3.1.3.43]
+* Pn2.1805            K05794  123.90  174.0   2.3e-51 tellurite resistance protein TerC
+* Pn2.1801            K10398  589.47  913.5    1e-274 kinesin family member 11
+* Pn2.1785            K02864   55.00  208.6   6.5e-62 large subunit ribosomal protein L10
+* Pn2.1784            K12825   85.13  850.0  8.8e-256 splicing factor 3A subunit 1
+* Pn2.1781            K13430  481.77  651.4    4e-196 serine/threonine-protein kinase PBS1 [EC:2.7.11.1]
+* Pn2.1780            K18732   53.77  111.4   3.6e-32 SAP domain-containing ribonucleoprotein
+* Pn2.1779            K01102  188.10  194.9   9.3e-58 pyruvate dehydrogenase phosphatase [EC:3.1.3.43]
+* Pn2.1778            K05794  123.90  174.0   2.3e-51 tellurite resistance protein TerC
+* Pn2.1775            K10398  589.47  910.1  1.1e-273 kinesin family member 11
+* Pn2.1774            K20715  711.20 1440.9         0 phototropin [EC:2.7.11.1]
+* Pn2.1763            K01537  945.67  965.5  1.1e-290 P-type Ca2+ transporter type 2C [EC:7.2.2.10]
+* Pn2.1762            K15728  129.40  607.6  1.7e-182 phosphatidate phosphatase LPIN [EC:3.1.3.4]
+* Pn2.1761            K25829   67.53  113.1     6e-33 transcription elongation factor 1
+* Pn2.1759            K25829   67.53  113.1     6e-33 transcription elongation factor 1
+* Pn2.1754            K15131   60.00  140.3   3.2e-41 mediator of RNA polymerase II transcription subunit 11
+* Pn2.1748            K25829   67.53  117.2   3.3e-34 transcription elongation factor 1
+* Pn2.1746            K25829   67.53  116.3   6.5e-34 transcription elongation factor 1
+* Pn2.1744            K25829   67.53  116.1   7.4e-34 transcription elongation factor 1
+* Pn2.1742            K25829   67.53  111.4     2e-32 transcription elongation factor 1
+* Pn2.1740            K25829   67.53  108.8   1.3e-31 transcription elongation factor 1
+* Pn2.1738            K25829   67.53  116.2   6.9e-34 transcription elongation factor 1
+* Pn2.1737            K25829   67.53  114.7     2e-33 transcription elongation factor 1
+* Pn2.1734            K08494   95.07  408.6  7.4e-123 novel plant SNARE
+* Pn2.1730            K25079  149.33  301.3   7.6e-90 RNA-binding protein 42
+* Pn2.1728            K11446  409.57  428.8  1.9e-128 [histone H3]-trimethyl-L-lysine4 demethylase [EC:1.14.11.67]
+* Pn2.1720            K09422  126.07  272.5   2.8e-81 transcription factor MYB, plant
+* Pn2.1718            K12119  964.03 1045.3         0 cryptochrome 2
+* Pn2.1713            K10775  524.93 1147.2         0 phenylalanine ammonia-lyase [EC:4.3.1.24]
+* Pn2.1711            K07114   99.17  113.5   4.7e-33 Ca-activated chloride channel homolog
+* Pn2.1709            K12587  226.77  304.1   8.5e-91 exosome complex component MTR3
+* Pn2.1706            K05391  229.50  965.4  1.4e-290 cyclic nucleotide gated channel, plant
+* Pn2.1704            K22522   75.87  457.4  1.4e-137 cytokinin riboside 5'-monophosphate phosphoribohydrolase [EC:3.2.2.-]
+* Pn2.1703            K00013  512.80  663.5    2e-199 histidinol dehydrogenase [EC:1.1.1.23]
+* Pn2.1696            K15285  201.97  375.3  1.5e-112 solute carrier family 35, member E3
+* Pn2.1692            K13113   44.33  172.7   2.9e-51 ubiquitin-like protein 5
+* Pn2.1680            K02734  123.93  147.1   2.7e-43 20S proteasome subunit beta 4 [EC:3.4.25.1]
+* Pn2.1679            K02870  149.27  380.2  5.9e-114 large subunit ribosomal protein L12e
+* Pn2.1677            K00422  260.90  589.2  6.2e-177 polyphenol oxidase [EC:1.10.3.1]
+* Pn2.1676            K00422  260.90  567.3  2.7e-170 polyphenol oxidase [EC:1.10.3.1]
+* Pn2.1675            K09872  227.30  550.8  5.4e-166 aquaporin PIP
+* Pn2.1671            K03549  190.53  240.1   2.1e-71 KUP system potassium uptake protein
+* Pn2.1665            K14497  293.03  471.6  1.2e-141 protein phosphatase 2C [EC:3.1.3.16]
+* Pn2.1663            K14801   53.40   68.8   2.1e-19 pre-rRNA-processing protein TSR4
+* Pn2.1662            K03526   79.33  596.7  1.4e-179 (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]
+* Pn2.1661            K02152   44.60  158.5   7.1e-47 V-type H+-transporting ATPase subunit G
+* Pn2.1642            K07759   78.80  323.0   1.7e-96 poly(ADP-ribose) glycohydrolase [EC:3.2.1.143]
+* Pn2.1641            K00975  197.27  380.6  4.3e-114 glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]
+* Pn2.1641            K00794   50.97  253.2   1.3e-75 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]
+* Pn2.1640            K03575  147.03  150.3   3.9e-44 A/G-specific adenine glycosylase [EC:3.2.2.31]
+* Pn2.1633            K00975  197.27  379.8  7.9e-114 glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]
+* Pn2.1633            K00794   50.97  253.4   1.1e-75 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]
+* Pn2.1632            K07759   78.80  325.2   3.5e-97 poly(ADP-ribose) glycohydrolase [EC:3.2.1.143]
+* Pn2.1628            K06442   67.47  358.9  1.4e-107 23S rRNA (cytidine1920-2'-O)/16S rRNA (cytidine1409-2'-O)-methyltransferase [EC:2.1.1.226 2.1.1.227]
+* Pn2.1618            K01179   21.90   32.4   2.1e-08 endoglucanase [EC:3.2.1.4]
+* Pn2.1617            K12373   93.27  422.8  7.3e-127 hexosaminidase [EC:3.2.1.52]
+* Pn2.1613            K01184  446.20  473.7  2.6e-142 polygalacturonase [EC:3.2.1.15]
+* Pn2.1610            K19825  564.13  622.0    1e-187 2-alkenal reductase (NADP+) [EC:1.3.1.102]
+* Pn2.1607            K01653   47.73  175.0   1.2e-51 acetolactate synthase I/III small subunit [EC:2.2.1.6]
+* Pn2.1604            K11446  409.57  430.5  5.9e-129 [histone H3]-trimethyl-L-lysine4 demethylase [EC:1.14.11.67]
+* Pn2.1596            K17804  102.20  182.0   8.9e-54 mitochondrial import inner membrane translocase subunit TIM44
+* Pn2.1594            K09422  126.07  272.4   2.8e-81 transcription factor MYB, plant
+* Pn2.1593            K12119  964.03 1045.6         0 cryptochrome 2
+* Pn2.1585            K10775  524.93 1149.3         0 phenylalanine ammonia-lyase [EC:4.3.1.24]
+* Pn2.1583            K07114   99.17  113.6   4.5e-33 Ca-activated chloride channel homolog
+* Pn2.1581            K12587  226.77  304.1   8.5e-91 exosome complex component MTR3
+* Pn2.1578            K05391  229.50  965.8  1.1e-290 cyclic nucleotide gated channel, plant
+* Pn2.1576            K22522   75.87  457.4  1.4e-137 cytokinin riboside 5'-monophosphate phosphoribohydrolase [EC:3.2.2.-]
+* Pn2.1575            K00013  512.80  658.9  4.8e-198 histidinol dehydrogenase [EC:1.1.1.23]
+* Pn2.1572            K15285  201.97  375.5  1.3e-112 solute carrier family 35, member E3
+* Pn2.1567            K13113   44.33  172.7   2.9e-51 ubiquitin-like protein 5
+* Pn2.1561            K12613  100.47  177.7   1.6e-52 mRNA-decapping enzyme subunit 2 [EC:3.6.1.62]
+* Pn2.1555            K02734  123.93  140.6   2.7e-41 20S proteasome subunit beta 4 [EC:3.4.25.1]
+* Pn2.1554            K02870  149.27  380.2  5.9e-114 large subunit ribosomal protein L12e
+* Pn2.1552            K00422  260.90  591.4  1.3e-177 polyphenol oxidase [EC:1.10.3.1]
+* Pn2.1551            K00422  260.90  568.6  1.1e-170 polyphenol oxidase [EC:1.10.3.1]
+* Pn2.1549            K09872  227.30  546.8  8.8e-165 aquaporin PIP
+* Pn2.1537            K14497  293.03  474.3  1.8e-142 protein phosphatase 2C [EC:3.1.3.16]
+* Pn2.1535            K14801   53.40   68.7   2.2e-19 pre-rRNA-processing protein TSR4
+* Pn2.1534            K03526   79.33  596.7  1.4e-179 (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]
+* Pn2.1533            K02152   44.60  170.0   2.2e-50 V-type H+-transporting ATPase subunit G
+* Pn2.1527            K00430  113.80  376.7    1e-112 peroxidase [EC:1.11.1.7]
+* Pn2.1524            K01939  140.87  591.7  4.2e-178 adenylosuccinate synthase [EC:6.3.4.4]
+* Pn2.1522            K22530  327.23  382.5  1.6e-114 ATPase family AAA domain-containing protein 1 [EC:3.6.1.-]
+* Pn2.1519            K17604  118.80  158.5   6.8e-47 zinc finger SWIM domain-containing protein 3
+* Pn2.1515            K12795  104.03  433.1  5.8e-130 suppressor of G2 allele of SKP1
+* Pn2.1506            K15025   52.90  178.3   9.3e-53 probable RNA-binding protein EIF1AD
+* Pn2.1497            K13434  185.97  239.5   2.6e-71 pathogenesis-related genes transcriptional activator PTI6
+* Pn2.1497            K09286   88.90  133.7   3.9e-39 EREBP-like factor
+* Pn2.1487            K15198   67.57  137.1   4.1e-40 transcription factor TFIIIB component B''
+* Pn2.1479            K10143  584.93  606.3    3e-182 E3 ubiquitin-protein ligase RFWD2 [EC:2.3.2.27]
+* Pn2.1476            K22379  130.50  590.7    1e-177 E3 ubiquitin-protein ligase RNFT1 [EC:2.3.2.27]
+* Pn2.1473            K06674  641.73 1408.3         0 structural maintenance of chromosome 2
+* Pn2.1472            K13448  141.30  148.6   1.2e-43 calcium-binding protein CML
+* Pn2.1464            K12605  101.97  102.2   1.6e-29 CCR4-NOT transcription complex subunit 2
+* Pn2.1458            K12194  132.50  175.2   8.9e-52 charged multivesicular body protein 4A/B
+* Pn2.1457            K20858  125.90  290.8   8.9e-87 calcium uniporter protein, mitochondrial
+* Pn2.1455            K07052   32.93   99.9   5.4e-29 CAAX protease family protein
+* Pn2.1453            K18789  327.73  368.1  3.4e-110 xylogalacturonan beta-1,3-xylosyltransferase [EC:2.4.2.41]
+* Pn2.1452            K10532  111.70  502.6  7.8e-151 heparan-alpha-glucosaminide N-acetyltransferase [EC:2.3.1.78]
+* Pn2.1449            K01689   63.60  734.3  3.6e-221 enolase [EC:4.2.1.11]
+* Pn2.1448            K01772   52.43  228.4   6.4e-68 protoporphyrin/coproporphyrin ferrochelatase [EC:4.98.1.1 4.99.1.9]
+* Pn2.1447            K08819  497.77  529.9    3e-159 cyclin-dependent kinase 12/13 [EC:2.7.11.22 2.7.11.23]
+* Pn2.1445            K25829   67.53   98.7   1.6e-28 transcription elongation factor 1
+* Pn2.1442            K25829   67.53   98.0   2.6e-28 transcription elongation factor 1
+* Pn2.1439            K11593  433.27  996.1    1e-299 eukaryotic translation initiation factor 2C
+* Pn2.1437            K09286   88.90  154.6   1.6e-45 EREBP-like factor
+* Pn56.56             K12194  132.50  176.3   4.2e-52 charged multivesicular body protein 4A/B
+* Pn56.55             K20858  125.90  289.3   2.5e-86 calcium uniporter protein, mitochondrial
+* Pn56.54             K13648  566.33  626.3  3.1e-188 alpha-1,4-galacturonosyltransferase [EC:2.4.1.43]
+* Pn56.51             K07052   32.93   87.7     3e-25 CAAX protease family protein
+* Pn56.48             K01179   21.90  292.7   3.8e-87 endoglucanase [EC:3.2.1.4]
+* Pn56.47             K18789  327.73  368.7  2.1e-110 xylogalacturonan beta-1,3-xylosyltransferase [EC:2.4.2.41]
+* Pn56.45             K10532  111.70  505.6  9.6e-152 heparan-alpha-glucosaminide N-acetyltransferase [EC:2.3.1.78]
+* Pn56.40             K01772   52.43  496.7  2.8e-149 protoporphyrin/coproporphyrin ferrochelatase [EC:4.98.1.1 4.99.1.9]
+* Pn56.39             K08819  497.77  540.0  2.7e-162 cyclin-dependent kinase 12/13 [EC:2.7.11.22 2.7.11.23]
+* Pn56.38             K18182   43.23   98.5   1.9e-28 cytochrome c oxidase assembly protein subunit 16
+* Pn56.36             K25829   67.53  102.6     1e-29 transcription elongation factor 1
+* Pn56.32             K25829   67.53   97.8   2.9e-28 transcription elongation factor 1
+* Pn56.29             K11593  433.27  996.5  7.6e-300 eukaryotic translation initiation factor 2C
+* Pn56.28             K09286   88.90  154.5   1.8e-45 EREBP-like factor
+* Pn56.27             K21989   96.13  711.3  7.1e-214 calcium permeable stress-gated cation channel
+* Pn56.16             K00635  116.00  175.4     9e-52 diacylglycerol O-acyltransferase / wax synthase [EC:2.3.1.20 2.3.1.75]
+* Pn56.14             K02960  159.17  317.0   2.7e-95 small subunit ribosomal protein S16e
+* Pn56.11             K14863  197.73  482.5  8.3e-145 ribosome biogenesis protein
+* Pn2.1421            K11517  499.53  593.8  2.8e-178 (S)-2-hydroxy-acid oxidase [EC:1.1.3.15]
+* Pn2.1389            K13429  708.60  959.5  3.2e-289 chitin elicitor receptor kinase 1
+* Pn2.1385            K24869  318.50  798.0  7.2e-240 S phase cyclin A-associated protein in the endoplasmic reticulum
+* Pn2.1384            K00799   55.17  124.4   2.8e-36 glutathione S-transferase [EC:2.5.1.18]
+* Pn2.1383            K00799   55.17  127.8   2.6e-37 glutathione S-transferase [EC:2.5.1.18]
+* Pn2.1382            K00799   55.17   93.7   6.5e-27 glutathione S-transferase [EC:2.5.1.18]
+* Pn2.1379            K00688  103.87 1162.7         0 glycogen phosphorylase [EC:2.4.1.1]
+* Pn2.1377            K00012  381.43  697.7  7.8e-210 UDPglucose 6-dehydrogenase [EC:1.1.1.22]
+* Pn2.1374            K02966   47.07  262.3   1.3e-78 small subunit ribosomal protein S19e
+* Pn2.1373            K20628  126.20  182.7   5.1e-54 expansin
+* Pn2.1371            K01213  513.57  585.3  4.9e-176 galacturan 1,4-alpha-galacturonidase [EC:3.2.1.67]
+* Pn2.1370            K15177  108.93  278.7   5.7e-83 RNA polymerase-associated protein LEO1
+* Pn2.1364            K04505  207.93  243.5   1.8e-72 presenilin 1 [EC:3.4.23.-]
+* Pn2.1363            K07195  162.93  612.7  4.3e-184 exocyst complex component 7
+* Pn2.1361            K07466  108.83  492.7  6.9e-148 replication factor A1
+* Pn2.1351            K18635   55.63   57.7   7.8e-16 protein SPIRAL1 and related proteins
+* Pn2.1336            K09264  128.70  138.4   1.4e-40 MADS-box transcription factor, plant
+* Pn2.1332            K25762  205.20  306.2   1.5e-91 tubulin N-terminal N-acetyltransferase [EC:2.3.1.308]
+* Pn2.1322            K00844   72.77   94.8   1.7e-27 hexokinase [EC:2.7.1.1]
+* Pn2.1319            K00703  137.50  674.0    1e-202 starch synthase [EC:2.4.1.21]
+* Pn2.1317            K23788  127.93  255.7   3.8e-76 transmembrane E3 ubiquitin-protein ligase [EC:2.3.2.27]
+* Pn2.1316            K03327  104.53  496.2  9.3e-149 multidrug resistance protein, MATE family
+* Pn2.1312            K03259   40.53  254.6   6.7e-76 translation initiation factor 4E
+* Pn2.1302            K16280  200.50  353.6    6e-106 E3 ubiquitin-protein ligase RGLG [EC:2.3.2.27]
+* Pn2.1301            K09422  126.07  226.1   3.6e-67 transcription factor MYB, plant
+* Pn2.1299            K14787  259.03  995.8  1.3e-299 multiple RNA-binding domain-containing protein 1
+* Pn2.1293            K14709  118.37  298.5     4e-89 solute carrier family 39 (zinc transporter), member 1/2/3
+* Pn2.1292            K02083  479.67  540.4  2.9e-162 allantoate deiminase [EC:3.5.3.9]
+* Pn2.1291            K14709  118.37  304.4   6.6e-91 solute carrier family 39 (zinc transporter), member 1/2/3
+* Pn2.1289            K01051   76.27  124.5   1.9e-36 pectinesterase [EC:3.1.1.11]
+* Pn2.1285            K03549  190.53 1094.1         0 KUP system potassium uptake protein
+* Pn2.1282            K10576  145.97  383.7  5.7e-115 ubiquitin-conjugating enzyme E2 H [EC:2.3.2.23]
+* Pn2.1282            K12260   45.13  160.0     3e-47 sulfiredoxin [EC:1.8.98.2]
+* Pn2.1282            K03497   51.30   57.7   3.3e-16 ParB family transcriptional regulator, chromosome partitioning protein
+* Pn2.1281            K05750  107.97  461.4    3e-138 NCK-associated protein 1
+* Pn2.1279            K00927   99.53  704.1  6.6e-212 phosphoglycerate kinase [EC:2.7.2.3]
+* Pn2.1277            K02437   36.63  236.5   2.1e-70 glycine cleavage system H protein
+* Pn2.1271            K14488   34.97   93.1   1.3e-26 SAUR family protein
+* Pn2.1269            K10775  524.93 1085.2         0 phenylalanine ammonia-lyase [EC:4.3.1.24]
+* Pn2.1268            K00457  231.63  381.2  5.5e-114 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]
+* Pn2.1266            K03352  199.13  408.5  3.3e-122 anaphase-promoting complex subunit 5
+* Pn2.1264            K13338  553.67 1026.0         0 peroxin-1
+* Pn2.1262            K24104   56.50  325.0   4.5e-97 GPN-loop GTPase
+* Pn2.1259            K00799   55.17  126.8   5.3e-37 glutathione S-transferase [EC:2.5.1.18]
+* Pn2.1257            K15631  259.90  686.7  2.3e-206 molybdenum cofactor sulfurtransferase [EC:2.8.1.9]
+* Pn2.1254            K14508  182.70  721.7  3.4e-217 regulatory protein NPR1
+* Pn2.1250            K09422  126.07  261.4   6.3e-78 transcription factor MYB, plant
+* Pn2.1232            K12448  487.67  682.6  9.1e-206 UDP-arabinose 4-epimerase [EC:5.1.3.5]
+* Pn2.1232            K01784  268.93  330.4   1.2e-98 UDP-glucose 4-epimerase [EC:5.1.3.2]
+* Pn2.1229            K17604  118.80  241.5   5.8e-72 zinc finger SWIM domain-containing protein 3
+* Pn2.1226            K02717   67.70  245.9   3.3e-73 photosystem II oxygen-evolving enhancer protein 2
+* Pn2.1224            K21198  135.33  160.3   2.9e-47 gamma-soluble NSF attachment protein
+* Pn2.1218            K21398  506.73  618.4  5.3e-186 natural resistance-associated macrophage protein 2
+* Pn2.1216            K14404   68.20  161.6   1.8e-47 cleavage and polyadenylation specificity factor subunit 4
+* Pn2.1215            K09338   75.40   94.6   3.1e-27 homeobox-leucine zipper protein
+* Pn2.1212            K15032   75.30  146.6   3.8e-43 mTERF domain-containing protein, mitochondrial
+* Pn2.1210            K10609  815.47  916.2  1.2e-275 cullin 4
+* Pn2.1209            K03243  227.47 1418.8         0 translation initiation factor 5B
+* Pn2.1208            K09955  129.13  521.3  1.9e-156 uncharacterized protein
+* Pn4.3586            K10581  296.67  545.0  1.4e-163 ubiquitin-conjugating enzyme E2 O [EC:2.3.2.24]
+* Pn4.3585            K20891  187.17  493.0  2.9e-148 beta-glucuronosyltransferase [EC:2.4.1.-]
+* Pn4.3583            K20891  187.17  225.1   5.5e-67 beta-glucuronosyltransferase [EC:2.4.1.-]
+* Pn4.3581            K00031  117.30  777.7  3.2e-234 isocitrate dehydrogenase [EC:1.1.1.42]
+* Pn4.3574            K02259   59.33  395.2  1.5e-118 heme a synthase [EC:1.17.99.9]
+* Pn4.3571            K22733   51.20  252.8   2.6e-75 magnesium transporter
+* Pn4.3567            K02978   29.03  189.6   2.1e-56 small subunit ribosomal protein S27e
+* Pn4.3564            K08506   88.53  454.5  1.3e-136 syntaxin of plants SYP7
+* Pn4.3563            K23518  196.33  236.4     2e-70 O-acetyl-ADP-ribose deacetylase [EC:3.1.1.106]
+* Pn4.3558            K21867  380.03  839.9  8.9e-253 potassium channel
+* Pn4.3558            K05293  105.27  189.6   4.1e-56 GPI-anchor transamidase subunit U
+* Pn4.3556            K07304   43.63  192.8   4.4e-57 peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]
+* Pn4.3555            K09569  226.93  249.7   1.6e-74 FK506-binding protein 2 [EC:5.2.1.8]
+* Pn4.3555            K01802   89.63  105.5   1.5e-30 peptidylprolyl isomerase [EC:5.2.1.8]
+* Pn4.3554            K09667  221.33  810.3  9.6e-244 protein O-GlcNAc transferase [EC:2.4.1.255]
+* Pn4.3549            K16900  621.63 1196.4         0 two pore calcium channel protein, plant
+* Pn4.3546            K20241  213.67  719.4  3.4e-216 WD repeat-containing protein 44
+* Pn4.3539            K09264  128.70  225.1   6.3e-67 MADS-box transcription factor, plant
+* Pn4.3538            K02995   47.10  418.0    7e-126 small subunit ribosomal protein S8e
+* Pn4.3537            K05757  131.70  537.9  7.9e-162 actin related protein 2/3 complex, subunit 1A/1B
+* Pn4.3532            K03000   89.57  141.9   7.7e-42 DNA-directed RNA polymerase I subunit RPA12
+* Pn4.3530            K13993   74.33   80.7   6.2e-23 HSP20 family protein
+* Pn4.3522            K09578  158.13  212.2   7.8e-63 peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 [EC:5.2.1.8]
+* Pn4.3521            K14509  429.20  899.5  7.4e-271 ethylene receptor [EC:2.7.13.-]
+* Pn4.3518            K14502  771.77  815.9  2.4e-246 protein brassinosteroid insensitive 2 [EC:2.7.11.1]
+* Pn4.3517            K03353  197.63  741.4  4.4e-223 anaphase-promoting complex subunit 6
+* Pn4.3516            K24748  274.67  395.2  1.4e-118 WD repeat-containing protein 53
+* Pn4.3514            K05337   38.80   63.0   1.5e-17 ferredoxin
+* Pn4.3509            K18159   71.10  103.1   7.1e-30 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 1
+* Pn4.3507            K15280  196.47  526.7  2.2e-158 solute carrier family 35, member C2
+* Pn4.3503            K02343  236.83  305.8   2.8e-91 DNA polymerase III subunit gamma/tau [EC:2.7.7.7]
+* Pn4.3502            K00430  113.80  533.4  3.6e-160 peroxidase [EC:1.11.1.7]
+* Pn4.3500            K02868  219.33  412.7  5.6e-124 large subunit ribosomal protein L11e
+* Pn4.3497            K23953  174.83  364.6  2.2e-109 plant cysteine oxidase [EC:1.13.11.-]
+* Pn4.3496            K19600  127.33  148.5   1.3e-43 tubby and related proteins
+* Pn4.3494            K07198  448.73  459.7    7e-138 5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11]
+* Pn4.3488            K14496  127.87  171.6   1.3e-50 abscisic acid receptor PYR/PYL family
+* Pn4.3483            K03846  259.20  530.9  2.8e-159 alpha-1,2-mannosyltransferase [EC:2.4.1.259 2.4.1.261]
+* Pn4.3482            K02116   20.67   23.3   3.3e-05 ATP synthase protein I
+* Pn4.3480            K01595   50.73 1183.6         0 phosphoenolpyruvate carboxylase [EC:4.1.1.31]
+* Pn4.3472            K00790  195.47  205.1   6.3e-61 UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]
+* Pn4.3470            K15227  386.40  579.1    4e-174 arogenate dehydrogenase (NADP+), plant [EC:1.3.1.78]
+* Pn4.3463            K08337  275.60  548.3  1.7e-164 ubiquitin-like modifier-activating enzyme ATG7
+* Pn4.3459            K23877  183.47  202.0   6.9e-60 xyloglucan O-acetyltransferase
+* Pn4.3444            K19038  161.53  185.2   7.7e-55 E3 ubiquitin-protein ligase ATL41 [EC:2.3.2.27]
+* Pn4.3437            K23260  677.33  707.8  3.9e-213 scopoletin glucosyltransferase [EC:2.4.1.128]
+* Pn4.3390            K19038  161.53  185.2   7.7e-55 E3 ubiquitin-protein ligase ATL41 [EC:2.3.2.27]
+* Pn4.3381            K23260  677.33  708.2  2.8e-213 scopoletin glucosyltransferase [EC:2.4.1.128]
+* Pn4.3357            K14486  150.40  759.3  2.4e-228 auxin response factor
+* Pn4.3356            K08472  160.90  670.4  8.2e-202 mlo protein
+* Pn4.3354            K22756   53.83   58.7   2.9e-16 E3 SUMO-protein ligase NSE2 [EC:2.3.2.-]
+* Pn4.3353            K03676   76.57   80.1   7.8e-23 glutaredoxin 3
+* Pn4.3350            K09338   75.40  110.5   4.5e-32 homeobox-leucine zipper protein
+* Pn4.3349            K20899  239.13  534.6  2.2e-160 guanylate-binding protein 1/3/4/7
+* Pn4.3343            K10750  124.33  128.2     2e-37 chromatin assembly factor 1 subunit A
+* Pn4.3341            K00924  377.63  411.5  3.1e-123 kinase [EC:2.7.1.-]
+* Pn4.3337            K15283  254.67  475.3  7.5e-143 solute carrier family 35, member E1
+* Pn4.3335            K23877  183.47  240.3   1.8e-71 xyloglucan O-acetyltransferase
+* Pn4.3334            K09510  461.87  542.4  3.1e-163 DnaJ homolog subfamily B member 4
+* Pn4.3334            K09519  417.90  425.4  1.8e-127 DnaJ homolog subfamily B member 13
+* Pn4.3325            K00815  382.60  664.2  7.1e-200 tyrosine aminotransferase [EC:2.6.1.5]
+* Pn4.3323            K00912  102.90  271.6   6.6e-81 tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]
+* Pn4.3321            K11000 1020.53 2486.6         0 callose synthase [EC:2.4.1.-]
+* Pn4.3321            K00706  909.73  929.7  1.7e-279 1,3-beta-glucan synthase [EC:2.4.1.34]
+* Pn4.3320            K03514  175.03  438.8  1.8e-131 non-canonical poly(A) RNA polymerase PAPD5/7 [EC:2.7.7.19]
+* Pn4.3318            K15637  114.50  147.6   2.9e-43 serine/threonine-protein phosphatase PGAM5 [EC:3.1.3.16]
+* Pn4.3307            K14486  150.40  759.1  2.8e-228 auxin response factor
+* Pn4.3306            K08472  160.90  666.8  9.6e-201 mlo protein
+* Pn4.3304            K22756   53.83   61.4   4.4e-17 E3 SUMO-protein ligase NSE2 [EC:2.3.2.-]
+* Pn4.3303            K03676   76.57   77.9   3.6e-22 glutaredoxin 3
+* Pn4.3300            K09338   75.40  110.5   4.5e-32 homeobox-leucine zipper protein
+* Pn4.3299            K20899  239.13  514.7  2.3e-154 guanylate-binding protein 1/3/4/7
+* Pn4.3293            K00924  377.63  411.8  2.5e-123 kinase [EC:2.7.1.-]
+* Pn4.3289            K15283  254.67  475.1  8.6e-143 solute carrier family 35, member E1
+* Pn4.3287            K23877  183.47  236.4   2.7e-70 xyloglucan O-acetyltransferase
+* Pn4.3286            K09510  461.87  542.6  2.6e-163 DnaJ homolog subfamily B member 4
+* Pn4.3286            K09519  417.90  424.4  3.6e-127 DnaJ homolog subfamily B member 13
+* Pn4.3277            K00815  382.60  660.3  1.1e-198 tyrosine aminotransferase [EC:2.6.1.5]
+* Pn4.3276            K00912  102.90  277.6   1.1e-82 tetraacyldisaccharide 4'-kinase [EC:2.7.1.130]
+* Pn4.3274            K11000 1020.53 2487.0         0 callose synthase [EC:2.4.1.-]
+* Pn4.3274            K00706  909.73  934.7  5.3e-281 1,3-beta-glucan synthase [EC:2.4.1.34]
+* Pn4.3273            K03514  175.03  363.5  1.1e-108 non-canonical poly(A) RNA polymerase PAPD5/7 [EC:2.7.7.19]
+* Pn4.3271            K00979  141.10  415.5  7.6e-125 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]
+* Pn4.3268            K15637  114.50  147.5   3.1e-43 serine/threonine-protein phosphatase PGAM5 [EC:3.1.3.16]
+* Pn4.3263            K01893  378.33  563.6  2.8e-169 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+* Pn4.3262            K07904  357.17  375.1  1.3e-112 Ras-related protein Rab-11A
+* Pn4.3258            K02912   69.47  248.8   1.7e-74 large subunit ribosomal protein L32e
+* Pn4.3252            K13156   88.93  161.4   1.8e-47 U11/U12 small nuclear ribonucleoprotein 48 kDa protein
+* Pn4.3246            K20617  706.90  709.8    1e-213 cytochrome P450 family 71 subfamily A
+* Pn4.3240            K09658   45.70   96.2     8e-28 dolichol phosphate-mannose biosynthesis regulatory protein
+* Pn4.3237            K15264  231.33  511.1  1.7e-153 25S rRNA (cytosine2278-C5)-methyltransferase [EC:2.1.1.311]
+* Pn4.3234            K01733  251.40  443.3  7.4e-133 threonine synthase [EC:4.2.3.1]
+* Pn4.3229            K00573   82.23  306.8   1.1e-91 protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]
+* Pn4.3225            K07126   59.67  132.1   1.3e-38 uncharacterized protein
+* Pn4.3222            K00276  550.30  889.0    2e-267 primary-amine oxidase [EC:1.4.3.21]
+* Pn4.3218            K14494  256.90  352.3  2.9e-105 DELLA protein
+* Pn4.3216            K00940  143.37  202.1   4.5e-60 nucleoside-diphosphate kinase [EC:2.7.4.6]
+* Pn4.3209            K09422  126.07  255.1   5.4e-76 transcription factor MYB, plant
+* Pn4.3208            K03037  245.13  601.6    5e-181 26S proteasome regulatory subunit N7
+* Pn4.3207            K14491  165.47  483.2  6.2e-145 two-component response regulator ARR-B family
+* Pn4.3204            K20781  164.63 1249.6         0 peptidyl serine alpha-galactosyltransferase [EC:2.4.1.-]
+* Pn4.3202            K02495  275.73  305.2   3.3e-91 oxygen-independent coproporphyrinogen III oxidase [EC:1.3.98.3]
+* Pn4.3201            K13993   74.33  125.7   1.2e-36 HSP20 family protein
+* Pn4.3199            K12386   46.33  124.9   1.5e-36 cystinosin
+* Pn4.3198            K12386   46.33  388.7  1.4e-116 cystinosin
+* Pn4.3198            K01598  192.43  305.2   3.3e-91 phosphopantothenoylcysteine decarboxylase [EC:4.1.1.36]
+* Pn4.3193            K16292  468.47  556.7  1.5e-167 KDEL-tailed cysteine endopeptidase [EC:3.4.22.-]
+* Pn4.3185            K14398  108.73  218.0   1.2e-64 cleavage and polyadenylation specificity factor subunit 6/7
+* Pn4.3181            K00635  116.00  147.2   3.1e-43 diacylglycerol O-acyltransferase / wax synthase [EC:2.3.1.20 2.3.1.75]
+* Pn4.3180            K03217  116.67  267.6   6.5e-80 YidC/Oxa1 family membrane protein insertase
+* Pn4.3177            K06934   42.20   50.3   7.9e-14 uncharacterized protein
+* Pn4.3172            K01823   35.77  297.6   6.5e-89 isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]
+* Pn4.3171            K19365   77.90  120.3   4.3e-35 seipin
+* Pn4.3170            K13691  682.97  692.6  2.9e-208 pathogen-inducible salicylic acid glucosyltransferase [EC:2.4.1.-]
+* Pn4.3169            K19365   77.90  132.7   7.7e-39 seipin
+* Pn4.3168            K13691  682.97  721.5  5.4e-217 pathogen-inducible salicylic acid glucosyltransferase [EC:2.4.1.-]
+* Pn4.3166            K19365   77.90  133.4   4.7e-39 seipin
+* Pn4.3165            K13691  682.97  694.1  1.1e-208 pathogen-inducible salicylic acid glucosyltransferase [EC:2.4.1.-]
+* Pn4.3160            K11254   52.73   85.4   2.1e-24 histone H4
+* Pn4.3157            K13691  682.97  691.7  5.5e-208 pathogen-inducible salicylic acid glucosyltransferase [EC:2.4.1.-]
+* Pn4.3156            K13691  682.97  693.5  1.6e-208 pathogen-inducible salicylic acid glucosyltransferase [EC:2.4.1.-]
+* Pn4.3153            K19365   77.90  130.5   3.6e-38 seipin
+* Pn4.3152            K13691  682.97  693.6  1.5e-208 pathogen-inducible salicylic acid glucosyltransferase [EC:2.4.1.-]
+* Pn4.3146            K08867  273.07  561.5  1.3e-168 WNK lysine deficient protein kinase [EC:2.7.11.1]
+* Pn4.3145            K00737   74.40  123.4   4.4e-36 beta-1,4-mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase [EC:2.4.1.144]
+* Pn4.3142            K12741  262.37  275.0   5.4e-82 heterogeneous nuclear ribonucleoprotein A1/A3
+* Pn4.3141            K03306  371.80  382.2  1.3e-114 inorganic phosphate transporter, PiT family
+* Pn4.3140            K14773  132.27  178.9   5.7e-53 U3 small nucleolar RNA-associated protein 23
+* Pn4.3139            K01358   53.23  282.2   2.4e-84 ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+* Pn4.3138            K08286  386.33  418.5  1.1e-125 protein-serine/threonine kinase [EC:2.7.11.-]
+* Pn4.3137            K13250   54.80  179.1   6.6e-53 translocon-associated protein subunit beta
+* Pn4.3133            K11375   83.37  167.7   2.2e-49 elongator complex protein 4
+* Pn4.3119            K04567  317.87  647.1  2.2e-194 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+* Pn4.3117            K03453  219.17  371.1  2.5e-111 bile acid:Na+ symporter, BASS family
+* Pn4.3115            K10884  195.33  555.8  8.3e-167 ATP-dependent DNA helicase 2 subunit 1
+* Pn4.3113            K14823   71.77  302.5   2.9e-90 rRNA-processing protein EBP2
+* Pn4.3109            K17275  891.00  952.4  6.5e-287 plastin-1
+* Pn4.3102            K12462   48.97  280.0   9.8e-84 Rho GDP-dissociation inhibitor
+* Pn4.3098            K09015  272.60  409.0  1.7e-122 Fe-S cluster assembly protein SufD
+* Pn4.3097            K16296  435.03  632.1  4.8e-190 serine carboxypeptidase-like clade I [EC:3.4.16.-]
+* Pn4.3094            K16904   97.60  238.9   2.2e-71 dCTP diphosphatase [EC:3.6.1.12]
+* Pn4.3092            K05812   78.57  194.3   1.5e-57 tRNA-uridine aminocarboxypropyltransferase [EC:2.5.1.25]
+* Pn4.3091            K12669   92.87  274.2   7.5e-82 oligosaccharyltransferase complex subunit gamma
+* Pn4.3088            K15382   59.63  296.4   1.1e-88 solute carrier family 50 (sugar transporter)
+* Pn4.3086            K09584  274.07  296.0   2.6e-88 protein disulfide-isomerase A6 [EC:5.3.4.1]
+* Pn4.3079            K02990   24.00   80.8   4.4e-23 small subunit ribosomal protein S6
+* Pn4.3078            K19039  148.83  241.6   6.4e-72 E3 ubiquitin-protein ligase ATL7/58/59 [EC:2.3.2.27]
+* Pn4.3077            K17479   82.73  212.0   5.4e-63 glutaredoxin domain-containing cysteine-rich protein 1
+* Pn4.3076            K13422  169.07  396.6  9.7e-119 transcription factor MYC2
+* Pn4.3076            K25801  116.93  220.6   1.5e-65 succinate dehydrogenase (ubiquinone) subunit 4
+* Pn4.3073            K22683  387.33  577.7    1e-173 aspartyl protease family protein [EC:3.4.23.-]
+* Pn4.3069            K02952  114.73  231.8   3.1e-69 small subunit ribosomal protein S13
+* Pn4.3063            K01051   76.27  475.9  5.9e-143 pectinesterase [EC:3.1.1.11]
+* Pn4.3061            K01784  268.93  498.0  1.9e-149 UDP-glucose 4-epimerase [EC:5.1.3.2]
+* Pn4.3059            K03539   43.10   64.2   6.2e-18 ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5]
+* Pn4.3058            K00026  509.90  570.8    2e-171 malate dehydrogenase [EC:1.1.1.37]
+* Pn4.3048            K08334   62.63  132.0   1.4e-38 beclin
+* Pn4.3047            K08334   62.63  154.6   1.8e-45 beclin
+* Pn4.3044            K00797  100.53  182.1   6.9e-54 spermidine synthase [EC:2.5.1.16]
+* Pn4.3042            K14497  293.03  442.9  6.1e-133 protein phosphatase 2C [EC:3.1.3.16]
+* Pn4.3041            K00873   50.03  332.1   2.3e-99 pyruvate kinase [EC:2.7.1.40]
+* Pn4.3039            K17679  460.77  663.9  1.2e-199 ATP-dependent RNA helicase MSS116, mitochondrial [EC:3.6.4.13]
+* Pn4.3037            K14496  127.87  341.7  2.6e-102 abscisic acid receptor PYR/PYL family
+* Pn4.3036            K08955  845.80  978.7  1.9e-294 ATP-dependent metalloprotease [EC:3.4.24.-]
+* Pn4.3034            K13412  534.20  767.8  3.3e-231 calcium-dependent protein kinase [EC:2.7.11.1]
+* Pn4.3031            K14566  104.27  359.1  9.8e-108 U3 small nucleolar RNA-associated protein 24
+* Pn4.3030            K14566  104.27  357.2  3.8e-107 U3 small nucleolar RNA-associated protein 24
+* Pn4.3028            K14566  104.27  359.2  9.1e-108 U3 small nucleolar RNA-associated protein 24
+* Pn4.3026            K23541   34.90  176.2   3.7e-52 Ca2+/H+ antiporter, TMEM165/GDT1 family
+* Pn4.3025            K06947  144.93  313.1   1.8e-93 polynucleotide 5'-hydroxyl-kinase GRC3/NOL9 [EC:2.7.1.-]
+* Pn4.3017            K03455  143.10  160.2   3.5e-47 monovalent cation:H+ antiporter-2, CPA2 family
+* Pn4.3006            K14566  104.27  365.1  1.5e-109 U3 small nucleolar RNA-associated protein 24
+* Pn4.3005            K14566  104.27  359.2  9.1e-108 U3 small nucleolar RNA-associated protein 24
+* Pn4.3000            K14566  104.27  358.5  1.5e-107 U3 small nucleolar RNA-associated protein 24
+* Pn4.2995            K14566  104.27  358.5  1.5e-107 U3 small nucleolar RNA-associated protein 24
+* Pn4.2994            K03155  262.27  424.4  4.9e-127 timeless
+* Pn4.2992            K23541   34.90  157.3   2.1e-46 Ca2+/H+ antiporter, TMEM165/GDT1 family
+* Pn4.2991            K06947  144.93  332.1   3.3e-99 polynucleotide 5'-hydroxyl-kinase GRC3/NOL9 [EC:2.7.1.-]
+* Pn4.2984            K03455  143.10  181.4   1.4e-53 monovalent cation:H+ antiporter-2, CPA2 family
+* Pn4.2980            K03236   61.83  282.6   1.4e-84 translation initiation factor 1A
+* Pn4.2977            K16240  701.93 1360.3         0 protein suppressor of PHYA-105 1
+* Pn4.2975            K13434  185.97  217.6   1.2e-64 pathogenesis-related genes transcriptional activator PTI6
+* Pn4.2975            K09286   88.90  146.9   3.7e-43 EREBP-like factor
+* Pn4.2974            K06689  279.60  286.3   1.2e-85 ubiquitin-conjugating enzyme E2 D [EC:2.3.2.23]
+* Pn4.2970            K01792   73.17  439.3    6e-132 glucose-6-phosphate 1-epimerase [EC:5.1.3.15]
+* Pn4.2968            K09060   84.20  351.9  3.6e-105 plant G-box-binding factor
+* Pn4.2965            K02150   89.03  327.9   4.8e-98 V-type H+-transporting ATPase subunit E
+* Pn4.2962            K14506  973.73 1029.3         0 jasmonic acid-amino synthetase [EC:6.3.2.52]
+* Pn4.2958            K23877  183.47  477.7  2.1e-143 xyloglucan O-acetyltransferase
+* Pn4.2956            K08237  647.43  720.0  2.3e-216 hydroquinone glucosyltransferase [EC:2.4.1.218]
+* Pn4.2950            K02923   26.73  161.6     8e-48 large subunit ribosomal protein L38e
+* Pn4.2946            K14004  267.03  515.1    1e-154 protein transport protein SEC13
+* Pn4.2945            K00311  266.53  810.7  4.1e-244 electron-transferring-flavoprotein dehydrogenase [EC:1.5.5.1]
+* Pn4.2933            K03104   54.63  162.8   4.1e-48 signal recognition particle subunit SRP14
+* Pn4.2931            K11294  182.47  432.4  1.4e-129 nucleolin
+* Pn4.2928            K00847  199.73  316.1   2.1e-94 fructokinase [EC:2.7.1.4]
+* Pn4.2926            K13448  141.30  194.7   1.1e-57 calcium-binding protein CML
+* Pn4.2917            K10773  136.27  298.0   4.6e-89 endonuclease III [EC:4.2.99.18]
+* Pn4.2915            K13466  817.87  835.1  3.3e-251 EIX receptor 1/2
+* Pn4.2911            K13466  817.87  856.8    9e-258 EIX receptor 1/2
+* Pn4.2906            K11968  409.73  586.3  3.4e-176 ariadne-1 [EC:2.3.2.31]
+* Pn4.2903            K00432   50.63  298.4   4.4e-89 glutathione peroxidase [EC:1.11.1.9]
+* Pn4.2900            K13130   55.57  100.5   4.4e-29 gem associated protein 2
+* Pn4.2898            K15287  128.63  463.0  3.7e-139 solute carrier family 35, member F1/2
+* Pn4.2890            K09285  278.43  381.3    3e-114 AP2-like factor, ANT lineage
+* Pn4.2889            K02503   87.10  123.0   6.5e-36 histidine triad (HIT) family protein
+* Pn4.2886            K24687  126.77  127.1   5.6e-37 AN1-type zinc finger protein 5/6
+* Pn4.2885            K13806  106.97  191.7   8.4e-57 sn1-specific diacylglycerol lipase [EC:3.1.1.116]
+* Pn4.2878            K08246  217.37  510.3  4.6e-154 cycloeucalenol cycloisomerase [EC:5.5.1.9]
+* Pn4.2873            K15032   75.30  182.2   6.2e-54 mTERF domain-containing protein, mitochondrial
+* Pn4.2871            K00939  189.07  270.1   1.4e-80 adenylate kinase [EC:2.7.4.3]
+* Pn4.2870            K01267  490.10  735.0  3.7e-221 aspartyl aminopeptidase [EC:3.4.11.21]
+* Pn4.2869            K01427 1209.97 1582.8         0 urease [EC:3.5.1.5]
+* Pn4.2869            K01428  681.60 1085.8         0 urease subunit alpha [EC:3.5.1.5]
+* Pn4.2868            K12177  113.77  556.0  3.5e-167 COP9 signalosome complex subunit 3
+* Pn4.2866            K08818  534.13  681.9  4.5e-205 cell division cycle 2-like [EC:2.7.11.22]
+* Pn4.2852            K00134  410.33  660.8  4.3e-199 glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]
+* Pn4.2850            K02537  110.67  356.9  3.5e-107 mitotic spindle assembly checkpoint protein MAD2
+* Pn4.2842            K09422  126.07  212.5   4.7e-63 transcription factor MYB, plant
+* Pn4.2841            K10703   67.57  100.6   4.4e-29 very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase [EC:4.2.1.134]
+* Pn4.2840            K09873  271.70  414.4  1.4e-124 aquaporin TIP
+* Pn4.2837            K20195  102.40  629.9  1.8e-189 vacuolar fusion protein MON1
+* Pn4.2836            K05658  913.93 1399.5         0 ATP-binding cassette, subfamily B (MDR/TAP), member 1 [EC:7.6.2.2]
+* Pn4.2834            K23618  885.13 1021.6         0 acyl-activating enzyme 11/12 [EC:6.2.1.2 6.2.1.-]
+* Pn4.2831            K02875   25.80  254.2   7.2e-76 large subunit ribosomal protein L14e
+* Pn4.2828            K10841  702.67 1239.5         0 DNA excision repair protein ERCC-6
+* Pn4.2827            K08678  506.13  564.3  7.8e-170 UDP-glucuronate decarboxylase [EC:4.1.1.35]
+* Pn4.2820            K02717   67.70  369.1  1.2e-110 photosystem II oxygen-evolving enhancer protein 2
+* Pn4.2818            K07393   82.40  143.6   3.9e-42 glutathionyl-hydroquinone reductase [EC:1.8.5.7]
+* Pn4.2814            K14778  609.57  710.1  9.4e-214 ATP-dependent RNA helicase DDX49/DBP8 [EC:3.6.4.13]
+* Pn4.2811            K02717   67.70  365.3  1.7e-109 photosystem II oxygen-evolving enhancer protein 2
+* Pn4.2809            K07393   82.40  177.0   2.9e-52 glutathionyl-hydroquinone reductase [EC:1.8.5.7]
+* Pn4.2800            K02717   67.70  369.1  1.2e-110 photosystem II oxygen-evolving enhancer protein 2
+* Pn4.2799            K07393   82.40  141.0   2.3e-41 glutathionyl-hydroquinone reductase [EC:1.8.5.7]
+* Pn4.2798            K13217  145.60  173.8   2.5e-51 pre-mRNA-processing factor 39
+* Pn4.2792            K24195  254.77  384.5  4.6e-115 xenotropic and polytropic retrovirus receptor 1
+* Pn4.2784            K24195  254.77  812.8  1.6e-244 xenotropic and polytropic retrovirus receptor 1
+* Pn4.2782            K22519  194.67  486.7  3.3e-146 protein disulfide-isomerase [EC:5.3.4.1]
+* Pn4.2780            K05350  579.93  738.4  3.5e-222 beta-glucosidase [EC:3.2.1.21]
+* Pn4.2777            K09498  506.07 1023.8         0 T-complex protein 1 subunit zeta
+* Pn4.2775            K00383  555.50  713.1  1.6e-214 glutathione reductase (NADPH) [EC:1.8.1.7]
+* Pn4.2774            K19042   70.00  205.1   9.1e-61 E3 ubiquitin-protein ligase BOI and related proteins [EC:2.3.2.27]
+* Pn4.2772            K14525   48.30  115.0     2e-33 ribonucleases P/MRP protein subunit RPP25 [EC:3.1.26.5]
+* Pn4.2770            K15397  182.80  570.9  1.5e-171 3-ketoacyl-CoA synthase [EC:2.3.1.199]
+* Pn4.2766            K15289  182.87  194.1   1.6e-57 solute carrier family 35, member F5
+* Pn4.2759            K21843  373.93  624.8  1.3e-187 tetratricopeptide repeat protein 7
+* Pn4.2756            K12462   48.97  227.8   7.4e-68 Rho GDP-dissociation inhibitor
+* Pn4.2747            K05356  422.10  616.2  7.3e-186 all-trans-nonaprenyl-diphosphate synthase [EC:2.5.1.84 2.5.1.85]
+* Pn4.2744            K04371  576.13  604.0  8.8e-182 mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+* Pn4.2743            K05909  434.30  881.9    2e-265 laccase [EC:1.10.3.2]
+* Pn4.2737            K02736  137.30  384.1  2.1e-115 20S proteasome subunit beta 7 [EC:3.4.25.1]
+* Pn4.2735            K20292  181.30  913.0  1.2e-274 conserved oligomeric Golgi complex subunit 5
+* Pn4.2734            K07393   82.40  556.8  1.9e-167 glutathionyl-hydroquinone reductase [EC:1.8.5.7]
+* Pn4.2731            K02943   74.83  201.2     6e-60 large subunit ribosomal protein LP2
+* Pn4.2728            K20716  375.70  377.2  4.4e-113 mitogen-activated protein kinase kinase kinase 17/18
+* Pn4.2712            K06997   67.20  387.3  4.9e-116 PLP dependent protein
+* Pn4.2708            K10528  664.83  729.4  8.1e-220 hydroperoxide lyase [EC:4.1.2.-]
+* Pn4.2707            K21989   96.13  904.2  3.5e-272 calcium permeable stress-gated cation channel
+* Pn4.2696            K11816  313.27  728.3  3.2e-219 indole-3-pyruvate monooxygenase [EC:1.14.13.168]
+* Pn4.2693            K08869  333.00  360.4  6.4e-108 aarF domain-containing kinase
+* Pn4.2689            K16578  147.13 1004.3    6e-302 CLIP-associating protein 1/2
+* Pn4.2683            K17985  137.80  464.4  4.4e-139 activating molecule in BECN1-regulated autophagy protein 1
+* Pn4.2680            K03797  127.00  412.4  1.4e-123 carboxyl-terminal processing protease [EC:3.4.21.102]
+* Pn4.2679            K07393   82.40  185.4   8.2e-55 glutathionyl-hydroquinone reductase [EC:1.8.5.7]
+* Pn4.2678            K02437   36.63  189.1   5.7e-56 glycine cleavage system H protein
+* Pn4.2677            K13217  145.60  146.7   3.9e-43 pre-mRNA-processing factor 39
+* Pn4.2660            K07393   82.40   98.2   2.2e-28 glutathionyl-hydroquinone reductase [EC:1.8.5.7]
+* Pn4.2655            K13217  145.60  172.0     9e-51 pre-mRNA-processing factor 39
+* Pn4.2631            K07393   82.40  111.9   1.5e-32 glutathionyl-hydroquinone reductase [EC:1.8.5.7]
+* Pn4.2626            K07393   82.40   85.9   1.2e-24 glutathionyl-hydroquinone reductase [EC:1.8.5.7]
+* Pn4.2625            K07393   82.40  189.3   5.4e-56 glutathionyl-hydroquinone reductase [EC:1.8.5.7]
+* Pn4.2623            K07393   82.40  184.5   1.5e-54 glutathionyl-hydroquinone reductase [EC:1.8.5.7]
+* Pn4.2617            K19986  131.57  325.7   2.6e-97 exocyst complex component 8
+* Pn4.2616            K00924  377.63  403.7  6.8e-121 kinase [EC:2.7.1.-]
+* Pn4.2615            K02935   24.87  176.9   2.4e-52 large subunit ribosomal protein L7/L12
+* Pn4.2614            K10866  269.33 1281.3         0 DNA repair protein RAD50 [EC:3.6.-.-]
+* Pn4.2604            K24983  447.87  528.0  2.3e-158 Ras GTPase-activating protein-binding protein 2
+* Pn4.2600            K01183  116.00  141.3   1.8e-41 chitinase [EC:3.2.1.14]
+* Pn4.2599            K15744  276.60  626.4    2e-188 zeta-carotene isomerase [EC:5.2.1.12]
+* Pn4.2597            K18045  207.33  315.1   1.7e-94 tyrosine-protein phosphatase SIW14 [EC:3.1.3.48]
+* Pn4.2594            K10949   66.53  333.4  7.1e-100 ER lumen protein retaining receptor
+* Pn4.2591            K03128  328.57  694.1  1.6e-208 transcription initiation factor TFIID subunit 2
+* Pn4.2587            K03128  328.57  533.2  5.7e-160 transcription initiation factor TFIID subunit 2
+* Pn4.2582            K05755   96.43  362.1    9e-109 actin related protein 2/3 complex, subunit 4
+* Pn4.2580            K14009   35.70  133.9   2.7e-39 B-cell receptor-associated protein 31
+* Pn4.2578            K13456   42.17  265.8   2.7e-79 RPM1-interacting protein 4
+* Pn4.2575            K13947  238.33  313.9   8.1e-94 auxin efflux carrier family protein
+* Pn4.2570            K20289   56.40  727.8    9e-219 conserved oligomeric Golgi complex subunit 2
+* Pn4.2568            K13151   52.70  326.8   1.1e-97 snurportin-1
+* Pn4.2565            K10739   82.23  274.4   6.6e-82 replication factor A2
+* Pn4.2564            K17616  279.13  476.8  5.4e-143 CTD small phosphatase-like protein 2 [EC:3.1.3.-]
+* Pn4.2552            K08908  329.47  488.0  4.6e-147 light-harvesting complex I chlorophyll a/b binding protein 2
+* Pn4.2547            K09158   32.87   44.4   6.9e-12 uncharacterized protein
+* Pn4.2545            K18801  154.07  288.2   3.9e-86 glucuronoxylan 4-O-methyltransferase [EC:2.1.1.112]
+* Pn4.2536            K01726  178.27  189.5   3.9e-56 gamma-carbonic anhydrase [EC:4.2.1.-]
+* Pn4.2532            K09264  128.70  312.2   1.9e-93 MADS-box transcription factor, plant
+* Pn4.2528            K21596  109.60  503.6  5.8e-151 calmodulin-binding transcription activator
+* Pn4.2520            K08066  103.87  270.9   7.3e-81 nuclear transcription factor Y, gamma
+* Pn4.2519            K00430  113.80  484.5  2.4e-145 peroxidase [EC:1.11.1.7]
+* Pn4.2511            K23541   34.90   37.6     5e-10 Ca2+/H+ antiporter, TMEM165/GDT1 family
+* Pn4.2509            K13993   74.33  176.5     4e-52 HSP20 family protein
+* Pn4.2508            K00036  375.37  769.4  1.5e-231 glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363]
+* Pn4.2501            K11649  358.27  407.9  5.5e-122 SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily C
+* Pn4.2497            K00162  507.50  709.0  1.3e-213 pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]
+* Pn4.2496            K19363   25.87   62.2   7.8e-18 lipopolysaccharide-induced tumor necrosis factor-alpha factor
+* Pn4.2495            K20856  677.57  686.7  4.3e-207 beta-1,6-galactosyltransferase [EC:2.4.1.-]
+* Pn4.2495            K20855  643.37  681.7  3.3e-205 beta-1,3-galactosyltransferase 1/2/3/4/5/7/8 [EC:2.4.1.-]
+* Pn4.2491            K02078   40.00   79.2   2.1e-22 acyl carrier protein
+* Pn4.2486            K16297  480.00  625.6  3.5e-188 serine carboxypeptidase-like clade II [EC:3.4.16.-]
+* Pn4.2480            K03165  631.07  953.6  4.7e-287 DNA topoisomerase III [EC:5.6.2.1]
+* Pn4.2479            K09602  289.60  383.5  6.9e-115 ubiquitin thioesterase protein OTUB1 [EC:3.4.19.12]
+* Pn4.2476            K00616  143.43  254.2   1.3e-75 transaldolase [EC:2.2.1.2]
+* Pn4.2467            K03142  137.77  576.7  1.4e-173 transcription initiation factor TFIIH subunit 2
+* Pn4.2463            K03177  198.00  366.2  1.3e-109 tRNA pseudouridine55 synthase [EC:5.4.99.25]
+* Pn4.2460            K11364   56.87  201.8   1.1e-59 SAGA-associated factor 29
+* Pn4.2447            K01792   73.17  278.7   3.3e-83 glucose-6-phosphate 1-epimerase [EC:5.1.3.15]
+* Pn4.2414            K07901  394.90  437.5  1.1e-131 Ras-related protein Rab-8A
+* Pn4.2414            K18158  277.97  301.7   5.5e-90 nuclear control of ATPase protein 2
+* Pn4.2387            K05765   78.07  244.5   3.3e-73 cofilin
+* Pn4.2385            K05391  229.50  963.0  7.2e-290 cyclic nucleotide gated channel, plant
+* Pn4.2351            K09422  126.07  196.2   4.2e-58 transcription factor MYB, plant
+* Pn4.2349            K14558  181.83  259.2     3e-77 periodic tryptophan protein 2
+* Pn4.2345            K14558  181.83  700.1    2e-210 periodic tryptophan protein 2
+* Pn4.2343            K14558  181.83 1203.7         0 periodic tryptophan protein 2
+* Pn4.2341            K20628  126.20  213.2     3e-63 expansin
+* Pn4.2340            K01147  390.27  747.2  1.2e-224 exoribonuclease II [EC:3.1.13.1]
+* Pn4.2336            K19225  123.63  157.7     2e-46 rhomboid protease GluP [EC:3.4.21.105]
+* Pn4.2334            K20888  177.40  345.6  1.7e-103 xyloglucan galactosyltransferase MUR3 [EC:2.4.1.-]
+* Pn4.2333            K20888  177.40  247.0   1.2e-73 xyloglucan galactosyltransferase MUR3 [EC:2.4.1.-]
+* Pn4.2330            K01807   49.57  203.6   2.1e-60 ribose 5-phosphate isomerase A [EC:5.3.1.6]
+* Pn4.2327            K03364  550.97  699.8  1.1e-210 cell division cycle 20-like protein 1, cofactor of APC complex
+* Pn4.2324            K01164  144.60  469.8  8.1e-141 ribonuclease P/MRP protein subunit POP1 [EC:3.1.26.5]
+* Pn4.2321            K05909  434.30  969.9    5e-292 laccase [EC:1.10.3.2]

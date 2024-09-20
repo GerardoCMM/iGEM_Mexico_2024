@@ -1,0 +1,58 @@
+% allow for editing Chemfig 
+\catcode`\_=11
+
+% Initial arguments:
+% #1, #2: Same as for -U> (above arrow)
+% #3: Additional label at midpoint (also above arrow)
+% #4, #5, #6: Like #1, #2, and #3, but below arrow
+% #7: Optional shift, default 0
+% #8: Optional arrow radius
+% #9: Optional arrow angle   
+\definearrow9{-X>}{%
+	\CF_arrowshiftnodes{#7}%
+	\expandafter\draw\expandafter[\CF_arrowcurrentstyle](\CF_arrowstartnode)--(\CF_arrowendnode)node[midway](Xarrowarctangent){};%
+	\CF_ifempty{#8}
+	{\def\CF_Xarrowradius{0.333}}
+	{\def\CF_Xarrowradius{#8}}%
+	\CF_ifempty{#9}%
+	{\def\CF_Xarrowabsangle{60}}
+	{\pgfmathsetmacro\CF_Xarrowabsangle{abs(#9)}}
+	% Draw top arrow (start)
+	\edef\CF_tmpstr{[\CF_ifempty{#1}{draw=none}{\unexpanded\expandafter{\CF_arrowcurrentstyle}},-]}%
+	\expandafter\draw\CF_tmpstr (Xarrowarctangent)%
+	arc[radius=\CF_compoundsep*\CF_currentarrowlength*\CF_Xarrowradius,start angle=\CF_arrowcurrentangle-90,delta angle=-\CF_Xarrowabsangle]node(Xarrow1start){};
+	% Draw bottom arrow (end)
+	\edef\CF_tmpstr{[\CF_ifempty{#2}{draw=none}{\unexpanded\expandafter{\CF_arrowcurrentstyle}},-CF]}%
+	\expandafter\draw\CF_tmpstr (Xarrowarctangent)%
+	arc[radius=\CF_compoundsep*\CF_currentarrowlength*\CF_Xarrowradius,%
+	start angle=\CF_arrowcurrentangle-90,%
+	delta angle=\CF_Xarrowabsangle]%
+	node(Xarrow1end){};
+	% Draw bottom arrow (start)
+	\edef\CF_tmpstr{[\CF_ifempty{#4}{draw=none}{\unexpanded\expandafter{\CF_arrowcurrentstyle}},-]}%
+	\expandafter\draw\CF_tmpstr (Xarrowarctangent)%
+	arc[radius=\CF_compoundsep*\CF_currentarrowlength*\CF_Xarrowradius,start angle=\CF_arrowcurrentangle+90,delta angle=\CF_Xarrowabsangle]node(Xarrow2start){};
+	% Draw bottom arrow (end)
+	\edef\CF_tmpstr{[\CF_ifempty{#5}{draw=none}{\unexpanded\expandafter{\CF_arrowcurrentstyle}},-CF]}%
+	\expandafter\draw\CF_tmpstr (Xarrowarctangent)%
+	arc[radius=\CF_compoundsep*\CF_currentarrowlength*\CF_Xarrowradius,%
+	start angle=\CF_arrowcurrentangle+90,%
+	delta angle=-\CF_Xarrowabsangle]%
+	node(Xarrow2end){};
+	% Insert labels
+	\pgfmathsetmacro\CF_tmpstra{\CF_Xarrowradius*cos(\CF_arrowcurrentangle)<0?"-":"+"}%
+	\pgfmathsetmacro\CF_tmpstrb{\CF_Xarrowradius*cos(\CF_arrowcurrentangle)<0?"+":"-"}%
+	\ifdim\CF_Xarrowradius pt>0 pt
+	\CF_arrowdisplaylabel{#1}{0}\CF_tmpstra{Xarrow1start}{#2}{1}\CF_tmpstra{Xarrow1end}%
+	\CF_arrowdisplaylabel{#4}{0}\CF_tmpstrb{Xarrow2start}{#5}{1}\CF_tmpstrb{Xarrow2end}%
+	\CF_arrowdisplaylabel{#3}{0.5}\CF_tmpstra\CF_arrowstartnode{}{}{}\CF_arrowendnode%
+	\CF_arrowdisplaylabel{#6}{0.5}\CF_tmpstrb\CF_arrowstartnode{}{}{}\CF_arrowendnode%
+	\else
+	\CF_arrowdisplaylabel{#2}{0}\CF_tmpstra{Xarrow1start}{#1}{1}\CF_tmpstra{Xarrow1end}%
+	\CF_arrowdisplaylabel{#5}{0}\CF_tmpstrb{Xarrow2start}{#4}{1}\CF_tmpstrb{Xarrow2end}%
+	\CF_arrowdisplaylabel{#3}{0.5}\CF_tmpstra\CF_arrowstartnode{}{}{}\CF_arrowendnode%
+	\CF_arrowdisplaylabel{#6}{0.5}\CF_tmpstrb\CF_arrowstartnode{}{}{}\CF_arrowendnode%
+	\fi
+}
+% stop editting chemfig
+\catcode`\_=8

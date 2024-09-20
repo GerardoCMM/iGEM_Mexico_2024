@@ -1,0 +1,8 @@
+receptor = model_minimized.pdbqt
+ligand = meth_amp_minimized.pdbqt
+center_x = -16.305
+center_y = 0.614
+center_z = -7.426
+size_x = 26.25
+size_y = 21.0
+size_z = 30.0

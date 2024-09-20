@@ -1,0 +1,12 @@
+## File modified from original output of "python crate.py" in order to change the appearance of the name tags
+Pn8	2795111	2799059	Pn8.2617 label_size=30,label_font=bold
+Pn23	6607124	6610922	Pn2.84 label_size=30,label_font=bold
+Pn1	11691172	11693637	Pn1.1317 label_size=30,label_font=bold
+Pn6	31113612	31116200	Pn7.1626 label_size=30,label_font=bold
+Pn3	27640371	27643443	Pn16.1198 label_size=30,label_font=bold
+Pn24	2489537	2494938	Pn4.3222 label_size=30,label_font=bold
+Pn13	10967537	10971663	Pn2.2377 label_size=30,label_font=bold
+Pn2	7959173	7960555	Pn6.2477 label_size=30,label_font=bold
+Pn9	13867014	13871493	Pn3.4770
+Pn3	27963279	27973647	Pn16.1237
+Pn11	1929094	1930479	Pn12.1813

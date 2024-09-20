@@ -1,0 +1,8 @@
+receptor = best.pdbqt
+ligand = ferulic_minimized.pdbqt
+center_x = 9.888
+center_y = 3.205
+center_z = -3.825
+size_x = 16.5
+size_y = 15.75
+size_z = 18.75

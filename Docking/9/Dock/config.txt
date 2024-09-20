@@ -1,0 +1,8 @@
+receptor = model_minimized.pdbqt
+ligand = amino_phos_minimized.pdbqt
+center_x = -18.047
+center_y = 44.003
+center_z = -5.771
+size_x = 25.5
+size_y = 31.5
+size_z = 27.0

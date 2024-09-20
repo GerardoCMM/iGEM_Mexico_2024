@@ -1,0 +1,414 @@
+MODEL 1
+REMARK VINA RESULT:    -7.593      0.000      0.000
+REMARK INTER + INTRA:          -9.299
+REMARK INTER:                  -9.139
+REMARK INTRA:                  -0.160
+REMARK UNBOUND:                -0.152
+REMARK  Name = caffeic_minimized.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_8
+REMARK    2  A    between atoms: O_2  and  C_9
+REMARK    3  A    between atoms: O_3  and  C_13
+REMARK    4  A    between atoms: C_5  and  C_11
+REMARK    5  A    between atoms: C_12  and  C_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       5.034  23.912 -15.154  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1       5.852  25.050 -15.110  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       4.141  23.674 -14.098  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       5.752  25.943 -14.040  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       4.849  25.704 -13.006  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       4.043  24.569 -13.028  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  O   UNL     1       6.544  27.056 -13.992  0.00  0.00    +0.000 OA
+ATOM      8  H   UNL     1       7.126  27.002 -13.219  0.00  0.00    +0.000 HD
+ENDBRANCH   4   7
+BRANCH   5   9
+ATOM      9  O   UNL     1       4.767  26.590 -11.968  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1       4.494  26.117 -11.168  0.00  0.00    +0.000 HD
+ENDBRANCH   5   9
+BRANCH   1  11
+ATOM     11  C   UNL     1       5.117  22.928 -16.241  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1       4.916  21.611 -16.076  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     13  O   UNL     1       4.896  19.501 -17.242  0.00  0.00    +0.000 OA
+ATOM     14  C   UNL     1       5.040  20.708 -17.227  0.00  0.00    +0.000 C 
+BRANCH  14  15
+ATOM     15  O   UNL     1       5.350  21.409 -18.329  0.00  0.00    +0.000 OA
+ATOM     16  H   UNL     1       4.484  21.745 -18.644  0.00  0.00    +0.000 HD
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -7.298      0.769      1.874
+REMARK INTER + INTRA:          -8.943
+REMARK INTER:                  -8.806
+REMARK INTRA:                  -0.137
+REMARK UNBOUND:                -0.152
+REMARK  Name = caffeic_minimized.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_8
+REMARK    2  A    between atoms: O_2  and  C_9
+REMARK    3  A    between atoms: O_3  and  C_13
+REMARK    4  A    between atoms: C_5  and  C_11
+REMARK    5  A    between atoms: C_12  and  C_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       4.933  23.811 -15.115  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1       3.901  23.771 -14.166  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       5.902  24.822 -15.025  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       3.863  24.710 -13.134  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       4.842  25.699 -13.045  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       5.862  25.761 -13.990  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  O   UNL     1       2.863  24.674 -12.203  0.00  0.00    +0.000 OA
+ATOM      8  H   UNL     1       2.445  23.800 -12.215  0.00  0.00    +0.000 HD
+ENDBRANCH   4   7
+BRANCH   5   9
+ATOM      9  O   UNL     1       4.787  26.608 -12.026  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1       4.538  26.153 -11.208  0.00  0.00    +0.000 HD
+ENDBRANCH   5   9
+BRANCH   1  11
+ATOM     11  C   UNL     1       5.005  22.865 -16.237  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1       4.956  21.532 -16.095  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     13  O   UNL     1       4.990  19.459 -17.327  0.00  0.00    +0.000 OA
+ATOM     14  C   UNL     1       5.053  20.672 -17.282  0.00  0.00    +0.000 C 
+BRANCH  14  15
+ATOM     15  O   UNL     1       5.233  21.423 -18.380  0.00  0.00    +0.000 OA
+ATOM     16  H   UNL     1       4.535  21.112 -18.993  0.00  0.00    +0.000 HD
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -6.795      1.031      5.968
+REMARK INTER + INTRA:          -8.338
+REMARK INTER:                  -8.183
+REMARK INTRA:                  -0.155
+REMARK UNBOUND:                -0.152
+REMARK  Name = caffeic_minimized.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_8
+REMARK    2  A    between atoms: O_2  and  C_9
+REMARK    3  A    between atoms: O_3  and  C_13
+REMARK    4  A    between atoms: C_5  and  C_11
+REMARK    5  A    between atoms: C_12  and  C_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       5.055  23.460 -15.543  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1       4.878  22.077 -15.398  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       5.216  23.995 -16.830  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       4.835  21.255 -16.527  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       4.978  21.801 -17.801  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       5.172  23.170 -17.958  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  O   UNL     1       4.658  19.907 -16.394  0.00  0.00    +0.000 OA
+ATOM      8  H   UNL     1       5.524  19.472 -16.360  0.00  0.00    +0.000 HD
+ENDBRANCH   4   7
+BRANCH   5   9
+ATOM      9  O   UNL     1       4.932  20.980 -18.893  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1       5.830  20.862 -19.239  0.00  0.00    +0.000 HD
+ENDBRANCH   5   9
+BRANCH   1  11
+ATOM     11  C   UNL     1       5.136  24.366 -14.389  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1       5.946  25.434 -14.330  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     13  O   UNL     1       6.919  26.820 -12.614  0.00  0.00    +0.000 OA
+ATOM     14  C   UNL     1       5.963  26.267 -13.121  0.00  0.00    +0.000 C 
+BRANCH  14  15
+ATOM     15  O   UNL     1       4.727  26.353 -12.606  0.00  0.00    +0.000 OA
+ATOM     16  H   UNL     1       4.347  25.462 -12.758  0.00  0.00    +0.000 HD
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -6.067      1.058      5.939
+REMARK INTER + INTRA:          -7.460
+REMARK INTER:                  -7.307
+REMARK INTRA:                  -0.153
+REMARK UNBOUND:                -0.152
+REMARK  Name = caffeic_minimized.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_8
+REMARK    2  A    between atoms: O_2  and  C_9
+REMARK    3  A    between atoms: O_3  and  C_13
+REMARK    4  A    between atoms: C_5  and  C_11
+REMARK    5  A    between atoms: C_12  and  C_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       5.292  23.021 -16.401  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1       5.161  22.836 -17.785  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       5.207  21.907 -15.554  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       4.976  21.553 -18.304  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       4.911  20.451 -17.453  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       5.022  20.623 -16.076  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  O   UNL     1       4.851  21.364 -19.652  0.00  0.00    +0.000 OA
+ATOM      8  H   UNL     1       4.069  20.818 -19.828  0.00  0.00    +0.000 HD
+ENDBRANCH   4   7
+BRANCH   5   9
+ATOM      9  O   UNL     1       4.730  19.204 -17.981  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1       5.313  19.097 -18.748  0.00  0.00    +0.000 HD
+ENDBRANCH   5   9
+BRANCH   1  11
+ATOM     11  C   UNL     1       5.460  24.351 -15.801  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1       5.420  24.587 -14.480  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     13  O   UNL     1       6.380  26.796 -14.361  0.00  0.00    +0.000 OA
+ATOM     14  C   UNL     1       5.583  25.959 -13.983  0.00  0.00    +0.000 C 
+BRANCH  14  15
+ATOM     15  O   UNL     1       4.700  26.200 -13.002  0.00  0.00    +0.000 OA
+ATOM     16  H   UNL     1       4.368  25.310 -12.762  0.00  0.00    +0.000 HD
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -5.836      1.535      5.852
+REMARK INTER + INTRA:          -7.183
+REMARK INTER:                  -7.047
+REMARK INTRA:                  -0.136
+REMARK UNBOUND:                -0.152
+REMARK  Name = caffeic_minimized.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_8
+REMARK    2  A    between atoms: O_2  and  C_9
+REMARK    3  A    between atoms: O_3  and  C_13
+REMARK    4  A    between atoms: C_5  and  C_11
+REMARK    5  A    between atoms: C_12  and  C_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       4.669  23.268 -15.407  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1       4.571  21.871 -15.493  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       5.060  23.993 -16.542  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       4.833  21.224 -16.702  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       5.205  21.958 -17.827  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       5.323  23.343 -17.752  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  O   UNL     1       4.735  19.864 -16.794  0.00  0.00    +0.000 OA
+ATOM      8  H   UNL     1       5.382  19.539 -17.439  0.00  0.00    +0.000 HD
+ENDBRANCH   4   7
+BRANCH   5   9
+ATOM      9  O   UNL     1       5.457  21.306 -19.001  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1       5.932  20.482 -18.811  0.00  0.00    +0.000 HD
+ENDBRANCH   5   9
+BRANCH   1  11
+ATOM     11  C   UNL     1       4.431  23.996 -14.154  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1       3.233  24.084 -13.555  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     13  O   UNL     1       2.262  24.712 -11.440  0.00  0.00    +0.000 OA
+ATOM     14  C   UNL     1       3.098  24.852 -12.311  0.00  0.00    +0.000 C 
+BRANCH  14  15
+ATOM     15  O   UNL     1       4.061  25.783 -12.239  0.00  0.00    +0.000 OA
+ATOM     16  H   UNL     1       4.866  25.311 -12.540  0.00  0.00    +0.000 HD
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -5.691      2.752      5.559
+REMARK INTER + INTRA:          -7.008
+REMARK INTER:                  -6.879
+REMARK INTRA:                  -0.128
+REMARK UNBOUND:                -0.152
+REMARK  Name = caffeic_minimized.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_8
+REMARK    2  A    between atoms: O_2  and  C_9
+REMARK    3  A    between atoms: O_3  and  C_13
+REMARK    4  A    between atoms: C_5  and  C_11
+REMARK    5  A    between atoms: C_12  and  C_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       3.589  23.871 -13.090  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1       4.488  24.946 -13.168  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       3.461  23.011 -14.190  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       5.259  25.131 -14.317  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       5.134  24.259 -15.397  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       4.235  23.199 -15.340  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  O   UNL     1       6.139  26.174 -14.398  0.00  0.00    +0.000 OA
+ATOM      8  H   UNL     1       5.888  26.749 -15.137  0.00  0.00    +0.000 HD
+ENDBRANCH   4   7
+BRANCH   5   9
+ATOM      9  O   UNL     1       5.899  24.458 -16.512  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1       6.206  23.600 -16.844  0.00  0.00    +0.000 HD
+ENDBRANCH   5   9
+BRANCH   1  11
+ATOM     11  C   UNL     1       2.735  23.646 -11.917  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1       2.334  24.620 -11.085  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     13  O   UNL     1       1.767  23.552  -8.999  0.00  0.00    +0.000 OA
+ATOM     14  C   UNL     1       1.493  24.286  -9.928  0.00  0.00    +0.000 C 
+BRANCH  14  15
+ATOM     15  O   UNL     1       0.313  24.919 -10.020  0.00  0.00    +0.000 OA
+ATOM     16  H   UNL     1       0.558  25.832 -10.281  0.00  0.00    +0.000 HD
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -5.648      1.486      2.247
+REMARK INTER + INTRA:          -6.956
+REMARK INTER:                  -6.816
+REMARK INTRA:                  -0.139
+REMARK UNBOUND:                -0.152
+REMARK  Name = caffeic_minimized.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_8
+REMARK    2  A    between atoms: O_2  and  C_9
+REMARK    3  A    between atoms: O_3  and  C_13
+REMARK    4  A    between atoms: C_5  and  C_11
+REMARK    5  A    between atoms: C_12  and  C_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       3.496  23.458 -13.697  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1       4.278  24.598 -13.464  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       2.448  23.158 -12.814  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       3.993  25.432 -12.381  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       2.938  25.133 -11.520  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       2.165  23.996 -11.730  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  O   UNL     1       4.748  26.547 -12.150  0.00  0.00    +0.000 OA
+ATOM      8  H   UNL     1       5.380  26.663 -12.876  0.00  0.00    +0.000 HD
+ENDBRANCH   4   7
+BRANCH   5   9
+ATOM      9  O   UNL     1       2.675  25.963 -10.467  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1       2.002  25.555  -9.902  0.00  0.00    +0.000 HD
+ENDBRANCH   5   9
+BRANCH   1  11
+ATOM     11  C   UNL     1       3.769  22.532 -14.805  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1       4.594  22.810 -15.827  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     13  O   UNL     1       5.239  22.006 -18.006  0.00  0.00    +0.000 OA
+ATOM     14  C   UNL     1       4.786  21.819 -16.894  0.00  0.00    +0.000 C 
+BRANCH  14  15
+ATOM     15  O   UNL     1       4.378  20.611 -16.478  0.00  0.00    +0.000 OA
+ATOM     16  H   UNL     1       3.522  20.792 -16.036  0.00  0.00    +0.000 HD
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -5.393      2.771      5.849
+REMARK INTER + INTRA:          -6.649
+REMARK INTER:                  -6.522
+REMARK INTRA:                  -0.127
+REMARK UNBOUND:                -0.152
+REMARK  Name = caffeic_minimized.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_8
+REMARK    2  A    between atoms: O_2  and  C_9
+REMARK    3  A    between atoms: O_3  and  C_13
+REMARK    4  A    between atoms: C_5  and  C_11
+REMARK    5  A    between atoms: C_12  and  C_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       3.873  24.498 -12.931  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1       3.587  23.481 -13.854  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       4.864  25.440 -13.242  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       4.266  23.433 -15.074  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       5.237  24.385 -15.378  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       5.542  25.389 -14.465  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  O   UNL     1       3.990  22.447 -15.979  0.00  0.00    +0.000 OA
+ATOM      8  H   UNL     1       3.365  21.817 -15.588  0.00  0.00    +0.000 HD
+ENDBRANCH   4   7
+BRANCH   5   9
+ATOM      9  O   UNL     1       5.889  24.320 -16.577  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1       5.615  23.516 -17.044  0.00  0.00    +0.000 HD
+ENDBRANCH   5   9
+BRANCH   1  11
+ATOM     11  C   UNL     1       3.209  24.580 -11.624  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1       1.996  24.066 -11.366  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     13  O   UNL     1       1.741  23.643  -9.006  0.00  0.00    +0.000 OA
+ATOM     14  C   UNL     1       1.414  24.217 -10.027  0.00  0.00    +0.000 C 
+BRANCH  14  15
+ATOM     15  O   UNL     1       0.416  25.114 -10.058  0.00  0.00    +0.000 OA
+ATOM     16  H   UNL     1      -0.369  24.601  -9.774  0.00  0.00    +0.000 HD
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -5.108      2.059      5.533
+REMARK INTER + INTRA:          -6.305
+REMARK INTER:                  -6.153
+REMARK INTRA:                  -0.152
+REMARK UNBOUND:                -0.152
+REMARK  Name = caffeic_minimized.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_8
+REMARK    2  A    between atoms: O_2  and  C_9
+REMARK    3  A    between atoms: O_3  and  C_13
+REMARK    4  A    between atoms: C_5  and  C_11
+REMARK    5  A    between atoms: C_12  and  C_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       4.183  23.377 -14.932  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1       4.820  24.070 -15.971  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       3.936  22.005 -15.079  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       5.225  23.388 -17.121  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       4.989  22.020 -17.248  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       4.342  21.324 -16.232  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  O   UNL     1       5.850  24.056 -18.136  0.00  0.00    +0.000 OA
+ATOM      8  H   UNL     1       5.280  24.054 -18.921  0.00  0.00    +0.000 HD
+ENDBRANCH   4   7
+BRANCH   5   9
+ATOM      9  O   UNL     1       5.393  21.372 -18.382  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1       6.258  21.716 -18.653  0.00  0.00    +0.000 HD
+ENDBRANCH   5   9
+BRANCH   1  11
+ATOM     11  C   UNL     1       3.712  24.050 -13.713  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1       2.746  23.567 -12.917  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     13  O   UNL     1       2.833  25.349 -11.295  0.00  0.00    +0.000 OA
+ATOM     14  C   UNL     1       2.338  24.328 -11.729  0.00  0.00    +0.000 C 
+BRANCH  14  15
+ATOM     15  O   UNL     1       1.291  23.730 -11.138  0.00  0.00    +0.000 OA
+ATOM     16  H   UNL     1       0.515  24.095 -11.613  0.00  0.00    +0.000 HD
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL

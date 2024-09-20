@@ -1,0 +1,8 @@
+receptor = best.pdbqt
+ligand = cinnamic_minimized.pdbqt
+center_x = -64.391
+center_y = 12.241
+center_z = 28.908
+size_x = 15.0
+size_y = 18.0
+size_z = 17.25

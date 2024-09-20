@@ -1,0 +1,305 @@
+\begin{thebibliography}{}
+
+\bibitem[Altschul et~al., 1997]{blastp}
+Altschul, S.~F., Madden, T.~L., Sch{\"a}ffer, A.~A., Zhang, J., Zhang, Z.,
+  Miller, W., and Lipman, D.~J. (1997).
+\newblock Gapped blast and psi-blast: a new generation of protein database
+  search programs.
+\newblock {\em Nucleic acids research}, 25(17):3389--3402.
+
+\bibitem[Altschul et~al., 2005]{blastp_2}
+Altschul, S.~F., Wootton, J.~C., Gertz, E.~M., Agarwala, R., Morgulis, A.,
+  Sch{\"a}ffer, A.~A., and Yu, Y.-K. (2005).
+\newblock Protein database searches using compositionally adjusted substitution
+  matrices.
+\newblock {\em The FEBS journal}, 272(20):5101--5109.
+
+\bibitem[Anders et~al., 2012]{dexseq}
+Anders, S., Reyes, A., and Huber, W. (2012).
+\newblock Detecting differential usage of exons from rna-seq data.
+\newblock {\em Nature Precedings}, pages 1--1.
+
+\bibitem[Aramaki et~al., 2020]{kofamkoala}
+Aramaki, T., Blanc-Mathieu, R., Endo, H., Ohkubo, K., Kanehisa, M., Goto, S.,
+  and Ogata, H. (2020).
+\newblock Kofamkoala: Kegg ortholog assignment based on profile hmm and
+  adaptive score threshold.
+\newblock {\em Bioinformatics}, 36(7):2251--2252.
+
+\bibitem[Bertoni et~al., 2017]{quaternary_swiss}
+Bertoni, M., Kiefer, F., Biasini, M., Bordoli, L., and Schwede, T. (2017).
+\newblock Modeling protein quaternary structure of homo-and hetero-oligomers
+  beyond binary interactions by homology.
+\newblock {\em Scientific reports}, 7(1):1--15.
+
+\bibitem[Community, 2022]{galaxy}
+Community, T.~G. (2022).
+\newblock The galaxy platform for accessible, reproducible and collaborative
+  biomedical analyses: 2022 update.
+\newblock {\em Nucleic Acids Research}, 50(W1):W345.
+
+\bibitem[Dobin et~al., 2013]{star}
+Dobin, A., Davis, C.~A., Schlesinger, F., Drenkow, J., Zaleski, C., Jha, S.,
+  Batut, P., Chaisson, M., and Gingeras, T.~R. (2013).
+\newblock Star: ultrafast universal rna-seq aligner.
+\newblock {\em Bioinformatics}, 29(1):15--21.
+
+\bibitem[Eberhardt et~al., 2021]{vina}
+Eberhardt, J., Santos-Martins, D., Tillack, A.~F., and Forli, S. (2021).
+\newblock Autodock vina 1.2. 0: New docking methods, expanded force field, and
+  python bindings.
+\newblock {\em Journal of Chemical Information and Modeling}, 61(8):3891--3898.
+
+\bibitem[Edgar, 2004]{muscle}
+Edgar, R.~C. (2004).
+\newblock Muscle: multiple sequence alignment with high accuracy and high
+  throughput.
+\newblock {\em Nucleic acids research}, 32(5):1792--1797.
+
+\bibitem[Gentleman et~al., 2004]{bioconductor}
+Gentleman, R.~C., Carey, V.~J., Bates, D.~M., Bolstad, B., Dettling, M.,
+  Dudoit, S., Ellis, B., Gautier, L., Ge, Y., Gentry, J., et~al. (2004).
+\newblock Bioconductor: open software development for computational biology and
+  bioinformatics.
+\newblock {\em Genome biology}, 5(10):1--16.
+
+\bibitem[Goddard et~al., 2018]{chimera_2}
+Goddard, T.~D., Huang, C.~C., Meng, E.~C., Pettersen, E.~F., Couch, G.~S.,
+  Morris, J.~H., and Ferrin, T.~E. (2018).
+\newblock Ucsf chimerax: Meeting modern challenges in visualization and
+  analysis.
+\newblock {\em Protein Science}, 27(1):14--25.
+
+\bibitem[Goto et~al., 2005]{goto2005crystal}
+Goto, M., Muramatsu, H., Mihara, H., Kurihara, T., Esaki, N., Omi, R.,
+  Miyahara, I., and Hirotsu, K. (2005).
+\newblock Crystal structures of
+  $\delta$1-piperideine-2-carboxylate/$\delta$1-pyrroline-2-carboxylate
+  reductase belonging to a new family of nad (p) h-dependent oxidoreductases:
+  conformational change, substrate recognition, and stereochemistry of the
+  reaction.
+\newblock {\em Journal of Biological Chemistry}, 280(49):40875--40884.
+
+\bibitem[Gough et~al., 2001]{gough2001assignment}
+Gough, J., Karplus, K., Hughey, R., and Chothia, C. (2001).
+\newblock Assignment of homology to genome sequences using a library of hidden
+  markov models that represent all proteins of known structure.
+\newblock {\em Journal of molecular biology}, 313(4):903--919.
+
+\bibitem[Hu et~al., 2019]{genome}
+Hu, L., Xu, Z., Wang, M., Fan, R., Yuan, D., Wu, B., Wu, H., Qin, X., Yan, L.,
+  Tan, L., et~al. (2019).
+\newblock The chromosome-scale reference genome of black pepper provides
+  insight into piperine biosynthesis.
+\newblock {\em Nature communications}, 10(1):1--11.
+
+\bibitem[Jakalian et~al., 2000]{am1_bcc}
+Jakalian, A., Bush, B.~L., Jack, D.~B., and Bayly, C.~I. (2000).
+\newblock Fast, efficient generation of high-quality atomic charges. am1-bcc
+  model: I. method.
+\newblock {\em Journal of computational chemistry}, 21(2):132--146.
+
+\bibitem[Jakalian et~al., 2002]{am1_bcc_2}
+Jakalian, A., Jack, D.~B., and Bayly, C.~I. (2002).
+\newblock Fast, efficient generation of high-quality atomic charges. am1-bcc
+  model: Ii. parameterization and validation.
+\newblock {\em Journal of computational chemistry}, 23(16):1623--1641.
+
+\bibitem[Jumper et~al., 2021]{alphafold}
+Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O.,
+  Tunyasuvunakool, K., Bates, R., {\v{Z}}{\'\i}dek, A., Potapenko, A., et~al.
+  (2021).
+\newblock Highly accurate protein structure prediction with alphafold.
+\newblock {\em Nature}, 596(7873):583--589.
+
+\bibitem[Kriv{\'a}k and Hoksza, 2018]{krivak2018p2rank}
+Kriv{\'a}k, R. and Hoksza, D. (2018).
+\newblock P2rank: machine learning based tool for rapid and accurate prediction
+  of ligand binding sites from protein structure.
+\newblock {\em Journal of cheminformatics}, 10(1):1--12.
+
+\bibitem[Landrum et~al., 2013]{rdkit}
+Landrum, G. et~al. (2013).
+\newblock Rdkit: A software suite for cheminformatics, computational chemistry,
+  and predictive modeling.
+\newblock {\em Greg Landrum}.
+
+\bibitem[Lu et~al., 2020]{cdd}
+Lu, S., Wang, J., Chitsaz, F., Derbyshire, M.~K., Geer, R.~C., Gonzales, N.~R.,
+  Gwadz, M., Hurwitz, D.~I., Marchler, G.~H., Song, J.~S., et~al. (2020).
+\newblock Cdd/sparcle: the conserved domain database in 2020.
+\newblock {\em Nucleic acids research}, 48(D1):D265--D268.
+
+\bibitem[Marchler-Bauer et~al., 2015]{cdd_2}
+Marchler-Bauer, A., Derbyshire, M.~K., Gonzales, N.~R., Lu, S., Chitsaz, F.,
+  Geer, L.~Y., Geer, R.~C., He, J., Gwadz, M., Hurwitz, D.~I., et~al. (2015).
+\newblock Cdd: Ncbi's conserved domain database.
+\newblock {\em Nucleic acids research}, 43(D1):D222--D226.
+
+\bibitem[Mariani et~al., 2013]{lddt}
+Mariani, V., Biasini, M., Barbato, A., and Schwede, T. (2013).
+\newblock lddt: a local superposition-free score for comparing protein
+  structures and models using distance difference tests.
+\newblock {\em Bioinformatics}, 29(21):2722--2728.
+
+\bibitem[Miller et~al., 2011]{cipres}
+Miller, M.~A., Pfeiffer, W., and Schwartz, T. (2011).
+\newblock The cipres science gateway: a community resource for phylogenetic
+  analyses.
+\newblock In {\em Proceedings of the 2011 TeraGrid Conference: extreme digital
+  discovery}, pages 1--8.
+
+\bibitem[Mills and Dean, 1996]{hbond}
+Mills, J. and Dean, P.~M. (1996).
+\newblock Three-dimensional hydrogen-bond geometry and probability information
+  from a crystal survey.
+\newblock {\em Journal of computer-aided molecular design}, 10(6):607--622.
+
+\bibitem[Mirdita et~al., 2022]{colabfold}
+Mirdita, M., Sch{\"u}tze, K., Moriwaki, Y., Heo, L., Ovchinnikov, S., and
+  Steinegger, M. (2022).
+\newblock Colabfold: making protein folding accessible to all.
+\newblock {\em Nature Methods}, pages 1--4.
+
+\bibitem[Morris et~al., 2009]{adt}
+Morris, G.~M., Huey, R., Lindstrom, W., Sanner, M.~F., Belew, R.~K., Goodsell,
+  D.~S., and Olson, A.~J. (2009).
+\newblock Autodock4 and autodocktools4: Automated docking with selective
+  receptor flexibility.
+\newblock {\em Journal of computational chemistry}, 30(16):2785--2791.
+
+\bibitem[O'Boyle et~al., 2011]{obabel}
+O'Boyle, N.~M., Banck, M., James, C.~A., Morley, C., Vandermeersch, T., and
+  Hutchison, G.~R. (2011).
+\newblock Open babel: An open chemical toolbox.
+\newblock {\em Journal of cheminformatics}, 3(1):1--14.
+
+\bibitem[Pandurangan et~al., 2019]{pandurangan2019superfamily}
+Pandurangan, A.~P., Stahlhacke, J., Oates, M.~E., Smithers, B., and Gough, J.
+  (2019).
+\newblock The superfamily 2.0 database: a significant proteome update and a new
+  webserver.
+\newblock {\em Nucleic acids research}, 47(D1):D490--D494.
+
+\bibitem[Pettersen et~al., 2021]{chimera}
+Pettersen, E.~F., Goddard, T.~D., Huang, C.~C., Meng, E.~C., Couch, G.~S.,
+  Croll, T.~I., Morris, J.~H., and Ferrin, T.~E. (2021).
+\newblock Ucsf chimerax: Structure visualization for researchers, educators,
+  and developers.
+\newblock {\em Protein Science}, 30(1):70--82.
+
+\bibitem[Rambaut et~al., 2018]{tracer}
+Rambaut, A., Drummond, A.~J., Xie, D., Baele, G., and Suchard, M.~A. (2018).
+\newblock Posterior summarization in bayesian phylogenetics using tracer 1.7.
+\newblock {\em Systematic biology}, 67(5):901--904.
+
+\bibitem[Remmert et~al., 2012]{hhblits}
+Remmert, M., Biegert, A., Hauser, A., and S{\"o}ding, J. (2012).
+\newblock Hhblits: lightning-fast iterative protein sequence searching by
+  hmm-hmm alignment.
+\newblock {\em Nature methods}, 9(2):173--175.
+
+\bibitem[Reyes et~al., 2013]{dexseq_2}
+Reyes, A., Anders, S., Weatheritt, R.~J., Gibson, T.~J., Steinmetz, L.~M., and
+  Huber, W. (2013).
+\newblock Drift and conservation of differential exon usage across tissues in
+  primate species.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  110(38):15377--15382.
+
+\bibitem[Ronquist et~al., 2012]{mrbayes}
+Ronquist, F., Teslenko, M., Van Der~Mark, P., Ayres, D.~L., Darling, A.,
+  H{\"o}hna, S., Larget, B., Liu, L., Suchard, M.~A., and Huelsenbeck, J.~P.
+  (2012).
+\newblock Mrbayes 3.2: efficient bayesian phylogenetic inference and model
+  choice across a large model space.
+\newblock {\em Systematic biology}, 61(3):539--542.
+
+\bibitem[Schnabel et~al., 2021a]{pipsynthase}
+Schnabel, A., Athmer, B., Manke, K., Schumacher, F., Cotinguiba, F., and Vogt,
+  T. (2021a).
+\newblock Identification and characterization of piperine synthase from black
+  pepper, piper nigrum l.
+\newblock {\em Communications biology}, 4(1):1--10.
+
+\bibitem[Schnabel et~al., 2021b]{methylenedioxy}
+Schnabel, A., Cotinguiba, F., Athmer, B., and Vogt, T. (2021b).
+\newblock Piper nigrum cyp719a37 catalyzes the decisive methylenedioxy bridge
+  formation in piperine biosynthesis.
+\newblock {\em Plants}, 10(1):128.
+
+\bibitem[Schnabel et~al., 2020]{coaligase}
+Schnabel, A., Cotinguiba, F., Athmer, B., Yang, C., Westermann, B., Schaks, A.,
+  Porzel, A., Brandt, W., Schumacher, F., and Vogt, T. (2020).
+\newblock A piperic acid coa ligase produces a putative precursor of piperine,
+  the pungent principle from black pepper fruits.
+\newblock {\em The Plant Journal}, 102(3):569--581.
+
+\bibitem[Studer et~al., 2020]{qmeandisco_swiss}
+Studer, G., Rempfer, C., Waterhouse, A.~M., Gumienny, R., Haas, J., and
+  Schwede, T. (2020).
+\newblock Qmeandisco—distance constraints applied on model quality
+  estimation.
+\newblock {\em Bioinformatics}, 36(6):1765--1771.
+
+\bibitem[Tamura et~al., 2021]{mega11}
+Tamura, K., Stecher, G., and Kumar, S. (2021).
+\newblock Mega11: molecular evolutionary genetics analysis version 11.
+\newblock {\em Molecular biology and evolution}, 38(7):3022--3027.
+
+\bibitem[Tian et~al., 2018]{castp}
+Tian, W., Chen, C., Lei, X., Zhao, J., and Liang, J. (2018).
+\newblock Castp 3.0: computed atlas of surface topography of proteins.
+\newblock {\em Nucleic acids research}, 46(W1):W363--W367.
+
+\bibitem[Tosco et~al., 2014]{rdkit_mmff}
+Tosco, P., Stiefl, N., and Landrum, G. (2014).
+\newblock Bringing the mmff force field to the rdkit: implementation and
+  validation.
+\newblock {\em Journal of cheminformatics}, 6(1):1--4.
+
+\bibitem[Trott and Olson, 2010]{vina_2}
+Trott, O. and Olson, A.~J. (2010).
+\newblock Autodock vina: improving the speed and accuracy of docking with a new
+  scoring function, efficient optimization, and multithreading.
+\newblock {\em Journal of computational chemistry}, 31(2):455--461.
+
+\bibitem[Tsai et~al., 2008]{am1_bcc_3}
+Tsai, K.-C., Wang, S.-H., Hsiao, N.-W., Li, M., and Wang, B. (2008).
+\newblock The effect of different electrostatic potentials on docking accuracy:
+  a case study using dock5. 4.
+\newblock {\em Bioorganic \& medicinal chemistry letters}, 18(12):3509--3512.
+
+\bibitem[Vass et~al., 2012]{sequential}
+Vass, M., Tarcsay, {\'A}., and Keser{\H{u}}, G.~M. (2012).
+\newblock Multiple ligand docking by glide: implications for virtual
+  second-site screening.
+\newblock {\em Journal of computer-aided molecular design}, 26(7):821--834.
+
+\bibitem[Wall et~al., 2007]{wall2007planttribes}
+Wall, P.~K., Leebens-Mack, J., M{\"u}ller, K.~F., Field, D., Altman, N.~S., and
+  Depamphilis, C.~W. (2007).
+\newblock Planttribes: a gene and gene family resource for comparative genomics
+  in plants.
+\newblock {\em Nucleic acids research}, 36(suppl\_1):D970--D976.
+
+\bibitem[Waterhouse et~al., 2018]{swiss}
+Waterhouse, A., Bertoni, M., Bienert, S., Studer, G., Tauriello, G., Gumienny,
+  R., Heer, F.~T., de~Beer, T. A.~P., Rempfer, C., Bordoli, L., et~al. (2018).
+\newblock Swiss-model: homology modelling of protein structures and complexes.
+\newblock {\em Nucleic acids research}, 46(W1):W296--W303.
+
+\bibitem[Zhang et~al., 2020]{cinnamate_oxygenase}
+Zhang, B., Lewis, K.~M., Abril, A., Davydov, D.~R., Vermerris, W., Sattler,
+  S.~E., and Kang, C. (2020).
+\newblock Structure and function of the cytochrome p450 monooxygenase cinnamate
+  4-hydroxylase from sorghum bicolor.
+\newblock {\em Plant physiology}, 183(3):957--973.
+
+\bibitem[Zubieta et~al., 2002]{caff}
+Zubieta, C., Kota, P., Ferrer, J.-L., Dixon, R.~A., and Noel, J.~P. (2002).
+\newblock Structural basis for the modulation of lignin monomer methylation by
+  caffeic acid/5-hydroxyferulic acid 3/5-o-methyltransferase.
+\newblock {\em The Plant Cell}, 14(6):1265--1277.
+
+\end{thebibliography}

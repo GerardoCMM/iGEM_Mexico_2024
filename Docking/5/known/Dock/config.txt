@@ -1,0 +1,8 @@
+receptor = model_minimized.pdbqt
+ligand = porphyrin.pdbqt
+center_x = 5.861
+center_y = -4.764
+center_z = 1.136
+size_x = 24.0
+size_y = 21.75
+size_z = 24.0
