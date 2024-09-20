@@ -1,0 +1,9 @@
+# The Piper_nirgum.pep file was downloaded from the repository were The chromosome-scale reference genome of black pepper (Piper nigrum) is
+
+blastp -query QUS53100.fa -subject Piper_nigrum.pep -outfmt 6 -out QUS53100.tsv
+
+blastp -query QGY72664.fa -subject Piper_nigrum.pep -outfmt 6 -out QGY72664.tsv
+
+blastp -query QQS74306.fa -subject Piper_nigrum.pep -outfmt 6 -out QQS74306.tsv
+
+blastp -query QUS53101.fa -subject Piper_nigrum.pep -outfmt 6 -out QUS53101.tsv
